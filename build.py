@@ -49,9 +49,9 @@ def page(path, title, desc, body, ld=None, crumbs=None):
 def table(items, show_county=False):
     r = "".join(f'<tr><td>{fdate(i["sale_date"])}</td><td><a href="{i["url"]}">{E(i["address"] or "")}</a></td><td>{E(i["city"])}</td>'
                 + (f'<td>{E(i["county_name"])}</td>' if show_county else "") +
-                f'<td class="n">{usd(i["appraised_value"]) if i["appraised_value"] else usd(i.get("upset_amount"))}</td><td class="n">{usd(i["opening_bid"])}</td><td>{E((i.get("plaintiff") or "—")[:28])}</td></tr>' for i in items)
+                f'<td>{DCK.badge(i["grade"]) if i.get("grade") else ""}</td><td class="n">{usd(i["appraised_value"]) if i["appraised_value"] else usd(i.get("upset_amount"))}</td><td class="n">{usd(i["opening_bid"])}</td><td>{E((i.get("plaintiff") or "—")[:28])}</td></tr>' for i in items)
     return ('<div class="scroll"><table><thead><tr><th>Sale date</th><th>Address</th><th>City</th>' + ("<th>County</th>" if show_county else "") +
-            f'<th>Appraised / upset*</th><th>Min. bid</th><th>Lender</th></tr></thead><tbody>{r}</tbody></table></div>')
+            f'<th>Deal Check</th><th>Appraised / upset*</th><th>Min. bid</th><th>Lender</th></tr></thead><tbody>{r}</tbody></table></div>')
 REGION = {"ohio": {"montgomery":"Southwest","wood":"Northwest","allen":"Northwest","stark":"Northeast","lorain":"Northeast","medina":"Northeast","richland":"North Central",
    "portage":"Northeast","trumbull":"Northeast","mahoning":"Northeast","summit":"Northeast","clermont":"Southwest","clark":"Southwest"},
   "new-jersey": {"bergen":"North","essex":"North","hudson":"North","passaic":"North","morris":"North","union":"North","hunterdon":"Central","middlesex":"Central","monmouth":"Central","ocean":"Central",
@@ -89,6 +89,8 @@ def enrich_html(i, full):
             + (f' · record updated {E(e["data_date"])}' if e.get("data_date") else "") + '. ' + E(e.get("note") or "") + ' Always confirm with the county.</p></div></div>')
 
 import csv as _csv
+import dealcheck as DCK
+GRADES={}
 INFO = json.load(open(os.path.join(ROOT, "ref", "county_info.json")))
 LAW = {"ohio": [
   ("What is the minimum bid at an Ohio sheriff sale?", "For most foreclosure sales the property cannot sell for less than two-thirds of its court-ordered appraised value (Ohio Revised Code 2329.20). If it does not sell, it is typically offered again at a second sale with no minimum, as published for each property.", "https://codes.ohio.gov/ohio-revised-code/section-2329.20"),
@@ -158,7 +160,7 @@ def build_guides(st, urls):
              f"Where to find {cn} County, Ohio sheriff sales: official sheriff and auction site links, deposit and 2/3 minimum bid rules. DeedHound doesn't list this county yet.",
              body, [faq_ld(faq)], [("Home", "/"), (sn, f"/{st}/"), (f"{cn} County", u)]); urls.append(u); out.append((cn, u))
     return out
-SEEN = set(); DUPS = []; MERGED = []
+ALL = []; SEEN = set(); DUPS = []; MERGED = []
 def build_state(st, urls):
     sn, ab = STATES[st]; today = datetime.date.today().isoformat(); counties = []; allitems = []
     for f in sorted(glob.glob(os.path.join(ROOT, "data", st, "*.json"))):
@@ -176,7 +178,7 @@ def build_state(st, urls):
             while u in SEEN: u = f"{u0}-{k}"; k += 1
             SEEN.add(u); i["url"] = u + "/"
             if k > 2: DUPS.append((u0, i.get("case_number"), i.get("sale_date"), i.get("parcel_id")))
-        counties.append((cn, cs, d, items)); allitems += items
+        counties.append((cn, cs, d, items)); allitems += items; ALL.extend(items)
     if not counties: return None
     for cn, cs, d, items in counties:
         cities = {}
@@ -195,7 +197,8 @@ def build_state(st, urls):
             kv += [("Case number", E(i["case_number"])), ("Sheriff #", E(i.get("sheriff_number") or "—")), ("Parcel ID", E(i["parcel_id"] or "—")),
                   ("Plaintiff / lender", E(i["plaintiff"]) if i["plaintiff"] else '<span class="muted">Not on this county\'s published list — see the court docket</span>'), ("Plaintiff\'s attorney", E(i.get("attorney") or "—")),
                   ("Current status", E(i["status"])), ("Status history", hist_html(i))]
-            body = (f'<h1>{E(i["address"])}, {E(i["city"])}</h1><p class="muted">{cn} County, {sn} sheriff sale · Data as of {asof(i["as_of"])}</p>'
+            _e = ENR.get(i.get("auction_id") or f'{i.get("county")}|{i["case_number"]}|{i["address"]}'); g, why, info = DCK.grade(st, i, _e); i["grade"] = g; GRADES.setdefault(st, {}).setdefault(g, 0); GRADES[st][g] += 1
+            body = (f'<h1>{E(i["address"])}, {E(i["city"])} {DCK.badge(g)}</h1><p class="muted">{cn} County, {sn} sheriff sale · Data as of {asof(i["as_of"])}</p>' + DCK.summary(st, i, g, info, fdate) + DCK.bid_html(st, i, cn, bid, fdate, INFO.get(f"{st}/{slug(cn)}")) + DCK.deal_html(g, why) +
                     '<div class="card kv">' + "".join(f"<div><b>{k}</b></div><div>{v}</div>" for k, v in kv) + '</div>' + enrich_html(i, full) +
                     f'<p><a href="{E(i["source_url"])}" rel="nofollow">See this listing on the official {cn} County Sheriff list →</a>'
                     + (f'<br><a href="{bid}" rel="nofollow">Register / bid on the official {cn} County sale site →</a>' if st == "ohio" else "") + f'</p>{DISC}{NL}')
@@ -237,5 +240,5 @@ def main():
     open(os.path.join(OUT, "sitemap.xml"), "w").write('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
         "".join(f"<url><loc>{BASE}{u}</loc><lastmod>{today}</lastmod></url>" for u in urls) + "</urlset>")
     open(os.path.join(OUT, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n")
-    print(len(urls), "pages;", stats, "dup-slugs:", len(DUPS), "merged 2nd-sale rows:", len(MERGED)); [print(" ", x) for x in DUPS[:25]]
+    print("GRADES", json.dumps(GRADES)); json.dump(ALL, open(os.path.join(ROOT,'site_items.json'),'w'), default=str); print(len(urls), "pages;", stats, "dup-slugs:", len(DUPS), "merged 2nd-sale rows:", len(MERGED)); [print(" ", x) for x in DUPS[:25]]
 main()
