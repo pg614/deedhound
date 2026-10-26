@@ -197,7 +197,7 @@ def build_state(st, urls):
             kv += [("Case number", E(i["case_number"])), ("Sheriff #", E(i.get("sheriff_number") or "—")), ("Parcel ID", E(i["parcel_id"] or "—")),
                   ("Plaintiff / lender", E(i["plaintiff"]) if i["plaintiff"] else '<span class="muted">Not on this county\'s published list — see the court docket</span>'), ("Plaintiff\'s attorney", E(i.get("attorney") or "—")),
                   ("Current status", E(i["status"])), ("Status history", hist_html(i))]
-            _e = ENR.get(i.get("auction_id") or f'{i.get("county")}|{i["case_number"]}|{i["address"]}'); g, why, info = DCK.grade(st, i, _e); i["grade"] = g; GRADES.setdefault(st, {}).setdefault(g, 0); GRADES[st][g] += 1
+            _e = ENR.get(i.get("auction_id") or f'{i.get("county")}|{i["case_number"]}|{i["address"]}'); g, why, info = DCK.grade(st, i, _e); i["grade"] = g; i["dc"] = info; GRADES.setdefault(st, {}).setdefault(g, 0); GRADES[st][g] += 1
             body = (f'<h1>{E(i["address"])}, {E(i["city"])} {DCK.badge(g)}</h1><p class="muted">{cn} County, {sn} sheriff sale · Data as of {asof(i["as_of"])}</p>' + DCK.summary(st, i, g, info, fdate) + DCK.bid_html(st, i, cn, bid, fdate, INFO.get(f"{st}/{slug(cn)}")) + DCK.deal_html(g, why) +
                     '<div class="card kv">' + "".join(f"<div><b>{k}</b></div><div>{v}</div>" for k, v in kv) + '</div>' + enrich_html(i, full) +
                     f'<p><a href="{E(i["source_url"])}" rel="nofollow">See this listing on the official {cn} County Sheriff list →</a>'
@@ -224,15 +224,37 @@ def build_state(st, urls):
     grid = "".join(f'<a href="{cs}/"><b>{len(it)}</b>{cn} County<br><span class="muted">as of {asof(d["as_of"])}</span></a>' for cn, cs, d, it in sorted(counties, key=lambda x: -len(x[3])))
     body = (f'<h1>Upcoming {sn} sheriff sales</h1><p>Free list of foreclosure sheriff sales compiled from lists published by county sheriffs. '
             f'<span class="muted">{len(allitems)} upcoming sales in {len(counties)} counties · data as of {oldest} or later</span></p>{NL}'
-            f'<h2 id="counties">Counties</h2><div class="grid">{grid}</div><h2>Next 7 days</h2>'
+            + top_deals(st, 6) + f'<h2 id="counties">Counties</h2><div class="grid">{grid}</div><h2>Next 7 days</h2>'
             + table([i for i in allitems if i["sale_date"] <= (datetime.date.today() + datetime.timedelta(days=7)).isoformat()], True) + picks(st, allitems) + (('<h2>Counties we don\'t list yet</h2><p class="muted">Guides with official links and rules:</p><p>' + " · ".join(f'<a href="{u}">{E(n)}</a>' for n, u in guides) + '</p>') if guides else "") + DISC)
     page(f"{st}/index.html", f"{sn} Sheriff Sales – Upcoming Foreclosure Auctions | {BRAND['name']}", f"Free list of upcoming {sn} sheriff sales.", body, None, [("Home", "/"), (sn, f"/{st}/")])
     urls.append(f"/{st}/"); return (st, sn, len(allitems), len(counties), oldest)
+def top_deals(st, n):
+    sn = STATES[st][0]; t = datetime.date.today().isoformat()
+    c = sorted([i for i in ALL if i["url"].startswith(f"/{st}/") and i.get("grade") == "Strong" and i["sale_date"] >= t and i.get("address")], key=lambda i: i["dc"]["r"])[:n]
+    if not c: return f"<h2>Top Strong deals in {sn}</h2><p>No upcoming listings grade Strong right now.</p>"
+    lab = "Min. bid" if st == "ohio" else "Owed to lender"
+    li = "".join(f'<li class="card" style="list-style:none;font-size:20px"><a href="{i["url"]}"><b>{E(i["address"])}, {E(i["city"])}</b></a> {DCK.badge("Strong")}<br>{E(i["county_name"])} County · Sale {fdate(i["sale_date"])}<br>{lab} {usd(i["dc"]["price"])} vs. value {usd(i["dc"]["val"])} = <b>{i["dc"]["r"]:.0%}</b><br><span class="muted">Listing data as of {asof(i["as_of"])}</span></li>' for i in c)
+    return f'<h2>Top Strong deals in {sn} right now</h2><p class="muted">Upcoming sales only, lowest price-to-value first.</p><ul style="padding:0">{li}</ul><p><a href="/{st}/">See all {sn} sales →</a></p>'
+def home_hero():
+    return ('<div class="card" style="border-left:6px solid #1b7f3b;font-size:21px"><h1 style="margin-top:0">Deal Check: a quick Strong / Fair / Pass grade on every sheriff sale</h1>'
+            '<p>We compare the published opening bid (Ohio) or amount owed to the lender (New Jersey) with the official county or town value, and show you the math. '
+            'It is a simple first look at public numbers, not an appraisal and not financial advice, so always inspect and verify with the county.</p>'
+            '<p><a href="/deal-check/"><b>How Deal Check works →</b></a></p></div>' + top_deals("ohio", 6) + top_deals("new-jersey", 6))
+def how_page(urls):
+    c = DCK.DC
+    body = (f'<h1>How Deal Check works</h1><div class="card" style="font-size:20px"><p>Deal Check divides a price by an official value:</p><ul>'
+      f'<li><b>Ohio:</b> the published minimum/opening bid ÷ the county auditor market value (or, if we have not matched the auditor record, the sheriff\'s court-ordered appraisal). Ohio law (ORC 2329.20) usually sets the first-sale minimum at two-thirds of the appraisal, so many first sales grade Fair.</li>'
+      f'<li><b>New Jersey:</b> no opening bid is published, so we use the approximate amount owed to the lender (judgment/upset) ÷ the town\'s net assessed value from the state MOD-IV tax list. Towns assess at different ratios, so treat it as a rough guide.</li></ul>'
+      f'<p><b>Strong</b>: {c["strong_max_ratio"]:.0%} or less (Ohio) / {c["nj_strong_max_ratio"]:.0%} or less (NJ). <b>Fair</b>: up to {c["fair_max_ratio"]:.0%} (Ohio) / {c["nj_fair_max_ratio"]:.0%} (NJ). <b>Pass</b>: above that.</p>'
+      f'<p>A grade drops one step after {c["postponements_downgrade_at"]} or more postponements. <b>Not enough data</b> means a number is missing, the official value is under {usd(c["min_value_usd"])}, or the published price is under {c["min_ratio_plausible"]:.0%} of value (usually a placeholder).</p>'
+      '<p>Every listing shows its numbers, sources and "as of" dates in a "Why" list.</p></div>'
+      '<p class="warn"><b>Not financial advice.</b> Deal Check does not know the condition, occupancy, liens, title problems or back taxes. Inspect, run a title and lien search, and verify with the county before you bid.</p>')
+    page("deal-check/index.html", f"How Deal Check Works | {BRAND['name']}", "How DeedHound grades sheriff sales Strong, Fair or Pass from published bids and official values.", body, None, [("Home", "/"), ("How Deal Check works", "/deal-check/")]); urls.append("/deal-check/")
 def main():
     shutil.rmtree(OUT, ignore_errors=True); os.makedirs(OUT); open(os.path.join(OUT, "style.css"), "w").write(CSS); open(os.path.join(OUT, ".nojekyll"), "w").close(); shutil.copytree(os.path.join(ROOT, "assets"), os.path.join(OUT, "assets"))
-    urls = ["/"]; stats = [x for x in (build_state(st, urls) for st in STATES) if x]
+    urls = ["/"]; stats = [x for x in (build_state(st, urls) for st in STATES) if x]; how_page(urls)
     grid = "".join(f'<a href="/{st}/"><b>{n}</b>{sn}<br><span class="muted">{c} counties · as of {o}</span></a>' for st, sn, n, c, o in stats)
-    body = (f'<h1>{E(BRAND["tagline"])}</h1><p>Free, plain-English lists of upcoming sheriff sales, compiled from lists published by county sheriffs. Pick your state:</p>'
+    body = (home_hero() + f'<h2>{E(BRAND["tagline"])}</h2><p>Free, plain-English lists of upcoming sheriff sales, compiled from lists published by county sheriffs. Pick your state:</p>'
             f'<div class="grid">{grid}</div>{NL}{DISC}')
     page("index.html", f'{BRAND["name"]} – {BRAND["tagline"]}', "Free lists of upcoming sheriff sales and foreclosure auctions by state and county.", body,
          {"@context": "https://schema.org", "@type": "WebSite", "name": BRAND["name"], "url": BASE + "/"})
