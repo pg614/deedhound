@@ -21,7 +21,7 @@ for i in A:
     if oh:
         b.append(f'The minimum bid ({usd(d["price"])}) is {d["r"]:.0%} of the {d["vl"]} ({usd(d["val"])}). Other bidders can push the price up on sale day.')
         if i.get("appraised_value") and "auditor" in d["vl"] and abs(i["appraised_value"] - d["val"]) / d["val"] > 0.25:
-            b.append(f'The sheriff\'s appraisal ({usd(i["appraised_value"])}) and the auditor\'s value ({usd(d["val"])}) differ a lot. Neither one has seen the inside.')
+            b.append(f'The sheriff\'s appraisal ({usd(i["appraised_value"])}) and the auditor\'s value ({usd(d["val"])}) differ a lot. Look up both before you decide what it is worth.')
         if (i.get("sale_type") or "").lower().startswith("tax"): b.append("This is a tax foreclosure sale. Ask the county treasurer what taxes and assessments stay with the property.")
     else:
         b.append(f'The amount owed to the lender ({usd(d["price"])}) is {d["r"]:.0%} of the town\'s assessed value ({usd(d["val"])}). In New Jersey this is the lender\'s figure, not the final price, and assessed value is not market value.')
