@@ -90,6 +90,13 @@ def enrich_html(i, full):
 
 import csv as _csv
 import dealcheck as DCK
+NOTES_P = os.path.join(ROOT, "data", "notes", "strong_notes.json"); NOTES = json.load(open(NOTES_P)) if os.path.exists(NOTES_P) else {}; NEED_NOTES = []
+def note_html(i):
+    n = NOTES.get(i["url"].strip("/"))
+    if i.get("grade") != "Strong": return ""
+    if not n: NEED_NOTES.append(i["url"].strip("/")); return ""
+    return ('<div class="card" style="font-size:20px"><h2 style="margin-top:0">What to check before bidding</h2><ul>' + "".join(f"<li>{E(b)}</li>" for b in n["bullets"]) +
+            f'</ul><p class="muted">AI-written checklist based on public records as of {datetime.date.fromisoformat(n["as_of"]).strftime("%b %-d, %Y")}. Not financial advice.</p></div>')
 GRADES={}
 INFO = json.load(open(os.path.join(ROOT, "ref", "county_info.json")))
 LAW = {"ohio": [
@@ -198,7 +205,7 @@ def build_state(st, urls):
                   ("Plaintiff / lender", E(i["plaintiff"]) if i["plaintiff"] else '<span class="muted">Not on this county\'s published list — see the court docket</span>'), ("Plaintiff\'s attorney", E(i.get("attorney") or "—")),
                   ("Current status", E(i["status"])), ("Status history", hist_html(i))]
             _e = ENR.get(i.get("auction_id") or f'{i.get("county")}|{i["case_number"]}|{i["address"]}'); g, why, info = DCK.grade(st, i, _e); i["grade"] = g; i["dc"] = info; GRADES.setdefault(st, {}).setdefault(g, 0); GRADES[st][g] += 1
-            body = (f'<h1>{E(i["address"])}, {E(i["city"])} {DCK.badge(g)}</h1><p class="muted">{cn} County, {sn} sheriff sale · Data as of {asof(i["as_of"])}</p>' + DCK.summary(st, i, g, info, fdate) + DCK.bid_html(st, i, cn, bid, fdate, INFO.get(f"{st}/{slug(cn)}")) + DCK.deal_html(g, why) +
+            body = (f'<h1>{E(i["address"])}, {E(i["city"])} {DCK.badge(g)}</h1><p class="muted">{cn} County, {sn} sheriff sale · Data as of {asof(i["as_of"])}</p>' + DCK.summary(st, i, g, info, fdate) + DCK.bid_html(st, i, cn, bid, fdate, INFO.get(f"{st}/{slug(cn)}")) + DCK.deal_html(g, why) + note_html(i) +
                     '<div class="card kv">' + "".join(f"<div><b>{k}</b></div><div>{v}</div>" for k, v in kv) + '</div>' + enrich_html(i, full) +
                     f'<p><a href="{E(i["source_url"])}" rel="nofollow">See this listing on the official {cn} County Sheriff list →</a>'
                     + (f'<br><a href="{bid}" rel="nofollow">Register / bid on the official {cn} County sale site →</a>' if st == "ohio" else "") + f'</p>{DISC}{NL}')
@@ -233,7 +240,7 @@ def top_deals(st, n):
     c = sorted([i for i in ALL if i["url"].startswith(f"/{st}/") and i.get("grade") == "Strong" and i["sale_date"] >= t and i.get("address")], key=lambda i: i["dc"]["r"])[:n]
     if not c: return f"<h2>Top Strong deals in {sn}</h2><p>No upcoming listings grade Strong right now.</p>"
     lab = "Min. bid" if st == "ohio" else "Owed to lender"
-    li = "".join(f'<li class="card" style="list-style:none;font-size:20px"><a href="{i["url"]}"><b>{E(i["address"])}, {E(i["city"])}</b></a> {DCK.badge("Strong")}<br>{E(i["county_name"])} County · Sale {fdate(i["sale_date"])}<br>{lab} {usd(i["dc"]["price"])} vs. value {usd(i["dc"]["val"])} = <b>{i["dc"]["r"]:.0%}</b><br><span class="muted">Listing data as of {asof(i["as_of"])}</span></li>' for i in c)
+    li = "".join(f'<li class="card" style="list-style:none;font-size:20px"><a href="{i["url"]}"><b>{E(i["address"])}, {E(i["city"])}</b></a> {DCK.badge("Strong")}<br>{E(i["county_name"])} County · Sale {fdate(i["sale_date"])}<br>{lab} {usd(i["dc"]["price"])} vs. value {usd(i["dc"]["val"])} = <b>{i["dc"]["r"]:.0%}</b>{('<br><i>Check first: ' + E(NOTES[i["url"].strip("/")]["bullets"][-1 if len(NOTES[i["url"].strip("/")]["bullets"])<2 else 0]) + '</i>') if i["url"].strip("/") in NOTES else ""}<br><span class="muted">Listing data as of {asof(i["as_of"])}</span></li>' for i in c)
     return f'<h2>Top Strong deals in {sn} right now</h2><p class="muted">Upcoming sales only, lowest price-to-value first.</p><ul style="padding:0">{li}</ul><p><a href="/{st}/">See all {sn} sales →</a></p>'
 def home_hero():
     return ('<div class="card" style="border-left:6px solid #1b7f3b;font-size:21px"><h1 style="margin-top:0">Deal Check: a quick Strong / Fair / Pass grade on every sheriff sale</h1>'
@@ -262,5 +269,5 @@ def main():
     open(os.path.join(OUT, "sitemap.xml"), "w").write('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
         "".join(f"<url><loc>{BASE}{u}</loc><lastmod>{today}</lastmod></url>" for u in urls) + "</urlset>")
     open(os.path.join(OUT, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n")
-    print("GRADES", json.dumps(GRADES)); json.dump(ALL, open(os.path.join(ROOT,'site_items.json'),'w'), default=str); print(len(urls), "pages;", stats, "dup-slugs:", len(DUPS), "merged 2nd-sale rows:", len(MERGED)); [print(" ", x) for x in DUPS[:25]]
+    print("Strong listings needing notes:", len(NEED_NOTES), NEED_NOTES[:20]); print("GRADES", json.dumps(GRADES)); json.dump(ALL, open(os.path.join(ROOT,'site_items.json'),'w'), default=str); print(len(urls), "pages;", stats, "dup-slugs:", len(DUPS), "merged 2nd-sale rows:", len(MERGED)); [print(" ", x) for x in DUPS[:25]]
 main()
