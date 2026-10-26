@@ -34,7 +34,7 @@ NL = ('<div class="card"><h2 style="margin-top:0">Get the weekly sheriff sale em
       '<form class="nl" onsubmit="alert(\'Newsletter signup is not live yet.\');return false"><input type="email" placeholder="you@example.com" aria-label="Email"><button>Subscribe</button></form></div>')
 def page(path, title, desc, body, ld=None, crumbs=None):
     canon = BASE + "/" + path.replace("index.html", "")
-    lds = [ld] if ld else []
+    lds = (ld if isinstance(ld, list) else [ld]) if ld else []
     if crumbs: lds.append({"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
         {"@type": "ListItem", "position": i + 1, "name": n, "item": BASE + u} for i, (n, u) in enumerate(crumbs)]})
     nav = " › ".join(f'<a href="{u}">{E(n)}</a>' for n, u in crumbs) if crumbs else ""
@@ -87,6 +87,76 @@ def enrich_html(i, full):
             f'<div><b>Parcel</b></div><div>{E(e["parcel"])}</div>{rows}</div>'
             f'<p class="muted">Source: <a href="{E(e["source_url"])}" rel="nofollow">{E(e["source"])}</a> · retrieved {asof_txt}'
             + (f' · record updated {E(e["data_date"])}' if e.get("data_date") else "") + '. ' + E(e.get("note") or "") + ' Always confirm with the county.</p></div></div>')
+
+import csv as _csv
+INFO = json.load(open(os.path.join(ROOT, "ref", "county_info.json")))
+LAW = {"ohio": [
+  ("What is the minimum bid at an Ohio sheriff sale?", "For most foreclosure sales the property cannot sell for less than two-thirds of its court-ordered appraised value (Ohio Revised Code 2329.20). If it does not sell, it is typically offered again at a second sale with no minimum, as published for each property.", "https://codes.ohio.gov/ohio-revised-code/section-2329.20"),
+  ("How much deposit do I need?", "Ohio law sets the deposit by appraised value: $2,000 if appraised at $10,000 or less, $5,000 if over $10,000 up to $200,000, and $10,000 if over $200,000 (Ohio Revised Code 2329.211). The plaintiff/judgment creditor is not required to make a deposit.", "https://codes.ohio.gov/ohio-revised-code/section-2329.211"),
+  ("Can the owner still stop the sale?", "An Ohio owner can redeem the property by paying the judgment, interest and costs any time before the court confirms the sale (Ohio Revised Code 2329.33). Sales are also often cancelled or postponed, so always re-check the official list.", "https://codes.ohio.gov/ohio-revised-code/section-2329.33")],
+ "new-jersey": [
+  ("Can a New Jersey sheriff sale be postponed?", "Yes. New Jersey law lets the defendant (owner) request up to two adjournments of a sheriff sale, and the plaintiff or court can postpone it further (N.J.S.A. 2A:17-36). That is why many listings show several postponements.", "https://lis.njleg.state.nj.us/"),
+  ("Can the owner redeem after the sale?", "Under the New Jersey Court Rules (R. 4:65-5) there is a 10-day period after the sale for objections, and the owner may redeem during that time before the deed is delivered.", "https://www.njcourts.gov/attorneys/rules-of-court")]}
+ADJ = {}
+for _l in open(os.path.join(ROOT, "ref", "adj.txt"), encoding="latin-1").read().splitlines()[1:]:
+    _p = _l.split("|")
+    if len(_p) == 4 and _p[0] != _p[2]: ADJ.setdefault(_p[0], []).append(_p[2])
+def neighbors(cn, ab):
+    return [n.split(" County,")[0] for n in ADJ.get(f"{cn} County, {ab}", []) if n.endswith(", " + ab)]
+DOW = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+def county_seo(st, cn, d, items):
+    sn, ab = STATES[st]; key = f"{st}/{slug(cn)}"; inf = INFO.get(key); facts = []; faq = []
+    if items:
+        days = {}; [days.__setitem__(DOW[datetime.date.fromisoformat(i["sale_date"]).weekday()], days.get(DOW[datetime.date.fromisoformat(i["sale_date"]).weekday()], 0) + 1) for i in items]
+        dd = ", ".join(f"{k}s ({v})" for k, v in sorted(days.items(), key=lambda x: -x[1]))
+        facts.append(f'On the official list as of {asof(d["as_of"])}, {len(items)} upcoming sales fall on: {dd}. Next sale: {fdate(items[0]["sale_date"])}.')
+        types = sorted({i["sale_type"] for i in items if i.get("sale_type")})
+        if types: facts.append("Sale types listed: " + "; ".join(types) + ".")
+        r = [i["opening_bid"] / i["appraised_value"] for i in items if i.get("opening_bid") and i.get("appraised_value")]
+        if r: facts.append(f"Where both are published, the opening bid is a median {sorted(r)[len(r)//2]:.0%} of the appraised value ({len(r)} listings).")
+        dep = sorted({i["deposit"] for i in items if i.get("deposit")})
+        if dep: facts.append("Deposits published on this list: " + ", ".join(usd(x) for x in dep[:6]) + ".")
+        pc = [i for i in items if i.get("times_postponed")]
+        if pc: facts.append(f"{len(pc)} of {len(items)} listings show at least one postponement in the official status history.")
+    intro = "".join(f"<li>{E(x)}</li>" for x in facts)
+    off = ""
+    if inf: off = "<h3>From the county's official pages</h3><ul>" + "".join(f"<li>{E(x)}</li>" for x in inf["facts"]) + f'</ul><p class="muted">Source: <a href="{E(inf["src"])}" rel="nofollow">{E(inf["src"])}</a></p>'
+    faq.append((f"Where do {cn} County sheriff sale listings come from?", f"DeedHound compiles them from the official list published at {d['source'] or 'the county sheriff site'}, refreshed daily. Always confirm with the official legal notice."))
+    if items: faq.append((f"How many {cn} County sheriff sales are coming up?", f"{len(items)} upcoming sales as of {asof(d['as_of'])}; the next is {fdate(items[0]['sale_date'])}."))
+    if inf: faq += [(f"How do {cn} County sheriff sales work?", " ".join(inf["facts"][:3]))]
+    law = [(q, a + f" Source: {u}") for q, a, u in LAW.get(st, [])]
+    faq += law
+    nb = neighbors(cn, ab)
+    return intro, off, faq, nb
+def faq_html(faq): return "<h2>Frequently asked questions</h2>" + "".join(f'<details class="card"><summary><b>{E(q)}</b></summary><p>{E(a)}</p></details>' for q, a in faq)
+def faq_ld(faq): return {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faq]}
+COVERED = {(os.path.basename(os.path.dirname(f)), os.path.basename(f)[:-5]) for f in glob.glob(os.path.join(ROOT, "data", "*", "*.json")) if "enrich" not in f}
+def nb_html(st, nb):
+    if not nb: return ""
+    return "<h2>Neighboring counties</h2><p>" + " · ".join(f'<a href="/{st}/{slug(n)}-county/">{E(n)} County</a>' for n in nb if st == "ohio" or (st, slug(n)) in COVERED) + "</p>"
+def build_guides(st, urls):
+    if st != "ohio": return []
+    sn, ab = STATES[st]; out = []
+    for r in _csv.DictReader(open(os.path.join(ROOT, "county_sources.csv"))):
+        cn = r["county"]; s = slug(cn)
+        if (st, s) in COVERED: continue
+        inf = INFO.get(f"{st}/{s}"); offu = (inf or {}).get("src") or r.get("official_list_url") or ""
+        if "civilview" in offu: offu = ""
+        ra = f"https://{s.replace('-','')}.sheriffsaleauction.ohio.gov"
+        facts = "".join(f"<li>{E(x)}</li>" for x in (inf or {}).get("facts", []))
+        faq = [(f"Does DeedHound list {cn} County sheriff sales?", f"Not yet. We only publish listings from official sources whose terms and robots.txt allow it, and {cn} County's list is not available to us that way yet."),
+               (f"Where can I see {cn} County sheriff sales?", f"On the state's official sheriff sale website for the county ({ra})" + (f" and the county's official page ({offu})." if offu else "."))]
+        faq += [(q, a + f" Source: {u}") for q, a, u in LAW["ohio"]]
+        body = (f'<h1>How to find {cn} County, Ohio sheriff sales</h1><p class="warn"><b>DeedHound doesn\'t list {cn} County sales yet.</b> Here is where the official listings are and how the sales work.</p>'
+                f'<div class="card"><h2 style="margin-top:0">Official links</h2><ul>' + (f'<li><a href="{E(offu)}" rel="nofollow">{cn} County official sheriff sale page</a></li>' if offu else "")
+                + f'<li><a href="{ra}" rel="nofollow">{cn} County official online sheriff sale site (Realauction, run under contract with the Ohio Department of Administrative Services)</a></li></ul></div>'
+                + (f'<div class="card"><h2 style="margin-top:0">How sales work in {cn} County</h2><ul>{facts}</ul><p class="muted">Source: <a href="{E(inf["src"])}" rel="nofollow">{E(inf["src"])}</a></p></div>' if inf else "")
+                + NL.replace("Get the weekly sheriff sale email", f"Get notified when we add {cn} County") + faq_html(faq) + nb_html(st, neighbors(cn, ab)) + DISC)
+        u = f"/{st}/{s}-county/"
+        page(u.strip("/") + "/index.html", f"How to Find {cn} County Ohio Sheriff Sales – Official Links & Rules | {BRAND['name']}",
+             f"Where to find {cn} County, Ohio sheriff sales: official sheriff and auction site links, deposit and 2/3 minimum bid rules. DeedHound doesn't list this county yet.",
+             body, [faq_ld(faq)], [("Home", "/"), (sn, f"/{st}/"), (f"{cn} County", u)]); urls.append(u); out.append((cn, u))
+    return out
 def build_state(st, urls):
     sn, ab = STATES[st]; today = datetime.date.today().isoformat(); counties = []; allitems = []
     for f in sorted(glob.glob(os.path.join(ROOT, "data", st, "*.json"))):
@@ -123,25 +193,28 @@ def build_state(st, urls):
         for c, its in cities.items():
             u = f"{cs}/{slug(c)}/"
             page(u.strip("/") + "/index.html", f"{c}, {ab} Sheriff Sales ({len(its)} upcoming) | {BRAND['name']}", f"{len(its)} upcoming sheriff sales in {c}, {cn} County, {sn}.",
-                 f'<h1>{E(c)}, {sn} sheriff sales</h1><p class="muted">{len(its)} upcoming · Data as of {asof(d["as_of"])}</p>{table(its)}{NL}', None,
+                 f'<h1>{E(c)}, {sn} sheriff sales</h1><p class="muted">{len(its)} upcoming in {E(c)}, {cn} County · Data as of {asof(d["as_of"])} · Source: <a href="{d["source"]}" rel="nofollow">official {cn} County list</a></p>{table(its)}<p>More: <a href="{cs}/">all {cn} County sheriff sales</a> · ' + " · ".join(f'<a href="{cs}/{slug(o)}/">{E(o)}</a>' for o in sorted(cities) if o != c) + f'</p>{DISC}{NL}', None,
                  [("Home", "/"), (sn, f"/{st}/"), (f"{cn} County", f"{cs}/"), (c, u)]); urls.append(u)
         clinks = " · ".join(f'<a href="{cs}/{slug(c)}/">{E(c)} ({len(v)})</a>' for c, v in sorted(cities.items()))
+        intro, off, faq, nb = county_seo(st, cn, d, items); ad = datetime.datetime.fromisoformat(d["as_of"]).strftime("%b %-d, %Y")
         body = (f'<h1>{cn} County, {sn} sheriff sales</h1><p class="muted">{len(items)} upcoming · Data as of {asof(d["as_of"])} · '
-                f'Source: <a href="{d["source"]}" rel="nofollow">official {cn} County Sheriff list</a></p><div class="card"><b>Cities:</b> {clinks or "—"}</div>'
-                + (table(items) if items else "<p>No upcoming sales listed right now.</p>") + DISC + NL)
-        page(f"{cs.strip('/')}/index.html", f"{cn} County {sn} Sheriff Sales – {len(items)} Upcoming | {BRAND['name']}", f"Free list of {len(items)} upcoming {cn} County, {sn} sheriff sales.",
-             body, {"@context": "https://schema.org", "@type": "ItemList", "numberOfItems": len(items), "itemListElement": [{"@type": "ListItem", "position": n + 1, "url": BASE + i["url"]} for n, i in enumerate(items[:200])]},
+                f'Source: <a href="{d["source"]}" rel="nofollow">official {cn} County Sheriff list</a></p>'
+                f'<div class="card"><h2 style="margin-top:0">How {cn} County sheriff sales work</h2><ul>{intro}</ul>{off}</div><div class="card"><b>Cities and towns:</b> {clinks or "—"}</div>'
+                + (table(items) if items else "<p>No upcoming sales listed right now.</p>") + faq_html(faq) + nb_html(st, nb) + DISC + NL)
+        page(f"{cs.strip('/')}/index.html", f"{cn} County {sn} Sheriff Sales – {len(items)} Upcoming Foreclosure Auctions (as of {ad})", f"{len(items)} upcoming {cn} County, {sn} sheriff sales and foreclosure auctions as of {ad}, from the official county list: dates, addresses, appraisals, minimum bids, and how sales work.",
+             body, [{"@context": "https://schema.org", "@type": "ItemList", "numberOfItems": len(items), "itemListElement": [{"@type": "ListItem", "position": n + 1, "url": BASE + i["url"]} for n, i in enumerate(items[:200])]}, faq_ld(faq)],
              [("Home", "/"), (sn, f"/{st}/"), (f"{cn} County", f"{cs}/")]); urls.append(f"{cs}/")
+    guides = build_guides(st, urls)
     allitems.sort(key=lambda i: i["sale_date"]); oldest = min(asof(d["as_of"]) for _, _, d, _ in counties)
     grid = "".join(f'<a href="{cs}/"><b>{len(it)}</b>{cn} County<br><span class="muted">as of {asof(d["as_of"])}</span></a>' for cn, cs, d, it in sorted(counties, key=lambda x: -len(x[3])))
     body = (f'<h1>Upcoming {sn} sheriff sales</h1><p>Free list of foreclosure sheriff sales compiled from lists published by county sheriffs. '
             f'<span class="muted">{len(allitems)} upcoming sales in {len(counties)} counties · data as of {oldest} or later</span></p>{NL}'
             f'<h2 id="counties">Counties</h2><div class="grid">{grid}</div><h2>Next 7 days</h2>'
-            + table([i for i in allitems if i["sale_date"] <= (datetime.date.today() + datetime.timedelta(days=7)).isoformat()], True) + picks(st, allitems) + DISC)
+            + table([i for i in allitems if i["sale_date"] <= (datetime.date.today() + datetime.timedelta(days=7)).isoformat()], True) + picks(st, allitems) + (('<h2>Counties we don\'t list yet</h2><p class="muted">Guides with official links and rules:</p><p>' + " · ".join(f'<a href="{u}">{E(n)}</a>' for n, u in guides) + '</p>') if guides else "") + DISC)
     page(f"{st}/index.html", f"{sn} Sheriff Sales – Upcoming Foreclosure Auctions | {BRAND['name']}", f"Free list of upcoming {sn} sheriff sales.", body, None, [("Home", "/"), (sn, f"/{st}/")])
     urls.append(f"/{st}/"); return (st, sn, len(allitems), len(counties), oldest)
 def main():
-    shutil.rmtree(OUT, ignore_errors=True); os.makedirs(OUT); open(os.path.join(OUT, "style.css"), "w").write(CSS); shutil.copytree(os.path.join(ROOT, "assets"), os.path.join(OUT, "assets"))
+    shutil.rmtree(OUT, ignore_errors=True); os.makedirs(OUT); open(os.path.join(OUT, "style.css"), "w").write(CSS); open(os.path.join(OUT, ".nojekyll"), "w").close(); shutil.copytree(os.path.join(ROOT, "assets"), os.path.join(OUT, "assets"))
     urls = ["/"]; stats = [x for x in (build_state(st, urls) for st in STATES) if x]
     grid = "".join(f'<a href="/{st}/"><b>{n}</b>{sn}<br><span class="muted">{c} counties · as of {o}</span></a>' for st, sn, n, c, o in stats)
     body = (f'<h1>{E(BRAND["tagline"])}</h1><p>Free, plain-English lists of upcoming sheriff sales, compiled from lists published by county sheriffs. Pick your state:</p>'

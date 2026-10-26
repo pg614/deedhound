@@ -502,7 +502,36 @@ def vanwert():
             appraised_value=money(ap.group(1)) if ap else None, attorney=t[j + 5] if len(t) > j + 5 else None, sale_date=mdy(m.group(1)), sale_type="Foreclosure (online)", source_url=u))
     return out
 
-JOBS = {("ohio","harrison"): harrison, ("ohio","hocking"): hocking, ("ohio","erie"): erie, ("ohio","ashland"): ashland, ("ohio","gallia"): gallia, ("ohio","paulding"): paulding, ("ohio","clinton"): clinton, ("ohio","morrow"): morrow, ("ohio","van-wert"): vanwert, ("ohio", "marion"): marion, ("ohio", "wayne"): wayne, ("ohio", "logan"): logan, ("ohio", "scioto"): scioto, ("ohio", "geauga"): geauga, ("ohio", "ashtabula"): ashtabula, ("ohio", "trumbull"): trumbull, ("ohio", "mahoning"): mahoning, ("ohio", "clermont"): clermont, ("ohio", "montgomery"): montgomery, ("ohio", "stark"): stark, ("ohio", "wood"): wood,
+def union():
+    s = S(); u = "https://www.unioncountyohio.gov/sheriff-sales"; h = s.get(u); out = []
+    for link in dict.fromkeys(re.findall(r'href="([^"]+\.pdf)"', h, re.I)):
+        name = urllib.parse.unquote(link.rsplit("/", 1)[-1]); ds = _fd(name.replace("-", " ").replace("th ", " "))
+        if not ds or ds[0] < TODAY.isoformat() or "SOLD" in name.upper(): continue
+        t = _pdftext(s.get(link.replace(" ", "%20"), raw=True)); tax = "TAX SALE" in t.upper()
+        for blk in re.split(r"(?=Case #)", t)[1:]:
+            cm = re.match(r"Case #\s*(\S+)\s+Address:\s*(.+)", blk); g = lambda k: (re.search(k + r":\s*(.+)", blk) or [None, None])[1]
+            a = cm.group(2).strip(); am = re.match(r"(.+?\b(?:St|Rd|Ave|Dr|Ln|Ct|Pike|Blvd|Way|Pl|Cir|Hwy|Road|Street|Avenue|Drive)\.?)\s+([A-Z][A-Za-z ]+?)\s+OH\b", a); sd = _fd(g("Second Sale Date") or "")
+            out.append(rec("union", case_number=cm.group(1), address=am.group(1) if am else a, city=am.group(2).title() if am else "", plaintiff=g("Plaintiff"), defendant=g("Defendant"), attorney=g("Attorney"),
+                opening_bid=money(g("Opening Bid")), deposit=money(g("Deposit")), appraised_value=money(g("Appraisal|Appraised Value")), sale_date=ds[0], next_sale_date=sd[0] if sd else None,
+                sale_type="Tax foreclosure (in person, Marysville)" if tax else "Foreclosure (online)", source_url=link.replace(" ", "%20")))
+    return out
+
+def holmes():
+    s = S(); u = "https://www.holmescountysheriff.org/sales-bids"; t = txt(s.get(u)); out = []
+    for i, x in enumerate(t):
+        if x != "Case Number:": continue
+        f = {}
+        for k in range(i, min(i + 20, len(t)) - 1, 1):
+            if t[k].endswith(":"): f[t[k][:-1]] = t[k + 1]
+        dates = [datetime.date(int(y), int(m), int(d)).isoformat() for m, d, y in re.findall(r"(\d\d)-(\d\d)-(\d{4})", f.get("Sale Date(s)", ""))]
+        fut = [d for d in dates if d >= TODAY.isoformat()]
+        if not fut: continue
+        a, c, z = _zip(f.get("Address", ""))
+        out.append(rec("holmes", case_number=f.get("Case Number"), plaintiff=f.get("Plaintiff"), defendant=f.get("Defendant"), address=a, city=c, zip=z, appraised_value=money(f.get("Appraisal")),
+            sale_date=fut[0], next_sale_date=fut[1] if len(fut) > 1 else None, sale_type="Foreclosure (online)", source_url=u))
+    return out
+
+JOBS = {("ohio","union"): union, ("ohio","holmes"): holmes, ("ohio","harrison"): harrison, ("ohio","hocking"): hocking, ("ohio","erie"): erie, ("ohio","ashland"): ashland, ("ohio","gallia"): gallia, ("ohio","paulding"): paulding, ("ohio","clinton"): clinton, ("ohio","morrow"): morrow, ("ohio","van-wert"): vanwert, ("ohio", "marion"): marion, ("ohio", "wayne"): wayne, ("ohio", "logan"): logan, ("ohio", "scioto"): scioto, ("ohio", "geauga"): geauga, ("ohio", "ashtabula"): ashtabula, ("ohio", "trumbull"): trumbull, ("ohio", "mahoning"): mahoning, ("ohio", "clermont"): clermont, ("ohio", "montgomery"): montgomery, ("ohio", "stark"): stark, ("ohio", "wood"): wood,
         **{(st, c): (lambda c=c, st=st: civilview(c, st)) for st in CIVILVIEW for c in CIVILVIEW[st]}}
 NAMES = {}
 if __name__ == "__main__":
