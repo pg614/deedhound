@@ -80,4 +80,4 @@ def bid_html(st,i,cn,bid,fdate,inf):
     ex=("".join(f"<li>{E(x)}</li>" for x in (inf or {}).get("facts",[])[:2]))
     return (f'<div class="card" style="border:3px solid #f5b82e"><h2 style="margin-top:0">How to bid</h2><div class="kv"><div><b>Sale date</b></div><div>{fdate(i["sale_date"])}'
       +(' (time: see official notice)' )+f'</div><div><b>Where to bid</b></div><div>{link}</div><div><b>Deposit</b></div><div>{E(dep)}</div></div>'
-      '<ol>'+"".join(f"<li>{E(s)}</li>" for s in steps)+'</ol>'+(f'<p class="muted">County rules:</p><ul class="muted">{ex}</ul>' if ex else "")+'</div>')
+      '<ol>'+"".join(f"<li>{E(s)}</li>" for s in steps)+'</ol>'+(f'<p class="muted">County rules:</p><ul class="muted">{ex}</ul>' if ex else "")+'<p><a href="/financing/"><b>How to pay for a sheriff sale (cash, loans, deadlines) →</b></a></p></div>')

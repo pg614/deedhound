@@ -246,7 +246,7 @@ def home_hero():
     return ('<div class="card" style="border-left:6px solid #1b7f3b;font-size:21px"><h1 style="margin-top:0">Deal Check: a quick Strong / Fair / Pass grade on every sheriff sale</h1>'
             '<p>We compare the published opening bid (Ohio) or amount owed to the lender (New Jersey) with the official county or town value, and show you the math. '
             'It is a simple first look at public numbers, not an appraisal and not financial advice, so always inspect and verify with the county.</p>'
-            '<p><a href="/deal-check/"><b>How Deal Check works →</b></a></p></div>' + top_deals("ohio", 6) + top_deals("new-jersey", 6))
+            '<p><a href="/deal-check/"><b>How Deal Check works →</b></a> &nbsp;·&nbsp; <a href="/financing/"><b>How to pay for a sheriff sale →</b></a></p></div>' + top_deals("ohio", 6) + top_deals("new-jersey", 6))
 def how_page(urls):
     c = DCK.DC
     body = (f'<h1>How Deal Check works</h1><div class="card" style="font-size:20px"><p>Deal Check divides a price by an official value:</p><ul>'
@@ -254,12 +254,12 @@ def how_page(urls):
       f'<li><b>New Jersey:</b> no opening bid is published, so we use the approximate amount owed to the lender (judgment/upset) ÷ the town\'s net assessed value from the state MOD-IV tax list. Towns assess at different ratios, so treat it as a rough guide.</li></ul>'
       f'<p><b>Strong</b>: {c["strong_max_ratio"]:.0%} or less (Ohio) / {c["nj_strong_max_ratio"]:.0%} or less (NJ). <b>Fair</b>: up to {c["fair_max_ratio"]:.0%} (Ohio) / {c["nj_fair_max_ratio"]:.0%} (NJ). <b>Pass</b>: above that.</p>'
       f'<p>A grade drops one step after {c["postponements_downgrade_at"]} or more postponements. <b>Not enough data</b> means a number is missing, the official value is under {usd(c["min_value_usd"])}, or the published price is under {c["min_ratio_plausible"]:.0%} of value (usually a placeholder).</p>'
-      '<p>Every listing shows its numbers, sources and "as of" dates in a "Why" list.</p></div>'
+      '<p>Every listing shows its numbers, sources and "as of" dates in a "Why" list.</p><p><a href="/financing/"><b>How to pay for a sheriff sale →</b></a></p></div>'
       '<p class="warn"><b>Not financial advice.</b> Deal Check does not know the condition, occupancy, liens, title problems or back taxes. Inspect, run a title and lien search, and verify with the county before you bid.</p>')
     page("deal-check/index.html", f"How Deal Check Works | {BRAND['name']}", "How DeedHound grades sheriff sales Strong, Fair or Pass from published bids and official values.", body, None, [("Home", "/"), ("How Deal Check works", "/deal-check/")]); urls.append("/deal-check/")
 def main():
     shutil.rmtree(OUT, ignore_errors=True); os.makedirs(OUT); open(os.path.join(OUT, "style.css"), "w").write(CSS); open(os.path.join(OUT, ".nojekyll"), "w").close(); shutil.copytree(os.path.join(ROOT, "assets"), os.path.join(OUT, "assets"))
-    urls = ["/"]; stats = [x for x in (build_state(st, urls) for st in STATES) if x]; how_page(urls)
+    urls = ["/"]; stats = [x for x in (build_state(st, urls) for st in STATES) if x]; how_page(urls); import financing; financing.build(page, urls, BRAND)
     grid = "".join(f'<a href="/{st}/"><b>{n}</b>{sn}<br><span class="muted">{c} counties · as of {o}</span></a>' for st, sn, n, c, o in stats)
     body = (home_hero() + f'<h2>{E(BRAND["tagline"])}</h2><p>Free, plain-English lists of upcoming sheriff sales, compiled from lists published by county sheriffs. Pick your state:</p>'
             f'<div class="grid">{grid}</div>{NL}{DISC}')
