@@ -92,11 +92,12 @@ import csv as _csv
 INFO = json.load(open(os.path.join(ROOT, "ref", "county_info.json")))
 LAW = {"ohio": [
   ("What is the minimum bid at an Ohio sheriff sale?", "For most foreclosure sales the property cannot sell for less than two-thirds of its court-ordered appraised value (Ohio Revised Code 2329.20). If it does not sell, it is typically offered again at a second sale with no minimum, as published for each property.", "https://codes.ohio.gov/ohio-revised-code/section-2329.20"),
-  ("How much deposit do I need?", "Ohio law sets the deposit by appraised value: $2,000 if appraised at $10,000 or less, $5,000 if over $10,000 up to $200,000, and $10,000 if over $200,000 (Ohio Revised Code 2329.211). The plaintiff/judgment creditor is not required to make a deposit.", "https://codes.ohio.gov/ohio-revised-code/section-2329.211"),
+  ("How much deposit do I need?", "For residential property, Ohio law sets the deposit by appraised value: $2,000 if appraised at $10,000 or less, $5,000 if over $10,000 up to $200,000, and $10,000 if over $200,000 (Ohio Revised Code 2329.211). The plaintiff/judgment creditor is not required to make a deposit.", "https://codes.ohio.gov/ohio-revised-code/section-2329.211"),
   ("Can the owner still stop the sale?", "An Ohio owner can redeem the property by paying the judgment, interest and costs any time before the court confirms the sale (Ohio Revised Code 2329.33). Sales are also often cancelled or postponed, so always re-check the official list.", "https://codes.ohio.gov/ohio-revised-code/section-2329.33")],
  "new-jersey": [
-  ("Can a New Jersey sheriff sale be postponed?", "Yes. New Jersey law lets the defendant (owner) request up to two adjournments of a sheriff sale, and the plaintiff or court can postpone it further (N.J.S.A. 2A:17-36). That is why many listings show several postponements.", "https://lis.njleg.state.nj.us/"),
-  ("Can the owner redeem after the sale?", "Under the New Jersey Court Rules (R. 4:65-5) there is a 10-day period after the sale for objections, and the owner may redeem during that time before the deed is delivered.", "https://www.njcourts.gov/attorneys/rules-of-court")]}
+  ("Can a New Jersey sheriff sale be postponed?", "Yes. Under N.J.S.A. 2A:17-36 (as amended by P.L.2019, c.71) the sheriff may make up to five adjournments: two at the lender's request, two at the debtor's request, and one if both agree, each up to 30 calendar days. A court may order more for cause. That is why many listings show several postponements.", "https://pub.njleg.state.nj.us/Bills/2018/PL19/71_.PDF"),
+  ("How much deposit does the winning bidder pay?", "State law (N.J.S.A. 2A:50-64, P.L.2019, c.71) requires the successful bidder to pay a 20 percent deposit, in cash or by certified or cashier's check payable to the county sheriff, immediately when the sale ends.", "https://pub.njleg.state.nj.us/Bills/2018/PL19/71_.PDF"),
+  ("What happens in the 10 days after the sale?", "Under N.J. Court Rule 4:65-5 the sheriff delivers the deed unless a motion objecting to the sale is served within 10 days after the sale (or later, before the deed is delivered). The owner's right to redeem generally runs through that 10-day period, as the Appellate Division explained in MSND Financial v. 187 Loveladies Holdings (2024).", "https://www.njcourts.gov/system/files/court-opinions/2024/a1744-23.pdf")]}
 ADJ = {}
 for _l in open(os.path.join(ROOT, "ref", "adj.txt"), encoding="latin-1").read().splitlines()[1:]:
     _p = _l.split("|")
@@ -157,13 +158,24 @@ def build_guides(st, urls):
              f"Where to find {cn} County, Ohio sheriff sales: official sheriff and auction site links, deposit and 2/3 minimum bid rules. DeedHound doesn't list this county yet.",
              body, [faq_ld(faq)], [("Home", "/"), (sn, f"/{st}/"), (f"{cn} County", u)]); urls.append(u); out.append((cn, u))
     return out
+SEEN = set(); DUPS = []; MERGED = []
 def build_state(st, urls):
     sn, ab = STATES[st]; today = datetime.date.today().isoformat(); counties = []; allitems = []
     for f in sorted(glob.glob(os.path.join(ROOT, "data", st, "*.json"))):
         d = json.load(open(f)); cn = d["county"].replace("-", " ").title(); cs = f"/{st}/{slug(cn)}-county"
         items = sorted([i for i in d["items"] if i["sale_date"] >= today and not DEAD.search(i["status"] or "")], key=lambda i: (i["sale_date"], i["address"] or ""))
+        mg = {}
+        for i in items:  # some lists (e.g. Stark) post the 1st and 2nd sale date of one case as separate rows: merge them
+            k = (i.get("case_number"), i.get("address"))
+            if k[0] and k in mg:
+                f = mg[k]; f["next_sale_date"] = f.get("next_sale_date") or i["sale_date"]; MERGED.append(k); continue
+            mg[k] = i
+        items = list(mg.values())
         for i in items:
-            i["county_name"] = cn; i["url"] = f'{cs}/{slug(i["city"]) or "unknown-city"}/{slug(i["address"])}-{slug(i["case_number"])}/'
+            i["county_name"] = cn; u0 = f'{cs}/{slug(i["city"]) or "unknown-city"}/{slug(i["address"])}-{slug(i["case_number"])}'.rstrip("-"); u = u0; k = 2
+            while u in SEEN: u = f"{u0}-{k}"; k += 1
+            SEEN.add(u); i["url"] = u + "/"
+            if k > 2: DUPS.append((u0, i.get("case_number"), i.get("sale_date"), i.get("parcel_id")))
         counties.append((cn, cs, d, items)); allitems += items
     if not counties: return None
     for cn, cs, d, items in counties:
@@ -225,5 +237,5 @@ def main():
     open(os.path.join(OUT, "sitemap.xml"), "w").write('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
         "".join(f"<url><loc>{BASE}{u}</loc><lastmod>{today}</lastmod></url>" for u in urls) + "</urlset>")
     open(os.path.join(OUT, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n")
-    print(len(urls), "pages;", stats)
+    print(len(urls), "pages;", stats, "dup-slugs:", len(DUPS), "merged 2nd-sale rows:", len(MERGED)); [print(" ", x) for x in DUPS[:25]]
 main()
