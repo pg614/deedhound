@@ -1,0 +1,33 @@
+{
+ "state": "ohio",
+ "county": "van-wert",
+ "as_of": "2026-10-26T10:34-04:00",
+ "source": "https://www.vanwertcountyohio.gov/government/sheriff/divisions/sheriff_sales.php",
+ "count": 1,
+ "items": [
+  {
+   "county": "van-wert",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "CV-25-03-041",
+   "parcel_id": null,
+   "address": "114 S. Chestnut St.",
+   "city": "Van Wert",
+   "zip": "45891",
+   "appraised_value": 75000.0,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+   "defendant": "Lester E. Fisher, et al",
+   "attorney": "Justin Ritch",
+   "sale_date": "2026-10-29",
+   "sale_type": "Foreclosure (online)",
+   "source_url": "https://www.vanwertcountyohio.gov/government/sheriff/divisions/sheriff_sales.php",
+   "as_of": "2026-10-26T10:34-04:00"
+  }
+ ]
+}

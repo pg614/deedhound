@@ -1,0 +1,81 @@
+#!/usr/bin/env python3
+"""Ohio sheriff-sale scraper for the official RealAuction sites (*.sheriffsaleauction.ohio.gov).
+Polite: 1 request at a time, >=2s delay, identifies itself. Writes data/<county>.json.
+NOTE: these sites' robots.txt is 'Disallow: /'. Production use needs written permission
+from RealAuction / Ohio DAS (or switch to sheriff-published lists). See README."""
+import json, re, sys, time, html, datetime, urllib.request, http.cookiejar, os
+from zoneinfo import ZoneInfo
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36 OhioSheriffSaleTracker-prototype"
+DELAY = 2.0
+SUBS = {"@A": '<div class="', "@B": "</div>", "@C": 'class="', "@D": "<tr><td", "@E": "AUCTION",
+        "@F": "</td><td", "@G": "</td></tr>", "@H": "<td", "@I": "table", "@J": 'p_back="NextCheck='}
+OUT = os.path.join(os.path.dirname(__file__), "..", "data")
+
+class Client:
+    def __init__(s, county):
+        s.base = f"https://{county}.sheriffsaleauction.ohio.gov"
+        s.op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
+    def get(s, path, xhr=False):
+        time.sleep(DELAY)
+        r = urllib.request.Request(s.base + path, headers={"User-Agent": UA, **({"X-Requested-With": "XMLHttpRequest"} if xhr else {})})
+        return s.op.open(r, timeout=30).read().decode("utf-8", "replace")
+
+def money(v):
+    v = re.sub(r"[^\d.]", "", v or ""); return float(v) if v else None
+
+def parse_items(h):
+    for k, v in SUBS.items(): h = h.replace(k, v)
+    out = []
+    for blk in re.split(r'(?=<div tabindex="0"id="AITEM_)', h):
+        m = re.search(r'AITEM_(\d+)', blk)
+        if not m: continue
+        rows = re.findall(r'<th[^>]*>(.*?)</th><td[^>]*>(.*?)(?:</td>|</tbody>)', blk, re.S)
+        f, last = {}, None
+        for k, v in rows:
+            k = html.unescape(re.sub("<.*?>", "", k)).strip().rstrip(":"); v = html.unescape(re.sub("<.*?>", "", v)).strip()
+            if not k and last == "Property Address": f["CityZip"] = v
+            else: f[k] = v; last = k
+        cz = f.get("CityZip", ""); city, _, z = cz.partition(",")
+        z = re.sub(r"\D", "", z)[:5]
+        out.append({"auction_id": m.group(1), "status": f.get("Case Status"),
+            "case_number": re.sub(r"\s*\(.*\)", "", f.get("Case #", "")).strip(),
+            "parcel_id": f.get("Parcel ID"), "address": f.get("Property Address"), "city": city.strip().title(), "zip": z or None,
+            "appraised_value": money(f.get("Appraised Value")), "opening_bid": money(f.get("Opening Bid")),
+            "deposit": money(f.get("Deposit Requirement")), "plaintiff": f.get("Plaintiff") or None,
+            "raw": f})
+    return out
+
+def auction_dates(c, months=2):
+    dates = set(); d = datetime.date.today().replace(day=1)
+    for i in range(months):
+        t = c.get(f"/index.cfm?zaction=USER&zmethod=CALENDAR&selCalDate={d.month:02d}%2F01%2F{d.year}")
+        for dt, body in re.findall(r"dayid='([\d/]+)'\s*>(.*?)</div>", t, re.S):
+            if re.search(r'CALACT">[1-9]', body) and ("Foreclosure" in body or "Tax" in body or True):
+                kind = re.search(r"<b>(.*?)</b>", body); dates.add((dt, kind.group(1) if kind else ""))
+        d = (d + datetime.timedelta(days=32)).replace(day=1)
+    return sorted(dates, key=lambda x: datetime.datetime.strptime(x[0], "%m/%d/%Y"))
+
+def scrape(county):
+    c = Client(county); now = datetime.datetime.now(ZoneInfo("America/New_York")).isoformat(timespec="minutes")
+    items = []
+    for dt, kind in auction_dates(c):
+        if datetime.datetime.strptime(dt, "%m/%d/%Y").date() < datetime.date.today(): continue
+        purl = f"/index.cfm?zaction=AUCTION&Zmethod=PREVIEW&AUCTIONDATE={dt}"
+        c.get(purl); seen = set(); page = 0
+        for _ in range(30):
+            t = c.get(f"/index.cfm?zaction=AUCTION&Zmethod=UPDATE&FNC=LOAD&AREA=W&PageDir={page}&doR=1&tx={int(time.time()*1000)}&bypassPage=0", xhr=True)
+            d = json.loads(t[t.index("{"):]); new = [i for i in parse_items(d.get("retHTML", "")) if i["auction_id"] not in seen]
+            if not new: break
+            for i in new:
+                seen.add(i["auction_id"]); y = dt.split("/")
+                i.update(sale_date=f"{y[2]}-{y[0]}-{y[1]}", sale_type=kind, county=county, source_url=c.base + purl, as_of=now)
+                items.append(i)
+            page = 1
+    json.dump({"county": county, "as_of": now, "source": c.base, "count": len(items), "items": items},
+              open(os.path.join(OUT, f"{county}.json"), "w"), indent=1)
+    print(county, len(items)); return items
+
+if __name__ == "__main__":
+    for co in sys.argv[1:]:
+        try: scrape(co)
+        except Exception as e: print(co, "ERROR", e)

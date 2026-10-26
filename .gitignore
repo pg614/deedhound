@@ -1,0 +1,7 @@
+__pycache__/
+*.log
+probe.txt
+screenshots/
+tmp/
+*.bak
+.env

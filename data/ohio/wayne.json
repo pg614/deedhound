@@ -1,0 +1,33 @@
+{
+ "state": "ohio",
+ "county": "wayne",
+ "as_of": "2026-10-26T10:26-04:00",
+ "source": "https://waynecountysheriff.com/wp-content/uploads/2026/10/Nov-4-2026.pdf",
+ "count": 1,
+ "items": [
+  {
+   "county": "wayne",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "2026 CVC-E 000384",
+   "parcel_id": "39-00241.00",
+   "address": "Massillon Rd.",
+   "city": "Navarre",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": 3112.0,
+   "deposit": 2000.0,
+   "plaintiff": null,
+   "defendant": null,
+   "attorney": null,
+   "sale_date": "2026-11-04",
+   "sale_type": "Tax foreclosure (in person)",
+   "source_url": "https://waynecountysheriff.com/wp-content/uploads/2026/10/Nov-4-2026.pdf",
+   "as_of": "2026-10-26T10:26-04:00"
+  }
+ ]
+}

@@ -1,0 +1,1173 @@
+{
+ "state": "new-jersey",
+ "county": "cape-may",
+ "as_of": "2026-10-25T00:46-04:00",
+ "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904446",
+ "count": 30,
+ "items": [
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Adjourned - Court",
+     "date": "2026-10-28"
+    },
+    {
+     "status": "Adjourned - Court",
+     "date": "2026-09-30"
+    },
+    {
+     "status": "Adjourned - Court",
+     "date": "2026-08-19"
+    },
+    {
+     "status": "Adjourned - Court",
+     "date": "2026-07-08"
+    },
+    {
+     "status": "Adjourned - Plaintiff",
+     "date": "2026-05-27"
+    },
+    {
+     "status": "Adjourned - Plaintiff",
+     "date": "2026-04-29"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-04-01"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-03-04"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-02-04"
+    }
+   ],
+   "times_postponed": 8,
+   "upset_amount": 263185.72,
+   "auction_id": "2208904446",
+   "status": "SCHEDULED",
+   "case_number": "F-003702-24",
+   "parcel_id": "LOT 1.11, BLOCK 120",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK, N.A.",
+   "defendant": "STEVEN H PATCHEL, ET AL",
+   "attorney": "Brock and Scott, PLLC",
+   "sale_date": "2026-10-28",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904446",
+   "as_of": "2026-10-25T00:44-04:00",
+   "sheriff_number": "F-25000372"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Adjourned - Plaintiff",
+     "date": "2026-10-28"
+    },
+    {
+     "status": "Adjourned - Plaintiff",
+     "date": "2026-09-30"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-09-02"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-08-05"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-07-08"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 99079.83,
+   "auction_id": "2208904577",
+   "status": "SCHEDULED",
+   "case_number": "F-013265-25",
+   "parcel_id": "LOT 8, f/k/a 15 & 16, BLOCK 467",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BANK OF AMERICA, N.A.",
+   "defendant": "MARY HATCH, ET AL",
+   "attorney": "Powers Kirn, LLC",
+   "sale_date": "2026-10-28",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904577",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000149"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Adjourned - Plaintiff",
+     "date": "2026-10-28"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-09-30"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-09-02"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-08-05"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 141451.86,
+   "auction_id": "2208904589",
+   "status": "SCHEDULED",
+   "case_number": "F-012886-25",
+   "parcel_id": "LOT 63 & 64, BLOCK 141",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+   "defendant": "JEFFREY HEIM, ET AL",
+   "attorney": "Brock and Scott, PLLC",
+   "sale_date": "2026-10-28",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904589",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000183"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Bankruptcy Hold",
+     "date": "2025-09-17"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2025-09-17"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2025-08-20"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2025-07-23"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 341563.55,
+   "auction_id": "2208904317",
+   "status": "SCHEDULED",
+   "case_number": "F-006661-24",
+   "parcel_id": "LOT 7, BLOCK 496.16",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION",
+   "defendant": "KENNETH JOHN HUTCHINSON, ET AL",
+   "attorney": "Ras Citron, LLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904317",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-25000149"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Bankruptcy Hold",
+     "date": "2026-05-13"
+    },
+    {
+     "status": "Bankruptcy Reschedule",
+     "date": "2026-05-13"
+    },
+    {
+     "status": "Bankruptcy Hold",
+     "date": "2026-01-07"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-01-07"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2025-12-03"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2025-10-29"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 81311.84,
+   "auction_id": "2208904386",
+   "status": "SCHEDULED",
+   "case_number": "F-001179-24",
+   "parcel_id": "LOT 24 f/k/a 18, BLOCK 322.01 f/k/a 322",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+   "defendant": "ROBERT WHITE, ET AL",
+   "attorney": "KML Law Group, PC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904386",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-25000275"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Adjourned - Court",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-10-28"
+    },
+    {
+     "status": "Bankruptcy Hold",
+     "date": "2026-04-01"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-04-01"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-03-04"
+    },
+    {
+     "status": "Adjourned - Plaintiff",
+     "date": "2026-02-04"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-01-07"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 360766.77,
+   "auction_id": "2208904430",
+   "status": "SCHEDULED",
+   "case_number": "F-011848-24",
+   "parcel_id": "LOT 14, BLOCK 455",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "DANA AFANADOR-PICINICH, ET AL",
+   "attorney": "Romano Garubo & Argentieri, LLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904430",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-25000346"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Cancelled",
+     "date": "2026-10-20"
+    },
+    {
+     "status": "Adjourned - Court",
+     "date": "2026-10-14"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-09-16"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 1074920.91,
+   "auction_id": "2208904627",
+   "status": "SCHEDULED",
+   "case_number": "F-001675-25",
+   "parcel_id": "TAX LOT No. 19, Qual. C-W fka LOT 19, BLOCK 48.03",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "**CANCELLED**WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR CHNGE MORTGAGE TRUST 2023-3",
+   "defendant": "LIZA CASTLES, ET AL",
+   "attorney": "KML Law Group, PC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904627",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000239"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-10-14"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-09-16"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 323657.56,
+   "auction_id": "2208904630",
+   "status": "SCHEDULED",
+   "case_number": "F-011800-24",
+   "parcel_id": "LOT 11, BLOCK 1469",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+   "defendant": "JOSHUA LEO, ET AL",
+   "attorney": "Logs Legal Group, LLP",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904630",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000243"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-10-14"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 170108.55,
+   "auction_id": "2208904655",
+   "status": "SCHEDULED",
+   "case_number": "F-012295-25",
+   "parcel_id": "LOT 2, BLOCK 4",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+   "defendant": "MARIA ROWELL, ET AL",
+   "attorney": "Parker McCay, P.A.",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904655",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000276"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 136532.63,
+   "auction_id": "2208904668",
+   "status": "SCHEDULED",
+   "case_number": "F-003316-26",
+   "parcel_id": "LOT 16, BLOCK 1467",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "URIEL CORNEL MARROQUIN-HERNANDEZ, ET AL",
+   "attorney": "Ras Citron, LLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904668",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000315"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-02"
+    },
+    {
+     "status": "Bankruptcy Hold",
+     "date": "2026-02-04"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-02-04"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-01-07"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2025-12-03"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 221253.31,
+   "auction_id": "2208904405",
+   "status": "SCHEDULED",
+   "case_number": "F-005038-25",
+   "parcel_id": "LOT 20.02, BLOCK 566",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ARVEST BANK",
+   "defendant": "PHILLIP M FERRETTI, ET AL",
+   "attorney": "Stern & Eisenberg, PC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904405",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-25000309"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Adjourned - Plaintiff",
+     "date": "2026-12-02"
+    },
+    {
+     "status": "Adjourned - Plaintiff",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-10-28"
+    },
+    {
+     "status": "Bankruptcy Hold",
+     "date": "2026-06-10"
+    },
+    {
+     "status": "Adjourned - Court",
+     "date": "2026-06-10"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-05-13"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-04-15"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-03-18"
+    }
+   ],
+   "times_postponed": 5,
+   "upset_amount": 243757.32,
+   "auction_id": "2208904468",
+   "status": "SCHEDULED",
+   "case_number": "F-012263-24",
+   "parcel_id": "LOT 31, BLOCK 12.01",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "ANNA M MIGLIO, ET AL",
+   "attorney": "Powers Kirn, LLC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904468",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-25000418"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Adjourned - Court",
+     "date": "2026-12-02"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-09-16"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-08-19"
+    },
+    {
+     "status": "Adjourned - Plaintiff",
+     "date": "2026-07-22"
+    },
+    {
+     "status": "Adjourned - Plaintiff",
+     "date": "2026-06-24"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-05-27"
+    }
+   ],
+   "times_postponed": 5,
+   "upset_amount": 179128.92,
+   "auction_id": "2208904519",
+   "status": "SCHEDULED",
+   "case_number": "F-005244-25",
+   "parcel_id": "LOT 1, BLOCK 968",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK, N.A.",
+   "defendant": "CASSANDRA SMITH, ET AL",
+   "attorney": "Logs Legal Group, LLP",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904519",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000071"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-12-02"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-10-28"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-09-30"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 335372.99,
+   "auction_id": "2208904638",
+   "status": "SCHEDULED",
+   "case_number": "F-001610-26",
+   "parcel_id": "LOT 2, BLOCK 108",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "JOSHUA CIABATONI, ET AL",
+   "attorney": "KML Law Group, PC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904638",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000247"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2027-01-06"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-10-14"
+    },
+    {
+     "status": "Bankruptcy Hold",
+     "date": "2026-03-04"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-03-04"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 264266.32,
+   "auction_id": "2208904465",
+   "status": "SCHEDULED",
+   "case_number": "F-011133-24",
+   "parcel_id": "LOT 8, BLOCK 73",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "THE BANK OF NEW YORK MELLON f/k/a THE BANK OF NEW YORK as Trustee for the Certificate holders of the CWABS, Inc., Asset-Backed Certificates, Series 2006-21",
+   "defendant": "NORMA BADER",
+   "attorney": "Hill Wallack, LLP",
+   "sale_date": "2027-01-06",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904465",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-25000407"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2027-01-06"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-10-14"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 184105.29,
+   "auction_id": "2208904651",
+   "status": "SCHEDULED",
+   "case_number": "F-010089-25",
+   "parcel_id": "LOT 7, BLOCK 902",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+   "defendant": "LAWRENCE L LEE, ET AL",
+   "attorney": "Brock and Scott, PLLC",
+   "sale_date": "2027-01-06",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904651",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000265"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2027-01-06"
+    },
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-10-28"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 146749.91,
+   "auction_id": "2208904658",
+   "status": "SCHEDULED",
+   "case_number": "F-012703-24",
+   "parcel_id": "LOT 1, BLOCK 1476",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+   "defendant": "GEOFFREY C INMAN, ET AL",
+   "attorney": "Pluese, Becker, Saltzman & Thomas, LLC",
+   "sale_date": "2027-01-06",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904658",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000302"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Adjourned - Defendant",
+     "date": "2027-01-06"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-10-28"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 171210.58,
+   "auction_id": "2208904662",
+   "status": "SCHEDULED",
+   "case_number": "F-002381-26",
+   "parcel_id": "TAX LOT #48, 49, & 50 BLOCK #97",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2025-P2",
+   "defendant": "KAREN SEARLE, ET AL.",
+   "attorney": "Stern & Eisenberg, PC",
+   "sale_date": "2027-01-06",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904662",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000303"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-06"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 263424.36,
+   "auction_id": "2208904671",
+   "status": "SCHEDULED",
+   "case_number": "F-013587-25",
+   "parcel_id": "BLOCK: 10 LOT: 172.01",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "MATTHEW R TAYLOR, ET AL",
+   "attorney": "Powers Kirn, LLC",
+   "sale_date": "2027-01-06",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904671",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000350"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-06"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 144438.08,
+   "auction_id": "2208904675",
+   "status": "SCHEDULED",
+   "case_number": "F-787-26",
+   "parcel_id": "LOT 18, 19 & 20 FKA 1.01, 1.02, 1.03, BLOCK 95.03 FKA 95.04",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF ARUGULA FUNDING TITLING TRUST",
+   "defendant": "SOPHIA ALBRECHT, ET AL.",
+   "attorney": "Ras Citron, LLC",
+   "sale_date": "2027-01-06",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904675",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000351"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-06"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 261257.15,
+   "auction_id": "2208904677",
+   "status": "SCHEDULED",
+   "case_number": "F-7939-25",
+   "parcel_id": "LOT 2, BLOCK 648",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NATIONSTAR MORTGAGE LLC",
+   "defendant": "MARIE E FERRELL- BUTO, ET AL",
+   "attorney": "Hladik, Onorato & Federman, LLP",
+   "sale_date": "2027-01-06",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904677",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000357"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 270971.59,
+   "auction_id": "2208904681",
+   "status": "SCHEDULED",
+   "case_number": "F-011856-25",
+   "parcel_id": "LOT 1 FKA 2B, BLOCK 302",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK, N.A.",
+   "defendant": "FRANCIS X MONAGHAN, ET AL",
+   "attorney": "Ras Citron, LLC",
+   "sale_date": "2027-01-20",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904681",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000366"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 135569.34,
+   "auction_id": "2208904685",
+   "status": "SCHEDULED",
+   "case_number": "F-001124-26",
+   "parcel_id": "TAX LOT 62 BLOCK 410.01",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "DEUTSCHE BANK TRUST COMPANY AMERICAS, AS TRUSTEE FOR RESIDENTIAL ACCREDIT LOANS, INC., MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2007-QS8",
+   "defendant": "KEVIN CAMPBELL, ET AL",
+   "attorney": "Ras Citron, LLC",
+   "sale_date": "2027-01-20",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904685",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000367"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 224074.38,
+   "auction_id": "2208904689",
+   "status": "SCHEDULED",
+   "case_number": "F-003321-26",
+   "parcel_id": "LOT 26, BLOCK 598.02",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PLANET HOME LENDING, LLC",
+   "defendant": "STEVEN MICHAEL ALFORD, JR., ET AL",
+   "attorney": "Knuckles & Manfro, LLP",
+   "sale_date": "2027-01-20",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904689",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000375"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 29562.77,
+   "auction_id": "2208904693",
+   "status": "SCHEDULED",
+   "case_number": "F-5480-26",
+   "parcel_id": "LOT 36, 37-43, BLOCK 42.05",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "HARBOUR HOUSE LANDING CONDOMINIUM ASSOCIATION, INC.",
+   "defendant": "ROBERT G WACHSMUTH",
+   "attorney": "CUTOLO BARROS LLC",
+   "sale_date": "2027-01-20",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904693",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000377"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 352442.44,
+   "auction_id": "2208904698",
+   "status": "SCHEDULED",
+   "case_number": "F-006874-26",
+   "parcel_id": "LOT 2, QUALIFIER: C43; BLOCK 4304",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CUSTOMERS BANK, A PENNSYLVANIA STATE CHARTERED BANK",
+   "defendant": "WILLIAM FITZGERALD, ET AL",
+   "attorney": "Hill Wallack, LLP",
+   "sale_date": "2027-01-20",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904698",
+   "as_of": "2026-10-25T00:45-04:00",
+   "sheriff_number": "F-26000378"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 216232.75,
+   "auction_id": "2208904702",
+   "status": "SCHEDULED",
+   "case_number": "F-009839-23",
+   "parcel_id": "LOT 84.04, BLOCK 348",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "TH MSR HOLDINGS LLC",
+   "defendant": "M. KARLYN ACCIAVATTI-MURTHA, ET AL",
+   "attorney": "ALBERTELLI LAW",
+   "sale_date": "2027-01-20",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904702",
+   "as_of": "2026-10-25T00:46-04:00",
+   "sheriff_number": "F-26000379"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-02-17"
+    },
+    {
+     "status": "Bankruptcy Hold",
+     "date": "2026-06-10"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-06-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 329135.19,
+   "auction_id": "2208904534",
+   "status": "SCHEDULED",
+   "case_number": "F-010849-25",
+   "parcel_id": "LOT 30, BLOCK 70",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE FOR IGLOO SERIES IV TRUST",
+   "defendant": "KENNETH PHILLIPS, JR., ET AL",
+   "attorney": "Friedman Vartolo, LLP",
+   "sale_date": "2027-02-17",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904534",
+   "as_of": "2026-10-25T00:46-04:00",
+   "sheriff_number": "F-26000096"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-02-17"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 423715.09,
+   "auction_id": "2208904708",
+   "status": "SCHEDULED",
+   "case_number": "F-004624-26",
+   "parcel_id": "LOT 03, BLOCK 805",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
+   "defendant": "LOUIS RIEMER, JR., ET AL",
+   "attorney": "Gross Polowy LLC",
+   "sale_date": "2027-02-17",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904708",
+   "as_of": "2026-10-25T00:46-04:00",
+   "sheriff_number": "F-26000398"
+  },
+  {
+   "county": "cape-may",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-02-17"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 141320.22,
+   "auction_id": "2208904712",
+   "status": "SCHEDULED",
+   "case_number": "F-006716-26",
+   "parcel_id": "LOT 35 aka 35 and 36, BLOCK 97",
+   "address": "",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+   "defendant": "RYAN WORLEY",
+   "attorney": "Martone & Uhlman, P.C.",
+   "sale_date": "2027-02-17",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208904712",
+   "as_of": "2026-10-25T00:46-04:00",
+   "sheriff_number": "F-26000403"
+  }
+ ]
+}

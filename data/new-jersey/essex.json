@@ -1,0 +1,6645 @@
+{
+ "state": "new-jersey",
+ "county": "essex",
+ "as_of": "2026-10-25T00:12-04:00",
+ "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219495",
+ "count": 172,
+ "items": [
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-09-16"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2025-09-16"
+    },
+    {
+     "status": "Open",
+     "date": "2026-08-19"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 380760.58,
+   "auction_id": "2209219495",
+   "status": "SCHEDULED",
+   "case_number": "F00312721",
+   "parcel_id": null,
+   "address": "186 NEWARK AVE",
+   "city": "Bloomfield",
+   "zip": "07003",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF CITIGROUP MORTGAGE LOAN TRUST 2019-A",
+   "defendant": "JULMALI HABIBUL; ET. AL.",
+   "attorney": "KML LAW GROUP, P.C.",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219495",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-25002968"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-10-28"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2025-10-28"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 658925.71,
+   "auction_id": "2209219506",
+   "status": "SCHEDULED",
+   "case_number": "F00605722",
+   "parcel_id": null,
+   "address": "429 WASHINGTON AVENUE",
+   "city": "Montclair",
+   "zip": "07042",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ATHENE ANNUITY & LIFE ASSURANCE COMPANY,",
+   "defendant": "LESLIE R. NEAL, ET. AL",
+   "attorney": "KNUCKLES & MANFRO LLC",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219506",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-25003361"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-03-31"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-03-31"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 674292.99,
+   "auction_id": "2209219535",
+   "status": "ADJOURNED COURT",
+   "case_number": "F03098514",
+   "parcel_id": null,
+   "address": "9 BACHMAN PL",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK AS TRUSTEE FOR THE CERTIFICATEHOLDERS CWABS, INC., ASSET BACKED CERTIFICATES, SERIES 2005-BC1,",
+   "defendant": "DANIEL MANU, ET. ALS",
+   "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219535",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26000485"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-03-31"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-04-28"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-04-28"
+    },
+    {
+     "status": "Re-Scheduled",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-08-18"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 499287.88,
+   "auction_id": "2209219537",
+   "status": "ADJOURNED PLAINTIFF",
+   "case_number": "F00265220",
+   "parcel_id": null,
+   "address": "460 MULBERRY STREET",
+   "city": "Newark",
+   "zip": "07114",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BANK OF NEW YORK MELLON TRUST COMPANY, N.A. AS TRUSTEE FOR MORTGAGE ASSETS MANAGEMENT SERIES 1 TRUST",
+   "defendant": "DOROTHEA BRADLEY, HER HEIRS, BENEFICIARIES, SUCCESSORS AND ASSIGNS, ET. AL",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219537",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26000514"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-05-12"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-06-09"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-07-07"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-08-04"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 6,
+   "upset_amount": 385547.19,
+   "auction_id": "2209219549",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00561225",
+   "parcel_id": null,
+   "address": "149 POMONA AVENUE",
+   "city": "Newark",
+   "zip": "07112",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MORTGAGE RESEARCH CENTER, LLC D/B/A VETERANS UNITED HOME LOANS, A MISSOURI LIMITED LIABILITY CORPORATION",
+   "defendant": "JOHN D. MONTGOMERY, ET. AL",
+   "attorney": "KML LAW GROUP, P.C.",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219549",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26001012"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-05-12"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-06-09"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-07-07"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-08-04"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 6,
+   "upset_amount": 127845.8,
+   "auction_id": "2209219557",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00767625",
+   "parcel_id": null,
+   "address": "112 ROOSEVELT AVENUE",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUT NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACUISITION TRUST,",
+   "defendant": "NAIIMA HORSLEY-FAUNTLEROY, ET. AL",
+   "attorney": "KNUCKLES & MANFRO LLC",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219557",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26001117"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-05-26"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-06-23"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-08-18"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 5,
+   "upset_amount": 437630.46,
+   "auction_id": "2209219569",
+   "status": "ADJOURNED COURT",
+   "case_number": "F578722",
+   "parcel_id": null,
+   "address": "29 CORTLAND STREET",
+   "city": "Roseland",
+   "zip": "07068",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY IN ITS CAPACITY AS INDENTURE TRUSTEE OF CIM TRUST 2026-NR1",
+   "defendant": "RUSSELL F. MANLEY; ET AL.",
+   "attorney": "ECKERT SEAMANS CHERIN & MELLOTT, LLC",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219569",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26001379"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-06-09"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-07-07"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-08-04"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 208955.09,
+   "auction_id": "2209219582",
+   "status": "ADJOURNED COURT",
+   "case_number": "F00490025",
+   "parcel_id": null,
+   "address": "82-84 WINANS AVENUE",
+   "city": "Newark",
+   "zip": "07108",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK, N.A.",
+   "defendant": "BEVERLY BOYD, ET. AL",
+   "attorney": "BROCK & SCOTT, PLLC",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219582",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26001627"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-07-07"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-08-04"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 1102362.63,
+   "auction_id": "2209219610",
+   "status": "ADJOURNED PLAINTIFF",
+   "case_number": "F00768025",
+   "parcel_id": null,
+   "address": "555 BERKELEY AVENUE",
+   "city": "South Orange",
+   "zip": "07079",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "UNITAS FUNDING LLC,",
+   "defendant": "555 BERKELEY AVE LLC A/K/A 555 BERKLEY AVE LLC, ET. AL",
+   "attorney": "WALDMAN & KAPLAN, P.A.",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219610",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26002110"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-08-18"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 351195.2,
+   "auction_id": "2209219625",
+   "status": "ADJOURNED PLAINTIFF",
+   "case_number": "F00894122",
+   "parcel_id": null,
+   "address": "281-283 CLINTON PLACE",
+   "city": "Newark",
+   "zip": "07112",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+   "defendant": "JUAN M. ROJAS; ET AL.",
+   "attorney": "GROSS POLOWY, LLC",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219625",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26002379"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-08-18"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 33785.29,
+   "auction_id": "2209219627",
+   "status": "ADJOURNED COURT",
+   "case_number": "F00001026",
+   "parcel_id": null,
+   "address": "11 CRESTWOOD AVENUE",
+   "city": "Fairfield",
+   "zip": "07004",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "TH MSR HOLDINGS LLC,",
+   "defendant": "GERALDINE A. RAMOS",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219627",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26002435"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-04"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 409230.81,
+   "auction_id": "2209219632",
+   "status": "ADJOURNED COURT",
+   "case_number": "F00864225",
+   "parcel_id": null,
+   "address": "48 BURROUGHS WAY",
+   "city": "Maplewood",
+   "zip": "07040",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED CREDIT RISK TRANSFER TRUST, SERIES 2019-4",
+   "defendant": "GEORGE W. ABRAHAMS, ET. AL",
+   "attorney": "KML LAW GROUP, P.C.",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219632",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26002496"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-04"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 414700.38,
+   "auction_id": "2209219636",
+   "status": "ADJOURNED PLAINTIFF",
+   "case_number": "F00021526",
+   "parcel_id": null,
+   "address": "324 SOUTH 19TH STREET",
+   "city": "Newark",
+   "zip": "07103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC,",
+   "defendant": "TROY DOLPHUS, ET. AL",
+   "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219636",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26002533"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-04"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 616171.72,
+   "auction_id": "2209219637",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00545324",
+   "parcel_id": null,
+   "address": "607 HAMILTON RD",
+   "city": "South Orange",
+   "zip": "07079",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE, IN TRUST FOR THE REGISTERED HOLDERS OF ACE SECURITIES CORP. HOME EQUITY LOAN TRUST, SERIES 2006-NC2, ASSET BACKED PASS-THROUGH CERTIFICATES,",
+   "defendant": "JEAN BIEN-AIME A/K/A JEAN BIEN AIME, ET. AL",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219637",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26002554"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 504722.91,
+   "auction_id": "2209219660",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00952024",
+   "parcel_id": null,
+   "address": "108 SOUTH DURAND PL",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2023-2",
+   "defendant": "MASTERS MAKIT HOME REALTY, LIIMITED LIABILITY COMPANY; ET. AL.",
+   "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219660",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26003017"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Settled - Foreclosure",
+     "date": "2026-10-24"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 451840.36,
+   "auction_id": "2209219661",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00513823",
+   "parcel_id": null,
+   "address": "411 ABINGTON AVE",
+   "city": "Bloomfield",
+   "zip": "07003",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "AJAX MORTGAGE LOAN TRUST 2023-B MORTGAGE-BACKED SECURITIES, SERIES 2023-B, BY U.S. BANK TRUST COMPANY NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+   "defendant": "HURBERT C. SEDANO; ET. ALS.",
+   "attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219661",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26003024"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 1363198.31,
+   "auction_id": "2209219665",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00194925",
+   "parcel_id": null,
+   "address": "290 WYOMING AVENUE",
+   "city": "South Orange",
+   "zip": "07079",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST IX-A,",
+   "defendant": "BROADBELT CMGC LLC, ET. AL",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219665",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26003155"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 228138.99,
+   "auction_id": "2209219666",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00022224",
+   "parcel_id": null,
+   "address": "54 HOBSON STREET",
+   "city": "Newark",
+   "zip": "07112",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST IX-A,",
+   "defendant": "BB REAL ESTATE INVESTMENTS LLC",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219666",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26003156"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 402777.54,
+   "auction_id": "2209219667",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00943425",
+   "parcel_id": null,
+   "address": "251 OGDEN ST",
+   "city": "Orange",
+   "zip": "07050",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2024-5",
+   "defendant": "ST. PAUL HOLDINGS, LLC",
+   "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219667",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26003157"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 293178.2,
+   "auction_id": "2209219669",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00127925",
+   "parcel_id": null,
+   "address": "139 SOUTH MUNN AVE",
+   "city": "East Orange",
+   "zip": "07018",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LOAN FUNDER LLC, SERIES 8680",
+   "defendant": "139 SOUTH MUNN LLC; ET. ALS.",
+   "attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRES & NEWBY, LLP",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219669",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26003159"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 246722.4,
+   "auction_id": "2209219700",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00202126",
+   "parcel_id": null,
+   "address": "37 43RD ST",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PLANET HOME LENDING, LLC",
+   "defendant": "SHAUNA WILLIAMS; ET. ALS.",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219700",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26003497"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 242450.84,
+   "auction_id": "2209219705",
+   "status": "ADJOURNED PLAINTIFF",
+   "case_number": "F00963023",
+   "parcel_id": null,
+   "address": "213-215 LINDEN AVE",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+   "defendant": "GLORIA OLIVERA; ET. AL.",
+   "attorney": "KNUCKLES & MANFRO, LLP",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219705",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "F-26003524"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 226517.65,
+   "auction_id": "2209219729",
+   "status": "SCHEDULED",
+   "case_number": "F01703517",
+   "parcel_id": null,
+   "address": "121 CHADWICK AVE",
+   "city": "Newark",
+   "zip": "07108",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NCC HOLDINGS, LLC",
+   "defendant": "LENIN VALDEZ; ET. ALS.",
+   "attorney": "GREENSPOON MARDER, LLP",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219729",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-26003915"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Cancelled",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 804346.77,
+   "auction_id": "2209219731",
+   "status": "CANCELLED",
+   "case_number": "F00311226",
+   "parcel_id": null,
+   "address": "65 NORTH WYOMING AVE",
+   "city": "South Orange",
+   "zip": "07079",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "GENEVA MCDANIEL,  ET. AL.",
+   "attorney": "POWERS KIRN, LLC",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219731",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-26003920"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Cancelled",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 498885.41,
+   "auction_id": "2209219732",
+   "status": "CANCELLED",
+   "case_number": "F01232225",
+   "parcel_id": null,
+   "address": "77 FIRST AVE",
+   "city": "East Orange",
+   "zip": "07017",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "CHRSTINA Y. FUNDERBURK, ET. ALS.",
+   "attorney": "POWERS KIRN, LLC",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219732",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-26003924"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 352044.86,
+   "auction_id": "2209219737",
+   "status": "SCHEDULED",
+   "case_number": "F00284924",
+   "parcel_id": null,
+   "address": "289 AMHERST ST",
+   "city": "East Orange",
+   "zip": "07018",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "RESIDENTIAL INVESTMENT TRUST IV",
+   "defendant": "JGA DEVELOPMENT, LLC; ET. ALS.",
+   "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219737",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-26003957"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 848218.24,
+   "auction_id": "2209219738",
+   "status": "SCHEDULED",
+   "case_number": "F00863924",
+   "parcel_id": null,
+   "address": "19 HAZEL AVE",
+   "city": "Livingston",
+   "zip": "07039",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MCLP ASSET COMPANY, INC.",
+   "defendant": "ANDREW HAMILTON; ET. ALS.",
+   "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219738",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-26003960"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 197187.69,
+   "auction_id": "2209219739",
+   "status": "SCHEDULED",
+   "case_number": "F00337222",
+   "parcel_id": null,
+   "address": "12 METZGER DRIVE UNIT 9",
+   "city": "West Orange",
+   "zip": "07052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "VIZCAYA CONDOMINIUM ASSOCIATION, INC., A NJ NON-PROFIT CORPORATION",
+   "defendant": "BETH TOFEL",
+   "attorney": "HUESTON MCNULTY, PC",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219739",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-26003967"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 281833.57,
+   "auction_id": "2209219741",
+   "status": "SCHEDULED",
+   "case_number": "F00238626",
+   "parcel_id": null,
+   "address": "56 NORTH JEFFERSON STREET",
+   "city": "Orange",
+   "zip": "07050",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PLANET HOME LENDING, LLC",
+   "defendant": "SHAMSIDDIN R. MUHAMMAD; ET. ALS.",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219741",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-26003978"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 727904.61,
+   "auction_id": "2209219743",
+   "status": "SCHEDULED",
+   "case_number": "F00231726",
+   "parcel_id": null,
+   "address": "176c PARKER ST",
+   "city": "Newark",
+   "zip": "07104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1",
+   "defendant": "176 PARKER ST LLC; ET. AL.",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219743",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-26003983"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 201665.98,
+   "auction_id": "2209219744",
+   "status": "SCHEDULED",
+   "case_number": "F00215824",
+   "parcel_id": null,
+   "address": "140-142 CAROLINA AVE",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF LSF9 MASTER PARTICIPATION TRUST",
+   "defendant": "RAYMOND RATLIFF A/K/A RAY RATLIFF; ET. ALS.",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219744",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-26003987"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Cancelled",
+     "date": "2026-10-27"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 447655.16,
+   "auction_id": "2209219748",
+   "status": "CANCELLED",
+   "case_number": "F00166226",
+   "parcel_id": null,
+   "address": "323 SPRINGDALE AVENUE",
+   "city": "East Orange",
+   "zip": "07017",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "SEGUNDO G. ESPINOZA; ET AL.",
+   "attorney": "POWERS KIRN, LLC",
+   "sale_date": "2026-10-27",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219748",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-26004014"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-01-21"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2025-02-18"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2025-03-18"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2025-03-18"
+    },
+    {
+     "status": "WRIT EXPIRED",
+     "date": "2026-10-30"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 106705.86,
+   "auction_id": "2209219477",
+   "status": "WRIT EXPIRED",
+   "case_number": "F00257724",
+   "parcel_id": null,
+   "address": "59-61 WESTERN PARKWAY",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ARYMING ASSET MANAAGEMENT LLC",
+   "defendant": "NORTH JERSEY TIRE; ET AL.",
+   "attorney": "PELLEGRINO & FELDSTEIN, LLC",
+   "sale_date": "2026-10-30",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219477",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-24004827"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-01-07"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2025-01-07"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-03-03"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-03-31"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-04-28"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-04-28"
+    },
+    {
+     "status": "WRIT EXPIRED",
+     "date": "2026-11-01"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 219863.78,
+   "auction_id": "2209219473",
+   "status": "WRIT EXPIRED",
+   "case_number": "F00311124",
+   "parcel_id": null,
+   "address": "57 LAVENTHAL AVE",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING,",
+   "defendant": "LEAH FANT, ET.AL.",
+   "attorney": "PARKER MCCAY P.A.",
+   "sale_date": "2026-11-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219473",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-24004645"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-01-21"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2025-02-18"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2025-03-18"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2025-03-18"
+    },
+    {
+     "status": "WRIT EXPIRED",
+     "date": "2026-11-07"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 745247.92,
+   "auction_id": "2209219476",
+   "status": "WRIT EXPIRED",
+   "case_number": "F00799223",
+   "parcel_id": null,
+   "address": "186 CLINTON AVE",
+   "city": "Newark",
+   "zip": "07108",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "GITSIT SOLUTIONS LLC",
+   "defendant": "RONKAY GRIFFITH, ET. AL.",
+   "attorney": "PLUESE BECKER & SALTZMAN",
+   "sale_date": "2026-11-07",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219476",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-24004700"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Re-Scheduled",
+     "date": "2026-05-12"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-06-09"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-06-23"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 408558.44,
+   "auction_id": "2209219463",
+   "status": "SCHEDULED",
+   "case_number": "F00673013",
+   "parcel_id": null,
+   "address": "166 NORTH NINTH STREET",
+   "city": "Newark",
+   "zip": "07107",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK NATIONAL ASSOCIATION",
+   "defendant": "MAUREEN PONCELET-DELSOLE; ET AL.",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219463",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-22000326"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-06-10"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2025-06-10"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 279686.06,
+   "auction_id": "2209219483",
+   "status": "SCHEDULED",
+   "case_number": "F00670122",
+   "parcel_id": null,
+   "address": "27 LENOX AVENUE",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE IGLOO SERIES IV TRUST",
+   "defendant": "TERRELL BROWNRIDGE; ET AL.",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219483",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-25001631"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-06-24"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2025-06-24"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-06-23"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-06-23"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 341343.14,
+   "auction_id": "2209219486",
+   "status": "SCHEDULED",
+   "case_number": "F00644524",
+   "parcel_id": null,
+   "address": "222 FAIRWAY AVENUE",
+   "city": "Belleville",
+   "zip": "07109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK, AS TRUSTEE FOR THE HOLDERS OF THE GE-WMC ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2005-1",
+   "defendant": "JEROME LAXAMANA, ET. AL",
+   "attorney": "STERN & EISENBERG PC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219486",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-25001834"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-08-05"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2025-09-02"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2025-09-30"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2025-12-02"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2025-12-02"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 438933.67,
+   "auction_id": "2209219490",
+   "status": "SCHEDULED",
+   "case_number": "F01087623",
+   "parcel_id": null,
+   "address": "231 NORTH PARK STREET",
+   "city": "East Orange",
+   "zip": "07017",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR SECURITIZED ASSET BACKED RECEIVABLES LLC TRUST 2007-BR3, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-BR3,",
+   "defendant": "DAVID WILLIAMS A/K/A DAVID A. WILLIAMS, ET. AL",
+   "attorney": "STERN & EISENBERG, PC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219490",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-25002309"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-01-06"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-02-03"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-03-03"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-03-31"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-03-31"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-08-18"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 6,
+   "upset_amount": 307919.0,
+   "auction_id": "2209219515",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00694825",
+   "parcel_id": null,
+   "address": "210 BERKELEY AVENUE",
+   "city": "Newark",
+   "zip": "07107",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "MUTINDA KIVUITU JR.; ET AL.",
+   "attorney": "POWERS KIRN, LLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219515",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-25004046"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-01-06"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-02-03"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-03-03"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-03-03"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 483058.26,
+   "auction_id": "2209219518",
+   "status": "SCHEDULED",
+   "case_number": "F00640125",
+   "parcel_id": null,
+   "address": "505-507 CLIFTON AVENUE",
+   "city": "Newark",
+   "zip": "07104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLEY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST,",
+   "defendant": "RENATO A. HONEYWELL, ET. AL",
+   "attorney": "PARKER MCCAY P.A.",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219518",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-25004062"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-04-28"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-05-26"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-06-23"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-06-23"
+    },
+    {
+     "status": "Re-Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 390782.21,
+   "auction_id": "2209219548",
+   "status": "RE-SCHEDULED",
+   "case_number": "F00476220",
+   "parcel_id": null,
+   "address": "245 LAKE STREET",
+   "city": "Newark",
+   "zip": "07104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST,",
+   "defendant": "RAMON TORRES, ET. AL",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219548",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-26000869"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-05-12"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-06-09"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-07-07"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 899839.62,
+   "auction_id": "2209219553",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00396725",
+   "parcel_id": null,
+   "address": "1 CALVIN TERRACE",
+   "city": "West Orange",
+   "zip": "07052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF WAMPUS MORTGAGE LOAN TRUST,",
+   "defendant": "WALTER C. JOHNSON, III, ET. AL",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219553",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-26001095"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-05-26"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-06-23"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 5,
+   "upset_amount": 593373.3,
+   "auction_id": "2209219564",
+   "status": "ADJOURNED PLAINTIFF",
+   "case_number": "F259925",
+   "parcel_id": null,
+   "address": "89 WALNUT STREET",
+   "city": "Montclair",
+   "zip": "07042",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CAPITAL, LLC",
+   "defendant": "MERCURE VOLT, ET. AL",
+   "attorney": "FEIN SUCH KAHN & SHEPARD",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219564",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-26001241"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-05-26"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-06-23"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Re-Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 134000.77,
+   "auction_id": "2209219571",
+   "status": "RE-SCHEDULED",
+   "case_number": "F01264125",
+   "parcel_id": null,
+   "address": "87-89 MARTENS AVENUE",
+   "city": "Newark",
+   "zip": "07106",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "TOWD POINT MORTGAGE TRUST 2019-4, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+   "defendant": "ROBERT ORTIZ, ET. AL",
+   "attorney": "KML LAW GROUP, P.C.",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219571",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-26001387"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-05-26"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-05-26"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 592348.33,
+   "auction_id": "2209219572",
+   "status": "ADJOURNED PLAINTIFF",
+   "case_number": "F00718522",
+   "parcel_id": null,
+   "address": "19 WEST BRADFORD AVENUE",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CSMC 2019-RPL10 TRUST",
+   "defendant": "THEODORE J. DELEN, ET. AL",
+   "attorney": "FRENKEL LAMBERT WEISMAN & GORDON, LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219572",
+   "as_of": "2026-10-25T00:06-04:00",
+   "sheriff_number": "F-26001434"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-06-23"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-08-18"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 5,
+   "upset_amount": 533642.09,
+   "auction_id": "2209219586",
+   "status": "ADJOURNED PLAINTIFF",
+   "case_number": "F01081925",
+   "parcel_id": null,
+   "address": "53 WASHINGTON AVENUE",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2025-2,",
+   "defendant": "HSE INC, ET. AL",
+   "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219586",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26001767"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-04"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 108809.38,
+   "auction_id": "2209219597",
+   "status": "ADJOURNED PLAINTIFF",
+   "case_number": "F01278323",
+   "parcel_id": null,
+   "address": "304 SOUTH TWENTIETH STREET",
+   "city": "Newark",
+   "zip": "07103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MANUFACTURERS AND TRADERS TRUST COMPANY ALSO KNOWN AS M&T BANK SUCCESSOR BY MERGER TO HUDSON CITY SAVINGS BANK, FSB,",
+   "defendant": "CALMA P. WRIGHT DECEASED, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET. AL",
+   "attorney": "FRENKEL LAMBERT WEISMAN & GORDON, LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219597",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26001932"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-08-18"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 686437.56,
+   "auction_id": "2209219619",
+   "status": "ADJOURNED PLAINTIFF",
+   "case_number": "F1105923",
+   "parcel_id": null,
+   "address": "119 LITTLETON AVENUE",
+   "city": "Newark",
+   "zip": "07103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "KENNETH P. STEPHEN, JR., ET. AL",
+   "attorney": "FEIN SUCH KAHN & SHEPARD",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219619",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26002346"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-08-18"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 169460.74,
+   "auction_id": "2209219620",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F01131224",
+   "parcel_id": null,
+   "address": "69 LONGFELLOW AVE",
+   "city": "Newark",
+   "zip": "07106",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS TRUSTEE OF STANWICH MORTGAGE LOAN TRUST F",
+   "defendant": "MICHAEL HOLLOWAY, ET. AL",
+   "attorney": "GREENSPOON MARDER, LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219620",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26002351"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Re-Scheduled",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 592191.59,
+   "auction_id": "2209219624",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F1050623",
+   "parcel_id": null,
+   "address": "722-724 SOUTH 12TH STREET",
+   "city": "Newark",
+   "zip": "07103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON TRUST, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR MFRA TRUST 2014-2",
+   "defendant": "NSFI GROUP LLC, ET. AL",
+   "attorney": "FEIN SUCH KAHN & SHEPARD",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219624",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26002371"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-08-18"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 287431.93,
+   "auction_id": "2209219628",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00758125",
+   "parcel_id": null,
+   "address": "584 BROADWAY",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK, N.A.,",
+   "defendant": "DELCY ARIAS, ET. AL",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219628",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26002447"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 357983.07,
+   "auction_id": "2209219644",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00541725",
+   "parcel_id": null,
+   "address": "107 S MUNN AVENUE",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN",
+   "defendant": "MONIQUE D. HAWKINS; ET AL.",
+   "attorney": "FRENKEL LAMBERT WEISMAN & GORDON, LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219644",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26002736"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-18"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 166328.47,
+   "auction_id": "2209219649",
+   "status": "ADJOURNED PLAINTIFF",
+   "case_number": "F00822825",
+   "parcel_id": null,
+   "address": "90 MIDLAND AVE",
+   "city": "East Orange",
+   "zip": "07017",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "COMMUNITY AMERICA CREDIT UNION",
+   "defendant": "THEON ALLEYNE; ET. AL.",
+   "attorney": "BROCK & SCOTT, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219649",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26002807"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 279151.67,
+   "auction_id": "2209219664",
+   "status": "ADJOURNED PLAINTIFF",
+   "case_number": "F00214726",
+   "parcel_id": null,
+   "address": "98 WESTVILLE AVE",
+   "city": "Caldwell",
+   "zip": "07006",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "INGRID CATALDI; ET. ALS.",
+   "attorney": "McCABE, WEISBERG & CONWAY LLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219664",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003074"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 147524.41,
+   "auction_id": "2209219674",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00076526",
+   "parcel_id": null,
+   "address": "55 BEECH STREET",
+   "city": "Belleville",
+   "zip": "07109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+   "defendant": "JOSE R. HENRIQUEZ, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES AND HIS/HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST, ET. AL",
+   "attorney": "LOGS LEGAL GROUP LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219674",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003220"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 655788.45,
+   "auction_id": "2209219675",
+   "status": "ADJOURNED PLAINTIFF",
+   "case_number": "F01014725",
+   "parcel_id": null,
+   "address": "536 JOYCE ST",
+   "city": "Orange",
+   "zip": "07050",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "KARIMA EWING",
+   "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219675",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003228"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 578680.37,
+   "auction_id": "2209219677",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00775225",
+   "parcel_id": null,
+   "address": "428 S. 17TH STREET",
+   "city": "Newark",
+   "zip": "07103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR IBIS HOLDINGS A TRUST",
+   "defendant": "SUCCEEDED LLC; ET AL.",
+   "attorney": "GREENSPOON MARDER, LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219677",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003246"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 401928.11,
+   "auction_id": "2209219680",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00309126",
+   "parcel_id": null,
+   "address": "12 MAPLE AVENUE",
+   "city": "Montclair",
+   "zip": "07042",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEWREZ LLC DBA SHELLPOINT MORTGAGE SERVICING",
+   "defendant": "TODD DALE, ET. AL",
+   "attorney": "STERN & EISENBERG, PC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219680",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003265"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 84261.55,
+   "auction_id": "2209219681",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00092326",
+   "parcel_id": null,
+   "address": "119 DICKERSON ST",
+   "city": "Newark",
+   "zip": "07107",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR AMERIQUEST MORTGAGE SECURITIES INC., ASSET-BACKED PASS-THROUGH CERTIFICATES SERIES 2005-R5",
+   "defendant": "LINDA WARD; ET. ALS.",
+   "attorney": "STERN & EISENBERG, P.C.",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219681",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003280"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 328851.13,
+   "auction_id": "2209219682",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00995225",
+   "parcel_id": null,
+   "address": "5 WESTERN PKY",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "HSBC BANK USA, N.A. AS INDENTURE TRUSTEE FOR THE REGISTERED NOTEHOLDERS OF RENAISSANCE HOME EQUITY LOAN TRUST 2006-2",
+   "defendant": "GUADENCIO AGUIRRE; ET. ALS.",
+   "attorney": "STERN & EISENBERG, P.C.",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219682",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003313"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 495451.45,
+   "auction_id": "2209219683",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00744825",
+   "parcel_id": null,
+   "address": "39 BERKSHIRE PLACE",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+   "defendant": "MILDRED G. WARREN A/K/A MILDRED WARREN, DECEASED, HER HEIRS, DEVISEES, AND PERSONAL REORESENTATIVES, AND HIS, HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST, ET. AL",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219683",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003314"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 766129.97,
+   "auction_id": "2209219686",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00082525",
+   "parcel_id": null,
+   "address": "83 1/2 GARSIDE ST",
+   "city": "Newark",
+   "zip": "07104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "HOMEXPRESS MORTGAGE CORPORATION",
+   "defendant": "NEWARK GARSIDE LLC; ET. ALS.",
+   "attorney": "GREENSPOON MARDER, LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219686",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003323"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 349459.06,
+   "auction_id": "2209219687",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F01348025",
+   "parcel_id": null,
+   "address": "8 CHESTNUT STREET",
+   "city": "Caldwell",
+   "zip": "07006",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK AS TRUSTEE FOR REGISTERED HOLDERS OF CWABS, INC., ASSET-BACKED CERTIFICATES, SERIES 2005-14",
+   "defendant": "ROBERT SIEDLER; ET AL.",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219687",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003376"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 682272.77,
+   "auction_id": "2209219688",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00779424",
+   "parcel_id": null,
+   "address": "48 BELLEVUE AVE",
+   "city": "Montclair",
+   "zip": "07043",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "HUSANI OAKLEY; ET. ALS.",
+   "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219688",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003378"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 652686.73,
+   "auction_id": "2209219692",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00407825",
+   "parcel_id": null,
+   "address": "79 BROOKDALE AVE",
+   "city": "Newark",
+   "zip": "07106",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR COLT 2023-4 MORTGAGE LOAN TRUST",
+   "defendant": "MONLORA WIGGINS",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219692",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003403"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 626064.88,
+   "auction_id": "2209219695",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F01350425",
+   "parcel_id": null,
+   "address": "676-678 SPRINGFIELD AVE",
+   "city": "Newark",
+   "zip": "07103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERICAL CAPITAL LOAN TRUST 2025-2",
+   "defendant": "NWK HOLDINGS LLC, A NEW JERSEY LIMITED LIABILITY COMPANY, ET. ALS.",
+   "attorney": "STERN & EISENBERG, P.C.",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219695",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003430"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    },
+    {
+     "status": "Cancelled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 737153.49,
+   "auction_id": "2209219697",
+   "status": "CANCELLED",
+   "case_number": "F00983825",
+   "parcel_id": null,
+   "address": "194 12TH AVE",
+   "city": "Newark",
+   "zip": "07104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "JOAQUIM M. ESTEVES; ET. ALS.",
+   "attorney": "KML LAW GROUP, P.C.",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219697",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003474"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 333614.25,
+   "auction_id": "2209219698",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00380523",
+   "parcel_id": null,
+   "address": "436 FRANKFORT ST",
+   "city": "Orange",
+   "zip": "07050",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "COMPUTERSHARE TRUST COMPANY, N.A., NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR NBE ASSET TRUST",
+   "defendant": "BRONX GIRLS FLIPS, LLC",
+   "attorney": "McCABE, WEISBERG & CONWAY LLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219698",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003477"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 456140.55,
+   "auction_id": "2209219699",
+   "status": "ADJOURNED PLAINTIFF",
+   "case_number": "F00380722",
+   "parcel_id": null,
+   "address": "373 PESHINE AVENUE",
+   "city": "Newark",
+   "zip": "07112",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "MICHAEL J DAVIS, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS/HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; ET. AL",
+   "attorney": "FRENKEL LAMBERT WEISMAN & GORDON, LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219699",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003494"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 508006.78,
+   "auction_id": "2209219714",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F01348925",
+   "parcel_id": null,
+   "address": "48 LAUREL AVE",
+   "city": "East Orange",
+   "zip": "07017",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "NEHEMIE EXAVIER; ET. ALS.",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219714",
+   "as_of": "2026-10-25T00:07-04:00",
+   "sheriff_number": "F-26003683"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 641008.31,
+   "auction_id": "2209219723",
+   "status": "ADJOURNED PLAINTIFF",
+   "case_number": "F00297423",
+   "parcel_id": null,
+   "address": "392 TREMONT AVENUE",
+   "city": "Orange",
+   "zip": "07050",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LOANDEPOT.COM, LLC,",
+   "defendant": "JAMES MORRISON AND KWASIADA MORRISON, HUSBAND AND WIFE; ET. AL",
+   "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219723",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26003888"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 745208.13,
+   "auction_id": "2209219751",
+   "status": "SCHEDULED",
+   "case_number": "F00608925",
+   "parcel_id": null,
+   "address": "345 IRVINE TURNER BLVD",
+   "city": "Newark",
+   "zip": "07108",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "TROY NICHOLAS, ET. AL.",
+   "attorney": "POWERS KIRN, LLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219751",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004093"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 373326.5,
+   "auction_id": "2209219752",
+   "status": "SCHEDULED",
+   "case_number": "F00962025",
+   "parcel_id": null,
+   "address": "825 RIDGE STREET",
+   "city": "Newark",
+   "zip": "07104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "SANTOS MORALES; ET AL.",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219752",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004101"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 2338574.42,
+   "auction_id": "2209219753",
+   "status": "SCHEDULED",
+   "case_number": "F00522524",
+   "parcel_id": null,
+   "address": "195 CENTRAL AVENUE",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NUBRIDGE COMMERICIAL LENDING LLC",
+   "defendant": "SUSCENHOY LLC; ET AL.",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219753",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004104"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 362753.05,
+   "auction_id": "2209219754",
+   "status": "SCHEDULED",
+   "case_number": "F00410226",
+   "parcel_id": null,
+   "address": "61 CHELSEA AVE",
+   "city": "Newark",
+   "zip": "07106",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILIMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE OF OBX 2025-NQM7 TRUST",
+   "defendant": "61 CHELSEA REALTY LLC; ET. AL.",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219754",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004106"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 702929.87,
+   "auction_id": "2209219755",
+   "status": "SCHEDULED",
+   "case_number": "F00296525",
+   "parcel_id": null,
+   "address": "54 NORTH ORATON PARKWAY",
+   "city": "East Orange",
+   "zip": "07017",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PACIFIC ASSET HOLDING, LLC,",
+   "defendant": "54 ORATON NJ LLC, ET. AL6",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219755",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004107"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 741030.38,
+   "auction_id": "2209219756",
+   "status": "SCHEDULED",
+   "case_number": "F00218726",
+   "parcel_id": null,
+   "address": "200 MUNN AVE",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR THE FLIC RESIDENTIAL MORTGAGE LOAN TRUST 1",
+   "defendant": "200 MUNN AVE LLC; ET. AL.",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219756",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004108"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 127223.76,
+   "auction_id": "2209219757",
+   "status": "SCHEDULED",
+   "case_number": "F00911625",
+   "parcel_id": null,
+   "address": "140 ISABELLA AVE",
+   "city": "Newark",
+   "zip": "07106",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR MORGAN STANLEY STRUCTURED TRUST I 2007-1 ASSET-BACKED CERTIFICATES, 2007-1",
+   "defendant": "RALPH JACKMAN, DECEASEDM HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST, ET. AL.",
+   "attorney": "BROCK & SCOTT, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219757",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004111"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 281235.08,
+   "auction_id": "2209219758",
+   "status": "SCHEDULED",
+   "case_number": "F00571825",
+   "parcel_id": null,
+   "address": "219 POMONA AVE",
+   "city": "Newark",
+   "zip": "07112",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ROYAL PACIFIC FUNDING CORPORATION",
+   "defendant": "FELISA RODRIGUEZ, ET. AL.",
+   "attorney": "BROCK & SCOTT, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219758",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004120"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 277417.69,
+   "auction_id": "2209219759",
+   "status": "SCHEDULED",
+   "case_number": "F00960924",
+   "parcel_id": null,
+   "address": "101 COLUMBIA AVE",
+   "city": "Newark",
+   "zip": "07106",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "AMERIHOME MORTGAGE COMPANY, LLC",
+   "defendant": "CHRISTOPHER POLLINS; ET. AL.",
+   "attorney": "BROCK & SCOTT, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219759",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004130"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 185648.05,
+   "auction_id": "2209219760",
+   "status": "SCHEDULED",
+   "case_number": "F00715625",
+   "parcel_id": null,
+   "address": "507-509 HIGHLAND AVENUE",
+   "city": "Newark",
+   "zip": "07104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY NATIONAL ASSOCIATION FKA THE BANK OF NEW YORK TRUST COMPANY, N.A. AS SUCCESSOR TO JPMORGAN CHASE BANK, N.A., AS TRUSTEE FOR RESIDENTIAL ASSET MORTGAGE PRODUCTS, INC., MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES SERIES 2005-RP2",
+   "defendant": "MERYSOL REYES; ET AL.",
+   "attorney": "BROCK & SCOTT, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219760",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004132"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 316013.19,
+   "auction_id": "2209219762",
+   "status": "SCHEDULED",
+   "case_number": "F01251225",
+   "parcel_id": null,
+   "address": "447 S. 17TH STREET",
+   "city": "Newark",
+   "zip": "07103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "M & T BANK",
+   "defendant": "KATRICIA OCCIDOR; ET AL.",
+   "attorney": "BROCK & SCOTT, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219762",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004139"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 120083.4,
+   "auction_id": "2209219763",
+   "status": "SCHEDULED",
+   "case_number": "F00407524",
+   "parcel_id": null,
+   "address": "108 HOWARD PLACE",
+   "city": "Nutley",
+   "zip": "07110",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "TD BANK N.A. F/K/A TD BANKNORTH, N.A., SUCCESSOR BY MERGER TO HUDSON UNITED BANK",
+   "defendant": "MARIE TUTELA; ET. AL.",
+   "attorney": "DUANE MORRIS",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219763",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004147"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 45287.23,
+   "auction_id": "2209219764",
+   "status": "SCHEDULED",
+   "case_number": "F1097725",
+   "parcel_id": null,
+   "address": "601-603 4TH STREET",
+   "city": "Newark",
+   "zip": "07107",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "TRENTON OPPORTUNITY 10, LLC",
+   "defendant": "HELLANE T. FREEMAN, INDIVIDUALLY AND AS EXECUTRIX OF THE ESTATE OF ROSEMARY FREEMAN, DECEASED; ET AL.",
+   "attorney": "HONIG & GREENBERG, L.L.C.",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219764",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004149"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 3692346.51,
+   "auction_id": "2209219765",
+   "status": "SCHEDULED",
+   "case_number": "F00823625",
+   "parcel_id": null,
+   "address": "391 LAKESIDE AVE",
+   "city": "Orange",
+   "zip": "07050",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "H&B PARTNERS, INC., A CORPORATION",
+   "defendant": "391 LAKESIDE AVE LLC, A NEW JERSEY LIMITED LIABILITY COMPANY; ET. AL.",
+   "attorney": "MANDELBAUM BARRETT, PC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219765",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004151"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 252187.74,
+   "auction_id": "2209219766",
+   "status": "SCHEDULED",
+   "case_number": "F01357225",
+   "parcel_id": null,
+   "address": "85 MADISON AVE",
+   "city": "Newark",
+   "zip": "07108",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+   "defendant": "TIFFANY TURNER; ET AL.",
+   "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219766",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004152"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 555258.2,
+   "auction_id": "2209219767",
+   "status": "SCHEDULED",
+   "case_number": "F00926824",
+   "parcel_id": null,
+   "address": "33 BEVERLY ROAD",
+   "city": "West Caldwell",
+   "zip": "07006",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PLANET HOME LENDING, LLC",
+   "defendant": "DIANE PATRIZIO A/K/A DIANCE C. PATRIZIO; ET AL.",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219767",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004154"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 758204.82,
+   "auction_id": "2209219768",
+   "status": "SCHEDULED",
+   "case_number": "F754423",
+   "parcel_id": null,
+   "address": "73 BOYLAN STREET",
+   "city": "Newark",
+   "zip": "07106",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ATHENE ANNUITY AND LIFE COMPANY",
+   "defendant": "NEWARK REALTY PLUS, LLC",
+   "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219768",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004156"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 418044.49,
+   "auction_id": "2209219770",
+   "status": "SCHEDULED",
+   "case_number": "F00098226",
+   "parcel_id": null,
+   "address": "15 PATTON PL",
+   "city": "Montclair",
+   "zip": "07043",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "RUBEN den BOER, AND VICTOR POOL AND VICETONE LIVE LLC",
+   "defendant": "SM ADVISORS LLC",
+   "attorney": "CONNELL FOLEY, LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219770",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004178"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 357671.11,
+   "auction_id": "2209219771",
+   "status": "SCHEDULED",
+   "case_number": "F00532826",
+   "parcel_id": null,
+   "address": "39 JACOB ST",
+   "city": "Newark",
+   "zip": "07103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEWREZ, LLC",
+   "defendant": "SHARDE S. CRITCHLOW; ET. AL.",
+   "attorney": "PARKER MCCAY P.A.",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219771",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004182"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 585304.06,
+   "auction_id": "2209219772",
+   "status": "SCHEDULED",
+   "case_number": "F00774725",
+   "parcel_id": null,
+   "address": "109 SOUTH 12TH ST",
+   "city": "Newark",
+   "zip": "07107",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR IBIS HOLDINGS A TRUST",
+   "defendant": "SUCCEEDED LLC; ET. ALS.",
+   "attorney": "GREENSPOON MARDER, LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219772",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004185"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 838310.1,
+   "auction_id": "2209219773",
+   "status": "SCHEDULED",
+   "case_number": "F00393924",
+   "parcel_id": null,
+   "address": "7 OAKLAND RD",
+   "city": "Maplewood",
+   "zip": "07040",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "M&T BANK",
+   "defendant": "DANA SCHWARTZ; ET. AL.",
+   "attorney": "BROCK & SCOTT, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219773",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004187"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 507410.32,
+   "auction_id": "2209219774",
+   "status": "SCHEDULED",
+   "case_number": "F00583026",
+   "parcel_id": null,
+   "address": "50 RIDGEHURST RD",
+   "city": "West Orange",
+   "zip": "07052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CHAMPS TRUST 2025-1",
+   "defendant": "ASSIBEY BLAKE",
+   "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219774",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004189"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 395770.28,
+   "auction_id": "2209219775",
+   "status": "SCHEDULED",
+   "case_number": "F01336725",
+   "parcel_id": null,
+   "address": "137 SUMMER ST",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2024-3",
+   "defendant": "135-137 SUMMER LLC; ET. ALS.",
+   "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219775",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004202"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 64103.65,
+   "auction_id": "2209219776",
+   "status": "SCHEDULED",
+   "case_number": "F00395326",
+   "parcel_id": null,
+   "address": "63 SOUTH ORANGE AVE",
+   "city": "Newark",
+   "zip": "07103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK, N.A.",
+   "defendant": "BETTY J. SMITH A/K/A BETTY SMITH; ET. AL.",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219776",
+   "as_of": "2026-10-25T00:08-04:00",
+   "sheriff_number": "F-26004212"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 703115.65,
+   "auction_id": "2209219777",
+   "status": "SCHEDULED",
+   "case_number": "F01288725",
+   "parcel_id": null,
+   "address": "151 NEW YORK AVE",
+   "city": "Newark",
+   "zip": "07105",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NATIONSTAR MORTGAGE LLC",
+   "defendant": "151 NEW YORK AVE LLC; ET. ALS.",
+   "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219777",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26004214"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 413295.77,
+   "auction_id": "2209219778",
+   "status": "SCHEDULED",
+   "case_number": "F01299023",
+   "parcel_id": null,
+   "address": "46 MAPLE STREET",
+   "city": "West Orange",
+   "zip": "07052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR FIRST FRANKLIN MORTGAGE LOAN TRUST 2006-FF11, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-FF11,",
+   "defendant": "LIZETTE DOTHARD; ET. AL",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219778",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26004215"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 182129.4,
+   "auction_id": "2209219779",
+   "status": "SCHEDULED",
+   "case_number": "F00314525",
+   "parcel_id": null,
+   "address": "96 MADONNA PL",
+   "city": "East Orange",
+   "zip": "07018",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+   "defendant": "TERENCE JOHNSON; ET. AL.",
+   "attorney": "BROCK & SCOTT, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219779",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26004243"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 114903.61,
+   "auction_id": "2209219781",
+   "status": "SCHEDULED",
+   "case_number": "F00718825",
+   "parcel_id": null,
+   "address": "78-80 HIGHLAND AVE",
+   "city": "Newark",
+   "zip": "07104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FREEDO MORTGAGE CORPORATION",
+   "defendant": "DHANPAUL D. RAMDASS; ET. ALS.",
+   "attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219781",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26004249"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 114996.67,
+   "auction_id": "2209219782",
+   "status": "SCHEDULED",
+   "case_number": "F01398925",
+   "parcel_id": null,
+   "address": "125-127 BERKSHIRE PLACE",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MIDFIRST BANK",
+   "defendant": "EUNICE LUKE; ET. AL",
+   "attorney": "GROSS POLOWY",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219782",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26004260"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 94573.55,
+   "auction_id": "2209219783",
+   "status": "SCHEDULED",
+   "case_number": "F00713919",
+   "parcel_id": null,
+   "address": "106 SUMMIT AVE",
+   "city": "Bloomfield",
+   "zip": "07003",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK, N.A.",
+   "defendant": "MICHELLE M. TRUFFIN, INDIVIDUAL AND AS EXECUTRIX OF THE ESTATE OF CARLOS TRUFFIN, ET. AL.",
+   "attorney": "BROCK & SCOTT, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219783",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26004262"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 471809.04,
+   "auction_id": "2209219784",
+   "status": "SCHEDULED",
+   "case_number": "F00133826",
+   "parcel_id": null,
+   "address": "194 NORTH 11TH ST",
+   "city": "Newark",
+   "zip": "07107",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+   "defendant": "ROBERT JAMES GRAHAM; ET. AL.",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219784",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26004268"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 534915.67,
+   "auction_id": "2209219785",
+   "status": "SCHEDULED",
+   "case_number": "F00432526",
+   "parcel_id": null,
+   "address": "32 OAK DRIVE",
+   "city": "Roseland",
+   "zip": "07068",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+   "defendant": "JOSE GARGANTA A/K/A JOSE F. GARGANTA; ET. AL",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219785",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26004270"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 175817.14,
+   "auction_id": "2209219786",
+   "status": "SCHEDULED",
+   "case_number": "F01411225",
+   "parcel_id": null,
+   "address": "142 SOUTH DURAND PLACE",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "THE BANK OF NEW YORK MELLON, F/K/A THE BANK OF NEW YORK AS TRUSTEE FOR REGISTERED HOLDERS OF CWABS, INC., ASSET-BACKED CERTIFICATES, SERIES 2007-12,",
+   "defendant": "HAMP LEE WILLIAMSON, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT TITLE AND INTEREST; ET. AL",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219786",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26004276"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 1457984.9,
+   "auction_id": "2209219788",
+   "status": "SCHEDULED",
+   "case_number": "F01094025",
+   "parcel_id": null,
+   "address": "53 RIDGE ROAD",
+   "city": "West Orange",
+   "zip": "07052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ELIZON MASTER PARTICIPATION TRUST I, U.S. BANK TRUST NATIONAL ASSOCIATION, AS OWNER TRUSTEE,",
+   "defendant": "53 RIDGE ROAD, LLC, ET. AL",
+   "attorney": "ROMANO GARUBO & ARGENTIERI",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219788",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26004282"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 436507.37,
+   "auction_id": "2209219789",
+   "status": "SCHEDULED",
+   "case_number": "F00629324",
+   "parcel_id": null,
+   "address": "47 HIGHWOOD RD",
+   "city": "West Orange",
+   "zip": "07052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST X-C",
+   "defendant": "DWIGHT DELAPENHA; ET. AL.",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219789",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26004286"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 104472.9,
+   "auction_id": "2209219792",
+   "status": "SCHEDULED",
+   "case_number": "F02299416",
+   "parcel_id": null,
+   "address": "167 RICHELIEU TERRACE",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MIDFIRST BANK",
+   "defendant": "DIANE BROWN-STITH, ET. AL.",
+   "attorney": "KML LAW GROUP, P.C.",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219792",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26004299"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 351929.84,
+   "auction_id": "2209219793",
+   "status": "SCHEDULED",
+   "case_number": "F00520425",
+   "parcel_id": null,
+   "address": "863 SOUTH 18TH ST",
+   "city": "Newark",
+   "zip": "07106",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+   "defendant": "MICHAEL A. GOINS; ET. ALS.",
+   "attorney": "GROSS POLOWY, LLC",
+   "sale_date": "2026-11-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219793",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26004300"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-02-04"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2025-03-04"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2025-04-01"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2025-04-01"
+    },
+    {
+     "status": "WRIT EXPIRED",
+     "date": "2026-11-19"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 511107.97,
+   "auction_id": "2209219478",
+   "status": "WRIT EXPIRED",
+   "case_number": "F01378323",
+   "parcel_id": null,
+   "address": "89 UNION AVE",
+   "city": "Belleville",
+   "zip": "07109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+   "defendant": "ANGEL GAUD; ET. AL.",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-11-19",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219478",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-24004965"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-10-14"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2025-11-11"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2025-11-18"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2025-12-16"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-01-20"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-01-20"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-08-18"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-08-18"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 236835.24,
+   "auction_id": "2209219503",
+   "status": "SCHEDULED",
+   "case_number": "F00313924",
+   "parcel_id": null,
+   "address": "548-550 SANDFORD AVE",
+   "city": "Newark",
+   "zip": "07106",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS TRUSTEE SECURITZED ASSET BACKED RECEIVABLES LLC TRUST 2006-HE1 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-HE1",
+   "defendant": "MACKENZY ANTOINE A/K/A MACKENZY J. ANTOINE; ET. ALS.",
+   "attorney": "STERN & EISENBERG, P.C.",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219503",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-25003311"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-10-28"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2025-11-25"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2025-12-02"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2025-12-30"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-01-06"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-02-03"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-03-03"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-05-05"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-07-07"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-11-17"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 12,
+   "upset_amount": 122062.97,
+   "auction_id": "2209219505",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00167325",
+   "parcel_id": null,
+   "address": "290-292 17TH AVE",
+   "city": "Newark",
+   "zip": "07103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+   "defendant": "VICTOIRE JEAN-CHARLES, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; ET. ALS.",
+   "attorney": "PLUESE, BECKER & SALTZMAN, LLC",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219505",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-25003343"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-02-03"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-02-03"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-03-02"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 753905.94,
+   "auction_id": "2209219525",
+   "status": "SCHEDULED",
+   "case_number": "F01369623",
+   "parcel_id": null,
+   "address": "70 CHELSEA AVENUE",
+   "city": "Newark",
+   "zip": "07106",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "RTL REO LLC,",
+   "defendant": "NEWARK REALTY PLUS, LLC, ET. AL",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219525",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-25004451"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 23282.39,
+   "auction_id": "2209219709",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00078226",
+   "parcel_id": null,
+   "address": "7 HARVARD TER",
+   "city": "West Orange",
+   "zip": "07052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "TIAA, FSB D/B/A EVERBANK",
+   "defendant": "BELLE CLIFTON, ET. AL.",
+   "attorney": "McCABE, WEISBERG & CONWAY LLC",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219709",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26003627"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 456814.78,
+   "auction_id": "2209219734",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00281026",
+   "parcel_id": null,
+   "address": "225-227 ALEXANDER STREET",
+   "city": "Newark",
+   "zip": "07106",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ROCKET MORTGAGE, LLC.",
+   "defendant": "TAUREAN JOVON JOHNSON A/K/A TAUREAN JOHNSON; ET AL.",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219734",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26003930"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 456916.57,
+   "auction_id": "2209219745",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00395826",
+   "parcel_id": null,
+   "address": "206 MAIN ST",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
+   "defendant": "SANDRA PENUELA",
+   "attorney": "GROSS POLOWY, LLC",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219745",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26003991"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 347360.32,
+   "auction_id": "2209219746",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00012324",
+   "parcel_id": null,
+   "address": "328 BELLEVILLE AVE",
+   "city": "Bloomfield",
+   "zip": "07003",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "UNITED WHOLESALE MORTGAGE, LLC",
+   "defendant": "CORNERSTONE FAMILY GOD TRUST; ET. ALS.",
+   "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219746",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26003997"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 275036.6,
+   "auction_id": "2209219747",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00889025",
+   "parcel_id": null,
+   "address": "518 N. GROVE STREET",
+   "city": "East Orange",
+   "zip": "07017",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUCKEN LOANS, LLC",
+   "defendant": "NNEKA NURSE; ET AL.",
+   "attorney": "STERN & EISENBERG PC",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219747",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26003998"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 265006.75,
+   "auction_id": "2209219794",
+   "status": "SCHEDULED",
+   "case_number": "F00659326",
+   "parcel_id": null,
+   "address": "101 BROOKLINE AVE",
+   "city": "Nutley",
+   "zip": "07110",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION AS TRUSTEE FOR IGLOO SERIES IV TRUST",
+   "defendant": "MICHAEL M. TALLARIDA; ET. AL.",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219794",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26004340"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 1401820.06,
+   "auction_id": "2209219795",
+   "status": "SCHEDULED",
+   "case_number": "F00404526",
+   "parcel_id": null,
+   "address": "1221 BLOOMFIELD AVE",
+   "city": "Fairfield",
+   "zip": "07004",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB.",
+   "defendant": "1221 BLOOMFIELD LLC; ET. AL.",
+   "attorney": "DEMBO, BROWN & BURNS LLP",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219795",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26004341"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 724227.53,
+   "auction_id": "2209219796",
+   "status": "SCHEDULED",
+   "case_number": "F01331625",
+   "parcel_id": null,
+   "address": "102 SOUTH 11TH ST",
+   "city": "Newark",
+   "zip": "07107",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MIDFIRST BANK",
+   "defendant": "DAVON POLEDORE",
+   "attorney": "GROSS POLOWY, LLC",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219796",
+   "as_of": "2026-10-25T00:09-04:00",
+   "sheriff_number": "F-26004346"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 472686.63,
+   "auction_id": "2209219797",
+   "status": "SCHEDULED",
+   "case_number": "F00021121",
+   "parcel_id": null,
+   "address": "357-359 WOODSIDE AVE",
+   "city": "Newark",
+   "zip": "07104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+   "defendant": "FERNANDO SOLARES; ET. ALS.",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219797",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004358"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 519354.54,
+   "auction_id": "2209219798",
+   "status": "SCHEDULED",
+   "case_number": "F00658225",
+   "parcel_id": null,
+   "address": "185 OAKWOOD PL",
+   "city": "Orange",
+   "zip": "07050",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "TAIKISHA CHARMAIN BAKER; ET. AL.",
+   "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219798",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004361"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 958410.49,
+   "auction_id": "2209219799",
+   "status": "SCHEDULED",
+   "case_number": "F00075526",
+   "parcel_id": null,
+   "address": "44-46 LENTZ AVENUE",
+   "city": "Newark",
+   "zip": "07105",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CITIBANK, N.A., NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS DELAWARE TRUSTEE OF J.P. MORGAN TRUST 2025-VIS3",
+   "defendant": "44 LENTZ AVE LLC; ET AL.",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219799",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004386"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 646080.76,
+   "auction_id": "2209219800",
+   "status": "SCHEDULED",
+   "case_number": "F00519326",
+   "parcel_id": null,
+   "address": "118 SUMMER AVENUE",
+   "city": "Newark",
+   "zip": "07104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PACIFIC ASSET HOLDINGS, LLC",
+   "defendant": "KARKA SUMMER LLC; ET AL.",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219800",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004394"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 415936.46,
+   "auction_id": "2209219801",
+   "status": "SCHEDULED",
+   "case_number": "F00961323",
+   "parcel_id": null,
+   "address": "40 WALTER ST",
+   "city": "Bloomfield",
+   "zip": "07003",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "AJAX MORTGAGE LOAN TRUST 2023-B MORTGAGE-BACKED SECURITIES, SERIES 2023-B, BY U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+   "defendant": "EDNA G. THOMAS, ET. AL.",
+   "attorney": "PLUESE BECKER & SALTZMAN",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219801",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004429"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 194882.35,
+   "auction_id": "2209219802",
+   "status": "SCHEDULED",
+   "case_number": "F00583925",
+   "parcel_id": null,
+   "address": "25-27 BEVERLY ST",
+   "city": "Newark",
+   "zip": "07108",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "RAYMOND HERNANDEZ; ET. ALS.",
+   "attorney": "FRENKEL LAMBERT WEISMAN & GORDON, LLP",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219802",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004432"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 487960.24,
+   "auction_id": "2209219803",
+   "status": "SCHEDULED",
+   "case_number": "F00113526",
+   "parcel_id": null,
+   "address": "526 HIGHLAND AVENUE",
+   "city": "Montclair",
+   "zip": "07043",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SELENE FINANCE LP",
+   "defendant": "JOSE A. MOURA; ET AL.",
+   "attorney": "GROSS POLOWY, LLC",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219803",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004434"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 237527.46,
+   "auction_id": "2209219804",
+   "status": "SCHEDULED",
+   "case_number": "F01093422",
+   "parcel_id": null,
+   "address": "70 COLUMBUS AVE",
+   "city": "Belleville",
+   "zip": "07109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+   "defendant": "ELIZABETH SCHWENK; ET. AL.",
+   "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219804",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004438"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 677754.57,
+   "auction_id": "2209219807",
+   "status": "SCHEDULED",
+   "case_number": "F00745325",
+   "parcel_id": null,
+   "address": "10 HOMEWOOD WAY",
+   "city": "Montclair",
+   "zip": "07042",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF  ACQUISITION TRUST",
+   "defendant": "DAREX BROOKS A/K/A DAREX C. BROOKS; ET AL.",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219807",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004466"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 191297.76,
+   "auction_id": "2209219808",
+   "status": "SCHEDULED",
+   "case_number": "F00160826",
+   "parcel_id": null,
+   "address": "34 LESLIE STREET",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION AS TRUSTEE FOR OPTION ONE MORTGAGE LOAN TRUST 2007-1, ASSET-BACKED CERTIFICATES, SERIES 2007-1",
+   "defendant": "CHRISTOPHER JONES A/K/A CHRISTOPH JONES A/K/A CHRISTOPH E. JONES; ET AL.",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219808",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004476"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 616731.49,
+   "auction_id": "2209219809",
+   "status": "SCHEDULED",
+   "case_number": "F00543126",
+   "parcel_id": null,
+   "address": "769 LAKE STREET",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "OCWEN LOAN ACQUISITION TRUST 2024-HB1",
+   "defendant": "FRANK PANICO; ET AL.",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219809",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004505"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 289646.15,
+   "auction_id": "2209219810",
+   "status": "SCHEDULED",
+   "case_number": "F00308723",
+   "parcel_id": null,
+   "address": "353 CHAPMAN ST",
+   "city": "Newark",
+   "zip": "07106",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION AS TRUSTEE OF THE TIKI SERIES IV TRUST",
+   "defendant": "RONNELL SIMMONS; ET. AL.",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219810",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004526"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 296218.85,
+   "auction_id": "2209219811",
+   "status": "SCHEDULED",
+   "case_number": "F00120525",
+   "parcel_id": null,
+   "address": "30 BROOKWOOD ST",
+   "city": "East Orange",
+   "zip": "07018",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR THE REGISTERED HOLDERS OF MERITAGE MORTGAGE LOAN TRUST 2005-3 ASSET-BACKED CERTIFICATES, SERIES 2005-3",
+   "defendant": "ABDUL BROWN; ET. AL.",
+   "attorney": "BROCK & SCOTT, PLLC",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219811",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004528"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 263274.35,
+   "auction_id": "2209219812",
+   "status": "SCHEDULED",
+   "case_number": "F00604525",
+   "parcel_id": null,
+   "address": "34-36 LINWOOD PL",
+   "city": "East Orange",
+   "zip": "07017",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+   "defendant": "MARILYN C. FERRIS; ET. AL.",
+   "attorney": "GROSS POLOWY LLC",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219812",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004530"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 0.0,
+   "auction_id": "2209219813",
+   "status": "SCHEDULED",
+   "case_number": "F00596624",
+   "parcel_id": null,
+   "address": "118 SMALLWOOD AVE",
+   "city": "Belleville",
+   "zip": "07109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK, N.A.",
+   "defendant": "GERARDO PISERCHIA, JR.; ET. AL.",
+   "attorney": "LOGS LEGAL GROUP LLP",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219813",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004539"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 229978.14,
+   "auction_id": "2209219815",
+   "status": "SCHEDULED",
+   "case_number": "F00681826",
+   "parcel_id": null,
+   "address": "50 HIGH ST",
+   "city": "Glen Ridge",
+   "zip": "07028",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+   "defendant": "RICHARD CARLUCCI; ET. AL.",
+   "attorney": "KML LAW GROUP, P.C.",
+   "sale_date": "2026-12-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219815",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004596"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-04-29"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2025-04-29"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "WRIT EXPIRED",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 216592.08,
+   "auction_id": "2209219480",
+   "status": "WRIT EXPIRED",
+   "case_number": "F00645421",
+   "parcel_id": null,
+   "address": "153 RIDGEWOOD",
+   "city": "Newark",
+   "zip": "07108",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "AJAX MORTGAGE LOAN TRUST 2021-B, BY U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+   "defendant": "JOHNNY JOHNSON, ET. AL",
+   "attorney": "PLUESE BECKER & SALTZMAN",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219480",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-25000864"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-12-08"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 276172.72,
+   "auction_id": "2209219761",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00225026",
+   "parcel_id": null,
+   "address": "50 MAPES AVE",
+   "city": "Newark",
+   "zip": "07112",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS SUCCESSOR TRUSTEE TO BANK OF AMERICA, N.A. AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF THE MLMI TRUST, MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007-HE3",
+   "defendant": "SHAHIDA A. MITCHELL, ET. AL.",
+   "attorney": "BROCK & SCOTT, PLLC",
+   "sale_date": "2026-12-08",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219761",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26004135"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-04-29"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2025-04-29"
+    },
+    {
+     "status": "Open",
+     "date": "2025-08-08"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-06-09"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-06-09"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 756564.68,
+   "auction_id": "2209219481",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F747223                                                                                                                                                                                   F",
+   "parcel_id": null,
+   "address": "64 CUTLER STREET",
+   "city": "Newark",
+   "zip": "07104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ATHENE ANNUITY AND LIFE COMPANY",
+   "defendant": "NEWARK REALTY PLUS LLC, ET. AL",
+   "attorney": "FEIN SUCH KAHN & SHEPARD, P.C.",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219481",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-25000881"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-09-16"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2025-09-16"
+    },
+    {
+     "status": "Open",
+     "date": "2026-02-13"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-04-28"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-05-26"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-06-23"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 7,
+   "upset_amount": 476341.01,
+   "auction_id": "2209219494",
+   "status": "ADJOURNED COURT",
+   "case_number": "F01245324",
+   "parcel_id": null,
+   "address": "58 GROVE PLACE",
+   "city": "East Orange",
+   "zip": "07017",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CITIZENS BANK NA F/K/A RBS CITIZENS NA",
+   "defendant": "BRIAN TYSON; ET AL.",
+   "attorney": "McCABE, WEISBERG & CONWAY LLC",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219494",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-25002955"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-05-12"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-06-09"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-07-07"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-08-18"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 6,
+   "upset_amount": 331909.29,
+   "auction_id": "2209219552",
+   "status": "ADJOURNED COURT",
+   "case_number": "F01093125",
+   "parcel_id": null,
+   "address": "247 21ST STREET",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "LITTO BEZAMA, ET. AL",
+   "attorney": "MCCABE WEISBERG & CONWAY",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219552",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26001090"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-06-09"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-07-07"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-08-04"
+    },
+    {
+     "status": "Bankruptcy",
+     "date": "2026-08-04"
+    },
+    {
+     "status": "Re-Scheduled",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 49948.96,
+   "auction_id": "2209219578",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F01252325",
+   "parcel_id": null,
+   "address": "312 STUYVESANT AVENUE",
+   "city": "Newark",
+   "zip": "07106",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BANK OF AMERICA, N.A.",
+   "defendant": "WILLIAM E. YOUNG AKA WILLIAM EDWARD YOUNG, ET. AL",
+   "attorney": "POWERS KIRN, LLC",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219578",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26001536"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-06-23"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-07-21"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-08-18"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 6,
+   "upset_amount": 366827.25,
+   "auction_id": "2209219593",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F02937814",
+   "parcel_id": null,
+   "address": "482 LINCOLN AVE",
+   "city": "Orange",
+   "zip": "07050",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "REVERSE MORTGAGE FUNDING, LLC",
+   "defendant": "JOANN PHILLIPS",
+   "attorney": "MCCABE WEISBERG & CONWAY",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219593",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26001834"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-04"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Court",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 611374.05,
+   "auction_id": "2209219634",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00238924",
+   "parcel_id": null,
+   "address": "120-122 FABYAN PLACE",
+   "city": "Newark",
+   "zip": "07112",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NORTHPOINTE BANK",
+   "defendant": "TATIANA DOUYON, ET. AL",
+   "attorney": "POWERS KIRN, LLC",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219634",
+   "as_of": "2026-10-25T00:10-04:00",
+   "sheriff_number": "F-26002518"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-18"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 5,
+   "upset_amount": 540368.53,
+   "auction_id": "2209219650",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00892325",
+   "parcel_id": null,
+   "address": "6 BROOKLAWN RD",
+   "city": "Montclair",
+   "zip": "07042",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+   "defendant": "CHARLES T. WESTPHAL A/K/A CHARLES WESTPHAL; ET. ALS.",
+   "attorney": "GROSS POLOWY LLC",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219650",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26002813"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 155160.9,
+   "auction_id": "2209219657",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F01386625",
+   "parcel_id": null,
+   "address": "95 BELLEVILLE AVE",
+   "city": "Bloomfield",
+   "zip": "07003",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK, NATIONAL ASSOCIATION, SUCCESSOR BY MERGER TO WELLS FARGO BANK, MINNESOTA, NATIONAL ASSOCIATION, AS TRUSTEE FOR REPERFORMING LOAN REMIC TRUST CERTIFICATES, SERIES 2002-2",
+   "defendant": "JOSE A. PUNO; ET. ALS.",
+   "attorney": "STERN & EISENBERG, PC",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219657",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26002992"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-11-10"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 129703.26,
+   "auction_id": "2209219676",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00539925",
+   "parcel_id": null,
+   "address": "14-16 HUNTINGTON TERRACE",
+   "city": "Newark",
+   "zip": "07112",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+   "defendant": "JEAN G. FAISON, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES; ET AL.",
+   "attorney": "GREENSPOON MARDER, LLP",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219676",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003242"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-15"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 449227.92,
+   "auction_id": "2209219684",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F01135824",
+   "parcel_id": null,
+   "address": "23 VINE ST",
+   "city": "Nutley",
+   "zip": "07110",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK NATIONAL ASSOCIATION AS LEGAL TITLE TRUSTEE FOR TRUMAN 2016 SC6 TITLE TRUST",
+   "defendant": "NICOLE S. FABIANO; ET. ALS.",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219684",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003317"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 577261.73,
+   "auction_id": "2209219701",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00868625",
+   "parcel_id": null,
+   "address": "196 FAIRMOUNT AVE",
+   "city": "Newark",
+   "zip": "07103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "METROPOLITAN TOWER LIFE INSURANCE COMPANY",
+   "defendant": "CMWJ, LLC",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219701",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003499"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 314307.23,
+   "auction_id": "2209219703",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00218325",
+   "parcel_id": null,
+   "address": "420 DEWITT AVE",
+   "city": "Belleville",
+   "zip": "07109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "BRIAN NELSON; ET. ALS.",
+   "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219703",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003516"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 513749.76,
+   "auction_id": "2209219704",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F01039422",
+   "parcel_id": null,
+   "address": "295 CENTRAL AVE",
+   "city": "Newark",
+   "zip": "07103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION AS TRUSTEE FOR DEUTSCHE ALT-A SECURITIES, INC. MORTGAGE LOAN TRUST, SERIES 2007-AR3, MORTGAGE PASS-THROUGH CERTIFICATES",
+   "defendant": "DAMON WEEKS A/K/A DAMON J. WEEKS; ET. AL",
+   "attorney": "LOGS LEGAL GROUP LLP",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219704",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003518"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 402493.67,
+   "auction_id": "2209219708",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00996425",
+   "parcel_id": null,
+   "address": "185 WEST PASSAIC AVE",
+   "city": "Bloomfield",
+   "zip": "07003",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, D/B/A CHRISTIANA TRUST, AS OWNER TRUSTEE ON BEHALF FOR CSMC 2018-RPL 12 TRUST",
+   "defendant": "MARY LOU DEMEDICI; ET. AL.",
+   "attorney": "HLADIK ONORATO & FEDERMAN, LLP",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219708",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003618"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 595685.73,
+   "auction_id": "2209219711",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00512025",
+   "parcel_id": null,
+   "address": "45-47 COLUMBIA AVE",
+   "city": "Newark",
+   "zip": "07106",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BANK OF AMERICA, N.A.",
+   "defendant": "ASHLEY MARIE LUCAS A/K/A ASHLEY LUCAS; ET. AL.",
+   "attorney": "POWERS KIRN, LLC",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219711",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003639"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 464199.87,
+   "auction_id": "2209219713",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00641825",
+   "parcel_id": null,
+   "address": "306 ISABELLA AVE",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "GABRIEL ADJEI; ET. ALS.",
+   "attorney": "LOGS LEGAL GROUP LLP",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219713",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003654"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 174077.06,
+   "auction_id": "2209219717",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00116726",
+   "parcel_id": null,
+   "address": "59 ANNIN RD",
+   "city": "West Caldwell",
+   "zip": "07006",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2021-1",
+   "defendant": "STEPHEN B. FRIEDMAN; ET. ALS.",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219717",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003787"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 487813.85,
+   "auction_id": "2209219721",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00959525",
+   "parcel_id": null,
+   "address": "126 SOUTH 7TH STREET",
+   "city": "Newark",
+   "zip": "07107",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR IBIS HOLDINGS A TRUST",
+   "defendant": "126 HOLDINGS LLC; ET AL.",
+   "attorney": "GREENSPOON MARDER, LLP",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219721",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003883"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-10"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 481778.25,
+   "auction_id": "2209219722",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00302226",
+   "parcel_id": null,
+   "address": "436 14TH AVE",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "DERRICK MAGWOOD, ET. AL.",
+   "attorney": "POWERS KIRN, LLC",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219722",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003886"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-13"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-11-10"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 617410.23,
+   "auction_id": "2209219724",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00457226",
+   "parcel_id": null,
+   "address": "5 MCKINLEY AVENUE",
+   "city": "West Orange",
+   "zip": "07052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MIDFIRST BANK",
+   "defendant": "RIGOBERTO LEMUS; ET AL.",
+   "attorney": "KML LAW GROUP, P.C.",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219724",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003890"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 249198.51,
+   "auction_id": "2209219769",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F01349622",
+   "parcel_id": null,
+   "address": "447 NORTH MAPLE AVE",
+   "city": "East Orange",
+   "zip": "07017",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION SASCO MORTGAGE LOAN TRUST 2002-12 MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2002-12",
+   "defendant": "JESSICA WEBB; ET. ALS.",
+   "attorney": "LOGS LEGALGROUP LLP",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219769",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26004173"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 289863.14,
+   "auction_id": "2209219806",
+   "status": "SCHEDULED",
+   "case_number": "F00974925",
+   "parcel_id": null,
+   "address": "483 STUYVESANT AVE",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SUN WEST MORTGAGE COMPANY, INC.",
+   "defendant": "REYNOLD LOUIS; ET. AL.",
+   "attorney": "ALBERTELLI LAW",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219806",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26004445"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-15"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 729628.31,
+   "auction_id": "2209219816",
+   "status": "SCHEDULED",
+   "case_number": "F01233025",
+   "parcel_id": null,
+   "address": "76 AMHERST ST",
+   "city": "East Orange",
+   "zip": "07018",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ICE LENDER HOLDINGS, LLC",
+   "defendant": "AMERICAN PITBULL TERRIER POUND, LLC",
+   "attorney": "PLUESE BECKER & SALTZMAN",
+   "sale_date": "2026-12-15",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219816",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26004604"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-01"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2026-12-01"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-12-29"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2027-01-05"
+    }
+   ],
+   "times_postponed": 6,
+   "upset_amount": 378835.27,
+   "auction_id": "2209219673",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00076726",
+   "parcel_id": null,
+   "address": "59 ANNIN RD",
+   "city": "West Caldwell",
+   "zip": "07006",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK, N.A.",
+   "defendant": "STEPHEN B. FRIEDMAN; ET. ALS.",
+   "attorney": "LOGS LEGAL GROUP LLP",
+   "sale_date": "2027-01-05",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219673",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003219"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-29"
+    },
+    {
+     "status": "Adjourned Plaintiff",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-12-22"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2027-01-05"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 266268.59,
+   "auction_id": "2209219707",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F01079525",
+   "parcel_id": null,
+   "address": "65 WATSON AVE",
+   "city": "East Orange",
+   "zip": "07018",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+   "defendant": "GAVIN GALLARD; ET. ALS.",
+   "attorney": "PARKER MCCAY P.A.",
+   "sale_date": "2027-01-05",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219707",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003580"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-12-22"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2027-01-05"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 63540.68,
+   "auction_id": "2209219736",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F757824",
+   "parcel_id": null,
+   "address": "419 RICHMOND AVENUE",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "AMOS FINANCIAL LLC",
+   "defendant": "DAVID CHMIEL, ET. AL",
+   "attorney": "FEIN SUCH KAHN & SHEPARD",
+   "sale_date": "2027-01-05",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219736",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003952"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-12-22"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2027-01-05"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 257708.87,
+   "auction_id": "2209219740",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00292826",
+   "parcel_id": null,
+   "address": "9 BROOKSIDE AVENUE",
+   "city": "Irvington",
+   "zip": "07111",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "TRYON STREET ACQUISITION TRUST I",
+   "defendant": "9 BROOKSIDE LLC; ET AL.",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2027-01-05",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219740",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003970"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-12-22"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2027-01-05"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 664367.69,
+   "auction_id": "2209219742",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00589525",
+   "parcel_id": null,
+   "address": "32-34 NORTH 5TH STREET",
+   "city": "Newark",
+   "zip": "07107",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE OF THE ASPEN INCOME TRUST, A DELAWARE STATUTORY TRUST",
+   "defendant": "ANGELO BARRETO; ET AL.",
+   "attorney": "SHNAYDER LAW FIRM, LLC",
+   "sale_date": "2027-01-05",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219742",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26003982"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-27"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-11-24"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-12-22"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2027-01-05"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 531757.03,
+   "auction_id": "2209219749",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00952625",
+   "parcel_id": null,
+   "address": "56 PRINCETON ST",
+   "city": "Maplewood",
+   "zip": "07040",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+   "defendant": "REGNY CHARLES; ET. ALS.",
+   "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
+   "sale_date": "2027-01-05",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219749",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26004032"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2027-01-05"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 601270.74,
+   "auction_id": "2209219750",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00538426",
+   "parcel_id": null,
+   "address": "5 PILGRIM CT",
+   "city": "Cedar Grove",
+   "zip": "07009",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+   "defendant": "SYLVIA VELSOR A/K/A SYLVIA BURDZY; ET. ALS.",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+   "sale_date": "2027-01-05",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219750",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26004046"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-10"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-12-08"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2027-01-05"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 199596.96,
+   "auction_id": "2209219780",
+   "status": "ADJOURNED DEFENDANT",
+   "case_number": "F00816525",
+   "parcel_id": null,
+   "address": "24 NORTH BURNETT STREET",
+   "city": "East Orange",
+   "zip": "07017",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR DEUTSCHE ALT-A SECURITIES MORTGAGE LOAN TRUST, SERIES 2007-1",
+   "defendant": "LORNA A. WOODHAM INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF KATHLEEN WEDDERBURN; ET. AL",
+   "attorney": "GROSS POLOWY",
+   "sale_date": "2027-01-05",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219780",
+   "as_of": "2026-10-25T00:11-04:00",
+   "sheriff_number": "F-26004245"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-01"
+    },
+    {
+     "status": "Adjourned Defendant",
+     "date": "2026-12-29"
+    },
+    {
+     "status": "Adjourned Sheriff",
+     "date": "2027-01-05"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 27389.33,
+   "auction_id": "2209219805",
+   "status": "ADJOURNED SHERIFF",
+   "case_number": "F00350626",
+   "parcel_id": null,
+   "address": "222 DODD STREET",
+   "city": "East Orange",
+   "zip": "07017",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2023-A",
+   "defendant": "SHAHIDA A. MITCHELL; ET AL.",
+   "attorney": "GROSS POLOWY, LLC",
+   "sale_date": "2027-01-05",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219805",
+   "as_of": "2026-10-25T00:12-04:00",
+   "sheriff_number": "F-26004441"
+  },
+  {
+   "county": "essex",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-05"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 369107.38,
+   "auction_id": "2209219814",
+   "status": "SCHEDULED",
+   "case_number": "F00340626",
+   "parcel_id": null,
+   "address": "171 CEDAR HILL AVE",
+   "city": "Belleville",
+   "zip": "07109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEWREZ, LLC",
+   "defendant": "MICHAEL S. PINTO; ET. AL.",
+   "attorney": "STERN & EISENBERG, P.C.",
+   "sale_date": "2027-01-05",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209219814",
+   "as_of": "2026-10-25T00:12-04:00",
+   "sheriff_number": "F-26004548"
+  }
+ ]
+}

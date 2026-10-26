@@ -1,0 +1,2143 @@
+{
+ "state": "new-jersey",
+ "county": "cumberland",
+ "as_of": "2026-10-25T00:05-04:00",
+ "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208839837",
+ "count": 59,
+ "items": [
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-11-19"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2025-12-17"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-01-14"
+    },
+    {
+     "status": "Bankruptcy - Sale on Hold",
+     "date": "2026-01-14"
+    },
+    {
+     "status": "Post Bankruptcy - Adjourned Date",
+     "date": "2026-04-22"
+    },
+    {
+     "status": "Bankruptcy - Sale on Hold",
+     "date": "2026-04-22"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Bankruptcy - Sale on Hold",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Post Bankruptcy - Adjourned Date",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-11-04"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 6,
+   "upset_amount": 154453.24,
+   "auction_id": "2208839837",
+   "status": "PLAINTIFF ADJOURNED TO",
+   "case_number": "F01244624",
+   "parcel_id": null,
+   "address": "374 SANDALWOOD ROAD",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MCLP ASSET COMPANY INC",
+   "defendant": "NICOLE R SCARLETT ET AL",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS PLLC FKA RAS CITRON LLC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208839837",
+   "as_of": "2026-10-25T00:02-04:00",
+   "sheriff_number": "25000965"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 43248.12,
+   "auction_id": "2208839939",
+   "status": "PLAINTIFF ADJOURNED TO",
+   "case_number": "F00748815",
+   "parcel_id": null,
+   "address": "87 RUSSELL AVENUE",
+   "city": "Bridgeton",
+   "zip": "08302",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "M & T BANK S/B/M TO THE FIRST NATIONAL BANK OF MARYLAND",
+   "defendant": "GEORGE L JACKSON ET AL",
+   "attorney": "MCCALLA RAYMER LEIBERT PIERCE LLC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208839939",
+   "as_of": "2026-10-25T00:02-04:00",
+   "sheriff_number": "25001335"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-05-06"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-06-03"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-07-01"
+    },
+    {
+     "status": "Sheriff's Adjournment - Medical",
+     "date": "2026-07-15"
+    },
+    {
+     "status": "Mutual Adjournmnet",
+     "date": "2026-08-12"
+    },
+    {
+     "status": "Court Ordered Adjournment",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Court Ordered Adjournment",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 6,
+   "upset_amount": 248485.16,
+   "auction_id": "2208840029",
+   "status": "COURT ORDERED ADJOURNMENT",
+   "case_number": "F01051725",
+   "parcel_id": null,
+   "address": "1551 EAST ELMER ROAD",
+   "city": "Vineland",
+   "zip": "08361",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+   "defendant": "WILLIAM R ERHART ET AL",
+   "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840029",
+   "as_of": "2026-10-25T00:02-04:00",
+   "sheriff_number": "26000248"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-06-17"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-07-15"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-08-12"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Court Ordered Adjournment",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 5,
+   "upset_amount": 408494.21,
+   "auction_id": "2208840069",
+   "status": "DEFENDANT ADJOURNED TO",
+   "case_number": "F00407525",
+   "parcel_id": null,
+   "address": "159 RIVER ROAD",
+   "city": "Bridgeton (Hopewell Township)",
+   "zip": "08302",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK NA",
+   "defendant": "DAVID GILLIGAN ET AL",
+   "attorney": "BROCK AND SCOTT PLLC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840069",
+   "as_of": "2026-10-25T00:02-04:00",
+   "sheriff_number": "26000485"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 143121.0,
+   "auction_id": "2208840148",
+   "status": "DEFENDANT ADJOURNED TO",
+   "case_number": "F00311626",
+   "parcel_id": null,
+   "address": "2702 BRUNETTA DRIVE",
+   "city": "Vineland",
+   "zip": "08360",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST SERIES 2021-2",
+   "defendant": "MICHAEL FREERKSEN ET AL",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS PLLC FKA RAS CITRON LLC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840148",
+   "as_of": "2026-10-25T00:02-04:00",
+   "sheriff_number": "26000812"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 343209.34,
+   "auction_id": "2208840155",
+   "status": "DEFENDANT ADJOURNED TO",
+   "case_number": "F00067525",
+   "parcel_id": null,
+   "address": "602 RICHARD DRIVE",
+   "city": "Millville",
+   "zip": "08332",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "US BANK NATIONAL ASSOCIATION A NATIONAL BANKING ASSOCIATION NOT IN IT INDIVIUDAL CAPACITY BUT SOLELY AS INDENTURE TRUSTEE OF NRZ MASTER TRUST A SERIES 2020-NPL2",
+   "defendant": "JAVON L PIERCE ET AL",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS PLLC FKA RAS CITRON LLC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840155",
+   "as_of": "2026-10-25T00:02-04:00",
+   "sheriff_number": "26000892"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 203732.02,
+   "auction_id": "2208840158",
+   "status": "PLAINTIFF ADJOURNED TO",
+   "case_number": "F00251526",
+   "parcel_id": null,
+   "address": "505 RAMAH ROAD",
+   "city": "Millville",
+   "zip": "08332",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+   "defendant": "NORMAN L CUFF ET AL",
+   "attorney": "BROCK AND SCOTT PLLC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840158",
+   "as_of": "2026-10-25T00:02-04:00",
+   "sheriff_number": "26000893"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 45110.23,
+   "auction_id": "2208840180",
+   "status": "DEFENDANT ADJOURNED TO",
+   "case_number": "F01378825",
+   "parcel_id": null,
+   "address": "5 ROGERS DRIVE",
+   "city": "Bridgeton",
+   "zip": "08302",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PNC BANK NATIONAL ASSOCIATION",
+   "defendant": "PATRICIA A MORGAN ET AL",
+   "attorney": "MARTONE & UHLMANN",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840180",
+   "as_of": "2026-10-25T00:02-04:00",
+   "sheriff_number": "26001046"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 113868.64,
+   "auction_id": "2208840183",
+   "status": "DEFENDANT ADJOURNED TO",
+   "case_number": "F01231825",
+   "parcel_id": null,
+   "address": "30 EAST AVENUE",
+   "city": "Shiloh Boro",
+   "zip": "08353",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+   "defendant": "TRAVIS E NELKE ET AL",
+   "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840183",
+   "as_of": "2026-10-25T00:02-04:00",
+   "sheriff_number": "26001049"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 108171.54,
+   "auction_id": "2208840198",
+   "status": "DEFENDANT ADJOURNED TO",
+   "case_number": "F00635924",
+   "parcel_id": null,
+   "address": "15 SUNCREST AVENUE",
+   "city": "Bridgeton",
+   "zip": "08302",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BANK UNITED NA",
+   "defendant": "JAMES COLEMAN ET AL",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840198",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26001090"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-10-08"
+    },
+    {
+     "status": "Bankruptcy - Sale on Hold",
+     "date": "2025-10-08"
+    },
+    {
+     "status": "Post Bankruptcy - Adjourned Date",
+     "date": "2026-02-11"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-03-11"
+    },
+    {
+     "status": "Bankruptcy - Sale on Hold",
+     "date": "2026-03-11"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 258793.67,
+   "auction_id": "2208839788",
+   "status": "PLAINTIFF ADJOURNED TO",
+   "case_number": "F00171023",
+   "parcel_id": null,
+   "address": "180 HAYNES AVENUE",
+   "city": "Bridgeton",
+   "zip": "08302",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "US BANK TRUST NA AS TRUSTEE OF THE IGLOO SERIES III TRUST",
+   "defendant": "LINDA GAULT ET AL",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208839788",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "25000889"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-02-11"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-03-11"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-04-08"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-05-06"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-06-03"
+    },
+    {
+     "status": "Court Ordered Adjournment",
+     "date": "2026-07-15"
+    },
+    {
+     "status": "Court Ordered Adjournment",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Court Ordered Adjournment",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 7,
+   "upset_amount": 110125.79,
+   "auction_id": "2208839931",
+   "status": "SCHEDULED",
+   "case_number": "F00719725",
+   "parcel_id": null,
+   "address": "101 LAUREL HEIGHTS DRIVE",
+   "city": "Bridgeton",
+   "zip": "08302",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES LLC",
+   "defendant": "JERI MARIE RIZZO ET AL",
+   "attorney": "POWERS KIRN, LLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208839931",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "25001307"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-07-29"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-08-26"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 122611.39,
+   "auction_id": "2208840113",
+   "status": "DEFENDANT ADJOURNED TO",
+   "case_number": "F00840425",
+   "parcel_id": null,
+   "address": "412 WEST CHERRY STREET",
+   "city": "Vineland",
+   "zip": "08360",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NATIONSTAR MORTGAGE LLC",
+   "defendant": "LESTER P HANN, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES 1-5 ET AL",
+   "attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840113",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26000652"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-26"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 214895.11,
+   "auction_id": "2208840141",
+   "status": "DEFENDANT ADJOURNED TO",
+   "case_number": "F00043526",
+   "parcel_id": null,
+   "address": "1125 EAST PARK AVENUE",
+   "city": "Vineland",
+   "zip": "08360",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ROCKET MORTGAGE LLC FKA QUICKEN LOANS LLC FKA QUICKEN LOANS INC",
+   "defendant": "LARUE SMITH ET AL",
+   "attorney": "KML LAW GROUP, P.C.",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840141",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26000794"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-26"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 232309.45,
+   "auction_id": "2208840145",
+   "status": "PLAINTIFF ADJOURNED TO",
+   "case_number": "F00053826",
+   "parcel_id": null,
+   "address": "391 EAST BUTLER AVENUE",
+   "city": "Vineland",
+   "zip": "08360",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+   "defendant": "VANESSA TATIANNA BRADLEY ET AL",
+   "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840145",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26000808"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 140776.82,
+   "auction_id": "2208840167",
+   "status": "DEFENDANT ADJOURNED TO",
+   "case_number": "F01106325",
+   "parcel_id": null,
+   "address": "318 WEST FOUNDRY STREET",
+   "city": "Millville",
+   "zip": "08332",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "US BANK TRUST COMPANY NATIONAL ASSOCIATION AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2024-4",
+   "defendant": "DREAMWORLD EXOTICS LLC ET AL",
+   "attorney": "STERN & EISENBERG, PC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840167",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26000922"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 104852.26,
+   "auction_id": "2208840177",
+   "status": "SCHEDULED",
+   "case_number": "F01129524",
+   "parcel_id": null,
+   "address": "2411 LAKESHORE DRIVE",
+   "city": "Commercial Township",
+   "zip": "08332",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "METROPOLITAN LIFE INSURANCE COMPANY",
+   "defendant": "DONNA BADESSA ET AL",
+   "attorney": "ROMANO GARUBO & ARGENTIERI",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840177",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26001028"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 282361.39,
+   "auction_id": "2208840201",
+   "status": "DEFENDANT ADJOURNED TO",
+   "case_number": "F00357426",
+   "parcel_id": null,
+   "address": "1023 HAMILTON DRIVE",
+   "city": "Vineland",
+   "zip": "08360",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "THE BANK OF NEW YORK MELLON F/K/A THE BANK OF NEW YORK AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF CWALT INC ALTERNATIVE LOAN TRUST 2007-HY2 MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2007-HY2",
+   "defendant": "JENNIFER S KEPLEY ET AL",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840201",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26001112"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 302073.53,
+   "auction_id": "2208840210",
+   "status": "DEFENDANT ADJOURNED TO",
+   "case_number": "F00578224",
+   "parcel_id": null,
+   "address": "2169 CIVIL WAR RD",
+   "city": "Vineland",
+   "zip": "08361",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WIMINGTON SAVINGS FUND SOCIETY FSB AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST X-C",
+   "defendant": "FRANK L DAVIS JR ET AL",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840210",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26001151"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Cancelled - No Commission",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 285663.19,
+   "auction_id": "2208840212",
+   "status": "CANCELLED - NO COMMISSION",
+   "case_number": "F00797125",
+   "parcel_id": null,
+   "address": "7 FOLSON AVENUE",
+   "city": "Lawrence Township",
+   "zip": "08332",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING LLC",
+   "defendant": "BRYAN J BRANCH ET AL",
+   "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON LLP",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840212",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26001152"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 122967.61,
+   "auction_id": "2208840218",
+   "status": "SCHEDULED",
+   "case_number": "F01189725",
+   "parcel_id": null,
+   "address": "672 SPRINGTOWN ROAD",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ROCKET MORTGAGE LLC",
+   "defendant": "DARIUS E GOLDSBOROUGH ET AL",
+   "attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840218",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26001193"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 282212.87,
+   "auction_id": "2208840220",
+   "status": "SCHEDULED",
+   "case_number": "F01396622",
+   "parcel_id": null,
+   "address": "50 SHARP AVENUE",
+   "city": "Bridgeton",
+   "zip": "08302",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PHH MORTGAGE CORPORATION",
+   "defendant": "WILLIE JOE FLETCHER HIS HEIRS DEVISEES AND PERSONAL REPRESENTATIVES ET AL",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS PLLC FKA RAS CITRON LLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840220",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26001194"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 249610.11,
+   "auction_id": "2208840222",
+   "status": "SCHEDULED",
+   "case_number": "F00672626",
+   "parcel_id": null,
+   "address": "41 HOWARD STREET",
+   "city": "Vineland",
+   "zip": "08360",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING LLC",
+   "defendant": "PATRICIA E PUGH ET AL",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS PLLC FKA RAS CITRON LLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840222",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26001196"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 193454.17,
+   "auction_id": "2208840224",
+   "status": "SCHEDULED",
+   "case_number": "F00502526",
+   "parcel_id": null,
+   "address": "2250 SOUTH WEST BOULEVARD",
+   "city": "Vineland",
+   "zip": "08360",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "THE BANK OF NEW YORK MELLON (FKA THE BANK OF NEW YORK) AS TRUSTEE FOR THE HOLDERS OF MASTR ALTERNATIVE LOAN TRUST 2006-2",
+   "defendant": "MANUEL MERCADO JR ET AL",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS PLLC FKA RAS CITRON LLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840224",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26001198"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 231841.27,
+   "auction_id": "2208840226",
+   "status": "SCHEDULED",
+   "case_number": "F00532326",
+   "parcel_id": null,
+   "address": "1501 PLEASANT DRIVE",
+   "city": "Millville",
+   "zip": "08332",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PLANET HOME LENDING LLC",
+   "defendant": "MELINDA JONES ET AL",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS PLLC FKA RAS CITRON LLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840226",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26001199"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 153396.65,
+   "auction_id": "2208840228",
+   "status": "SCHEDULED",
+   "case_number": "F00568925",
+   "parcel_id": null,
+   "address": "506 GRANDVIEW AVENUE",
+   "city": "Vineland",
+   "zip": "08360",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING LLC",
+   "defendant": "EVELYN V HARKER ET AL",
+   "attorney": "MCCABE WEISBERG & CONWAY, LLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840228",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26001200"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 270045.44,
+   "auction_id": "2208840230",
+   "status": "SCHEDULED",
+   "case_number": "F00405726",
+   "parcel_id": null,
+   "address": "73 WEST CHESTNUT AVENUE",
+   "city": "Vineland",
+   "zip": "08360",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+   "defendant": "DISHA S PATEL ET AL",
+   "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840230",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26001201"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 290401.99,
+   "auction_id": "2208840232",
+   "status": "SCHEDULED",
+   "case_number": "F00269626",
+   "parcel_id": null,
+   "address": "2 SHEPPARD DAVIS ROAD",
+   "city": "Cedarville",
+   "zip": "08311",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CARRINGTON MORTGAGE SERVICES LLC",
+   "defendant": "JESSICA L REICHARDT ET AL",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840232",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26001205"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 25217.3,
+   "auction_id": "2208840234",
+   "status": "SCHEDULED",
+   "case_number": "F977725",
+   "parcel_id": null,
+   "address": "11 BROAD STREET",
+   "city": "Maurice River Township",
+   "zip": "08327",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MATTHEW ROBERT WAMBOLT",
+   "defendant": "SUMITA SHARMA ET AL",
+   "attorney": "HONIG & GREENBERG, L.L.C.",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840234",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26001206"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 172028.05,
+   "auction_id": "2208840243",
+   "status": "SCHEDULED",
+   "case_number": "L7719, J10117520",
+   "parcel_id": null,
+   "address": "445 NORTH PEARL STREET",
+   "city": "Bidgeton",
+   "zip": "08302",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "STEVEN C MCBRIDE BY ASSIGNEE MMU LLC (R.1;4-10)",
+   "defendant": "GREENWICH BOAT WORKS AND MARINA LIMITED LIABILITY COMPANY AND MARVIN K HITCHNER ET AL",
+   "attorney": "RAGAN & RAGAN PC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840243",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26001242"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-01-14"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-02-11"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-03-11"
+    },
+    {
+     "status": "Bankruptcy - Sale on Hold",
+     "date": "2026-03-11"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 154884.97,
+   "auction_id": "2208839904",
+   "status": "SCHEDULED",
+   "case_number": "F00164925",
+   "parcel_id": null,
+   "address": "608 RAMAH ROAD",
+   "city": "Millville",
+   "zip": "08332",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+   "defendant": "CARL BRUCE MORRIS JR ET AL",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208839904",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "25001202"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-02-11"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-03-11"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-04-08"
+    },
+    {
+     "status": "Bankruptcy - Sale on Hold",
+     "date": "2026-04-08"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 117524.08,
+   "auction_id": "2208839935",
+   "status": "SCHEDULED",
+   "case_number": "F00606624",
+   "parcel_id": null,
+   "address": "1769 EAST OAK ROAD",
+   "city": "Vineland",
+   "zip": "08361",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ACKERMAN REAL ESTATE LLC",
+   "defendant": "TRICIA A TOMASSO ET AL",
+   "attorney": "TERANCE J BENNETT",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208839935",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "25001332"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-03-25"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-04-22"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-05-20"
+    },
+    {
+     "status": "Bankruptcy - Sale on Hold",
+     "date": "2026-05-20"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 195039.0,
+   "auction_id": "2208839982",
+   "status": "SCHEDULED",
+   "case_number": "F00846825",
+   "parcel_id": null,
+   "address": "693 WAYNE AVENUE",
+   "city": "Vineland",
+   "zip": "08360",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK NA",
+   "defendant": "KEYSHA M LOATMAN ET AL",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS PLLC FKA RAS CITRON LLC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208839982",
+   "as_of": "2026-10-25T00:03-04:00",
+   "sheriff_number": "26000092"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-05-20"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-06-17"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-07-15"
+    },
+    {
+     "status": "Mutual Adjournmnet",
+     "date": "2026-08-12"
+    },
+    {
+     "status": "Court Ordered Adjournment",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Court Ordered Adjournment",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Court Ordered Adjournment",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 6,
+   "upset_amount": 189100.12,
+   "auction_id": "2208840036",
+   "status": "COURT ORDERED ADJOURNMENT",
+   "case_number": "F00434223",
+   "parcel_id": null,
+   "address": "14 STANGER ROAD",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+   "defendant": "EARL G BURGMANN, JR ET AL",
+   "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840036",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26000270"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-07-15"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-08-12"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Bankruptcy - Sale on Hold",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 489299.5,
+   "auction_id": "2208840094",
+   "status": "SCHEDULED",
+   "case_number": "F01100925",
+   "parcel_id": null,
+   "address": "81 HOMESTEAD DRIVE",
+   "city": "Millville",
+   "zip": "08332",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SUN WEST MORTGAGE COMPANY INC",
+   "defendant": "JAMISON L CARDONA ET AL",
+   "attorney": "GREENSPOON MARDER",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840094",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26000591"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-11-04"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 249215.84,
+   "auction_id": "2208840164",
+   "status": "PLAINTIFF ADJOURNED TO",
+   "case_number": "F00942325",
+   "parcel_id": null,
+   "address": "1111 SURREY AVENUE",
+   "city": "Millville",
+   "zip": "08332",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "THE BANK OF NEW YORK MELLON TRUST COMPANY NATIONAL ASSOCIATION FKA THE BANK OF NEW YORK TRUST COMPANY NA AS SUCCESSOR TO JP MORGAN CHASE BANK NA AS TRUSTEE FOR RESIDENTIAL ASSET MORTGAGE PRODUCTS INC MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES SERIES 2005-RS1",
+   "defendant": "ERICA L MILBOURNE ET AL",
+   "attorney": "STERN & EISENBERG, PC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840164",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26000898"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 167269.01,
+   "auction_id": "2208840238",
+   "status": "SCHEDULED",
+   "case_number": "F00548126",
+   "parcel_id": null,
+   "address": "1139 OAK LANE",
+   "city": "Vineland",
+   "zip": "08360",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK NA",
+   "defendant": "ANGEL L RAMOS AKA ANGEL L RAMOS VENTURA AKA ANGEL  RAMOS ET AL",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS PLLC FKA RAS CITRON LLC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840238",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001214"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 434039.31,
+   "auction_id": "2208840240",
+   "status": "SCHEDULED",
+   "case_number": "F00166326",
+   "parcel_id": null,
+   "address": "1577 HIGHWAY 77",
+   "city": "Elmer",
+   "zip": "08318",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "AMERIHOME MORTGAGE COMPANY LLC",
+   "defendant": "WILLIAM HOFFMAN, JR  ET AL",
+   "attorney": "BROCK AND SCOTT PLLC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840240",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001218"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 220579.45,
+   "auction_id": "2208840242",
+   "status": "SCHEDULED",
+   "case_number": "F00542225",
+   "parcel_id": null,
+   "address": "3069 LEXINGTON AVENUE",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "AMERIHOME MORTGAGE COMPANY LLC",
+   "defendant": "RALPH J HITCHNER, SR ET AL",
+   "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840242",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001233"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 196477.64,
+   "auction_id": "2208840245",
+   "status": "SCHEDULED",
+   "case_number": "F00553125",
+   "parcel_id": null,
+   "address": "215 3RD STREET ANNEX",
+   "city": "Vineland",
+   "zip": "08360",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "US BANK NATIONAL ASSOCIATION AS TRUSTEE FOR STRUCTURED ASSET INVESTMENT LOAN TRUST MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2006-4",
+   "defendant": "NOEL C BRADSHAW ET AL",
+   "attorney": "LOGS LEGAL GROUP LLP",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840245",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001250"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 158418.53,
+   "auction_id": "2208840247",
+   "status": "SCHEDULED",
+   "case_number": "f00134926",
+   "parcel_id": null,
+   "address": "508 MENANTICO AVENUE",
+   "city": "Millville",
+   "zip": "08332",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ROCKET MORTGAGE LLC FKA QUICKEN LOANS LLC FKA QUICKEN LOANS INC",
+   "defendant": "ZACK ADAMO ET AL",
+   "attorney": "BROCK AND SCOTT PLLC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840247",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001252"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 148212.52,
+   "auction_id": "2208840249",
+   "status": "SCHEDULED",
+   "case_number": "F00729726",
+   "parcel_id": null,
+   "address": "1213 HOPE STREET",
+   "city": "Vineland",
+   "zip": "08361",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR HOME EQUITY MORTGAGE LOAN ASSET-BACKED TRUST SERIES INABS 2006-E HOME EQUITY MORTGAGE LOAN ASSET-BACKED CERTIFICATES SERIES INABS 2006-E",
+   "defendant": "BERNARD MERRITT ET AL",
+   "attorney": "BROCK AND SCOTT PLLC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840249",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001254"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 74216.73,
+   "auction_id": "2208840253",
+   "status": "SCHEDULED",
+   "case_number": "F00101325",
+   "parcel_id": null,
+   "address": "5015 BATTLE LANE",
+   "city": "Millville",
+   "zip": "08332",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NATIONSTAR MORTGAGE LLC",
+   "defendant": "DAVID FERGUSON ET AL",
+   "attorney": "ALBERTELLI LAW",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840253",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001259"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 206687.31,
+   "auction_id": "2208840255",
+   "status": "SCHEDULED",
+   "case_number": "F00102626",
+   "parcel_id": null,
+   "address": "506 NORTH 2ND STREET",
+   "city": "Millville",
+   "zip": "08332",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NATIONS LENDING CORPORATION",
+   "defendant": "LIONELA STILES ET AL",
+   "attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840255",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001268"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 228368.72,
+   "auction_id": "2208840257",
+   "status": "SCHEDULED",
+   "case_number": "F00899925",
+   "parcel_id": null,
+   "address": "272 NORTH LINCOLN AVENUE",
+   "city": "Vineland",
+   "zip": "08361",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK NA AS TRUSTEE FOR PARK PLACE SECURITIES INC ASSET-BACKED PASS-THROUGH CERTIFICATES SERIES 2005-WHQ4",
+   "defendant": "AGUSTIN AYALA HIS HEIRS, DEVISEES AND PEESONAL REPRESENTATIVES ET AL",
+   "attorney": "STERN & EISENBERG, PC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840257",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001271"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 132866.48,
+   "auction_id": "2208840216",
+   "status": "DEFENDANT ADJOURNED TO",
+   "case_number": "F01191125",
+   "parcel_id": null,
+   "address": "407 WEST LAUREL STREET",
+   "city": "Vineland",
+   "zip": "08360",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEWREZ LLC DBA SHELLPOINT MORTGAGE SERVICING",
+   "defendant": "SUSAN K DRONEY ET AL",
+   "attorney": "PARKER MCCAY PA",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840216",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001159"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 104553.29,
+   "auction_id": "2208840251",
+   "status": "SCHEDULED",
+   "case_number": "F00936325",
+   "parcel_id": null,
+   "address": "118 WEST PARK AVENUE",
+   "city": "Vineland",
+   "zip": "08360",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NATIONSTAR MORTGAGE LLC",
+   "defendant": "FELIX SANCHEZ AND FATIMA M SANCHEZ ET AL",
+   "attorney": "LOGS LEGAL GROUP LLP",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840251",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001258"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 30796.27,
+   "auction_id": "2208840259",
+   "status": "SCHEDULED",
+   "case_number": "F00205726",
+   "parcel_id": null,
+   "address": "1138 SOUTH WEST AVENUE",
+   "city": "Vineland",
+   "zip": "08360",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BRAVO RESIDENTIAL FUNDING TRUST 2020-RPL2",
+   "defendant": "MARGARET DORING ET AL",
+   "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS LLC",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840259",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001275"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 350000.0,
+   "auction_id": "2208840261",
+   "status": "SCHEDULED",
+   "case_number": "L92815 J06372819",
+   "parcel_id": null,
+   "address": "3498 VENTURI LANE",
+   "city": "Vineland",
+   "zip": "08361",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "YANCY COURSEY BY ASSIGNEE MMU LLC",
+   "defendant": "RAKESH KAPADIA AND SUPER QWIK DELI ET AL",
+   "attorney": "RAGAN & RAGAN PC",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840261",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001283"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 319354.72,
+   "auction_id": "2208840263",
+   "status": "SCHEDULED",
+   "case_number": "F01316719",
+   "parcel_id": null,
+   "address": "172 WOODRUFF ROAD",
+   "city": "Bridgeton",
+   "zip": "08302",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BANK OF NEW YORK MELLON TRUST COMPANY NA AS TRUSTEE FOR MORTGAGE ASSETS MANAGEMENT SERIES I TRUST",
+   "defendant": "LENORA SHEPPARD ET AL",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840263",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001285"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 224063.57,
+   "auction_id": "2208840265",
+   "status": "SCHEDULED",
+   "case_number": "F00427126",
+   "parcel_id": null,
+   "address": "578 IRVING AVENUE",
+   "city": "Bridgeton",
+   "zip": "08302",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF NYMT LOAN TRUST 2025-INV2",
+   "defendant": "ZITRO PROPERTIES LLC ET AL",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840265",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001294"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 156535.78,
+   "auction_id": "2208840267",
+   "status": "SCHEDULED",
+   "case_number": "F00893624",
+   "parcel_id": null,
+   "address": "314 ITHACA STREET",
+   "city": "Vineland",
+   "zip": "08360",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ELIZON MASTER PARTICIPATION TRUST I US BANK TRUST NATIONAL ASSOCIATION AS OWNER TRUSTEE",
+   "defendant": "RICHARD V DAWKINS ET AL",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840267",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001295"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 208099.58,
+   "auction_id": "2208840269",
+   "status": "SCHEDULED",
+   "case_number": "F00374026",
+   "parcel_id": null,
+   "address": "24 S GILES STREET",
+   "city": "Bridgeton",
+   "zip": "08302",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PLANET HOME LENDING LLC DBA PLANET HOME SERVICING",
+   "defendant": "DEBORAH CONSIGLIO ET AL",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840269",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001307"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 68079.12,
+   "auction_id": "2208840271",
+   "status": "SCHEDULED",
+   "case_number": "F00177926",
+   "parcel_id": null,
+   "address": "211 FORTESCUE ROAD",
+   "city": "Downe Township",
+   "zip": "08345",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+   "defendant": "HOWARD M REPP, SR HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES ET AL",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840271",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001308"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 287061.99,
+   "auction_id": "2208840273",
+   "status": "SCHEDULED",
+   "case_number": "F00352823",
+   "parcel_id": null,
+   "address": "35 LONGVIEW DRIVE",
+   "city": "Bridgeton",
+   "zip": "08302",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FREEDM MORTGAGE CORPORATION",
+   "defendant": "ASIA NECHELLE BURCH ET AL",
+   "attorney": "GROSS POLOWY LLC",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840273",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001314"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 266994.22,
+   "auction_id": "2208840275",
+   "status": "SCHEDULED",
+   "case_number": "F01323725",
+   "parcel_id": null,
+   "address": "12 NORTH 12TH STREET",
+   "city": "Millville",
+   "zip": "08332",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "TOWNE MORTGAGE COMPANY",
+   "defendant": "AISHAIRA A GANTZ ET AL",
+   "attorney": "HLADIK ONORATO AND FEDERMAN LLP",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840275",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001333"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 267337.41,
+   "auction_id": "2208840277",
+   "status": "SCHEDULED",
+   "case_number": "F00487225",
+   "parcel_id": null,
+   "address": "175 RICHARDS ROAD",
+   "city": "Bridgeton",
+   "zip": "08302",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING LLC",
+   "defendant": "MICHAEL W WILLIAMS, SR. ET AL",
+   "attorney": "GREENSPOON MARDER",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840277",
+   "as_of": "2026-10-25T00:04-04:00",
+   "sheriff_number": "26001335"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 301584.32,
+   "auction_id": "2208840279",
+   "status": "SCHEDULED",
+   "case_number": "F00156226",
+   "parcel_id": null,
+   "address": "1552 EAST BUCKSHUTEM ROAD",
+   "city": "Township F Commercial",
+   "zip": "08332",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MORTGAGE RESEARCH CENTER LLC D/B/A VETERANS UNITED HOME LOANS A MISSOURI LIMITED LIABILITY COMPANY",
+   "defendant": "JOHN RHODES HIS HEIRS DEVISEES AND PERSONAL REPRESENTATIVES ET AL",
+   "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON LLP",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840279",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "26001338"
+  },
+  {
+   "county": "cumberland",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-12-16"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2027-01-13"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 173490.71,
+   "auction_id": "2208840236",
+   "status": "DEFENDANT ADJOURNED TO",
+   "case_number": "F00275426",
+   "parcel_id": null,
+   "address": "12 POLK LANE",
+   "city": "Bridgeton",
+   "zip": "08302",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MISSION SERVICING RESDIENTIAL INC",
+   "defendant": "CHRISTOPHER F MCGOWAN ET AL",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS PLLC FKA RAS CITRON LLC",
+   "sale_date": "2027-01-13",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208840236",
+   "as_of": "2026-10-25T00:05-04:00",
+   "sheriff_number": "26001207"
+  }
+ ]
+}

@@ -1,0 +1,2923 @@
+{
+ "state": "new-jersey",
+ "county": "union",
+ "as_of": "2026-10-25T00:34-04:00",
+ "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260677",
+ "count": 77,
+ "items": [
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-01-14"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-03-11"
+    },
+    {
+     "status": "Adjourned per Court Order",
+     "date": "2026-04-08"
+    },
+    {
+     "status": "Adjourned per Court Order",
+     "date": "2026-05-06"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-05-06"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-08-12"
+    },
+    {
+     "status": "Sheriff Adjournment",
+     "date": "2026-08-26"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Adjourned per Court Order",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 7,
+   "upset_amount": 1097918.77,
+   "auction_id": "2209260677",
+   "status": "ADJOURNED PER COURT ORDER",
+   "case_number": "F01255724",
+   "parcel_id": "LOT 9  BLOCK  3111",
+   "address": "304 S. EUCLID AVENUE",
+   "city": "Westfield",
+   "zip": "07090",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "HSBC BANK USA, N.A., AS TRUSTEE FOR THE REGISTERED HOLDERS OF ACE SECURITIES CORP. HOME EQUITY LOAN TRUST, SERIES 2005-HE2, ASSET BACKED PASS-THROUGH CERTIFICATES",
+   "defendant": "CLARK REINHARD A/K/A CLARK REIHARD; NANCY REINHARD; UNITED STATES OF AMERICA; AMERICAN EXPRESS CENTURION BANK; CARDIOVASCULAR CONSULTANTS PA; AND STATE OF NEW JERSEY",
+   "attorney": "STERN & EISENBERG, PC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260677",
+   "as_of": "2026-10-25T00:30-04:00",
+   "sheriff_number": "CH-25002697"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-03-11"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-04-08"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-05-06"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-06-03"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-06-03"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 260021.37,
+   "auction_id": "2209260716",
+   "status": "SCHEDULED",
+   "case_number": "F384825",
+   "parcel_id": "LOT 2.02  BLOCK 160",
+   "address": "23 FOURTH STREET",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SPENCER SAVINGS BANK, SLA",
+   "defendant": "JOHN GUNTER ERBRECHT AND JULIANA M. TOZZI- ERBRECHT, HIS WIFE",
+   "attorney": "PATRICK O. LACSINA LAW OFFICES, LLC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260716",
+   "as_of": "2026-10-25T00:30-04:00",
+   "sheriff_number": "CH-26000258"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-05-06"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-05-06"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 580959.37,
+   "auction_id": "2209260748",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F02255416",
+   "parcel_id": "LOT 8.01  BLOCK  9",
+   "address": "2038 CAROLINE AVENUE",
+   "city": "Linden",
+   "zip": "07036",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK NATIONAL ASSOCIATION,  NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR THE RMAC TRUST, SERIES 2016-CTT",
+   "defendant": "ANGEL BERRIOS AND ANGELLIS BERRIOS A/K/A ARGELIS BERRIOS, HIS WIFE; SARAH DIAZ A/K/A SARA DIAZ; SPARTA MEDICAL ASSOCIATES; FIA CARD SERVICES; NATIONAL CITY BANK N/K/A PNC BANK, NATIONAL ASSOCIATION",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260748",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26000729"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-05-06"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-07-01"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-07-01"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 524014.2,
+   "auction_id": "2209260750",
+   "status": "SCHEDULED",
+   "case_number": "F00842625",
+   "parcel_id": "LOT 73 BLOCK 5806",
+   "address": "1756 BURNET AVENUE",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PROVIDENT BANK F/K/A  THE PROVIDENT BANK,  SUCCESSOR BY MERGER TO LAKELAND BANK",
+   "defendant": "STEVON C. CAMPBELL",
+   "attorney": "STRASSER & ASSOCIATES, P.C.",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260750",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26000731"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-05-20"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-06-17"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-07-15"
+    },
+    {
+     "status": "Sheriff Adjournment",
+     "date": "2026-07-29"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-07-29"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 316292.07,
+   "auction_id": "2209260757",
+   "status": "SCHEDULED",
+   "case_number": "F01080525",
+   "parcel_id": "LOT 2  BLOCK 1508",
+   "address": "237 WILDER ST",
+   "city": "Hillside",
+   "zip": "07205",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR FREMONT HOME LOAN TRUST 2005-2, ASSET-BACKED CERTIFICATES, SERIES 2005-2",
+   "defendant": "EMIN MUHAMMAD A/K/A EMIN MUHAMMED; MRS. MUHAMMAD, SPOUSE OF EMIN MUHAMMAD A/K/A EMIN MUHAMMED; SONYA MUHAMMAD A/K/A SONYA MUHAMMED A/K/A SONYA TURNAGE",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260757",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26000766"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-05-20"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-06-17"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-07-15"
+    },
+    {
+     "status": "Sheriff Adjournment",
+     "date": "2026-07-29"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-07-29"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 572026.3,
+   "auction_id": "2209260758",
+   "status": "PLAINTIFF ADJOURNMENT",
+   "case_number": "F1031824",
+   "parcel_id": "LOT 28  BLOCK 393",
+   "address": "1512 NORTH STILES STREET",
+   "city": "Linden",
+   "zip": "07036",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PROVIDENT BANK, AS SUCCESSOR BY MERGER OF LAKELAND BANK",
+   "defendant": "JOEL TABAK",
+   "attorney": "SHERMAN ATLAS SYLVESTER & STAMELMAN LLP",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260758",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26000767"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-07-15"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 402669.68,
+   "auction_id": "2209260801",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00767124",
+   "parcel_id": "LOT 1  BLOCK 286",
+   "address": "301 W BLANCKE STREET",
+   "city": "Linden",
+   "zip": "07036",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURE TRANSACTION TRUST, SERIES 2019-2",
+   "defendant": "CARMEN BABASTRO-ESTRADA; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260801",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26001349"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 383348.85,
+   "auction_id": "2209260836",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00680324",
+   "parcel_id": "LOT 9   BLOCK  710",
+   "address": "611 CENTRAL AVENUE",
+   "city": "Plainfield",
+   "zip": "07060",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE, FOR THE REGISTERED HOLDERS OF NOMURA HOME EQUITY HOME LOAN, INC. ASSET-BACKED CERTIFICATES, SERIES 2007-2",
+   "defendant": "GRACE MARIN; FABIAN LOZADA A/K/A FABIAN ANTONIO L. SALGUERO, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS OR THEIR SUCCESSORS IN RIGHT, TITTLE AND INTEREST; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+   "attorney": "STERN & EISENBERG, PC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260836",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26001713"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 350093.46,
+   "auction_id": "2209260837",
+   "status": "PLAINTIFF ADJOURNMENT",
+   "case_number": "F00091526",
+   "parcel_id": "LOT 2 BLOCK 546",
+   "address": "233 HILLSIDE AVENUE",
+   "city": "Cranford",
+   "zip": "07016",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SELECT PORTFOLIO SERVICING, INC.",
+   "defendant": "ANDRES HUERTA; DAWN GERVASI; MORTGAGE ELECTRONIC REGISTRATION SYSTEM, INC (\"MERS\"), AS NOMINEE FOR BANK OF AMERICA, N.A., SUCCESSORS BY MERCER TO COUNTRYWIDE BANK, FSB",
+   "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260837",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26001717"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 396944.97,
+   "auction_id": "2209260840",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00821425",
+   "parcel_id": "LOT 2  BLOCK 629",
+   "address": "834-36 CENTRAL STREET",
+   "city": "Plainfield",
+   "zip": "07062",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION ASLEGAL TITTLE TRUSTEE FOR TRUMAN 2025 SC11 TITTLE TRUST",
+   "defendant": "ION B. SHERIFF A/K/A ION B. SHERIFF; RUTH SOLO-SHERIFF N/K/A RUTH T. SOLO; TD BANK, NA",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260840",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26001738"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 356226.32,
+   "auction_id": "2209260842",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F01241825",
+   "parcel_id": "LOT 11  BLOCK 5110",
+   "address": "2245 STECHER AVENUE",
+   "city": "Union",
+   "zip": "07083",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING LLC",
+   "defendant": "MANDY-LYNN D'HAITI; UNITED STATES OF AMERICA; NEW JERSEY HOUSING AND MORTGAGE FINANCEAGENCY",
+   "attorney": "KML LAW GROUP, P.C.",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260842",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26001771"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 368736.46,
+   "auction_id": "2209260843",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00374526",
+   "parcel_id": "LOT 9  BLOCK  201",
+   "address": "823 BISHOP STREET",
+   "city": "Union",
+   "zip": "07083",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SELENE FINANCE LP",
+   "defendant": "MAXIME ANTONIN; CLUNY CHARLESTON",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260843",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26001772"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 26028.25,
+   "auction_id": "2209260844",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00320526",
+   "parcel_id": "BLOCK 160 (FKA13), LOT 38 (FKA)",
+   "address": "222 ELM COURT",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SANTANDER BANK, N.A.",
+   "defendant": "SURAXA PATEL",
+   "attorney": "STERN LAVINTHAL & FRANKENBERG, LLC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260844",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26001773"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-09"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 749164.42,
+   "auction_id": "2209260845",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00305926",
+   "parcel_id": "LOT 84  BLOCK  3.17",
+   "address": "1626 LARKSPUR DRIVE",
+   "city": "Mountainside",
+   "zip": "07092",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEWREZ LLC",
+   "defendant": "LORENZO PRATO; FRANCESCA FILIPPONI",
+   "attorney": "PARKER McCAY P.A.",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260845",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26001774"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 234511.9,
+   "auction_id": "2209260880",
+   "status": "SCHEDULED",
+   "case_number": "F01445023",
+   "parcel_id": "BLOCK 160 FKA 13  LOT 18 FKA 1400",
+   "address": "232 STILES STREET",
+   "city": "Elizabeth",
+   "zip": "07201",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PROPONENT FEDERAL CREDIT UNION",
+   "defendant": "ELTIA I. MONTANO GALARZA, FELIX J. GALARZA, MIDLAND FUNDING LLC, TRINITAS REGIONAL MEDICAL CENTER",
+   "attorney": "POWERS KIRN LLC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260880",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26002208"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 287682.81,
+   "auction_id": "2209260882",
+   "status": "SCHEDULED",
+   "case_number": "F00633526",
+   "parcel_id": "LOT 12  BLOCK 23.02  FKA 23.B",
+   "address": "166 LOCUST AVENUE",
+   "city": "Mountainside",
+   "zip": "07092",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PINGORA LOAN SERVICING, LLC",
+   "defendant": "ROBERT MIRAGLIA;  MRS. ROBERT MIRAGLIA WIFE OF ROBERT MIRAGLIA",
+   "attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260882",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26002220"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 364860.04,
+   "auction_id": "2209260883",
+   "status": "SCHEDULED",
+   "case_number": "F460525",
+   "parcel_id": "LOT 13  BLOCK 235",
+   "address": "117 PLAINFIELD AVENUE",
+   "city": "Plainfield",
+   "zip": "07060",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "MARY WRIGHT; UNITED STATES OF AMERICA; RARITAN BAY FEDERAL CREDIT UNION; MV REALTY OF NEW JERSEY, LLC",
+   "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260883",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26002226"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 339634.2,
+   "auction_id": "2209260885",
+   "status": "SCHEDULED",
+   "case_number": "F00272226",
+   "parcel_id": "LOT 2  BLOCK 435",
+   "address": "1367-71 MILTON PLACE",
+   "city": "Plainfield",
+   "zip": "07062",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "INEZ HURSTON; JAZMIN HURSTON; SOCIETY HILL @ UNIVERSITY HEIG; RENOVATEOPCO TRUST; UNITED STATES OF AMERICA",
+   "attorney": "BROCK & SCOTT PLLC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260885",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26002229"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 230125.9,
+   "auction_id": "2209260887",
+   "status": "SCHEDULED",
+   "case_number": "F00690825",
+   "parcel_id": "BLOCK 5820 LOT 6",
+   "address": "122 HUNT AVENUE",
+   "city": "Vauxhall",
+   "zip": "07088",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NATIONSTAR MORTGAGE LLC",
+   "defendant": "THE ESTATE OF GUMERSINDO GONZALES, JR. A/K/A GUMERSINDO GONZALEZ, DIVORCED, DECEASED; JORGE GONZALEZ; JESUS GONZALEZ; MARCO GONZALEZ; THE GUARDIAN FOR L.M. GONZALEZ; GUMERSINDO GONZALEZ, JR. A/K/A GUMERSINDO GONZALEZ, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS, HERS, THEIRS OR ANY OF THEIR SUCCESSORS IN RIGHT, TITTLE AND INTEREST; SOLAR MOSAIC LLC; MARIA GONZALEZ; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+   "attorney": "ALBERTELLI LAW",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260887",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26002247"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 2216975.26,
+   "auction_id": "2209260890",
+   "status": "SCHEDULED",
+   "case_number": "F01999218",
+   "parcel_id": "LOT 8  BLOCK 4912",
+   "address": "113 HARROW ROAD",
+   "city": "Westfield",
+   "zip": "07090",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MORGAN STANLEY MORTGAGE LOAN TRUST 2007-8XC, U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE, SUCCESSOR IN INTEREST TO BANK OF AMERICA, NATIONAL ASSOCIATION; AS TRUSTEE, SUCCESSOR BY MERGER TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE",
+   "defendant": "TRAN LE HILL F/K/A TRAN LE BAKER; JAMES J. HILL; CRESCENT TIRE & AUTO INC; STATE OF NE JERSEY; UNITED STATE OF AMERICA; MIDLAND FUNDING LLC",
+   "attorney": "PARKER McCAY P.A.",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260890",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26002263"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-04"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 142699.24,
+   "auction_id": "2209260891",
+   "status": "SCHEDULED",
+   "case_number": "F01090325",
+   "parcel_id": "LOT 19  BLOCK 2903",
+   "address": "73 MECKES STREET",
+   "city": "Springfield",
+   "zip": "07081",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SANTANDER BANK, N.A.",
+   "defendant": "EILEEN ACEVEDO; HECTOR ACEVEDO; XCEED FINANCIAL CREDIT UNION; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; STATE OF NEW JERSEY",
+   "attorney": "BROCK & SCOTT PLLC",
+   "sale_date": "2026-11-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260891",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26002266"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2024-05-15"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2024-07-10"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2024-07-10"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2024-11-20"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2025-02-19"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2025-02-19"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-04-15"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-04-15"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 390278.92,
+   "auction_id": "2209260551",
+   "status": "SCHEDULED",
+   "case_number": "F01258123",
+   "parcel_id": "LOT 25 BLOCK 922",
+   "address": "940 KNOLLWOOD COURT",
+   "city": "Plainfield",
+   "zip": "07060",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+   "defendant": "CHERYL HARRIS; WILMA DELAINE; THE SECRETARY OF HOUSING & URBAN DEVELOPMENT; UNITED STATES OF AMERICA; OCEAN CO BD SOCIAL SERVS; KATHLEEN M LEE; BOARDWALK REGENCY CORP; STATE OF NEW JERSEY",
+   "attorney": "LEOPOLD & ASSOCIATES, PLLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260551",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-24000873"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2024-09-18"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2024-09-18"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 425379.73,
+   "auction_id": "2209260560",
+   "status": "SCHEDULED",
+   "case_number": "F00084024",
+   "parcel_id": "LOT 34 F/K/A 1494  BLOCK 63 F/K/A 10",
+   "address": "134-136 MORRISTOWN ROAD",
+   "city": "Elizabeth",
+   "zip": "07208",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE LOAN TRUST MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2006-BC2",
+   "defendant": "NAZLY PRADO A/K/A NAZLY HELEN PRADO A/K/A NAZLY H. PRADO; LUISM. PRADO A/K/A LUIS PRADO; AND MIDLAND FUNDING LLC",
+   "attorney": "STERN & EISENBERG, PC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260560",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-24001766"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-10-29"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-01-14"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-01-14"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-05-20"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-05-20"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 342728.09,
+   "auction_id": "2209260623",
+   "status": "SCHEDULED",
+   "case_number": "F142724",
+   "parcel_id": "TAX LOT 33  BLOCK 429",
+   "address": "111-13 SUMNER AVENUE",
+   "city": "Plainfield",
+   "zip": "07062",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "TEAM 3 FINANCIAL, LLC",
+   "defendant": "125 BERCKMAN ST LLC; NAYANA PATEL; UNKNOWN TENANTS OR OCCUPANTS 1-10; and JAMES E. SHELTON",
+   "attorney": "WEIR LLP",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260623",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-25002059"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-10-29"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-01-14"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-01-14"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-05-20"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-05-20"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 331590.82,
+   "auction_id": "2209260624",
+   "status": "SCHEDULED",
+   "case_number": "F143024",
+   "parcel_id": "TAX LOT 31  BLOCK 328",
+   "address": "125-27 BERCKMAN STREET",
+   "city": "Plainfield",
+   "zip": "07062",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "TEAM 3 FINANCIAL, LLC",
+   "defendant": "125 BERCHMAN ST LLC; NAYANA PATEL and JAMES E. SHELTON",
+   "attorney": "WEIR LLP",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260624",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-25002060"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-01-14"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-02-11"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-04-08"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-04-08"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-07-29"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-07-29"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 351124.96,
+   "auction_id": "2209260672",
+   "status": "SCHEDULED",
+   "case_number": "F01235424",
+   "parcel_id": "LOT 17   BLOCK  182",
+   "address": "1055 MADISON AVENUE",
+   "city": "Rahway",
+   "zip": "07065",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+   "defendant": "JUDITH A. ROBINSON; MR. ROBINSON, HUSBAND OF JUDITH A. ROBINSON; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+   "attorney": "PARKER MCCAY",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260672",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-25002686"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-04-08"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-04-08"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 458454.57,
+   "auction_id": "2209260735",
+   "status": "PLAINTIFF ADJOURNMENT",
+   "case_number": "F00341725",
+   "parcel_id": "LOT 12  BLOCK  615",
+   "address": "634-36 E. 6TH STREET",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+   "defendant": "PPS REALTY MANAGEMENT LLC; STEFANO APISA A/K/A STEVE R. APISA",
+   "attorney": "PARKER MCCAY",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260735",
+   "as_of": "2026-10-25T00:31-04:00",
+   "sheriff_number": "CH-26000566"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-07-01"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-07-01"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 222340.01,
+   "auction_id": "2209260747",
+   "status": "SCHEDULED",
+   "case_number": "F01151222",
+   "parcel_id": "BLOCK 1001 LOT 13",
+   "address": "319 HAVEN AVENUE",
+   "city": "Scotch Plains",
+   "zip": "07076",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SANTANDER BANK, N.A.",
+   "defendant": "NAMON M. JACKSON AND CORA E. JACKSON, HIS WIFE",
+   "attorney": "STERN LAVINTHAL & FRANKENBERG, LLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260747",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26000728"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-26"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 651810.89,
+   "auction_id": "2209260835",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F01741619",
+   "parcel_id": "BLOCK 88 LOT 1",
+   "address": "1100 PASSAIC AVENUE",
+   "city": "Linden",
+   "zip": "07036",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "HSBC BANK USA, NATIONAL ASSOCIATION AS TRUSTEE FOR OPTEUM MORTGAGE ACCEPTANCE CORPORATION, ASSET BACKED PASS THROUGH CERTIFICATES SERIES 2005-4",
+   "defendant": "MICHAEL ERVIN AKA MICHAEL ERWIN AND MRS. ERVIN/ERWIN, WIFE OF MICHAEL ERVIN AKA MICHAEL ERVIN",
+   "attorney": "MCCABE, WEISBERG & CONWAY, P.C.",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260835",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26001685"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 377219.57,
+   "auction_id": "2209260848",
+   "status": "BANKUPTCY",
+   "case_number": "F00692125",
+   "parcel_id": "LOT 8  BLOCK  505",
+   "address": "648 EAST 3RD AVENUE",
+   "city": "Roselle",
+   "zip": "07203",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MIDFIRST BANK",
+   "defendant": "CARLOS S. CASTANO, AND UNITED STATES OF AMERICA",
+   "attorney": "KML LAW GROUP, P.C.",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260848",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26001822"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 1386753.21,
+   "auction_id": "2209260849",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "DJ04885525",
+   "parcel_id": "LOT 7 BLOCK 3901",
+   "address": "180 WATCHUNG TERRACE",
+   "city": "Scotch Plains",
+   "zip": "07076",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SNCO CAP LLC",
+   "defendant": "TUNIESA L. SIMMONS-DOZIER",
+   "attorney": "SEYFARTH SHAW LLP",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260849",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26001827"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 428123.93,
+   "auction_id": "2209260851",
+   "status": "PLAINTIFF ADJOURNMENT",
+   "case_number": "F01690019",
+   "parcel_id": "LOT 8   BLOCK 631",
+   "address": "1325 PUTNAM AVENUE",
+   "city": "Plainfield",
+   "zip": "07060",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "REVERSE MORTGAGE FUNDING LLC",
+   "defendant": "ETHEL JUANITA FOLKES AND UNITED STATES OF AMERICA ACTING ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT",
+   "attorney": "GREENSPOONMARDER",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260851",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26001835"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 213670.34,
+   "auction_id": "2209260854",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00477526",
+   "parcel_id": "LOT 5   BLOCK  504",
+   "address": "667-73 W 7TH STREET AKA 669 7TH STREET",
+   "city": "Plainfield",
+   "zip": "07060",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+   "defendant": "KEMPER LEE MITCHELL, W/H; LEONARD MITCHELL",
+   "attorney": "KML LAW GROUP, P.C.",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260854",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26001881"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 651533.73,
+   "auction_id": "2209260858",
+   "status": "PLAINTIFF ADJOURNMENT",
+   "case_number": "F00983224",
+   "parcel_id": "LOT 9 AND 408 AND 60 TO 63  BLOCK 505",
+   "address": "1633-1658 GRIER AVENUE",
+   "city": "Linden",
+   "zip": "07036",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ATHENE ANNUITY AND LIFE COMPANY",
+   "defendant": "YVETTE EDWARDS; LENNY EDWARDS; TESLA, INC.; CAPITAL ONE, SUCCESSORS TO HSBC BANK NEVADA",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260858",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26001911"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 631366.46,
+   "auction_id": "2209260874",
+   "status": "PLAINTIFF ADJOURNMENT",
+   "case_number": "F00766325",
+   "parcel_id": "LOT 36  BLOCK 129",
+   "address": "1164 BRIARCLIFF DRIVE",
+   "city": "Rahway",
+   "zip": "07065",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "CHAIM PRUSHINOWSKI; BREINDEL LEIBLER; AMERICAN EXPRESS NATIONAL BANK",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260874",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26002148"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 120496.55,
+   "auction_id": "2209260877",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F416825",
+   "parcel_id": "LOT 19  BLOCK  238",
+   "address": "2129 PROSPECT STREET",
+   "city": "Rahway",
+   "zip": "07065",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+   "defendant": "CARLOS MUNOZ; NOEMI VELEZ, HUSBAND AND WIFE",
+   "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260877",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26002158"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 442452.94,
+   "auction_id": "2209260892",
+   "status": "SCHEDULED",
+   "case_number": "F00081526",
+   "parcel_id": "LOT 4.01 F/K/A 196 BLOCK 618 F/K/A 7",
+   "address": "123-125 DIVISION STREET",
+   "city": "Elizabeth",
+   "zip": "07201",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "US BANK NATIONAL ASSOCIATION AS LEGAL TITTLE TRUSTEE FOR TRUMAN 2016 SC6 TITLE TRUST",
+   "defendant": "NANA OPOKU-WARE F/K/A JOHN OWUSU F/K/A JOHN OWUSU-WARE; NCS LLC F/K/A NATIONWIDE CREDIT SERVICE INC; SUNNOVA TE MANAGEMENT LLC; UNKNOWN OCCUPANTS #1-10 N/K/A ABEE (LAST NAME REFUSED), 1ST FLOOR OCCUPANT; UNKNOWN OCCUPANT#1-10 N/K/A JOHN (LAST NAME REFUSED), 2ND FLOOR OCCUPANT",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260892",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26002323"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 126137.07,
+   "auction_id": "2209260893",
+   "status": "SCHEDULED",
+   "case_number": "F00458026",
+   "parcel_id": "LOT 15  BLOCK 4303",
+   "address": "124 W 10TH AVENUE",
+   "city": "Roselle",
+   "zip": "07203",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ROCKET MORTGAGE, LLC",
+   "defendant": "DELCIA A. HOFFMAN, DECEASED, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITTLE AND INTEREST; DOUGLAS E. MCGOW AN, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF DELCIA A. HOFFMAN, DECEASED; UNION BUILDING TRADES FEDERAL CREDIT UNION; DR. C DUNCAN BURNETT; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+   "attorney": "BROCK & SCOTT PLLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260893",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26002325"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 253454.34,
+   "auction_id": "2209260894",
+   "status": "SCHEDULED",
+   "case_number": "F00710626",
+   "parcel_id": "LOT 11  BLOCK 406",
+   "address": "541 E 2ND AVENUE",
+   "city": "Roselle",
+   "zip": "07203",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FIFTH THIRD BANK NATIONAL ASSOCIATION",
+   "defendant": "NUNO MIGUEL",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260894",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26002328"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 166687.58,
+   "auction_id": "2209260895",
+   "status": "SCHEDULED",
+   "case_number": "F00128324",
+   "parcel_id": "LOT 16  BLOCK 506",
+   "address": "552 PURCE STREET",
+   "city": "Hillside",
+   "zip": "07205",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NATIONSTAR MORTGAGE LLC",
+   "defendant": "CATHERINE J. MARINOVICH; UNITED STATES OF AMERICA; MARY WOLFF DECEASE, HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TOTTLE, AND INTEREST; ; ALAN TERN N/K/A ALSN STERN; EDGE LABORATORIES INC; SUMMIT ANESTHESIA ASSOCIATES; CHRISTOPH E. DUDDY; ACB RECEIVABLES MANGEMENT INC ASSIGNEE OF CONSULTTANTS IN UROLOGY PA; MIDLAND FUNDING LLC; ALERT AMBULANCE SERVICE N/K/A HMH HOSPITAL CORPORATION; TOMASSO BROS OIL CO.; STATE OF NEW JERSEY; LISA B. HEFFERNAN AS HEIR OF MARY WOLFF, DECEASED; DONALD B. WOLFF AS HEIR OF MARY WOLFF, DECEASED; BRIAN G. WOLFF AS HEIR OF MARY WOLFF, DECEASED",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260895",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26002403"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 250504.79,
+   "auction_id": "2209260896",
+   "status": "SCHEDULED",
+   "case_number": "F00428126",
+   "parcel_id": "BLOCK 905   LOT 37",
+   "address": "234 RIVERSIDE DRIVE",
+   "city": "Springfield",
+   "zip": "07081",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+   "defendant": "NICHOLAS C. MARIOLIS, MRS. NICHOLASC. MARIOLIS, LVNV FUNDING LLC AND UNITED STATESOF AMERICA",
+   "attorney": "MCCABE, WEISBERG & CONWAY, P.C.",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260896",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26002405"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 269924.95,
+   "auction_id": "2209260897",
+   "status": "SCHEDULED",
+   "case_number": "F00855525",
+   "parcel_id": "LOT 19  BLOCK 164",
+   "address": "392 WEST GRAND AVENUE",
+   "city": "Rahway",
+   "zip": "07065",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FIRST PLATINUM CAPITAL CORP.",
+   "defendant": "FKGM, LLC (\"Borrower\") AND FINANCIAL RESORCES FEDERAL CREDIT UNION NJ (COLLECTIVELY, WITH THE BORROWER, THE \"DEFENDANTS\")",
+   "attorney": "BUCHANAN INGERSOLL & ROONEY PC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260897",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26002410"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 364563.46,
+   "auction_id": "2209260898",
+   "status": "SCHEDULED",
+   "case_number": "F01007625",
+   "parcel_id": "LOT 25 FKA 620  BLOCK 741 FKA 5",
+   "address": "65 FLORIDA STREET",
+   "city": "Elizabeth",
+   "zip": "07206",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+   "defendant": "JAMIE VESPREY; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+   "attorney": "PINCUS & TARAB ATTORNEYS AT LAW",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260898",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26002411"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 204760.74,
+   "auction_id": "2209260899",
+   "status": "SCHEDULED",
+   "case_number": "F01306822",
+   "parcel_id": "LOT 13  BLOCK 410",
+   "address": "714 LARCH STREET",
+   "city": "Roselle Park",
+   "zip": "07204",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "HSBC BANK USA NATIONAL ASSOCIATIONAS TRUSTEE FOR MORTGAGE PASS-THROUGH CERTIFICATES, SERIES MLMI 2005-A10",
+   "defendant": "JOHN E KIRKPATRICK, JR. A/K/A JOHN KIRKPATRICK AND DONNA M. KIRKPATRICK A/K/A DONNA KIRKPATRICK, HUSBAND AND WIFE",
+   "attorney": "LOGS LEGAL GROUP LLP",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260899",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26002412"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 203102.61,
+   "auction_id": "2209260900",
+   "status": "SCHEDULED",
+   "case_number": "F00188526",
+   "parcel_id": "BLOCK 635 LOT 2",
+   "address": "1214 PUTNAM AVENUE",
+   "city": "Plainfield",
+   "zip": "07060",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "AMOS FINANCIAL LLC",
+   "defendant": "RUTHVEN RICHARDSON, ANNETTE RICHARDSON, AND CITY OF PLAINFIELD, COUNTY OF UNION AND STATE OF NEW JERSEY",
+   "attorney": "GROSS POLOWY, LLC",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260900",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26002419"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 470558.23,
+   "auction_id": "2209260901",
+   "status": "SCHEDULED",
+   "case_number": "F00496126",
+   "parcel_id": "BLOCK 1406  LOT 5",
+   "address": "1423 BOND STREET",
+   "city": "Hillside",
+   "zip": "07205",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "JILL S. PERRY, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES AND HIS/HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITTLE AND INTEREST, UNITED STATED OF AMERICA, NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY, RIVER HEIGHTS CAPITAL LLC ASSIGNEE OF FIRST RESOLUTION INVESTMENT CORP., CENTRAL SUPPLY INC., LVNV FUNDING LLC ASSIGNEE OF NEW CENTURY FINANCIAL SERVICES",
+   "attorney": "POWERS KIRN - COUNSELORS",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260901",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26002424"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 376210.53,
+   "auction_id": "2209260902",
+   "status": "SCHEDULED",
+   "case_number": "F00510626",
+   "parcel_id": "LOT 10  BLOCK 205",
+   "address": "115 E GIBBONS",
+   "city": "Linden",
+   "zip": "07036",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION AS TRUSTEE FOR LB-SHED SERIES VI TRUST",
+   "defendant": "MARTIN FISCH; UNITED STATES OF AMERICA; UNKNOWN OCCUPANTS #1-10 N/K/A JANE DOE (NAME REFUSED), OCCUPANT",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-11-18",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260902",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26002425"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-03-18"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-05-20"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-05-20"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-08-12"
+    },
+    {
+     "status": "Sheriff Adjournment",
+     "date": "2026-08-26"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-08-26"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 395889.7,
+   "auction_id": "2209260723",
+   "status": "SCHEDULED",
+   "case_number": "F00479725",
+   "parcel_id": "LOT 25.01   BLOCK  231",
+   "address": "27 ROBBINWOOD TERRACE",
+   "city": "Linden",
+   "zip": "07036",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+   "defendant": "SIMCHA KATZ; CHANA KATZ; MOSES KATS",
+   "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260723",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26000318"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-06-03"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-07-01"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-07-29"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Adjourned per Court Order",
+     "date": "2026-12-02"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 336085.45,
+   "auction_id": "2209260766",
+   "status": "BANKUPTCY",
+   "case_number": "F00734025",
+   "parcel_id": "LOT 18  BLOCK 2903",
+   "address": "69 MECKES STREET",
+   "city": "Springfield",
+   "zip": "07081",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BANK OF AMERICA, N.A.",
+   "defendant": "JANICE JOHNSON, KENNETH JOHNSON, AMERPRISE INSURANCE COMPANY, INDIVIDUALLY, RICHARD K CHON, INDIVIDUALLY, AMERIPRISE INSURANCE COMPANY, SUBROGEE RICHARD K. CHON, UNITED STATES OF AMERICA",
+   "attorney": "POWERS KIRN - COUNSELORS",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260766",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26000819"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-07-29"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-08-26"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 246886.42,
+   "auction_id": "2209260802",
+   "status": "PLAINTIFF ADJOURNMENT",
+   "case_number": "F00882625",
+   "parcel_id": "LOT 31  BLOCK  4207",
+   "address": "1141 CALDWELL AVENUE",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION,AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS INDENTURE TRUSTEE, FOR THE HOLDERS OF THE CIM TRUST 2021-R3, MORTGAGE-BACKED NOTES, SERIES 2021-R3",
+   "defendant": "ROSA RENDEIRO F/K/A ROSA RENDEIRO DA CRUZ A/K/A ROSA M. RENDEIRO-DA CRUZ; UNKNOWN OCCUPANTS #1-10 N/K/A MEGAN RENDEIRO, OCCUPANT",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260802",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26001375"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-07-29"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-08-26"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 1237377.01,
+   "auction_id": "2209260804",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F01146122",
+   "parcel_id": "LOT 11 BLOCK 5603",
+   "address": "40 TANGLEWOOD DRIVE",
+   "city": "Summit",
+   "zip": "07901",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+   "defendant": "AMINA H. ALI; OSMAN S. ALI; LYDIA MOLOTSCHKO; GREGORY MASCERA; LISA MASCERA; CHRISTINE ASSOCIATES INC; CARNEGIE CAPITAL LLC; PATRICK ANDREWS; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; CAPITAL ONE BANK USA NA",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260804",
+   "as_of": "2026-10-25T00:32-04:00",
+   "sheriff_number": "CH-26001383"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-07-29"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 510816.19,
+   "auction_id": "2209260806",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00442225",
+   "parcel_id": "LOT 4 FKA 561 BLOCK 444 FKA 4",
+   "address": "856 GIBBONS COURT",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+   "defendant": "ALVIN P. PRAMNAUTH A/K/A ALVIN PRAMNAUTH; ALICE COLON; KAREN KORPALSKI SOTO A/K/A KAREN SOTO; CROWN BANK SUCCESSOR TO FIRST BANK AMERICANO; TOMASSO BROS OIL COMPANY; PINNACLE FEDERAL CREDIT UNION; B&R RECOVERY LLC, ASSIGNEE; STATE OF NEW JERSEY",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260806",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26001408"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-12"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 72536.52,
+   "auction_id": "2209260822",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00990925",
+   "parcel_id": "LOT 17 BLOCK 1902",
+   "address": "211 UNION AVENUE",
+   "city": "Scotch Plains",
+   "zip": "07076",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK, N.A.",
+   "defendant": "CARMEN PONZIO, DECEASED, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITTLE AND INTEREST; NICHOLAS PONZIO; ARLENE T. PONZIO; ANDREW PONZIO; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+   "attorney": "BROCK & SCOTT PLLC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260822",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26001492"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-26"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Adjourned per Court Order",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 263371.13,
+   "auction_id": "2209260832",
+   "status": "ADJOURNED PER COURT ORDER",
+   "case_number": "F00081626",
+   "parcel_id": "LOT 22 FKA 21   BLOCK 555 FKA 321",
+   "address": "611 GRANT AVENUE",
+   "city": "Plainfield",
+   "zip": "07060",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+   "defendant": "DONAVON C. MOODIE AND GRACE MOODIE, HUSBANDAND WIFE, MARTIN C. MOODIE, MRS. MARTIN C. MOODIE, WIFE OF MARTIN C. MOODIE AND UNITED STATES OF AMERICA",
+   "attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260832",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26001666"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 161943.4,
+   "auction_id": "2209260855",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F01062125",
+   "parcel_id": "LOT 21  BLOCK  461",
+   "address": "342 FREDERICK STREET",
+   "city": "Plainfield",
+   "zip": "07062",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC",
+   "defendant": "ANDRES PLANA, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS OR THEIR SUCCESSORS INRIGHT, TITTLE AND INTEREST; MIRIAM COLEMAN-PLANA A/K/A MIRIAM J. COLEMAN A/K/A MIRIAN J,J, COLEMAN-PLANA, INDIVIDUALLY AND AS ADMINISTRATIX OF THE STATE OF ANDRES PLANA; MR. COLEMAN-PLANA, UNKNOWN SPOUSE OF MIRIAM COLEMAN-PLANA A/K/A MIRIAM J. COLEMAN-PLANA A/K/A MIRIAM J.J. COLEMAN-PLANA; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; AND SUNRUN, INC.",
+   "attorney": "STERN & EISENBERG, PC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260855",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26001882"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 169295.03,
+   "auction_id": "2209260856",
+   "status": "PLAINTIFF ADJOURNMENT",
+   "case_number": "F01338723",
+   "parcel_id": "LOT 4  BLOCK  63",
+   "address": "1220 EAST HENRY STREET",
+   "city": "Linden",
+   "zip": "07036",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY IN ITS CAPACITY AS INDENTURE TRUSTEE OF CIM TRUST 2019-R5",
+   "defendant": "DOUGLAS SMITH, DECEASED, HIS HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITTLE, AND INTEREST; NEW CENTURY FINANCIAL SERVICES, LVNV FUNDING, LLC, ASSIGNEE C/O LVNV FUNDING; CAPITAL ONE BANK N/K/A CAPITAL ONE, NATIONAL ASSOCIATION; SHAUNA M. GREEN; VIRTUA MEMORIAL HOSPITAL OF BURLINGTON COUNTY; STATE OF NEW JERSEY; UNITED STATES OF AMERICA; BALLY'S PARK PLACE INC. D/B/A BALLY'S ATLANTIC CITY N/K/A BALLY'S PARK PLACELLC; EBONI SHAREEF A/K/A EBONI F. Q. SHAREEF, INDIVIDUALLY, AND AS HEIR OF THE STATE OF DOUGLAS SMITH; JAMAL SMITH A/K/A JAMAAL A. SMITH, INDIVIDUALLY, AS ADMINISTRATOR, AND AS HEIR OF THE ESTATE OF DOUGLAS SMITH; UNKNOWN OCCUPANTS #1-10 N/K/A JOHN DOE (NAME REFUSED), OCCUPANT",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260856",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26001886"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 20571.49,
+   "auction_id": "2209260857",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00097925",
+   "parcel_id": "BLOCK 905  LOT 12.301 QUAL 0301",
+   "address": "255 TUCKER AVENUE",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PUTNAM HOUSE CONDOMINIUM ASSOCIATION, INC",
+   "defendant": "LISA M. CANDITO",
+   "attorney": "CUTOLO BARROS LLC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260857",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26001909"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 523068.66,
+   "auction_id": "2209260859",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00875325",
+   "parcel_id": "LOT 8 BLOCK 55",
+   "address": "35 GARSIDE PLACE",
+   "city": "Clark",
+   "zip": "07066",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST IX-A",
+   "defendant": "JAMES G. MURPHY; JOHN C. MURPHY; ANN MARIE GOLEMBIEWSKI",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260859",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26001912"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 302857.01,
+   "auction_id": "2209260864",
+   "status": "PLAINTIFF ADJOURNMENT",
+   "case_number": "F00797924",
+   "parcel_id": "LOT 21  BLOCK 3913",
+   "address": "2393 STEUBEN STREET",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "DANIEL COLLIER, DIVISION OF TAXATION-STATE OF NEW JERSEY, UNITED STATES OF AMERICA ACTING THROUGH SECRETARY OF HOUSING AND DEVELOPMENT",
+   "attorney": "ALBERTELLI LAW",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260864",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26002009"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 418706.7,
+   "auction_id": "2209260871",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00033626",
+   "parcel_id": "BLOCK 5806   LOT 63",
+   "address": "326 LAUREL AVENUE",
+   "city": "Union",
+   "zip": "07083",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "MELISSA ROCVIL, MR. ROCVIL, HUSBAND OF MELISSA ROCVIL AND UNITED STATES OF AMERICA",
+   "attorney": "MCCABE, WEISBERG & CONWAY, P.C.",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260871",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26002077"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 291716.21,
+   "auction_id": "2209260875",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00417625",
+   "parcel_id": "LOT 2.408  BLOCK 2003",
+   "address": "408 ORCHARD MEADOWS DRIVE",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PHH ASSET SERVICES LLC",
+   "defendant": "GRACE BUTLER-LEWIS; MR. BUTLER-LEWIS, HUSBAND OF GRACE BUTLER-LEWIS; LISELLE J. LEWIS; MR. LEWIS, HUSBAND OF LISELLE J. LEWIS; STATE OF NEW JERSEY",
+   "attorney": "BROCK & SCOTT PLLC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260875",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26002154"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 2104888.49,
+   "auction_id": "2209260879",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F1207924",
+   "parcel_id": "LOT 1  BLOCK 2911",
+   "address": "1945 ROUTE 22 WEST",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "TD BANK, N.A.",
+   "defendant": "TNR HOLDINGS LLC; ARTEMIS OB/GYN LLC; BIRTH CENTER OF NEW JERSEY LLC; NICOLA PEMBERTON AND STATE OF NEW JERSEY",
+   "attorney": "DEMBO, BROWN & BURNS LLP",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260879",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26002187"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-04"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-12-02"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 390338.78,
+   "auction_id": "2209260884",
+   "status": "PLAINTIFF ADJOURNMENT",
+   "case_number": "F00638626",
+   "parcel_id": "BLOCK 526  LOT 20",
+   "address": "837-39 MONROE AVENUE",
+   "city": "Plainfield",
+   "zip": "07063",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES LLC",
+   "defendant": "HARRY ORTIZ, EDNA ORTIZ, JONATTAN J. ORTIZ-MODESTO, SUNNOVA SLA MANAGEMENT LLC, TD BANK, N.A.",
+   "attorney": "POWERS KIRN LLC",
+   "sale_date": "2026-12-02",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260884",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26002228"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-05-14"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2025-07-09"
+    },
+    {
+     "status": "Bankuptcy",
+     "date": "2025-07-09"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-08-12"
+    },
+    {
+     "status": "Sheriff Adjournment",
+     "date": "2026-08-26"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Adjourned per Court Order",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 266337.05,
+   "auction_id": "2209260579",
+   "status": "ADJOURNED PER COURT ORDER",
+   "case_number": "F00910124",
+   "parcel_id": "LOT 41 BLOCK 322",
+   "address": "8-10 SANDFORD AVENUE",
+   "city": "Plainfield",
+   "zip": "07060",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "TRYON STREET ACQUISITION TRUST I",
+   "defendant": "PPS PROPERTY, 8-10 SANFORD AVE LLC, STEFANO APISA, ALVARO PADRON, AND STATE OF NEW JERSEY",
+   "attorney": "LAW OFFICES OF TAE H. WHANG, LLC",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260579",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-25000849"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-07-01"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-08-12"
+    },
+    {
+     "status": "Sheriff Adjournment",
+     "date": "2026-08-26"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-09-23"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 415693.23,
+   "auction_id": "2209260794",
+   "status": "PLAINTIFF ADJOURNMENT",
+   "case_number": "F0385525",
+   "parcel_id": "LOT 13  BLOCK  623",
+   "address": "1143-47 E 7TH STREET",
+   "city": "Plainfield",
+   "zip": "07062",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEWREZ LLC D/B/A  SHELLPOINT MORTGAGE SERVICING",
+   "defendant": "AMIR G. KNORDLE; NADIRAH F. KNORDLE; UNITED STATES OF AMERICA; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; STATE OF NEW JERSEY; DISCOVER BANK C/D DISCOVER PRODUCTS INC; AND MIDLAND CREDIT MANAGEMENT, INC",
+   "attorney": "STERN & EISENBERG, PC",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260794",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26001232"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-12"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 752690.06,
+   "auction_id": "2209260817",
+   "status": "PLAINTIFF ADJOURNMENT",
+   "case_number": "F00367224",
+   "parcel_id": "LOT 6  BLOCK 242",
+   "address": "653 THOMAS PLACE",
+   "city": "Rahway",
+   "zip": "07065",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BANK UNITED, N.A.",
+   "defendant": "WILSON GILLES; KETTLY GILLES; UNITED STATES OF AMERICA; MRI OF WOODBRIDGE; STATE OF NEW JERSEY",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260817",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26001474"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-26"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Plaintiff Adjournment",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 225728.03,
+   "auction_id": "2209260833",
+   "status": "PLAINTIFF ADJOURNMENT",
+   "case_number": "F00763525",
+   "parcel_id": "LOT 29 FKA 1848 BLOCK 299 FKA 8",
+   "address": "1023 WILLIAM STREET",
+   "city": "Elizabeth",
+   "zip": "07201",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION",
+   "defendant": "LAURECE C. WALLACE, MR. LAURECE C. WALLACE, HUSBAND OF LAURECE C. WALLACE, PORTASOLFT COMPANY INC. AND NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+   "attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260833",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26001673"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 211166.99,
+   "auction_id": "2209260862",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00422825",
+   "parcel_id": "LOT 9  BLOCK 702",
+   "address": "408 YALE AVENUE",
+   "city": "Hillside",
+   "zip": "07205",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+   "defendant": "KORIN GARNER; MR. GARNER, HUSBAND OF KORIN GARNER; CENTRAL JERSEY FEDERAL CREDIT UNION A/K/A ST JAMES HOSPITAL NEWARK FEDERAL CREDIT UNION",
+   "attorney": "PARKER MCCAY",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260862",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26001958"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 737796.61,
+   "auction_id": "2209260866",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00416626",
+   "parcel_id": "LOT 9  BLOCK 447",
+   "address": "325-327 GRIER AVENUE",
+   "city": "Elizabeth",
+   "zip": "07202",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY , FSB, NOT INITS INDIVIDUAL CAPACITY BUT SOLELYAS OWNER TRUSTEE FOR VENUS SECURITIZATION TRUST SOCIATY, 1",
+   "defendant": "YNN INVESTMENT LLC; NECHAMA PEREZ; UNKNOWN OCCUPANTS #1-10 N/K/A ISIS ORTIZ, OCCUPANT",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260866",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26002031"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-07"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 581642.71,
+   "auction_id": "2209260867",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F862625",
+   "parcel_id": "LOT 4  BLOCK 5806",
+   "address": "294 CONCORD AVENUE",
+   "city": "Union",
+   "zip": "07083",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "COLUMBIA BANK",
+   "defendant": "STEPHANIE EUSTACHE; CAVALRY SPV I, LLC; CITIBANK , N.A. /THE HOME DEPOT",
+   "attorney": "FEIN, SUCH, KAHN & SHEPARD, P.C.",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260867",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26002035"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-04"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2026-12-16"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 168608.16,
+   "auction_id": "2209260888",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00502626",
+   "parcel_id": "LOT 19  BLOCK 502",
+   "address": "160 EASTERN PARKWAY",
+   "city": "Hillside",
+   "zip": "07205",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+   "defendant": "MARY DAVIS, DECEASED, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HER, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITTLE AND INTEREST; SAKINAH A. DAVIS, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF MARY DAVIS, DECEASED; SAMMIE L. DAVIS III; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+   "attorney": "BROCK & SCOTT PLLC",
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260888",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26002252"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2027-01-06"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 672789.07,
+   "auction_id": "2209260868",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F1026625",
+   "parcel_id": "BLOCK 936  LOT 1",
+   "address": "733-743 RAVINE ROAD",
+   "city": "Plainfield",
+   "zip": "07060",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "GINA ADDEO",
+   "defendant": "BRYANT STINEY",
+   "attorney": "LAW OFFICES OF DARIN D. PINTO, P.C.",
+   "sale_date": "2027-01-06",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260868",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26002067"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2027-01-06"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 404019.47,
+   "auction_id": "2209260870",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00277826",
+   "parcel_id": "BLOCK 444 LOT 10",
+   "address": "848-850 GIBBONS COURT",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PROVIDENT BANK, SUCCESSOR BY MERGER TO LAKELAND BANK",
+   "defendant": "AROLDO R. CALDERON",
+   "attorney": "SEIDMAN & PINCUS, LLC - ATTORNEYS",
+   "sale_date": "2027-01-06",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260870",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26002074"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-21"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2027-01-06"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 364284.19,
+   "auction_id": "2209260876",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00399626",
+   "parcel_id": "LOT 8  BLOCK 2",
+   "address": "1136 COOLIDGE ROAD",
+   "city": "Elizabeth",
+   "zip": "07208",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "JUGJYT SODHI; SANYYA GARDEZ; THE ATLANTIC FEDERAL CREDIT UNION; UNITED STATES OF AMERICA",
+   "attorney": "BROCK & SCOTT PLLC",
+   "sale_date": "2027-01-06",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260876",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26002155"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-04"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2027-01-06"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 297057.52,
+   "auction_id": "2209260881",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F01276425",
+   "parcel_id": "LOT 14 fka 31  BLOCK 206 fka 359",
+   "address": "606 HARRISON STREET",
+   "city": "Rahway",
+   "zip": "07065",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NATIONSTAR MORTGAGE LLC",
+   "defendant": "JENNIE RODRIGUEZ; ALEJANDRO ROJAS; MIDLAND CREDIT MANAGEMENT, INC",
+   "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
+   "sale_date": "2027-01-06",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260881",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26002215"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-04"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2027-01-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 2237823.0,
+   "auction_id": "2209260886",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "L0084326 JUDGMENT # J05452426",
+   "parcel_id": "LOT 16  BLOCK 1004",
+   "address": "311 PROSPECT STREET",
+   "city": "Westfield",
+   "zip": "07090",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ANDREW ALTOBELLI",
+   "defendant": "BBI HOLDINGS LLC; BBI HOLDINGS LLC d/b/a BBI CAPITAL LLC; BBI HOLDINGS LLC d/b/a bbi capital holdings llc; bbi holdings llc D/B/A BBI CAPITAL FL I LLC; COREY SINGMAN, INDIVIDUALLY; AND JARED KABAN T/A BBI HOLDINGS LLC",
+   "attorney": "NORDLAW",
+   "sale_date": "2027-01-20",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260886",
+   "as_of": "2026-10-25T00:33-04:00",
+   "sheriff_number": "CH-26002231"
+  },
+  {
+   "county": "union",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-04"
+    },
+    {
+     "status": "Defendant Adjournment",
+     "date": "2027-01-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 881351.01,
+   "auction_id": "2209260889",
+   "status": "DEFENDANT ADJOURNMENT",
+   "case_number": "F00425226",
+   "parcel_id": "LOT 6, ADDITIONAL LOTS 12, 18-B  BLOCK 210",
+   "address": "505 WASHINGTON AVENUE",
+   "city": "Linden",
+   "zip": "07036",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+   "defendant": "ROSE IGUN, MR. ROSE IGUN, HUSBAND OF ROSE IGUN AND UNITED STATES OF AMERICA",
+   "attorney": "McCalla Raymer Leibert Pierce, LLC ( Formerly BUCKLEY MADOLE, P.C. )",
+   "sale_date": "2027-01-20",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209260889",
+   "as_of": "2026-10-25T00:34-04:00",
+   "sheriff_number": "CH-26002261"
+  }
+ ]
+}
