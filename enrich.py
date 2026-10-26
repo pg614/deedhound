@@ -51,14 +51,14 @@ def lorain(items, cache):
     for i in items:
         pid = re.sub(r"\D", "", i.get("parcel_id") or "")
         if not pid: continue
-        f = get(LOR + "/query", {"where": f"PARCELID='{pid}'", "outFields": "PARCELID,SITEADDRESS,RESFLRAREA,BLDGAREA,RESYRBLT,BEDROOMS,BATHS,HALFBATHS,MARKETLAND,MARKETBUILDING,MARKETTOTAL,TAXFULLYEAR,USEDSCRP,ACRES,IMAGE_URL", "returnGeometry": "false", "f": "json"}).get("features", [])
+        f = get(LOR + "/query", {"where": f"PARCELID='{pid}'", "outFields": "PARCELID,SITEADDRESS,RESFLRAREA,BLDGAREA,RESYRBLT,BEDROOMS,BATHS,HALFBATHS,MARKETLAND,MARKETBUILDING,MARKETTOTAL,TAXANNUALREALCREDIT,TAXUNPAID,TAXDELINQSPECASSESS,TAXCURRENTSPECASSESS,USEDSCRP,ACRES,IMAGE_URL", "returnGeometry": "false", "f": "json"}).get("features", [])
         if len(f) != 1: continue
         r = f[0]["attributes"]; hit += 1
         cache[key(i)] = {"source": "Lorain County Auditor (official county GIS parcel layer)", "source_url": LOR, "retrieved": NOW, "data_date": None, "photo": (r["IMAGE_URL"] if r["IMAGE_URL"] and "blocked" not in r["IMAGE_URL"] else None), "photo_note": "Photo: Lorain County Auditor", "parcel": r["PARCELID"],
             "facts": [x for x in [("Use", (r["USEDSCRP"] or "").strip().title() or None), ("Living area", f'{r["RESFLRAREA"]:,} sq ft' if r["RESFLRAREA"] else (f'{r["BLDGAREA"]:,} sq ft' if r["BLDGAREA"] else None)),
                 ("Year built", num(r["RESYRBLT"])), ("Bedrooms", num(r["BEDROOMS"])), ("Bathrooms", (f'{r["BATHS"]} full' + (f', {r["HALFBATHS"]} half' if r["HALFBATHS"] else "")) if r["BATHS"] else None),
                 ("Lot size", f'{r["ACRES"]:.2f} acres' if r["ACRES"] else None), ("Auditor market value – land", r["MARKETLAND"], "usd"), ("Auditor market value – building", r["MARKETBUILDING"], "usd"),
-                ("Auditor market value – total", r["MARKETTOTAL"], "usd"), ("Annual property tax", r["TAXFULLYEAR"], "usd")] if x[1] not in (None, 0, "")], "note": None}
+                ("Auditor market value – total", r["MARKETTOTAL"], "usd"), ("Annual property tax (after credits)", r["TAXANNUALREALCREDIT"], "usd"), ("Past-due taxes on county record", r["TAXUNPAID"], "usd"), ("Past-due special assessments on county record", r["TAXDELINQSPECASSESS"], "usd"), ("Current special assessments on county record", r["TAXCURRENTSPECASSESS"], "usd")] if x[1] not in (None, 0, "")], "note": None}
     return hit
 def stark(items, cache):
     hit = 0
@@ -72,7 +72,7 @@ def stark(items, cache):
             "photo": None, "photo_note": None, "parcel": r["PIN"],
             "facts": [x for x in [("Use", (r["LAND_USE_DESCRIPTION"] or "").strip().title() or None), ("Lot size", f'{r["ACRES"]:.2f} acres' if r["ACRES"] else None), ("Tax year", r["TAXYR"]),
                 ("Auditor appraised land", r["APPRAISED_LAND_VALUE"], "usd"), ("Auditor appraised building", r["APPRAISED_BUILDING_VALUE"], "usd"),
-                ("Auditor appraised total", r["APPRAISED_TOTAL_VALUE"], "usd"), ("Total tax billed", r["TOTAL_BILLED"], "usd")] if x[1] not in (None, 0, "")], "note": None}
+                ("Auditor appraised total", r["APPRAISED_TOTAL_VALUE"], "usd"), ("Tax billed on county record (may include past-due amounts)", r["TOTAL_BILLED"], "usd")] if x[1] not in (None, 0, "")], "note": None}
     return hit
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True); cache = {}; report = []

@@ -38,9 +38,12 @@ def grade(st,i,e):
     why.append(f"{usd(price)} ÷ {usd(val)} = {r:.0%}. Our rule: {sm:.0%} or less = Strong, up to {fm:.0%} = Fair, above = Pass.")
     if st=="ohio" and vl.startswith("sheriff"): why.append("Ohio law (ORC 2329.20) usually sets the first-sale minimum at 2/3 (67%) of the appraisal, so most first sales grade Fair.")
     if st=="new-jersey": why.append("NJ assessed values are not market values; each town's assessment ratio differs, so treat this as a rough guide. The lender can bid up to what it is owed, so the final price may differ.")
-    tax=fact(e,"Last year's property tax") or fact(e,"Annual property tax")
-    if tax: why.append(f"Yearly property tax on record: {usd(tax)} (source: {esrc}). Back taxes owed are not published here; check the county treasurer/tax collector.")
-    else: why.append("Back taxes are not published on this list; check the county treasurer/tax collector.")
+    tax=fact(e,"Last year's property tax") or fact(e,"Annual property tax (after credits)")
+    due=(fact(e,"Past-due taxes on county record") or 0)+(fact(e,"Past-due special assessments on county record") or 0)
+    if tax: why.append(f"Yearly property tax on record: {usd(tax)} (source: {esrc}).")
+    if due: why.append(f"Past-due taxes/assessments on the county record: {usd(due)} (source: {esrc}). Confirm the payoff with the county treasurer.")
+    elif "Lorain" in (esrc or ""): why.append(f"No past-due taxes on the county record (source: {esrc}). Confirm with the county treasurer.")
+    else: why.append("Back taxes are not published in our sources; check the county treasurer/tax collector.")
     p=i.get("times_postponed") or 0
     if p: why.append(f"Postponed {p} time(s) per the official status history.")
     if p>=DC["postponements_downgrade_at"] and g!="Pass":

@@ -25,8 +25,11 @@ for i in A:
         if (i.get("sale_type") or "").lower().startswith("tax"): b.append("This is a tax foreclosure sale. Ask the county treasurer what taxes and assessments stay with the property.")
     else:
         b.append(f'The amount owed to the lender ({usd(d["price"])}) is {d["r"]:.0%} of the town\'s assessed value ({usd(d["val"])}). In New Jersey this is the lender\'s figure, not the final price, and assessed value is not market value.')
-    tax = fact(e, "Last year's property tax") or fact(e, "Annual property tax")
-    b.append((f"Last year's tax bill on record was {usd(tax)}. " if tax else "") + "Unpaid back taxes are not on the sheriff's list, so check with the county treasurer or town tax collector.")
+    tax = fact(e, "Last year's property tax"); atax = fact(e, "Annual property tax (after credits)")
+    due = (fact(e, "Past-due taxes on county record") or 0) + (fact(e, "Past-due special assessments on county record") or 0)
+    if due: b.append(f"The county record shows {usd(due)} in past-due taxes and assessments" + (f" (the yearly tax is about {usd(atax)})" if atax else "") + ". Ask the county treasurer what must be paid and who pays it.")
+    elif atax: b.append(f"The yearly tax on the county record is about {usd(atax)}, with no past-due amount listed. Confirm with the county treasurer.")
+    else: b.append((f"Last year's tax bill on record was {usd(tax)}. " if tax else "") + "Unpaid back taxes are not on the sheriff's list, so check with the county treasurer or town tax collector.")
     if i.get("times_postponed"): b.append(f'Already postponed {i["times_postponed"]} time(s). Check the official listing the day before the sale.')
     b.append("Drive by and look from the street: the official record doesn't say whether anyone lives there." if not lot else "Run a title and lien search: mortgages, liens or HOA dues may not be wiped out by this sale.")
     if len(b) < 5 and not lot: b.append("Run a title and lien search: other liens may survive the sale.")
