@@ -21,6 +21,9 @@ def grade(st,i,e):
         sm,fm=DC["strong_max_ratio"],DC["fair_max_ratio"]
     elif st=="pennsylvania":
         if i.get("opening_bid"): price=i["opening_bid"]; pl="published minimum bid"
+        elif "Tax" in (i.get("sale_type") or ""):
+            why.append("This is a tax sale with no published minimum bid. The debt shown is usually just the unpaid tax, not what the home will sell for, so we do not grade it.")
+            return "Not enough data",why,{"price":None,"pl":"published minimum bid","val":None,"vl":"official value"}
         else: price=i.get("upset_amount"); pl="debt amount published by the Sheriff"
         pv=fact(e,"OPA market value"); av=fact(e,"County assessed value")
         if pv: val,vl,vs=pv,"City of Philadelphia OPA market value",esrc
