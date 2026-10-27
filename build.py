@@ -9,7 +9,7 @@ BASE = os.environ.get("SITE_URL", BRAND["site_url"]).rstrip("/")
 ENR_P = os.path.join(ROOT, "data", "enrich", "enrich.json"); ENR = json.load(open(ENR_P)) if os.path.exists(ENR_P) else {}
 CFG = json.load(open(os.path.join(ROOT, "config.json"))) if os.path.exists(os.path.join(ROOT, "config.json")) else {}
 SV = CFG.get("streetview", {})  # Google Street View Static slot: off until enabled + api_key set
-STATES = {"ohio": ("Ohio", "OH"), "new-jersey": ("New Jersey", "NJ")}
+STATES = {"ohio": ("Ohio", "OH"), "pennsylvania": ("Pennsylvania", "PA"), "new-jersey": ("New Jersey", "NJ")}
 def E(s): return html.escape(str(s)) if s is not None else ""
 def slug(s): return re.sub(r"[^a-z0-9]+", "-", (s or "").lower()).strip("-")
 def usd(v): return "—" if v is None else f"${v:,.0f}"
@@ -30,7 +30,8 @@ footer{font-size:16px;color:#5b6475}.scroll{overflow-x:auto}h1,h2,h3{color:NAVY}
 figure.ph{border-style:solid}.ph img{width:100%;height:100%;object-fit:cover}.ph figcaption{font-size:14px;font-weight:400;padding:4px}
 .sbar{background:NAVY;color:#fff;font-size:18px}.sbar .w{display:flex;align-items:center;justify-content:center;gap:16px;flex-wrap:wrap;padding-top:8px;padding-bottom:8px;text-align:center}
 .sbtn{display:inline-block;background:GOLD;color:NAVY!important;font-weight:700;text-decoration:none;padding:8px 18px;border-radius:6px;white-space:nowrap}.sbtn:hover{filter:brightness(1.08)}
-@media(max-width:600px){.sbar{font-size:16px}.sbar .w{gap:8px}}""").replace("NAVY", BRAND["navy"]).replace("GOLD", BRAND["gold"])
+@media(max-width:600px){.sbar{font-size:16px}.sbar .w{gap:8px}}
+@media(max-width:760px){header .w{flex-wrap:wrap;gap:6px}header nav{width:100%;display:flex;flex-wrap:wrap;gap:6px 0}header nav a{margin:0 16px 0 0;font-size:17px}}""").replace("NAVY", BRAND["navy"]).replace("GOLD", BRAND["gold"])
 DISC = ('<p class="warn"><b>Verify before you bid.</b> This is an unofficial summary of public sheriff-sale listings. Sales are often cancelled or '
         'postponed. Always confirm details with the official legal notice and the county sheriff\'s official sale site linked on each page. Not legal or financial advice.</p>')
 SUB = "https://deedhound.beehiiv.com/subscribe"
@@ -57,11 +58,12 @@ def table(items, show_county=False):
                 + (f'<td>{E(i["county_name"])}</td>' if show_county else "") +
                 f'<td>{DCK.badge(i["grade"]) if i.get("grade") else ""}</td><td class="n">{usd(i["appraised_value"]) if i["appraised_value"] else usd(i.get("upset_amount"))}</td><td class="n">{usd(i["opening_bid"])}</td><td>{E((i.get("plaintiff") or "—")[:28])}</td></tr>' for i in items)
     return ('<div class="scroll"><table><thead><tr><th>Sale date</th><th>Address</th><th>City</th>' + ("<th>County</th>" if show_county else "") +
-            f'<th>Deal Check</th><th>Appraised / upset*</th><th>Min. bid</th><th>Lender</th></tr></thead><tbody>{r}</tbody></table></div>')
+            f'<th>Deal Check</th><th>Appraised / owed*</th><th>Min. bid</th><th>Lender</th></tr></thead><tbody>{r}</tbody></table></div>')
 REGION = {"ohio": {"montgomery":"Southwest","wood":"Northwest","allen":"Northwest","stark":"Northeast","lorain":"Northeast","medina":"Northeast","richland":"North Central",
    "portage":"Northeast","trumbull":"Northeast","mahoning":"Northeast","summit":"Northeast","clermont":"Southwest","clark":"Southwest"},
   "new-jersey": {"bergen":"North","essex":"North","hudson":"North","passaic":"North","morris":"North","union":"North","hunterdon":"Central","middlesex":"Central","monmouth":"Central","ocean":"Central",
-   "burlington":"South","camden":"South","gloucester":"South","salem":"South","cumberland":"South","atlantic":"South","cape-may":"South"}}
+   "burlington":"South","camden":"South","gloucester":"South","salem":"South","cumberland":"South","atlantic":"South","cape-may":"South"},
+  "pennsylvania": {"philadelphia":"Southeast","montgomery":"Southeast","lehigh":"Lehigh Valley"}}
 DEAD = re.compile(r"CANCEL|SOLD|WITHDRAW|BANKRUPT|SATISF|VACAT|STAY|CLOSED|REDEEM|RELEASED", re.I)
 def picks(st, items):
     out = []
@@ -109,6 +111,10 @@ LAW = {"ohio": [
   ("What is the minimum bid at an Ohio sheriff sale?", "For most foreclosure sales the property cannot sell for less than two-thirds of its court-ordered appraised value (Ohio Revised Code 2329.20). If it does not sell, it is typically offered again at a second sale with no minimum, as published for each property.", "https://codes.ohio.gov/ohio-revised-code/section-2329.20"),
   ("How much deposit do I need?", "For residential property, Ohio law sets the deposit by appraised value: $2,000 if appraised at $10,000 or less, $5,000 if over $10,000 up to $200,000, and $10,000 if over $200,000 (Ohio Revised Code 2329.211). The plaintiff/judgment creditor is not required to make a deposit.", "https://codes.ohio.gov/ohio-revised-code/section-2329.211"),
   ("Can the owner still stop the sale?", "An Ohio owner can redeem the property by paying the judgment, interest and costs any time before the court confirms the sale (Ohio Revised Code 2329.33). Sales are also often cancelled or postponed, so always re-check the official list.", "https://codes.ohio.gov/ohio-revised-code/section-2329.33")],
+ "pennsylvania": [
+  ("How do Philadelphia and Montgomery County sheriff sales work?", "Both counties hold sheriff sales online at Bid4Assets. You register free, send a deposit before the auction ($10,000 for mortgage foreclosure sales; $1,500 for Philadelphia tax sales, plus a $35 fee), and bid online. Philadelphia wants 10% plus a buyer's premium the next business day and the balance within 15 days; Montgomery wants the full balance within 12 calendar days.", "https://phillysheriff.com/frequently-asked-questions-about-online-sheriff-sales/"),
+  ("How do Lehigh County sheriff sales work?", "Lehigh County holds sales in person at 10:00 AM at the courthouse, 455 West Hamilton Street, Allentown. The winner pays 10% right away by certified or cashier's check, plus poundage and transfer taxes; the balance is due within 30 days or the deposit can be forfeited. The lender can adjourn a sale up to 130 days.", "https://www.lehighcounty.org/Departments/Sheriffs-Office/Sheriff-Sale"),
+  ("Do I get clear title at a Pennsylvania sheriff sale?", "Not guaranteed. Properties are sold as-is, and the sheriffs say bidders are responsible for searching liens and mortgages that may not be paid off from the sale (the 'Schedule of Distribution'). Get a title search before you bid.", "https://phillysheriff.com/real-estate/conditions-of-sale-mortgage/")],
  "new-jersey": [
   ("Can a New Jersey sheriff sale be postponed?", "Yes. Under N.J.S.A. 2A:17-36 (as amended by P.L.2019, c.71) the sheriff may make up to five adjournments: two at the lender's request, two at the debtor's request, and one if both agree, each up to 30 calendar days. A court may order more for cause. That is why many listings show several postponements.", "https://pub.njleg.state.nj.us/Bills/2018/PL19/71_.PDF"),
   ("How much deposit does the winning bidder pay?", "State law (N.J.S.A. 2A:50-64, P.L.2019, c.71) requires the successful bidder to pay a 20 percent deposit, in cash or by certified or cashier's check payable to the county sheriff, immediately when the sale ends.", "https://pub.njleg.state.nj.us/Bills/2018/PL19/71_.PDF"),
@@ -206,8 +212,10 @@ def build_state(st, urls):
             kv = [("Sale date", fdate(i["sale_date"]) + f' ({E(i["sale_type"])})'), ("Address", E(full)), ("County", cn), ("Appraised value", usd(i["appraised_value"])),
                   ("Minimum / opening bid", usd(i["opening_bid"]) + (f' <span class="muted">({i["opening_bid"]/i["appraised_value"]:.0%} of appraisal)</span>' if i["opening_bid"] and i["appraised_value"] else ""))]
             if i.get("next_sale_date"): kv.append(("Next sale date if no bid", E(i["next_sale_date"]) + ' <span class="muted">as published by the Sheriff</span>'))
-            if i.get("upset_amount"): kv.append(("Approx. upset / judgment*", usd(i["upset_amount"]) + ' <span class="muted">*as published by the Sheriff; excludes interest and fees</span>'))
-            kv += [("Case number", E(i["case_number"])), ("Sheriff #", E(i.get("sheriff_number") or "—")), ("Parcel ID", E(i["parcel_id"] or "—")),
+            if i.get("upset_amount"): kv.append(("Debt amount*" if st == "pennsylvania" else "Approx. upset / judgment*", usd(i["upset_amount"]) + ' <span class="muted">*as published by the Sheriff; excludes interest and fees</span>'))
+            kv += [("Case number", E(i["case_number"])), ("Sheriff #", E(i.get("sheriff_number") or "—")), (i.get("parcel_kind") or "Parcel ID", E(i["parcel_id"] or "—"))]
+            kv += [(k, E(i[f])) for k, f in (("Book & Writ", "book_writ"), ("Ward", "ward"), ("Municipality", "municipality"), ("Property type (Sheriff)", "description")) if i.get(f)]
+            kv += [
                   ("Plaintiff / lender", E(i["plaintiff"]) if i["plaintiff"] else '<span class="muted">Not on this county\'s published list — see the court docket</span>'), ("Plaintiff\'s attorney", E(i.get("attorney") or "—")),
                   ("Current status", E(i["status"])), ("Status history", hist_html(i))]
             _e = ENR.get(i.get("auction_id") or f'{i.get("county")}|{i["case_number"]}|{i["address"]}'); g, why, info = DCK.grade(st, i, _e); i["grade"] = g; i["dc"] = info; GRADES.setdefault(st, {}).setdefault(g, 0); GRADES[st][g] += 1
@@ -245,30 +253,31 @@ def top_deals(st, n):
     sn = STATES[st][0]; t = datetime.date.today().isoformat()
     c = sorted([i for i in ALL if i["url"].startswith(f"/{st}/") and i.get("grade") == "Strong" and i["sale_date"] >= t and i.get("address")], key=lambda i: i["dc"]["r"])[:n]
     if not c: return f"<h2>Top Strong deals in {sn}</h2><p>No upcoming listings grade Strong right now.</p>"
-    lab = "Min. bid" if st == "ohio" else "Owed to lender"
+    lab = {"ohio": "Min. bid", "pennsylvania": "Min. bid / debt"}.get(st, "Owed to lender")
     li = "".join(f'<li class="card" style="list-style:none;font-size:20px"><a href="{i["url"]}"><b>{E(i["address"])}, {E(i["city"])}</b></a> {DCK.badge("Strong")}<br>{E(i["county_name"])} County · Sale {fdate(i["sale_date"])}<br>{lab} {usd(i["dc"]["price"])} vs. value {usd(i["dc"]["val"])} = <b>{i["dc"]["r"]:.0%}</b>{('<br><i>Check first: ' + E(NOTES[i["url"].strip("/")]["bullets"][-1 if len(NOTES[i["url"].strip("/")]["bullets"])<2 else 0]) + '</i>') if i["url"].strip("/") in NOTES else ""}<br><span class="muted">Listing data as of {asof(i["as_of"])}</span></li>' for i in c)
     return f'<h2>Top Strong deals in {sn} right now</h2><p class="muted">Upcoming sales only, lowest price-to-value first.</p><ul style="padding:0">{li}</ul><p><a href="/{st}/">See all {sn} sales →</a></p>'
 def home_hero():
     return ('<div class="card" style="border-left:6px solid #1b7f3b;font-size:21px"><h1 style="margin-top:0">Deal Check: a quick Strong / Fair / Pass grade on every sheriff sale</h1>'
-            '<p>We compare the published opening bid (Ohio) or amount owed to the lender (New Jersey) with the official county or town value, and show you the math. '
+            '<p>We compare the published opening bid (Ohio), minimum bid or debt (Pennsylvania) or amount owed to the lender (New Jersey) with the official county or town value, and show you the math. '
             'It is a simple first look at public numbers, not an appraisal and not financial advice, so always inspect and verify with the county.</p>'
-            '<p><a href="/deal-check/"><b>How Deal Check works →</b></a> &nbsp;·&nbsp; <a href="/financing/"><b>How to pay for a sheriff sale →</b></a></p></div>' + top_deals("ohio", 6) + top_deals("new-jersey", 6))
+            '<p><a href="/deal-check/"><b>How Deal Check works →</b></a> &nbsp;·&nbsp; <a href="/financing/"><b>How to pay for a sheriff sale →</b></a></p></div>' + top_deals("ohio", 6) + top_deals("pennsylvania", 6) + top_deals("new-jersey", 6))
 def how_page(urls):
     c = DCK.DC
     body = (f'<h1>How Deal Check works</h1><div class="card" style="font-size:20px"><p>Deal Check divides a price by an official value:</p><ul>'
       f'<li><b>Ohio:</b> the published minimum/opening bid ÷ the county auditor market value (or, if we have not matched the auditor record, the sheriff\'s court-ordered appraisal). Ohio law (ORC 2329.20) usually sets the first-sale minimum at two-thirds of the appraisal, so many first sales grade Fair.</li>'
-      f'<li><b>New Jersey:</b> no opening bid is published, so we use the approximate amount owed to the lender (judgment/upset) ÷ the town\'s net assessed value from the state MOD-IV tax list. Towns assess at different ratios, so treat it as a rough guide.</li></ul>'
-      f'<p><b>Strong</b>: {c["strong_max_ratio"]:.0%} or less (Ohio) / {c["nj_strong_max_ratio"]:.0%} or less (NJ). <b>Fair</b>: up to {c["fair_max_ratio"]:.0%} (Ohio) / {c["nj_fair_max_ratio"]:.0%} (NJ). <b>Pass</b>: above that.</p>'
+      f'<li><b>New Jersey:</b> no opening bid is published, so we use the approximate amount owed to the lender (judgment/upset) ÷ the town\'s net assessed value from the state MOD-IV tax list. Towns assess at different ratios, so treat it as a rough guide.</li>'
+      f'<li><b>Pennsylvania:</b> the published minimum bid (Philadelphia tax sales) or, if none, the debt amount the Sheriff publishes ÷ an official value: the City of Philadelphia Office of Property Assessment (OPA) market value, or Montgomery County\'s assessed value (county records as published on PASDA, the state\'s open GIS site). Montgomery assesses at 1996 base-year values, so its values run low and grades there are rough. Lehigh County\'s assessment lookup is not open to automated use, so Lehigh listings show "Not enough data". The lender can bid up to what it is owed, so the final price may be higher.</li></ul>'
+      f'<p><b>Strong</b>: {c["strong_max_ratio"]:.0%} or less (Ohio) / {c["pa_strong_max_ratio"]:.0%} or less (PA) / {c["nj_strong_max_ratio"]:.0%} or less (NJ). <b>Fair</b>: up to {c["fair_max_ratio"]:.0%} (Ohio) / {c["pa_fair_max_ratio"]:.0%} (PA) / {c["nj_fair_max_ratio"]:.0%} (NJ). PA uses the same limits as NJ because both compare a debt-type number to a tax value. <b>Pass</b>: above that.</p>'
       f'<p>A grade drops one step after {c["postponements_downgrade_at"]} or more postponements. <b>Not enough data</b> means a number is missing, the official value is under {usd(c["min_value_usd"])}, or the published price is under {c["min_ratio_plausible"]:.0%} of value (usually a placeholder).</p>'
       '<p>Every listing shows its numbers, sources and "as of" dates in a "Why" list.</p><p><a href="/financing/"><b>How to pay for a sheriff sale →</b></a></p></div>'
       '<p class="warn"><b>Not financial advice.</b> Deal Check does not know the condition, occupancy, liens, title problems or back taxes. Inspect, run a title and lien search, and verify with the county before you bid.</p>')
     page("deal-check/index.html", f"How Deal Check Works | {BRAND['name']}", "How DeedHound grades sheriff sales Strong, Fair or Pass from published bids and official values.", body, None, [("Home", "/"), ("How Deal Check works", "/deal-check/")]); urls.append("/deal-check/")
 def newsletter_page(urls):
-    body = ('<h1>Get the weekly sheriff sale email</h1><p style="font-size:21px">One plain, easy-to-read email each week with the best new sheriff sale and foreclosure auction picks in Ohio and New Jersey, each with a simple Deal Check grade. Free. Unsubscribe anytime.</p>'
+    body = ('<h1>Get the weekly sheriff sale email</h1><p style="font-size:21px">One plain, easy-to-read email each week with the best new sheriff sale and foreclosure auction picks in Ohio, Pennsylvania and New Jersey, each with a simple Deal Check grade. Free. Unsubscribe anytime.</p>'
             '<div class="card"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="8cc00e28-eb77-4416-834b-c8a35f27f00f"></script>'
             f'<p class="muted">Form not showing? <a class="sbtn" href="{SUB}">Sign up on our Beehiiv page →</a></p></div>'
             '<p class="muted">We never sell your email. Emails are sent through Beehiiv.</p>')
-    page("newsletter/index.html", "Free weekly sheriff sale email – DeedHound", "Sign up for a free weekly email of the best sheriff sale picks in Ohio and New Jersey.", body, None, [("Home", "/"), ("Email signup", "/newsletter/")])
+    page("newsletter/index.html", "Free weekly sheriff sale email – DeedHound", "Sign up for a free weekly email of the best sheriff sale picks in Ohio, Pennsylvania and New Jersey.", body, None, [("Home", "/"), ("Email signup", "/newsletter/")])
     urls.append("/newsletter/")
 def main():
     shutil.rmtree(OUT, ignore_errors=True); os.makedirs(OUT); open(os.path.join(OUT, "style.css"), "w").write(CSS); open(os.path.join(OUT, ".nojekyll"), "w").close(); shutil.copytree(os.path.join(ROOT, "assets"), os.path.join(OUT, "assets"))

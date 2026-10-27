@@ -108,6 +108,65 @@ def civilview(county, state="ohio"):
             sale_date=mdy(f.get("Sales Date") or f.get("Sale Date") or f.get("Sale Date/Time") or next((v for k, v in f.items() if "date" in k.lower() and re.search(r"\d+/\d+/\d+", v or "")), None)), sale_type="Tax foreclosure" if "TREASURER" in (f.get("Plaintiff") or "").upper() else "Foreclosure", source_url=du))
     return out
 
+CIVILVIEW_PA = {"philadelphia": 60, "montgomery": 23, "lehigh": 51}
+class _Hang(Exception): pass
+def _alarm(*a): raise _Hang("request hung > 90s")
+import signal; signal.signal(signal.SIGALRM, _alarm)
+CV_CACHE = os.path.join(tempfile.gettempdir(), "civilview_pa_cache"); os.makedirs(CV_CACHE, exist_ok=True)  # same-day resume after a hang (6h max age)
+def civilview_pa(county):
+    """Pennsylvania CivilView lists (Philadelphia, Montgomery, Lehigh). Field labels differ by county; status history order differs, so we use the latest-dated entry."""
+    s = S(); lu = f"https://salesweb.civilview.com/Sales/SalesSearch?countyId={CIVILVIEW_PA[county]}"; h = s.get(lu); out = []; seen = set()
+    for pid in dict.fromkeys(re.findall(r'SaleDetails\?PropertyId=(\d+)', h)):
+        du = f"https://salesweb.civilview.com/Sales/SaleDetails?PropertyId={pid}"
+        if len(out) % 50 == 0: print("  ", county, len(out), NOW(), flush=True)
+        t = None; cf = os.path.join(CV_CACHE, pid + ".json")
+        if os.path.exists(cf) and time.time() - os.path.getmtime(cf) < 6 * 3600: t = json.load(open(cf))
+        for attempt in range(3 if t is None else 0):
+            try:
+                signal.alarm(90); t = txt(s.get(du)); signal.alarm(0); json.dump(t, open(cf, "w")); break
+            except Exception as e:
+                signal.alarm(0); print("  retry", pid, attempt, repr(e), NOW(), flush=True); time.sleep(30)
+                try: signal.alarm(90); s = S(); s.get(lu); signal.alarm(0)
+                except Exception: signal.alarm(0)
+        if t is None: print("  skip", pid, flush=True); continue
+        hi = t.index("Status History") if "Status History" in t else len(t); f = {}
+        for i, x in enumerate(t[:hi - 1]):
+            m = re.match(r"(.+?)\s*:\s*(.*)$", x)
+            if m and x.endswith(":"): k = m.group(1).strip(); f.setdefault(k, t[i + 1] if not t[i + 1].rstrip().endswith(":") else "")
+            elif m and m.group(1) in ("All Costs",): f.setdefault(m.group(1), m.group(2))
+        hist = []
+        for i in range(hi, len(t) - 1):
+            if re.match(r"\d{1,2}/\d{1,2}/\d{4}$", t[i + 1]) and t[i] not in ("Date",) and not t[i].startswith("("): hist.append({"status": t[i], "date": mdy(t[i + 1])})
+        hist.sort(key=lambda x: x["date"])
+        cur = re.search(r"\(Current Status:(.+?) - \d", " ".join(t[hi:hi + 2]))
+        status = (cur.group(1) if cur else (hist[-1]["status"] if hist else "Scheduled")).strip().upper()
+        ak = next((k for k in ("Property Address", "Address") if k in f), None)
+        a = f.get(ak, ""); ai = t.index(ak + ":") if ak else -1
+        m = None
+        for j in range(ai + 2, min(ai + 5, len(t))) if ai >= 0 else []:
+            if t[j].endswith(":"): break
+            m = re.match(r"(.+?),?\s+PA\s+(\d{5})", t[j])
+            if m: break
+        c, z = (m.group(1).title(), m.group(2)) if m else ("", None)
+        if not m:  # address and city on one line (e.g. Philadelphia listing variants)
+            mm = re.match(r"(.+?)\s+(PHILADELPHIA)\s+PA\s+(\d{5})$", a, re.I)
+            if mm: a, c, z = mm.group(1), mm.group(2).title(), mm.group(3)
+        sh = f.get("Sheriff #") or f.get("Sheriff"); case = f.get("Court Case #")
+        k = sh or (case, a)
+        if k in seen: continue
+        seen.add(k)
+        postp = sum(1 for x in hist if re.search(r"postpon|continu|stay|no bid|reschedul|adjourn", x["status"], re.I))
+        typ = f.get("Sale Type") or ""
+        plaintiff = f.get("Plaintiff") or ""
+        tax = bool(re.search(r"\bTAX\b", typ, re.I)) or bool(re.search(r"SCHOOL DISTRICT|CITY OF PHILADELPHIA|TAX CLAIM|BUREAU", plaintiff, re.I))
+        out.append(rec(county, state="pennsylvania", auction_id=pid, case_number=case or sh, sheriff_number=sh, book_writ=f.get("Book & Writ"), ward=f.get("Ward"),
+            address=a, city=c, zip=z, parcel_id=f.get("OPA #") or f.get("Parcel #") or None, parcel_kind="OPA #" if f.get("OPA #") else "Parcel #",
+            plaintiff=plaintiff or None, defendant=f.get("Defendant"), attorney=f.get("Attorney"), municipality=f.get("Township"), description=f.get("Description") or None,
+            opening_bid=money(f.get("Minimum Bid")), upset_amount=money(f.get("Debt Amount")), all_costs=money(f.get("All Costs")), appraised_value=None,
+            status=status, status_history=hist, times_postponed=postp, sale_date=mdy(f.get("Sales Date")),
+            sale_type=("Tax sale" if tax else "Mortgage foreclosure") + (f" ({typ.title()})" if typ else ""), source_url=du))
+    return out
+
 def stark():
     s = S(); B = "https://sheriffsales.starkcountyohio.gov/"; h = s.get(B + "Foreclosures.aspx"); out = []
     dates = sorted({d for d in re.findall(r'SALE_DATE=([\d/]+)', h) if mdy(d) >= TODAY.isoformat()}, key=mdy)
@@ -532,7 +591,8 @@ def holmes():
     return out
 
 JOBS = {("ohio","union"): union, ("ohio","holmes"): holmes, ("ohio","harrison"): harrison, ("ohio","hocking"): hocking, ("ohio","erie"): erie, ("ohio","ashland"): ashland, ("ohio","gallia"): gallia, ("ohio","paulding"): paulding, ("ohio","clinton"): clinton, ("ohio","morrow"): morrow, ("ohio","van-wert"): vanwert, ("ohio", "marion"): marion, ("ohio", "wayne"): wayne, ("ohio", "logan"): logan, ("ohio", "scioto"): scioto, ("ohio", "geauga"): geauga, ("ohio", "ashtabula"): ashtabula, ("ohio", "trumbull"): trumbull, ("ohio", "mahoning"): mahoning, ("ohio", "clermont"): clermont, ("ohio", "montgomery"): montgomery, ("ohio", "stark"): stark, ("ohio", "wood"): wood,
-        **{(st, c): (lambda c=c, st=st: civilview(c, st)) for st in CIVILVIEW for c in CIVILVIEW[st]}}
+        **{(st, c): (lambda c=c, st=st: civilview(c, st)) for st in CIVILVIEW for c in CIVILVIEW[st]},
+        **{("pennsylvania", c): (lambda c=c: civilview_pa(c)) for c in CIVILVIEW_PA}}
 NAMES = {}
 if __name__ == "__main__":
     args = sys.argv[1:]
