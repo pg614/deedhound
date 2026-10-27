@@ -1,0 +1,5745 @@
+{
+ "state": "pennsylvania",
+ "county": "lehigh",
+ "as_of": "2026-10-26T22:59-04:00",
+ "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614081",
+ "count": 142,
+ "items": [
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-02-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2025-04-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2025-06-27"
+    },
+    {
+     "status": "Continued",
+     "date": "2025-09-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2025-12-19"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-02-20"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-04-24"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-07-17"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 9,
+   "upset_amount": 138886.26,
+   "auction_id": "2212614081",
+   "status": "CONTINUED",
+   "case_number": "2023-C-2828",
+   "parcel_id": "640775901657-1",
+   "address": "633 HANOVER AVE",
+   "city": "Allentown",
+   "zip": "18109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION",
+   "defendant": "DENNIS MORGANELLO",
+   "attorney": "Renee P Cohen, Esq",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614081",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "24009071",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-03-27"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-05-22"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-07-17"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 356356.78,
+   "auction_id": "2212614116",
+   "status": "CONTINUED",
+   "case_number": "2023-C-3052",
+   "parcel_id": "641665478343-1",
+   "address": "1620 BOBALEW TRAIL",
+   "city": "Allentown",
+   "zip": "18103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEWREZ LLC",
+   "defendant": "HAMEEN M. BUTLER AND KIMBERLY DURAN",
+   "attorney": "PARKER, MCCAY",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614116",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "25010678",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-05-22"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-07-17"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 61810.75,
+   "auction_id": "2212614127",
+   "status": "CONTINUED",
+   "case_number": "2012-ML-1014",
+   "parcel_id": "545546140111-1",
+   "address": "416 OLDT RD",
+   "city": "Breinigsville",
+   "zip": "18031",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PARKLAND SCHOOL DISTRICT",
+   "defendant": "JOAN L. OHLINGER",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2026-11-20",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614127",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "26000496",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-06-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 274707.25,
+   "auction_id": "2212614160",
+   "status": "CONTINUED",
+   "case_number": "2025-C-3498",
+   "parcel_id": "548397076469 1",
+   "address": "4630 MILL RD",
+   "city": "Emmaus",
+   "zip": "18049",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "TRUIST BANK, F/K/A BRANCH BANKING AND TRUST COMPANY",
+   "defendant": "BEVERLY A. STOLZ; UNITED STATES OF AMERICA",
+   "attorney": "MCCABE, WEISBERG & COMPANY, LLC",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614160",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "26001732",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-06-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 35737.78,
+   "auction_id": "2212614161",
+   "status": "CONTINUED",
+   "case_number": "2025-C-3549",
+   "parcel_id": "640705826508-1",
+   "address": "426 W CEDAR ST",
+   "city": "Allentown",
+   "zip": "18102",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CITIBANK, N.A.",
+   "defendant": "PATRICIA T. KEA, AKA PATRICIA I. TYLER, AKA PATRICIA TYLER PRATT",
+   "attorney": "MANLEY, DEAS, KOCHALSKI",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614161",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "26001781",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-07-17"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 132503.07,
+   "auction_id": "2212614173",
+   "status": "CONTINUED",
+   "case_number": "2024-C-0019",
+   "parcel_id": "549990505287 1",
+   "address": "216 WALNUT ST",
+   "city": "Catasauqua",
+   "zip": "18032",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF2 ACQUISTION TRUST",
+   "defendant": "ERNESTO CRUZ",
+   "attorney": "STERN & EISENBERG",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614173",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "26002235",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-07-17"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 81069.84,
+   "auction_id": "2212614187",
+   "status": "CONTINUED",
+   "case_number": "2025-C-1276",
+   "parcel_id": "640719035513-1",
+   "address": "410 SHERIDAN ST",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "KEYBANK, N.A. S/B/M FIRST NIAGARA BANK, N.A.",
+   "defendant": "ELIAS GHARZOUZI",
+   "attorney": "BROCK & SCOTT PLLC",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614187",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "26002853",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 127862.31,
+   "auction_id": "2212614190",
+   "status": "CONTINUED",
+   "case_number": "2025-C-1994",
+   "parcel_id": "546346425085 1",
+   "address": "122 FRONT ST",
+   "city": "Alburtis",
+   "zip": "18011",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WELLS FARGO BANK, N.A.",
+   "defendant": "CHERRITY L. BUTZ A/K/A CHERRITY L. VANIM, IN HER CAPACITY AS ADMINISTRATRIX OF THE ESTATE OF ROBERT M. BUTZ",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614190",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "26003057",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 5474.07,
+   "auction_id": "2212614202",
+   "status": "CONTINUED",
+   "case_number": "2024-ML-1080",
+   "parcel_id": "549823272195 1",
+   "address": "2503 AUGUSTA DR",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WHITEHALL TOWNSHIP",
+   "defendant": "THOMAS C. NICKLAS; CHRISTINE M. NICKLAS",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614202",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "26003092",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 76266.72,
+   "auction_id": "2212614218",
+   "status": "CONTINUED",
+   "case_number": "2024-C-1035",
+   "parcel_id": "547462797761 1",
+   "address": "132 SONOMA WAY",
+   "city": "Macungie",
+   "zip": "18062",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "GREGORY GRIGALONIS",
+   "defendant": "JEFFREY M. STRAUSS; PAMELA ANGELUCCI",
+   "attorney": "GROSS MCGINLEY LLP",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614218",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "26003485",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 379703.71,
+   "auction_id": "2212614228",
+   "status": "CONTINUED",
+   "case_number": "2025-C-4019",
+   "parcel_id": "548658899469 1",
+   "address": "747 NORTH 31ST ST",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "GREGORY GRIGALONIS; MARY LOU GRIGALONIS",
+   "defendant": "ELYSIUM ACQUISITIONS, LLC",
+   "attorney": "GROSS MCGINLEY LLP",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614228",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "26003663",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 335579.71,
+   "auction_id": "2212614230",
+   "status": "CONTINUED",
+   "case_number": "2022-C-2986",
+   "parcel_id": "546609758031 1",
+   "address": "1508 WHISPERING WOODS CIR",
+   "city": "Allentown",
+   "zip": "18106",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MORTGAGE AMERICA INC.",
+   "defendant": "FREDERICK FIFIELD; LISA FIFIELD; ET. AL.",
+   "attorney": "STERN & EISENBERG, PC",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614230",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "26003830",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 179326.84,
+   "auction_id": "2212614236",
+   "status": "CONTINUED",
+   "case_number": "2023-C-3183",
+   "parcel_id": "546449594414 1",
+   "address": "7613 HAMILTON BLVD",
+   "city": "Trexlertown",
+   "zip": "18087",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR GS MORTGAGE-BACKED SECURITIES TRUST 2022-RPL2",
+   "defendant": "MICHAEL L. HEIN; DONNA M. HEIN",
+   "attorney": "LEOPOLD & ASSOCIATES",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614236",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "26003944",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 117241.16,
+   "auction_id": "2212614238",
+   "status": "CONTINUED",
+   "case_number": "2025-C-3880",
+   "parcel_id": "640773801866 1",
+   "address": "16 SOUTH DAUPHIN ST",
+   "city": "Allentown",
+   "zip": "18109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BANK OF AMERICA, NA",
+   "defendant": "GERARDO QUINONES SANTIAGO",
+   "attorney": "POWERS KIRN  LLC",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614238",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "26004049",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 5914.2,
+   "auction_id": "2212614239",
+   "status": "CONTINUED",
+   "case_number": "2021-ML-3373",
+   "parcel_id": "548938729421-1",
+   "address": "4540 MAIN ST",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WHITEHALL-COPLAY SCHOOL DISTRICT",
+   "defendant": "CHRISTOPHER S. BIEBER",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2026-11-20",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614239",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "26004158",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": "AKA 540 W MAIN ST",
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 5732.5,
+   "auction_id": "2212614240",
+   "status": "CONTINUED",
+   "case_number": "2022-ML-0367",
+   "parcel_id": "641778244397-1",
+   "address": "1914 GLENDALE AVE",
+   "city": "Bethlehem",
+   "zip": "18018",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BETHLEHEM AREA SCHOOL DISTRICT",
+   "defendant": "REBECCA CORIANO",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2026-11-20",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614240",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "26004159",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 4804.91,
+   "auction_id": "2212614241",
+   "status": "CONTINUED",
+   "case_number": "2023-ML-0555",
+   "parcel_id": "642730374193-1",
+   "address": "544 S BENNER AVE",
+   "city": "Fountain Hill",
+   "zip": "18015",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BETHLEHEM AREA SCHOOL DISTRICT",
+   "defendant": "MERCEDES SANTOS",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2026-11-20",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614241",
+   "as_of": "2026-10-26T22:54-04:00",
+   "sheriff_number": "26004160",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 263621.88,
+   "auction_id": "2212614244",
+   "status": "CONTINUED",
+   "case_number": "2022-C-2847",
+   "parcel_id": "549668703260 1",
+   "address": "1504 W WALNUT ST",
+   "city": "Allentown",
+   "zip": "18102",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+   "defendant": "DARRYL COACHMAN; TISHA COACHMAN",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS PLLC",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614244",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26004286",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 10030.79,
+   "auction_id": "2212614251",
+   "status": "CONTINUED",
+   "case_number": "2025-ML-2572",
+   "parcel_id": "548750523393 1",
+   "address": "3030-3036 W LIVINGSTON ST",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ALLENTOWN SCHOOL DISTRICT",
+   "defendant": "DARNEY A. KEZENGWA",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2026-11-20",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614251",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26004305",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": "HI/LOW",
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 6886.54,
+   "auction_id": "2212614257",
+   "status": "CONTINUED",
+   "case_number": "2025-ML-1385",
+   "parcel_id": "640808288571 1",
+   "address": "115 CHURCH ST",
+   "city": "Catasauqua",
+   "zip": "18032",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CATASAUQUA AREA SCHOOL DISTRICT",
+   "defendant": "CHARLES BILLMAN MERRELL; ET AL",
+   "attorney": "Nina S Rosenthal, Esq",
+   "sale_date": "2026-11-20",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614257",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26004567",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 8378.29,
+   "auction_id": "2212614258",
+   "status": "CONTINUED",
+   "case_number": "2023-ML-0845",
+   "parcel_id": "548654220673-1",
+   "address": "3500 BROADWAY",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PARKLAND SCHOOL DISTRICT",
+   "defendant": "WOLFE PROPERTIES, LP",
+   "attorney": "PORTNOFF LAW ASSOCIATES, LTD",
+   "sale_date": "2026-11-20",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614258",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26004570",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 9165.79,
+   "auction_id": "2212614260",
+   "status": "CONTINUED",
+   "case_number": "2025-ML-1888",
+   "parcel_id": "640698144632-1",
+   "address": "535 SKYLINE DR",
+   "city": "Allentown",
+   "zip": "18103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ALLENTOWN SCHOOL DISTRICT",
+   "defendant": "DAVID C. CHAPMAN",
+   "attorney": "Nina S Rosenthal, Esq",
+   "sale_date": "2026-11-20",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614260",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26004573",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 7012.23,
+   "auction_id": "2212614262",
+   "status": "CONTINUED",
+   "case_number": "2024-ML-1761",
+   "parcel_id": "549427705656 1",
+   "address": "624 PINE ST",
+   "city": "Emmaus",
+   "zip": "18049",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BOROUGH OF EMMAUS",
+   "defendant": "JOHN C PARSONS",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614262",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26004576",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 341426.12,
+   "auction_id": "2212614268",
+   "status": "CONTINUED",
+   "case_number": "2026-C-0195",
+   "parcel_id": "549226001776-1",
+   "address": "4951 KOHLER RD",
+   "city": "Zionsville",
+   "zip": "18092",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BONCIDIUM, LLC",
+   "defendant": "NEIL E. SCHMOYER",
+   "attorney": "FRIEDMAN VARTOLO",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614268",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26005225",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 263223.0,
+   "auction_id": "2212614271",
+   "status": "CONTINUED",
+   "case_number": "2025-C-4573",
+   "parcel_id": "640785506561 1",
+   "address": "226-232 N GRAHAM ST",
+   "city": "Allentown",
+   "zip": "18109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SUN WEST MORTGAGE COMPANY, INC.",
+   "defendant": "SIARA WALTON; JANEL MARTINEZ",
+   "attorney": "McCABE WEISBERG & CONWAY LLC",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614271",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26005267",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": "HI/LOW",
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 19478.48,
+   "auction_id": "2212614285",
+   "status": "CONTINUED",
+   "case_number": "2025-C-0147",
+   "parcel_id": "547470465022 15",
+   "address": "178 RIDINGS CIR",
+   "city": "Macungie",
+   "zip": "18062",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "THE RIDINGS AT BROOKSIDE CONDOMINIUM ASSOCIATION, INC.",
+   "defendant": "LETICIA M. CORCES",
+   "attorney": "BRADY & CISSNE",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614285",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26005618",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 121528.94,
+   "auction_id": "2212614292",
+   "status": "CONTINUED",
+   "case_number": "2018-C-2410",
+   "parcel_id": "548827231738-1",
+   "address": "2617 OREFIELD RD",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNSYLVANIA HOUSING FINANCE AGENCY",
+   "defendant": "RICHARD D. BUTERBAUGH",
+   "attorney": "PURCELL, KRUG & HALLER",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614292",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26005946",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 5753.36,
+   "auction_id": "2212614301",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-0135",
+   "parcel_id": "640723294269-1",
+   "address": "512 N MEADOW ST",
+   "city": "Allentown",
+   "zip": "18102",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ALLENTOWN SCHOOL DISTRICT",
+   "defendant": "WARREN GREEN",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2026-11-20",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614301",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26006271",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 5772.37,
+   "auction_id": "2212614303",
+   "status": "SCHEDULED",
+   "case_number": "2024-ML-1152",
+   "parcel_id": "549455391461-1",
+   "address": "102 N 5TH ST",
+   "city": "Emmaus",
+   "zip": "18049",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BOROUGH OF EMMAUS",
+   "defendant": "WOLFE PROPERTIES, L.P.",
+   "attorney": "PORTNOFF LAW ASSOCIATES, LTD",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614303",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26006275",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 35750.0,
+   "auction_id": "2212614306",
+   "status": "CONTINUED",
+   "case_number": "2024-C-0061",
+   "parcel_id": "549497961498-1 AND 640407053664-1",
+   "address": "345 STONERIDGE RD",
+   "city": "Emmaus",
+   "zip": "18049",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "GARY L. ENGLEMAN AND JANICE N. ENGLEMAN",
+   "defendant": "JOSH WALCK",
+   "attorney": "Fitzpatrick Lentz & Bubba PC",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614306",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26006373",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4444.45,
+   "auction_id": "2212614308",
+   "status": "SCHEDULED",
+   "case_number": "2021-ML-1340",
+   "parcel_id": "549941826504 1",
+   "address": "3001 S 4TH ST",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WHITEHALL TOWNSHIP",
+   "defendant": "DAVID A. NEWHARD, II",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614308",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26006639",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 25274.87,
+   "auction_id": "2212614309",
+   "status": "SCHEDULED",
+   "case_number": "2025-C-1251",
+   "parcel_id": "549951686502-1",
+   "address": "3014 N 2ND ST",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+   "defendant": "ROSALIE YANDOLI",
+   "attorney": "WELTMAN WEINBERG & REIS CO",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614309",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26006742",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 282151.47,
+   "auction_id": "2212614310",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-1470",
+   "parcel_id": "546269498100-1",
+   "address": "8581 HENSINGERSVILLE RD",
+   "city": "Macungie",
+   "zip": "18062",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "COMPUTERSHARE DELAWARE TRUST COMPANY",
+   "defendant": "DAVID P. SPESS",
+   "attorney": "HLADIK, ONORATO & FEDERMAN",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614310",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26006794",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4446.69,
+   "auction_id": "2212614315",
+   "status": "SCHEDULED",
+   "case_number": "2024-ML-2576",
+   "parcel_id": "549453884959-1",
+   "address": "577 FURNACE ST",
+   "city": "Emmaus",
+   "zip": "18049",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BOROUGH OF EMMAUS",
+   "defendant": "ADAM SPOONER",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614315",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26006971",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 5519.56,
+   "auction_id": "2212614319",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-3032",
+   "parcel_id": "640713814330-1",
+   "address": "409 W GORDON ST",
+   "city": "Allentown",
+   "zip": "18102",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ALLENTOWN SCHOOL DISTRICT",
+   "defendant": "XIOMARA NADAL-MEJIA",
+   "attorney": "Nina S Rosenthal, Esq",
+   "sale_date": "2026-11-20",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614319",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26006975",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 0.0,
+   "auction_id": "2212614321",
+   "status": "SCHEDULED",
+   "case_number": "2024-ML-2375",
+   "parcel_id": "549605903127-1",
+   "address": "2527 W FAIRVIEW ST",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ALLENTOWN SCHOOL DISTRICT",
+   "defendant": "DAVID CRESPO",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2026-11-20",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614321",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26006977",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 10565.22,
+   "auction_id": "2212614325",
+   "status": "SCHEDULED",
+   "case_number": "2022-ML-0126",
+   "parcel_id": "545985287217-1",
+   "address": "4745 WELBY DR",
+   "city": "Schnecksville",
+   "zip": "18078",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PARKLAND SCHOOL DISTRICT",
+   "defendant": "PATRICK CALIXTE; YVELINE CALIXTE",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2026-11-20",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614325",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26006981",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 16654.12,
+   "auction_id": "2212614327",
+   "status": "SCHEDULED",
+   "case_number": "2019-ML-0846",
+   "parcel_id": "548174745749-1",
+   "address": "6345 PALM RD",
+   "city": "Zionsville",
+   "zip": "18092",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SOUTHERN LEHIGH SCHOOL DISTRICT",
+   "defendant": "RICHARD HAINES RIGNEY",
+   "attorney": "Jennifer E Anderson, Esq",
+   "sale_date": "2026-11-20",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614327",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26006983",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 8976.41,
+   "auction_id": "2212614328",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-1941",
+   "parcel_id": "642344263144-34",
+   "address": "7525 CLAYTON AVE",
+   "city": "Coopersburg",
+   "zip": "18036",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SOUTHERN LEHIGH SCHOOL DISTINCT",
+   "defendant": "ELAJSHA NATWAA MCGHEE-HAQQ",
+   "attorney": "Nina S Rosenthal, Esq",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614328",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26006984",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 86588.15,
+   "auction_id": "2212614334",
+   "status": "SCHEDULED",
+   "case_number": "2024-C-3371",
+   "parcel_id": "549905724681-1",
+   "address": "3416 N RUCH ST",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "M&T BANK",
+   "defendant": "KEVIN SODL",
+   "attorney": "KML LAW GROUP P.C.",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614334",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26006990",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 315921.78,
+   "auction_id": "2212614337",
+   "status": "SCHEDULED",
+   "case_number": "2025-C-3606",
+   "parcel_id": "548695405768-1",
+   "address": "2811 HAMILTON BLVD",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SELENE FINANCE LP",
+   "defendant": "JEFF STANLEY PIERRE",
+   "attorney": "Heather Riloff, Esq",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614337",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26007461",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 24835.82,
+   "auction_id": "2212614338",
+   "status": "SCHEDULED",
+   "case_number": "2021-ML-0926",
+   "parcel_id": "640462836160-1",
+   "address": "4202 KOZY KORNER RD",
+   "city": "Center Valley",
+   "zip": "18034",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SOUTHERN LEHIGH SCHOOL DISTRICT",
+   "defendant": "GERALD D SMELTZER",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2026-11-20",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614338",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26007463",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4501.42,
+   "auction_id": "2212614341",
+   "status": "SCHEDULED",
+   "case_number": "2023-ML-1178",
+   "parcel_id": "549919021974-1",
+   "address": "5045 FOXDALE DR",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WHITEHALL TOWNSHIP",
+   "defendant": "JAMAAL S PATTERSON",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614341",
+   "as_of": "2026-10-26T22:55-04:00",
+   "sheriff_number": "26007468",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 10354.2,
+   "auction_id": "2212614342",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-0310",
+   "parcel_id": "548762420713-1",
+   "address": "1224 N 28TH ST",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SOUTH WHITEHALL TOWNSHIP",
+   "defendant": "JOSEPH J WAGNER",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614342",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26007471",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 80516.92,
+   "auction_id": "2212614343",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-1429",
+   "parcel_id": "641627046902-1",
+   "address": "1105 MAUMEE AVE",
+   "city": "Allentown",
+   "zip": "18103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "1900 CAPITAL TRUST II",
+   "defendant": "ANN LYNN ZIMMERMAN",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614343",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26007495",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 220229.47,
+   "auction_id": "2212614345",
+   "status": "SCHEDULED",
+   "case_number": "2025-C-0238",
+   "parcel_id": "546455248470 1",
+   "address": "1696 TREXLERTOWN RD",
+   "city": "Macungie",
+   "zip": "18062",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+   "defendant": "JOHN A. KLINE A/K/A JOHN KLINE",
+   "attorney": "STERN & EISENBERG",
+   "sale_date": "2026-11-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614345",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26007676",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-01-24"
+    },
+    {
+     "status": "Continued",
+     "date": "2025-03-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2025-06-27"
+    },
+    {
+     "status": "Continued",
+     "date": "2025-08-22"
+    },
+    {
+     "status": "Continued",
+     "date": "2025-10-24"
+    },
+    {
+     "status": "Continued",
+     "date": "2025-12-19"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-02-20"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-04-24"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-06-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 11,
+   "upset_amount": 192765.48,
+   "auction_id": "2212614080",
+   "status": "CONTINUED",
+   "case_number": "2023-C-3161",
+   "parcel_id": "641842146613-1",
+   "address": "2303 EAST COLUMBIA ST",
+   "city": "Allentown",
+   "zip": "18109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION",
+   "defendant": "JOHN C. WENNER, III",
+   "attorney": "PARKER MCCAY",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614080",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "24007680",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-09-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2025-12-19"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-02-20"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-04-24"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-05-22"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-07-17"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 7,
+   "upset_amount": 62503.08,
+   "auction_id": "2212614084",
+   "status": "CONTINUED",
+   "case_number": "2024-C-0120",
+   "parcel_id": "549667862274 1",
+   "address": "1514 WEST UNION ST",
+   "city": "Allentown",
+   "zip": "18102",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "METROPOLITAN LIFE INSURANCE COMPANY",
+   "defendant": "MARISOL SALGADO, SOLELY IN HER CAPACITY AS HEIR OF GABRIEL SALGADO-PINEDA, DECEASED; ET AL",
+   "attorney": "PINCUS LAW GROUP, PLLC",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614084",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "25004672",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-10-24"
+    },
+    {
+     "status": "Continued",
+     "date": "2025-12-19"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-02-20"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-04-24"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-06-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 7,
+   "upset_amount": 73642.91,
+   "auction_id": "2212614091",
+   "status": "CONTINUED",
+   "case_number": "2024-C-3821",
+   "parcel_id": "549780275335-1",
+   "address": "222 N 11TH ST",
+   "city": "Allentown",
+   "zip": "18102",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY",
+   "defendant": "EDWARD ORTEGA",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID CRANE & PARTNERS",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614091",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "25005633",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-04-24"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-06-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 341689.41,
+   "auction_id": "2212614121",
+   "status": "CONTINUED",
+   "case_number": "2022-C-1618",
+   "parcel_id": "548569305468 1",
+   "address": "1089 PAT CT",
+   "city": "Allentown",
+   "zip": "18103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+   "defendant": "CASSANDRA S CAREY; GERALD CASE, SR.",
+   "attorney": "STERN & EISENBERG",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614121",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "25011018",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-04-24"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-05-22"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 1037555.99,
+   "auction_id": "2212614124",
+   "status": "CONTINUED",
+   "case_number": "2025-N-0346",
+   "parcel_id": "640829003716 1",
+   "address": "403-407 WOOD ST",
+   "city": "Catasauqua",
+   "zip": "18032",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PEOPLE FIRST FEDERAL CREDIT UNION",
+   "defendant": "ROGER M. SPERLBAUM D/B/A FORCE 1",
+   "attorney": "FITZPATRICK, LENTZ & BUBBA PC",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614124",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26000471",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-05-22"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-07-17"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 86392.82,
+   "auction_id": "2212614128",
+   "status": "CONTINUED",
+   "case_number": "2025-C-3012",
+   "parcel_id": "546840275257-1",
+   "address": "2975 JORDAN RD",
+   "city": "Orefield",
+   "zip": "18069",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "US BANK NATIONAL ASSOCIATION",
+   "defendant": "JOHN HENRY HOLTZHAFER",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID CRANE & PARTNERS",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614128",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26000553",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-06-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 11630.68,
+   "auction_id": "2212614142",
+   "status": "CONTINUED",
+   "case_number": "2009-ML-3996",
+   "parcel_id": "549842148117 1",
+   "address": "1438 ROBERT ST",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WHITEHALL TOWNSHIP",
+   "defendant": "YUDELKA ARIZA; EDWARD ARIZA",
+   "attorney": "GROSS MCGINLEY LLP",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614142",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26001533",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-06-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 12835.43,
+   "auction_id": "2212614146",
+   "status": "CONTINUED",
+   "case_number": "2009-ML-4000",
+   "parcel_id": "640811252672 1",
+   "address": "769 3RD ST",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WHITEHALL TOWNSHIP",
+   "defendant": "JEFFREY BOBENICH",
+   "attorney": "GROSS MCGINLEY LLP",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614146",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26001537",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-06-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 9141.9,
+   "auction_id": "2212614147",
+   "status": "CONTINUED",
+   "case_number": "2010-ML-0489",
+   "parcel_id": "549767523496 1",
+   "address": "1291 FOREST RD",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WHITEHALL TOWNSHIP",
+   "defendant": "BLOSSOM L. JONES",
+   "attorney": "GROSS MCGINLEY LLP",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614147",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26001538",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-06-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 196314.16,
+   "auction_id": "2212614164",
+   "status": "CONTINUED",
+   "case_number": "2025-C-0740",
+   "parcel_id": "549636490141 1",
+   "address": "2041 WEST WALNUT ST",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "JUAN SANCHEZ; AWILDA SANCHEZ; ET. AL.",
+   "attorney": "ROMANO, ARGENTERI & GARUBO",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614164",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26001809",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-06-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 116329.51,
+   "auction_id": "2212614167",
+   "status": "CONTINUED",
+   "case_number": "2025-C-3473",
+   "parcel_id": "640529899691 1",
+   "address": "2223 S NINTH ST",
+   "city": "Allentown",
+   "zip": "18103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CITIGROUP MORTGAGE LOAN TRUST, INC., 2007-AHL1",
+   "defendant": "LAURA GILL",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS PLLC",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614167",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26001905",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-06-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 26112.3,
+   "auction_id": "2212614174",
+   "status": "CONTINUED",
+   "case_number": "2021-FC-0844",
+   "parcel_id": "557007304810-1",
+   "address": "2617 RISING SUN RD",
+   "city": "Slatington",
+   "zip": "18080",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CHRISTOPHER LYNCH",
+   "defendant": "NATASHA LYNCH",
+   "attorney": "Lance M Gordon, Esq",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614174",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26002413",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 30691.63,
+   "auction_id": "2212614192",
+   "status": "CONTINUED",
+   "case_number": "2016-ML-3184",
+   "parcel_id": "549780671145-1",
+   "address": "1029 W TURNER ST",
+   "city": "Allentown",
+   "zip": "18102",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ALLENTOWN SCHOOL DISTRICT",
+   "defendant": "WEALTH CONSULTING, L.L.C.",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2026-12-18",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614192",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26003066",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 6553.61,
+   "auction_id": "2212614207",
+   "status": "CONTINUED",
+   "case_number": "2023-ML-0276",
+   "parcel_id": "642731006006-1",
+   "address": "1038 BROADWAY",
+   "city": "Fountain Hill",
+   "zip": "18015",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BETHLEHEM AREA SCHOOL DISTRICT",
+   "defendant": "ANA CID",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2026-12-18",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614207",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26003216",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 147636.65,
+   "auction_id": "2212614219",
+   "status": "CONTINUED",
+   "case_number": "2025-C-4128",
+   "parcel_id": "640818362656 1",
+   "address": "200 HOWERTON RD",
+   "city": "Catasauqua",
+   "zip": "18032",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR GS MORTGAGE-BACKED SECURITIES TRUST 2024-RPL4",
+   "defendant": "TONIA M. QUINONES, KNOWN HEIR OF ANTHONY QUINONES, DECEASED; ET. AL.",
+   "attorney": "Yvonne Ganley, Esq",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614219",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26003522",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 176863.1,
+   "auction_id": "2212614229",
+   "status": "CONTINUED",
+   "case_number": "2024-C-3251",
+   "parcel_id": "640503074210 1",
+   "address": "2952 HURON ST",
+   "city": "Allentown",
+   "zip": "18103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PHH MORTGAGE CORPORATION",
+   "defendant": "MATTHEW J. CUTANO A/K/A MATTHEW CUTANO",
+   "attorney": "STERN & EISENBERG",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614229",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26003726",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 145704.13,
+   "auction_id": "2212614233",
+   "status": "CONTINUED",
+   "case_number": "2026-C-0128",
+   "parcel_id": "547621801837 1",
+   "address": "5538 MERRY LANE",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VRMTG ASSET TRUST",
+   "defendant": "PABLO AGUILERA; SARA MEDEL",
+   "attorney": "HLADIK, ONORATO & FEDERMAN",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614233",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26003885",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 29754.67,
+   "auction_id": "2212614234",
+   "status": "CONTINUED",
+   "case_number": "2021-C-1125",
+   "parcel_id": "546521758889 1",
+   "address": "7867 RED HAWK COURT",
+   "city": "Breinigsville",
+   "zip": "18031",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "TERRACE AT LEHIGH HOMEOWNERS ASSOCIATION, INC.",
+   "defendant": "RUBEN FALCON, JR.",
+   "attorney": "Norris McLaughlin  P.A.",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614234",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26003915",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 318241.98,
+   "auction_id": "2212614253",
+   "status": "CONTINUED",
+   "case_number": "2023-C-0372",
+   "parcel_id": "548702263465 1",
+   "address": "1408 WHITE OAK RD",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PNC BANK, NATIONAL ASSOCIATION",
+   "defendant": "MICHAEL CHARLES CURY",
+   "attorney": "ROBERTSON ANSCHUTZ CRANE & PARTNERS PLLC",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614253",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26004452",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 197122.77,
+   "auction_id": "2212614264",
+   "status": "CONTINUED",
+   "case_number": "2025-C-0275",
+   "parcel_id": "641854670255 1",
+   "address": "2035 DRURY LANE",
+   "city": "Bethlehem",
+   "zip": "18018",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+   "defendant": "MATTHEW ROBERT KING; KRISTEN NICOLE KING",
+   "attorney": "BROCK & SCOTT",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614264",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26004928",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 4464.05,
+   "auction_id": "2212614266",
+   "status": "CONTINUED",
+   "case_number": "2026-N-0121",
+   "parcel_id": "547687003997 19",
+   "address": "894 NITTANY CT",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CEDAR CREEK FARM CONDOMINIUM OWNERS ASSOCIATION INC.",
+   "defendant": "GINGER OLAYA",
+   "attorney": "GROSS MCGINLEY LLP",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614266",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26005180",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 219284.17,
+   "auction_id": "2212614282",
+   "status": "CONTINUED",
+   "case_number": "2025-C-0021",
+   "parcel_id": "556216722399 1",
+   "address": "512 CENTER ST",
+   "city": "Slatington",
+   "zip": "18080",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "ZACHARY A PALANSKY; AMANDA N REESE",
+   "attorney": "KML LAW GROUP, P.C.",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614282",
+   "as_of": "2026-10-26T22:56-04:00",
+   "sheriff_number": "26005589",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 791605.01,
+   "auction_id": "2212614286",
+   "status": "CONTINUED",
+   "case_number": "2025-C-4122",
+   "parcel_id": "546780640169 1",
+   "address": "1758 APPLEWOOD DR",
+   "city": "Orefield",
+   "zip": "18069",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PHH ASSET SERVICES LLC",
+   "defendant": "MADIA S. DOE",
+   "attorney": "STERN & EISENBERG",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614286",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26005698",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 108720.11,
+   "auction_id": "2212614294",
+   "status": "CONTINUED",
+   "case_number": "2015-C-3777",
+   "parcel_id": "641717347267 1",
+   "address": "725 N NELSON ST",
+   "city": "Allentown",
+   "zip": "18109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "US BANK NATIONAL ASSOCIATION AS LEGAL TITLE TRUSTEE FOR TRUMAN 2016 SC6 TITLE TRUST",
+   "defendant": "MICHAEL SCOTT COLES A/K/A MICHAEL S COLES; CYNTHIA E COLES",
+   "attorney": "Nicole Francese, Esq",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614294",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26006159",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 6235.71,
+   "auction_id": "2212614295",
+   "status": "CONTINUED",
+   "case_number": "2025-ML-0206",
+   "parcel_id": "549722187404-1",
+   "address": "948 N 19TH ST",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ALLENTOWN SCHOOL DISTRICT",
+   "defendant": "DOUGLAS WOLF",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2026-12-18",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614295",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26006209",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 187183.92,
+   "auction_id": "2212614298",
+   "status": "CONTINUED",
+   "case_number": "2025-C-2771",
+   "parcel_id": "546476956492-1",
+   "address": "1687 LAUREL LANE",
+   "city": "Macungie",
+   "zip": "18062",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY",
+   "defendant": "NICOLE SIRIANNI MILLER; SHANNON MICHAEL MILLER",
+   "attorney": "FRIEDMAN VARTOLO",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614298",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26006236",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 242184.98,
+   "auction_id": "2212614344",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-1204",
+   "parcel_id": "640774533298 1",
+   "address": "444 HANOVER AVE",
+   "city": "Allentown",
+   "zip": "18109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF LAFAYETTE STREET MORTGAGE TRUST",
+   "defendant": "JOEL KLEIN",
+   "attorney": "FRIEDMAN VARTOLO",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614344",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26007667",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4541.25,
+   "auction_id": "2212614346",
+   "status": "SCHEDULED",
+   "case_number": "2024-ML-0703",
+   "parcel_id": "640847420546 1",
+   "address": "625 S 14TH ST",
+   "city": "Catasauqua",
+   "zip": "18032",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BOROUGH OF CATASAUQUA",
+   "defendant": "ANDREW J. MANKOS",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614346",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26007683",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4582.24,
+   "auction_id": "2212614347",
+   "status": "SCHEDULED",
+   "case_number": "2024-ML-2490",
+   "parcel_id": "640941144116 1",
+   "address": "15 CAMBRIDGE PL",
+   "city": "Catasauqua",
+   "zip": "18032",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BOROUGH OF CATASAUQUA",
+   "defendant": "JOHN O'CONNELL",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614347",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26007684",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 1107568.84,
+   "auction_id": "2212614352",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-2530",
+   "parcel_id": "640970350974-1",
+   "address": "1565 E RACE ST",
+   "city": "Allentown",
+   "zip": "18109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PEOPLE FIRST FEDERAL CREDIT UNION",
+   "defendant": "ROGER M. SPERLBAUM",
+   "attorney": "FITZPATRICK, LENTZ & BUBBA PC",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614352",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26008013",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 337722.2,
+   "auction_id": "2212614353",
+   "status": "SCHEDULED",
+   "case_number": "2025-C-2559",
+   "parcel_id": "549860453364 1",
+   "address": "1634 ALTA DR",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+   "defendant": "CHRISTOPHER A. BUDIHAS; SHERRY B. BUDIHAS A/K/A SHERRY B. HECKMAN",
+   "attorney": "STERN & EISENBERG",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614353",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26008014",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 1037555.99,
+   "auction_id": "2212614354",
+   "status": "SCHEDULED",
+   "case_number": "2025-N-0346",
+   "parcel_id": "640808762366-1",
+   "address": "132 WOOD ST",
+   "city": "Catasauqua",
+   "zip": "18032",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PEOPLE FIRST FEDERAL CREDIT UNION",
+   "defendant": "ROGER M. SPERLBAUM",
+   "attorney": "FITZPATRICK, LENTZ & BUBBA PC",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614354",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26008017",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 306245.18,
+   "auction_id": "2212614355",
+   "status": "SCHEDULED",
+   "case_number": "2025-C-4467",
+   "parcel_id": "549945371167 1",
+   "address": "17 N 4TH ST",
+   "city": "Coplay",
+   "zip": "18037",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MORTGAGE ASSETS MANAGEMENT, LLC",
+   "defendant": "MATTHEW RECKER A/K/A MATTHEW A. RECKER A/K/A MATT RECKER, SOLELY IN HIS CAPACITY AS KNOWN HEIR OF ALOIS J. RECKER, DECEASED",
+   "attorney": "STERN & EISENBERG",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614355",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26008025",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 216053.36,
+   "auction_id": "2212614358",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-0324",
+   "parcel_id": "549773240248 1",
+   "address": "748 NORTH 11TH ST",
+   "city": "Allentown",
+   "zip": "18102",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NATIONAL COOPERATIVE BANK, N.A.",
+   "defendant": "JESSICA LUGO",
+   "attorney": "FRIEDMAN VARTOLO",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614358",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26008129",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 102815.04,
+   "auction_id": "2212614359",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-0445",
+   "parcel_id": "642746618993 1",
+   "address": "231 W LEHIGH ST",
+   "city": "Bethlehem",
+   "zip": "18018",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "STACIA L. HORVATH, IN HER CAPACITY AS HEIR OF DAVID L. DAVIS, DECEASED; ET AL",
+   "attorney": "BROCK & SCOTT",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614359",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26008135",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 247217.3,
+   "auction_id": "2212614361",
+   "status": "SCHEDULED",
+   "case_number": "2022-C-1330",
+   "parcel_id": "545426478243 1",
+   "address": "774 SWALLOW TAIL LANE",
+   "city": "Breinigsville",
+   "zip": "18031",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "ALL UNKNOWN HEIRS OF PHILIP J. DANCHAK, DECEASED; NANCY DANCHACK, SOLELY IN HER CAPACITY AS KNOWN HEIR OF PHILIP J. DANCHACK, DECEASED",
+   "attorney": "STERN & EISENBERG",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614361",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26008271",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-18"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 460802.31,
+   "auction_id": "2212614362",
+   "status": "SCHEDULED",
+   "case_number": "2024-C-3561",
+   "parcel_id": "640167832657 1",
+   "address": "8769 SPINNERSTOWN RD",
+   "city": "Coopersburg",
+   "zip": "18036",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CARRINGTON MORTGAGE SERVICES, LLC",
+   "defendant": "BRETT YESNER",
+   "attorney": "ORLANS PC",
+   "sale_date": "2026-12-18",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614362",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26008275",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2022-09-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2022-11-18"
+    },
+    {
+     "status": "Continued",
+     "date": "2023-01-27"
+    },
+    {
+     "status": "Continued",
+     "date": "2023-04-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2023-04-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2023-07-21"
+    },
+    {
+     "status": "Continued",
+     "date": "2023-12-15"
+    },
+    {
+     "status": "Continued",
+     "date": "2024-04-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2024-08-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2024-11-22"
+    },
+    {
+     "status": "Continued",
+     "date": "2025-01-24"
+    },
+    {
+     "status": "Continued",
+     "date": "2025-04-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2025-08-22"
+    },
+    {
+     "status": "Continued",
+     "date": "2025-12-19"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-04-24"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-08-28"
+    },
+    {
+     "status": "Continued",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 16,
+   "upset_amount": 291204.63,
+   "auction_id": "2212614076",
+   "status": "CONTINUED",
+   "case_number": "2018-C-0274",
+   "parcel_id": "548788717610-1",
+   "address": "1935 WHITEHALL AVE",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "HSBC BANK USA",
+   "defendant": "ANH QUACH AND PATRICK QUACH",
+   "attorney": "HLADIK, ONORATO & FEDERMAN",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614076",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "22001651",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2025-09-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2025-11-21"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-01-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-05-22"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 5,
+   "upset_amount": 59938.45,
+   "auction_id": "2212614089",
+   "status": "CONTINUED",
+   "case_number": "2011-ML-1346",
+   "parcel_id": "553107933358-1",
+   "address": "8696 BAKE OVEN RD",
+   "city": "Germansville",
+   "zip": "18053",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NORTHWESTERN LEHIGH SCHOOL DISTRICT",
+   "defendant": "GAIL M. LLOYD",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614089",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "25005278",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-01-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-03-27"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-05-22"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 7786.52,
+   "auction_id": "2212614098",
+   "status": "CONTINUED",
+   "case_number": "2024-ML-0076",
+   "parcel_id": "549705876740 1",
+   "address": "1934 HAROLD AVE",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SOUTH WHITEHALL TOWNSHIP",
+   "defendant": "CHRISTINE T BUDIHAS",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614098",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "25008351",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-02-20"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-04-24"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-06-26"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 5721.02,
+   "auction_id": "2212614109",
+   "status": "CONTINUED",
+   "case_number": "2023-ML-2110",
+   "parcel_id": "548578095806-1",
+   "address": "1116 GLICK AVE",
+   "city": "Allentown",
+   "zip": "18103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SOUTH WHITEHALL TOWNSHIP",
+   "defendant": "RAGAB KENAWI",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614109",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "25009934",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-25"
+    },
+    {
+     "status": "Continued",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 201221.93,
+   "auction_id": "2212614265",
+   "status": "CONTINUED",
+   "case_number": "2024-C-1114",
+   "parcel_id": "642802160006 1",
+   "address": "1509 RICHARD AVE",
+   "city": "Bethlehem",
+   "zip": "18018",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK AS TRUSTEE",
+   "defendant": "MICHAL LESNIEWSKI; AGNIESZKA LESNIEWSKI",
+   "attorney": "LEOPOLD & ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614265",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26005130",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 153458.11,
+   "auction_id": "2212614360",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-2185",
+   "parcel_id": "546269498100 1",
+   "address": "8581 HENSINGERSVILLE RD",
+   "city": "Macungie",
+   "zip": "18062",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB",
+   "defendant": "DAVID P. SPESS; PATIENCE L. SPESS",
+   "attorney": "WEBER GALLAGHER SIMPSON STAPLETON FIRES & NEWBY",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614360",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26008250",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 154251.82,
+   "auction_id": "2212614363",
+   "status": "SCHEDULED",
+   "case_number": "2025-C-3719",
+   "parcel_id": "549431087836-1",
+   "address": "317 S 12TH ST",
+   "city": "Emmaus",
+   "zip": "18049",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
+   "defendant": "CHRISTIAN A. GARCIA-TROYA",
+   "attorney": "ROBERTSON ANSCHUTZ SCHNEID CRANE & PARTNERS PLLC",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614363",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26008390",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4546.71,
+   "auction_id": "2212614365",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-2144",
+   "parcel_id": "640901419246 1",
+   "address": "524 WALNUT ST",
+   "city": "Catasauqua",
+   "zip": "18032",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BOROUGH OF CATASAUQUA",
+   "defendant": "KELLY MARIE McGINN",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614365",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26008427",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4421.28,
+   "auction_id": "2212614366",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-1327",
+   "parcel_id": "558054586701-1",
+   "address": "5579 ROOSEVELT ST",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WHITEHALL TOWNSHIP",
+   "defendant": "KAREN A. HARDING",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614366",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26008429",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4531.92,
+   "auction_id": "2212614367",
+   "status": "SCHEDULED",
+   "case_number": "2024-ML-2685",
+   "parcel_id": "640837137449-1",
+   "address": "91 FAITH DR",
+   "city": "Catasauqua",
+   "zip": "18032",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BOROUGH OF CATASAUQUA",
+   "defendant": "GEORGETTE AZAR MOUHREZ",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614367",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26008430",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4442.71,
+   "auction_id": "2212614368",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-0941",
+   "parcel_id": "640910202007 1",
+   "address": "435 BRIDGE ST",
+   "city": "Catasauqua",
+   "zip": "18032",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BOROUGH OF CATASAUQUA",
+   "defendant": "LUIS A. CRUZ JIMENEZ; ANANIA MARTINEZ DE CRUZ",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614368",
+   "as_of": "2026-10-26T22:57-04:00",
+   "sheriff_number": "26008432",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4456.12,
+   "auction_id": "2212614369",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-1324",
+   "parcel_id": "549885958065-1",
+   "address": "586 MILLER LANE",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WHITEHALL TOWNSHIP",
+   "defendant": "BASIL GIMBAR",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614369",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008433",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 151361.68,
+   "auction_id": "2212614370",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-2482",
+   "parcel_id": "640725856065-1",
+   "address": "197 1/2 WEST GREEN ST",
+   "city": "Allentown",
+   "zip": "18102",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CROSSCOUNTRY MORTGAGE, LLC",
+   "defendant": "JEAN CARLOS PEREZ MARTINEZ",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID CRANE & PARTNERS",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614370",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008434",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 5461.41,
+   "auction_id": "2212614371",
+   "status": "SCHEDULED",
+   "case_number": "2024-ML-2593",
+   "parcel_id": "549716025022-1",
+   "address": "1531 N 19TH ST",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SOUTH WHITEHALL TOWNSHIP",
+   "defendant": "CRAIG A. BOWES",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614371",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008435",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4870.19,
+   "auction_id": "2212614372",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-2968",
+   "parcel_id": "545453355026-1",
+   "address": "1410 WINDMILL LANE",
+   "city": "Breinigsville",
+   "zip": "18031",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "UPPER MACUNGIE TOWNSHIP",
+   "defendant": "ANDREA D. CAMERON",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614372",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008436",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 187045.18,
+   "auction_id": "2212614373",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-0522",
+   "parcel_id": "640734141956-1",
+   "address": "534 1/2 N 2ND ST",
+   "city": "Allentown",
+   "zip": "18102",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "FARAH JOHN AL KHOURY",
+   "attorney": "POWERS KIRN  LLC",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614373",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008460",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 144884.59,
+   "auction_id": "2212614374",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-0790",
+   "parcel_id": "549913486129-1",
+   "address": "3006 NORTH RUCH ST",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEWREZ LLC",
+   "defendant": "AARON L. DAVIS",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614374",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008506",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 9235.82,
+   "auction_id": "2212614375",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-2507",
+   "parcel_id": "640820485027-1",
+   "address": "583 CATASAUQUA AVE",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WHITEHALL-COPLAY SCHOOL DISTRICT",
+   "defendant": "LISA A PACARO",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614375",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008508",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 12967.92,
+   "auction_id": "2212614376",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-3325",
+   "parcel_id": "546269498100-1",
+   "address": "8581 HENSINGERSVILLE RD",
+   "city": "Macungie",
+   "zip": "18062",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LOWER MACUNGIE TOWNSHIP",
+   "defendant": "DAVID P SPESS",
+   "attorney": "Nina S Rosenthal, Esq",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614376",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008510",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4463.95,
+   "auction_id": "2212614377",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-0735",
+   "parcel_id": "546683207008-1",
+   "address": "240 BRIARWOOD CT",
+   "city": "Breinigsville",
+   "zip": "18031",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "UPPER MACUNGIE TOWNSHIP",
+   "defendant": "CHAD LIERSAPH",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614377",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008512",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 5137.13,
+   "auction_id": "2212614379",
+   "status": "SCHEDULED",
+   "case_number": "2024-ML-0886",
+   "parcel_id": "547721209523-1",
+   "address": "5013 CHAPMANS RD",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PARKLAND SCHOOL DISTRICT",
+   "defendant": "STEPHEN ROSKO, SR",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2027-01-22",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614379",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008516",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4567.95,
+   "auction_id": "2212614380",
+   "status": "SCHEDULED",
+   "case_number": "2024-ML-2572",
+   "parcel_id": "549456386473-1",
+   "address": "222 N 4TH ST",
+   "city": "Emmaus",
+   "zip": "18049",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BOROUGH OF EMMAUS",
+   "defendant": "ROBERT C. BROWN, JR.",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614380",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008518",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4443.96,
+   "auction_id": "2212614382",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-3243",
+   "parcel_id": "549869425423-1",
+   "address": "3386 S 2ND ST",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WHITEHALL TOWNSHIP",
+   "defendant": "MICHAEL A. FISKE; MARY K. FISKE",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614382",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008526",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4456.32,
+   "auction_id": "2212614384",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-1346",
+   "parcel_id": "549873763919-1",
+   "address": "1215 ELLSWORTH DR",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WHITEHALL TOWNSHIP",
+   "defendant": "LOUIS GALETTI; BARBARA A. GALETTI",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614384",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008535",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 255780.16,
+   "auction_id": "2212614385",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-2593",
+   "parcel_id": "641875002055-1",
+   "address": "1826 CATASAUQUA RD",
+   "city": "Bethlehem",
+   "zip": "18018",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE ON BEHALF OF GCAT 2022-NQM1 TRUST",
+   "defendant": "ADRIANA FRANCO DE LOPEZ; GEORGE HENRY ZUNIGA SOTO",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614385",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008540",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 110440.3,
+   "auction_id": "2212614386",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-1189",
+   "parcel_id": "640713594860-1",
+   "address": "554 N 4TH ST",
+   "city": "Allentown",
+   "zip": "18102",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PENNYMAC LOAN SERVICES, LLC",
+   "defendant": "KATHARINA C DEVEREAUX",
+   "attorney": "POWERS KIRN  LLC",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614386",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008683",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 292076.7,
+   "auction_id": "2212614387",
+   "status": "SCHEDULED",
+   "case_number": "2025-C-2200",
+   "parcel_id": "546927403186 1",
+   "address": "4159 PAWNEE CIR",
+   "city": "Schnecksville",
+   "zip": "18078",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FAY SERVICING, LLC",
+   "defendant": "LORA SCHENKEL, N/K/A LORA SUZANNE FREY; JEFFREY FREY; ET AL",
+   "attorney": "McCALLA RAYMER LEIBERT PIERCE, LLP",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614387",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008716",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 62113.81,
+   "auction_id": "2212614388",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-1908",
+   "parcel_id": "640744514982 1",
+   "address": "101.5 W GORDON ST",
+   "city": "Allentown",
+   "zip": "18102",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MIDFIRST BANK",
+   "defendant": "UNKNOWN HEIRS AND/OR ADMINISTRATORS TO THE ESTATE OF JOSE M. ALICEA",
+   "attorney": "MANLEY, DEAS, KOCHALSKI",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614388",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008768",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4545.63,
+   "auction_id": "2212614389",
+   "status": "SCHEDULED",
+   "case_number": "2023-ML-1508",
+   "parcel_id": "549864321843-1",
+   "address": "1152 W TYLER ST",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WHITEHALL TOWNSHIP",
+   "defendant": "JEFFREY J HIGGINS",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614389",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008806",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 2650.24,
+   "auction_id": "2212614390",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-3117",
+   "parcel_id": "548778405203-1",
+   "address": "2372 MINNIE LANE",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SOUTH WHITEHALL TOWNSHIP",
+   "defendant": "ROSALIE JUARBE; JAMES J. D. COSTELLO; MARISOL COSTELLO",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614390",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008807",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4386.36,
+   "auction_id": "2212614391",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-3214",
+   "parcel_id": "546422804168-1",
+   "address": "8328 MERTZTOWN RD",
+   "city": "Alburtis",
+   "zip": "18011",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LOWER MACUNGIE TOWNSHIP",
+   "defendant": "LEAH S PAPP",
+   "attorney": "Nina S Rosenthal, Esq",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614391",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008810",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4563.53,
+   "auction_id": "2212614392",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-1603",
+   "parcel_id": "549466445737-1",
+   "address": "232 GREEN ST",
+   "city": "Emmaus",
+   "zip": "18049",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "BOROUGH OF EMMAUS",
+   "defendant": "LORI ANN GEORGE",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614392",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008812",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 388112.56,
+   "auction_id": "2212614393",
+   "status": "SCHEDULED",
+   "case_number": "2023-C-3580",
+   "parcel_id": "549904218770-1",
+   "address": "3395 OAK ST",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+   "defendant": "MICHAEL J. TEWOLD; SUSAN TEWOLD",
+   "attorney": "PADGETT LAW GROUP",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614393",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008817",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 307914.32,
+   "auction_id": "2212614394",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-2231",
+   "parcel_id": "640745111341-1",
+   "address": "608 NORTH FRONT ST",
+   "city": "Allentown",
+   "zip": "18102",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2026-1",
+   "defendant": "BOBANDES LLC",
+   "attorney": "STERN & EISENBERG",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614394",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008820",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 140245.88,
+   "auction_id": "2212614395",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-1413",
+   "parcel_id": "640287459774 1",
+   "address": "7445 BELL GATE RD",
+   "city": "Coopersburg",
+   "zip": "18036",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
+   "defendant": "WILLIAM L. ENDEAN; JUDY ANN ENDEAN",
+   "attorney": "PADGETT LAW GROUP",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614395",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008907",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 32036.09,
+   "auction_id": "2212614396",
+   "status": "SCHEDULED",
+   "case_number": "2016-ML-1557",
+   "parcel_id": "640626507162-1",
+   "address": "1033 S HALL ST",
+   "city": "Allentown",
+   "zip": "18103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ALLENTOWN SCHOOL DISTRICT",
+   "defendant": "LUIS A ACEVEDO",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614396",
+   "as_of": "2026-10-26T22:58-04:00",
+   "sheriff_number": "26008926",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 8144.43,
+   "auction_id": "2212614397",
+   "status": "SCHEDULED",
+   "case_number": "2018-ML-0277",
+   "parcel_id": "556209818518-1",
+   "address": "1128 MORRIS LANE",
+   "city": "Slatington",
+   "zip": "18080",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NORTHERN LEHIGH SCHOOL DISTRICT",
+   "defendant": "WILLIAM MICHAEL SCHIPPERS",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614397",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26008927",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 10932.88,
+   "auction_id": "2212614398",
+   "status": "SCHEDULED",
+   "case_number": "2021-ML-1865",
+   "parcel_id": "555231165822-1",
+   "address": "8017 REXTOWN RD",
+   "city": "Slatington",
+   "zip": "18080",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NORTHERN LEHIGH SCHOOL DISTRICT",
+   "defendant": "EDWARD A CHRISTMAN",
+   "attorney": "Portnoff Law Associates",
+   "sale_date": "2027-01-22",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614398",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26008931",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 5012.67,
+   "auction_id": "2212614399",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-2722",
+   "parcel_id": "547453995175-1",
+   "address": "6664 CARMEL DR",
+   "city": "Macungie",
+   "zip": "18062",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LOWER MACUNGIE TOWNSHIP",
+   "defendant": "ABRAHEIM SULEIMAN",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614399",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26008932",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 6391.45,
+   "auction_id": "2212614400",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-1951",
+   "parcel_id": "641708245680-1",
+   "address": "877 N KIOWA ST",
+   "city": "Allentown",
+   "zip": "18109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ALLENTOWN SCHOOL DISTRICT",
+   "defendant": "ALBERT M HENIUS, JR.",
+   "attorney": "Nina S Rosenthal, Esq",
+   "sale_date": "2027-01-22",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614400",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26008934",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 5379.87,
+   "auction_id": "2212614401",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-0290",
+   "parcel_id": "548682936784-1",
+   "address": "668 RYAN DR",
+   "city": "Allentown",
+   "zip": "18103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SOUTH WHITEHALL TOWNSHIP",
+   "defendant": "JAMIE L VOLPE",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614401",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26008935",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 5394.03,
+   "auction_id": "2212614402",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-2533",
+   "parcel_id": "548613813460-1",
+   "address": "17 N STERLING ST",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SOUTH WHITEHALL TOWNSHIP",
+   "defendant": "JENNIFER N ONUSCONICH",
+   "attorney": "Nina S Rosenthal, Esq",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614402",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26008936",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 5301.84,
+   "auction_id": "2212614403",
+   "status": "SCHEDULED",
+   "case_number": "2024-ML-2353",
+   "parcel_id": "548771896908-1",
+   "address": "2605 W HIGHLAND ST",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SOUTH WHITEHALL TOWNSHIP",
+   "defendant": "MICHAEL M MAZZIOTTA",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614403",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26008938",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4438.77,
+   "auction_id": "2212614404",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-2752",
+   "parcel_id": "549951686042-1",
+   "address": "3010 N 2ND ST",
+   "city": "Whitehall",
+   "zip": "18052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WHITEHALL TOWNSHIP",
+   "defendant": "CHRISTOPHER D O'BRIAN",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614404",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26008941",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4455.18,
+   "auction_id": "2212614405",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-2697",
+   "parcel_id": "546656743445-1",
+   "address": "914 REBECCA LANE",
+   "city": "Orefield",
+   "zip": "18069",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "UPPER MACUNGIE TOWNSHIP",
+   "defendant": "JOSEPH W GALAZIN",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614405",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26008942",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 5214.99,
+   "auction_id": "2212614406",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-1216",
+   "parcel_id": "641679284101-1",
+   "address": "1756 VIRGINIA AVE",
+   "city": "Bethlehem",
+   "zip": "18015",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SALISBURY TOWNSHIP",
+   "defendant": "MATTHEW J ROEDER",
+   "attorney": "Nina S Rosenthal, Esq",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614406",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26008943",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 5765.78,
+   "auction_id": "2212614407",
+   "status": "SCHEDULED",
+   "case_number": "2024-ML-1991",
+   "parcel_id": "641689563341-1",
+   "address": "748 PUBLIC RD",
+   "city": "Bethlehem",
+   "zip": "18015",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SALISBURY TOWNSHIP",
+   "defendant": "TIMOTHY J AUNGST",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614407",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26008944",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 14850.56,
+   "auction_id": "2212614408",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-0060",
+   "parcel_id": "640623171614-1",
+   "address": "1432 MACK BLVD",
+   "city": "Allentown",
+   "zip": "18103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ALLENTOWN SCHOOL DISTRICT",
+   "defendant": "1432 MACK BLVD., LLC",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614408",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26008945",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4822.46,
+   "auction_id": "2212614409",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-2833",
+   "parcel_id": "548507700496-1",
+   "address": "4519 N HEDGEROW DR",
+   "city": "Allentown",
+   "zip": "18103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LOWER MACUNGIE TOWNSHIP",
+   "defendant": "ANDREW W STORCK",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614409",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26008946",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4980.55,
+   "auction_id": "2212614410",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-2914",
+   "parcel_id": "546434036233-1",
+   "address": "1706 BROOKSTONE DR",
+   "city": "Alburtis",
+   "zip": "18011",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LOWER MACUNGIE TOWNSHIP",
+   "defendant": "TU VAN DANG",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614410",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26008947",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 9610.84,
+   "auction_id": "2212614411",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-2416",
+   "parcel_id": "640791480383-1",
+   "address": "440 EAST MOSSER ST",
+   "city": "Allentown",
+   "zip": "18109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CITI GSM PORTFOLIO LLC",
+   "defendant": "FELIPE WONG",
+   "attorney": "FRIEDMAN VARTOLO",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614411",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26008957",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 92428.79,
+   "auction_id": "2212614412",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-0072",
+   "parcel_id": "642701020608 1",
+   "address": "1460 GRAHAM ST",
+   "city": "Fountain Hill",
+   "zip": "18015",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FINANCE OF AMERICA REVERSE LLC",
+   "defendant": "IRENE SKELLY, KNOWN SURVIVING HEIR OF MARY KAY GECSEK; ET AL",
+   "attorney": "McCABE WEISBERG & CONWAY LLC",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614412",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26009006",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 14865.16,
+   "auction_id": "2212614413",
+   "status": "SCHEDULED",
+   "case_number": "2025-ML-2063",
+   "parcel_id": "641727321970-1",
+   "address": "1633-1637 HANOVER AVE",
+   "city": "Allentown",
+   "zip": "18109",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ALLENTOWN SCHOOL DISTRICT",
+   "defendant": "NGPNLP, LLC",
+   "attorney": "PORTNOFF LAW ASSOCIATES",
+   "sale_date": "2027-01-22",
+   "sale_type": "Tax sale",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614413",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26009021",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": "HIGH LOW",
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 0.0,
+   "auction_id": "2212614414",
+   "status": "SCHEDULED",
+   "case_number": "2023-ML-1672",
+   "parcel_id": "547653691418-1",
+   "address": "304 MILKWEED DR",
+   "city": "Allentown",
+   "zip": "18104",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "UPPER MACUNGIE TOWNSHIP",
+   "defendant": "RAJ S CHAUHAN",
+   "attorney": "PORTNOFF LAW ASSOCIATES LTD",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614414",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26009023",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 234003.59,
+   "auction_id": "2212614415",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-1992",
+   "parcel_id": "642739443759-1",
+   "address": "518 W UNION BLVD",
+   "city": "Bethlehem",
+   "zip": "18018",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "US BANK NATIONAL ASSOCIATION",
+   "defendant": "CHRISTINA ANN WATSON",
+   "attorney": "FRIEDMAN VARTOLO",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614415",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26009068",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-22"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 122242.03,
+   "auction_id": "2212614417",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-2014",
+   "parcel_id": "555292925470-1",
+   "address": "537 W FRANKLIN ST",
+   "city": "Slatington",
+   "zip": "18080",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEWREZ LLC",
+   "defendant": "KELLY A WILLIAMS",
+   "attorney": "HILL WALLACK LLP",
+   "sale_date": "2027-01-22",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614417",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26009170",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-23"
+    },
+    {
+     "status": "Continued",
+     "date": "2027-02-19"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 241237.7,
+   "auction_id": "2212614279",
+   "status": "CONTINUED",
+   "case_number": "2026-C-0681",
+   "parcel_id": "641865339920-1",
+   "address": "1947 KENNY DR",
+   "city": "Bethlehem",
+   "zip": "18018",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "UNION HOME MORTGAGE CORPORATION",
+   "defendant": "DOUGLAS FORNEY",
+   "attorney": "MANLEY, DEAS, KOCHALSKI",
+   "sale_date": "2027-02-19",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614279",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26005546",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-02-19"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 136128.53,
+   "auction_id": "2212614416",
+   "status": "SCHEDULED",
+   "case_number": "2026-C-2775",
+   "parcel_id": "640624236996 1",
+   "address": "828 WEST TIOGA ST",
+   "city": "Allentown",
+   "zip": "18103",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "SERVIS ONE, INC. DBA BSI FINANCIAL SERVICES",
+   "defendant": "HECTOR JUNIOR HERNANDEZ HERNANDEZ; KENA E RODRIGUEZ; ET AL",
+   "attorney": "McCALLA RAYMER LEIBERT PIERCE, LLP",
+   "sale_date": "2027-02-19",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614416",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26009112",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  },
+  {
+   "county": "lehigh",
+   "state": "pennsylvania",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-02-20"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 176941.84,
+   "auction_id": "2212614418",
+   "status": "SCHEDULED",
+   "case_number": "2023-C-3131",
+   "parcel_id": "547563201417 1",
+   "address": "1241 EAGLE ST",
+   "city": "Allentown",
+   "zip": "18106",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "CITIMORTGAGE, INC.",
+   "defendant": "TARA A. TAKACH",
+   "attorney": "STERN & EISENBERG",
+   "sale_date": "2027-02-20",
+   "sale_type": "Mortgage foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212614418",
+   "as_of": "2026-10-26T22:59-04:00",
+   "sheriff_number": "26009275",
+   "book_writ": null,
+   "ward": null,
+   "parcel_kind": "Parcel #",
+   "municipality": null,
+   "description": null,
+   "all_costs": null
+  }
+ ]
+}

@@ -74,6 +74,53 @@ def stark(items, cache):
                 ("Auditor appraised land", r["APPRAISED_LAND_VALUE"], "usd"), ("Auditor appraised building", r["APPRAISED_BUILDING_VALUE"], "usd"),
                 ("Auditor appraised total", r["APPRAISED_TOTAL_VALUE"], "usd"), ("Tax billed on county record (may include past-due amounts)", r["TOTAL_BILLED"], "usd")] if x[1] not in (None, 0, "")], "note": None}
     return hit
+PHL = "https://phl.carto.com/api/v2/sql"
+PHL_PAGE = "https://opendataphilly.org/datasets/philadelphia-properties-and-assessment-history/"
+MONT = "https://mapservices.pasda.psu.edu/server/rest/services/pasda/MontgomeryCounty/MapServer/14"
+MONT_PAGE = "https://www.pasda.psu.edu/ (Montgomery County, PA parcels, Dec 2025 release from the county)"
+def philadelphia(items, cache):
+    """City of Philadelphia Office of Property Assessment (OPA) data via the City's open-data Carto API, matched on the OPA # the Sheriff publishes."""
+    ids = sorted({re.sub(r"\D", "", i.get("parcel_id") or "") for i in items} - {""}); rows = {}
+    for n in range(0, len(ids), 100):
+        q = ("SELECT parcel_number,location,market_value,taxable_land,taxable_building,exempt_land,exempt_building,assessment_date,year_built,total_livable_area,"
+             "number_of_bedrooms,number_of_bathrooms,category_code_description,building_code_description FROM opa_properties_public WHERE parcel_number IN (" + ",".join(f"'{x}'" for x in ids[n:n + 100]) + ")")
+        for r in get(PHL, {"q": q}).get("rows", []): rows.setdefault(r["parcel_number"], []).append(r)
+    hit = 0
+    for i in items:
+        c = rows.get(re.sub(r"\D", "", i.get("parcel_id") or ""), [])
+        if len(c) != 1: continue
+        r = c[0]; hit += 1
+        cache[key(i)] = {"source": "City of Philadelphia Office of Property Assessment (OPA), via the City's open-data API", "source_url": PHL_PAGE, "retrieved": NOW,
+            "data_date": (r["assessment_date"] or "")[:10] or None, "photo": None, "photo_note": None, "parcel": f'OPA # {r["parcel_number"]} ({r["location"]})',
+            "facts": [x for x in [("Use", (r["category_code_description"] or "").strip().title() or None), ("Building type (OPA code)", (r["building_code_description"] or "").strip().title() or None),
+                ("Living area", f'{r["total_livable_area"]:,.0f} sq ft' if r["total_livable_area"] else None), ("Year built", num(r["year_built"]) if r["year_built"] not in ("0", "0000") else None),
+                ("Bedrooms", num(r["number_of_bedrooms"])), ("Bathrooms", num(r["number_of_bathrooms"])),
+                ("OPA taxable land", r["taxable_land"], "usd"), ("OPA taxable building", r["taxable_building"], "usd"), ("OPA market value", r["market_value"], "usd")] if x[1] not in (None, 0, "")],
+            "note": "Philadelphia OPA market values are the City's mass-appraisal estimates, not a sale price or inspection."}
+    return hit
+def montgomery_pa(items, cache):
+    """Montgomery County, PA Board of Assessment Appeals data, as published to PASDA (Pennsylvania Spatial Data Access, the Commonwealth's open GIS clearinghouse)."""
+    hit = 0
+    for i in items:
+        pins = [re.sub(r"\D", "", p) for p in re.split(r"&|,| and ", i.get("parcel_id") or "")]; pins = [p for p in pins if len(p) == 12]
+        if len(pins) != 1: continue  # several parcels sold together: we do not add them up
+        f = get(MONT + "/query", {"where": f"PARCEL='{pins[0]}'", "outFields": "PARCEL,LOCATION1,ASSESSMENT,ASMT_CHGDA,YEAR_BUILT,SFLA,LAND_ACRES,EST_CO_TAX,EST_MUNI_T,EST_SCH_TA,Muni_Name", "returnGeometry": "false", "f": "json"}).get("features", [])
+        if len(f) != 1: continue
+        r = f[0]["attributes"]; hit += 1
+        tax = sum(r[k] or 0 for k in ("EST_CO_TAX", "EST_MUNI_T", "EST_SCH_TA")) or None
+        cache[key(i)] = {"source": "Montgomery County, PA assessment records (Dec 2025 parcel release on PASDA, the Commonwealth's open GIS clearinghouse)", "source_url": MONT, "retrieved": NOW,
+            "data_date": "2025-12", "photo": None, "photo_note": None, "parcel": f'{r["PARCEL"]} ({(r["LOCATION1"] or "").strip()})',
+            "facts": [x for x in [("Living area", f'{r["SFLA"]:,} sq ft' if r["SFLA"] else None), ("Year built", num(r["YEAR_BUILT"])), ("Lot size", f'{r["LAND_ACRES"]:.2f} acres' if r["LAND_ACRES"] else None),
+                ("Assessment last changed", (r["ASMT_CHGDA"] or "").strip() or None), ("County assessed value", r["ASSESSMENT"], "usd"), ("Estimated yearly property tax (county + town + school)", tax, "usd")] if x[1] not in (None, 0, "")],
+            "note": "Montgomery County assesses at 1996 base-year values, so assessed values are usually well below today's market value."}
+    return hit
+if __name__ == "__main__" and os.environ.get("ENRICH_ONLY") == "pa":
+    P = os.path.join(OUT, "enrich.json"); cache = json.load(open(P)) if os.path.exists(P) else {}; rep = []
+    for name, fn in (("philadelphia", philadelphia), ("montgomery", montgomery_pa)):
+        fp = os.path.join(ROOT, f"data/pennsylvania/{name}.json")
+        if not os.path.exists(fp): continue
+        its = json.load(open(fp))["items"]; rep.append(("PA", name, len(its), fn(its, cache))); print(rep[-1], flush=True)
+    json.dump(cache, open(P, "w"), indent=1); json.dump(rep, open(os.path.join(OUT, "report_pa.json"), "w")); raise SystemExit
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True); cache = {}; report = []
     for f in sorted(glob.glob(os.path.join(ROOT, "data/new-jersey/*.json"))):
@@ -82,5 +129,11 @@ if __name__ == "__main__":
         print(report[-1], flush=True)
     for name, fn in (("lorain", lorain), ("stark", stark)):
         its = json.load(open(os.path.join(ROOT, f"data/ohio/{name}.json")))["items"]; report.append(("OH", name, len(its), fn(its, cache))); print(report[-1], flush=True)
+    for name, fn in (("philadelphia", philadelphia), ("montgomery", montgomery_pa)):
+        fp = os.path.join(ROOT, f"data/pennsylvania/{name}.json")
+        if os.path.exists(fp):
+            try: its = json.load(open(fp))["items"]; report.append(("PA", name, len(its), fn(its, cache)))
+            except Exception as e: report.append(("PA", name, 0, f"error {e}"))
+            print(report[-1], flush=True)
     json.dump(cache, open(os.path.join(OUT, "enrich.json"), "w"), indent=1); json.dump(report, open(os.path.join(OUT, "report.json"), "w"))
     print(len(cache), "enriched")

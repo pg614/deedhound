@@ -6,3 +6,5 @@ tmp/
 *.bak
 .env
 site_items.json
+pa.log
+logs/

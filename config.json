@@ -5,13 +5,17 @@
   "_note": "Google Street View Static API slot. Set enabled=true and add a key (needs owner approval: Google Cloud account + card) to show Street View where no official photo exists."
  },
  "deal_check": {
-  "_note": "Deal Check grade thresholds. ratio = price / official value. Ohio price = published minimum/opening bid, value = county auditor market value if matched, else sheriff appraisal. NJ price = published approx. judgment/upset amount (what the lender is owed; the lender usually bids up to this), value = MOD-IV net assessed value (town assessment ratios vary). Not financial advice.",
+  "_note": "Deal Check grade thresholds. ratio = price / official value. Ohio price = published minimum/opening bid, value = county auditor market value if matched, else sheriff appraisal. NJ price = published approx. judgment/upset amount (what the lender is owed; the lender usually bids up to this), value = MOD-IV net assessed value (town assessment ratios vary). PA price = published minimum bid (Philadelphia tax sales) else the debt amount the Sheriff publishes; value = Philadelphia OPA market value or Montgomery County assessed value (1996 base year). Same thresholds as NJ. Not financial advice.",
   "strong_max_ratio": 0.5,
   "fair_max_ratio": 0.75,
   "nj_strong_max_ratio": 0.5,
   "nj_fair_max_ratio": 0.8,
+  "pa_strong_max_ratio": 0.5,
+  "pa_fair_max_ratio": 0.8,
   "postponements_downgrade_at": 3,
   "min_value_usd": 10000,
-  "min_ratio_plausible": 0.05
+  "min_ratio_plausible": 0.05,
+  "ky_strong_max_ratio": 0.5,
+  "ky_fair_max_ratio": 0.75
  }
 }
