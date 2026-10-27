@@ -11,7 +11,7 @@ def fact(e,name):
 COLORS={"Strong":"#1b7f3b","Fair":"#b7791f","Pass":"#b42318","Not enough data":"#5b6475"}
 def grade(st,i,e):
     """returns (grade, why[list of str], summary sentence parts dict)"""
-    why=[]; src=f'official {i["county"].replace("-"," ").title()} County sheriff list, as of {d(i["as_of"])}'
+    why=[]; src=f'official {i["county"].replace("-"," ").title()} County {"Master Commissioner" if st=="kentucky" else "sheriff"} list, as of {d(i["as_of"])}'
     esrc=f'{e["source"]}, retrieved {d(e["retrieved"])}' if e else None
     if st=="ohio":
         price=i.get("opening_bid"); pl="minimum bid"
@@ -19,6 +19,11 @@ def grade(st,i,e):
         if mv: val,vl,vs=mv,"county auditor market value",esrc
         else: val,vl,vs=i.get("appraised_value"),"sheriff's court-ordered appraisal",src
         sm,fm=DC["strong_max_ratio"],DC["fair_max_ratio"]
+    elif st=="kentucky":
+        price=i.get("upset_amount"); pl="judgment amount the sale must raise (owed to the plaintiff)"
+        val,vl,vs=i.get("appraised_value"),"Master Commissioner's court-ordered appraisal",src
+        sm,fm=DC.get("ky_strong_max_ratio",0.5),DC.get("ky_fair_max_ratio",0.75)
+        if not val and i.get("appraisal_url"): why.append(f"The official appraisal is a handwritten scan ({i['appraisal_url']}); we link it but do not machine-read it, to avoid errors.")
     else:
         price=i.get("upset_amount"); pl="approx. judgment/upset amount owed to the lender"
         val,vl,vs=fact(e,"Net assessed value"),"town's net assessed value (MOD-IV tax list)",esrc
@@ -37,6 +42,7 @@ def grade(st,i,e):
     g="Strong" if r<=sm else "Fair" if r<=fm else "Pass"
     why.append(f"{usd(price)} ÷ {usd(val)} = {r:.0%}. Our rule: {sm:.0%} or less = Strong, up to {fm:.0%} = Fair, above = Pass.")
     if st=="ohio" and vl.startswith("sheriff"): why.append("Ohio law (ORC 2329.20) usually sets the first-sale minimum at 2/3 (67%) of the appraisal, so most first sales grade Fair.")
+    if st=="kentucky": why.append("Kentucky has no fixed minimum bid, but if the sale brings under 2/3 of the appraisal the owner can redeem within 6 months (KRS 426.530). The plaintiff can bid up to what it is owed, so the final price may differ.")
     if st=="new-jersey": why.append("NJ assessed values are not market values; each town's assessment ratio differs, so treat this as a rough guide. The lender can bid up to what it is owed, so the final price may differ.")
     tax=fact(e,"Last year's property tax") or fact(e,"Annual property tax (after credits)")
     due=(fact(e,"Past-due taxes on county record") or 0)+(fact(e,"Past-due special assessments on county record") or 0)
@@ -73,6 +79,10 @@ def bid_html(st,i,cn,bid,fdate,inf):
     if st=="ohio":
         dep=ohio_deposit(i); steps=[f'Register free on the official {cn} County sale site ahead of time.','Have your deposit in place before the deadline (wire or ACH; see county rules).','Bid online on the sale day. If you win, the balance is usually due within about 30 days after the court confirms the sale.']
         link=f'<a href="{E(bid)}" rel="nofollow">{E(bid)}</a>'
+    elif st=="kentucky":
+        dep="10% of your bid at the sale, plus a bond for the balance (KRS 426.705), or full cash payment. Balance due within 30 days with interest. Check the official notice for this case."
+        steps=["Re-check the official Master Commissioner list the day before; sales are often cancelled or withdrawn.","Go in person at the time and place on the official notice; bring certified funds for the 10% deposit and be ready to post a bond (bond forms are on the commissioner's website).","Plain-words rule (KRS 426.530): if the sale price is under 2/3 of the appraisal, the former owner can buy the home back within 6 months by repaying your price plus 10% a year interest and some costs. Bidding at least 2/3 of the appraisal avoids that."]
+        link=f'<a href="{E(i["source_url"])}" rel="nofollow">Official {cn} County Master Commissioner listing</a>'+(f' · <a href="{E(i["handbill_url"])}" rel="nofollow">official sale notice</a>' if i.get("handbill_url") else "")+(f' · <a href="{E(i["appraisal_url"])}" rel="nofollow">official appraisal</a>' if i.get("appraisal_url") else "")+' · <a href="https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=45200" rel="nofollow">KRS 426.530</a>'
     else:
         dep="20% of your winning bid, paid right when the sale ends, in cash or certified/cashier's check to the County Sheriff (N.J.S.A. 2A:50-64)."
         steps=["Check the official listing the day before, since NJ sales are often postponed.","Go to the sheriff sale in person at the time and place on the official notice; bring certified funds for the 20% deposit.","Balance is due later (usually within about 30 days); the owner can still redeem during the 10 days after the sale."]

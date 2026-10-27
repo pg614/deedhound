@@ -12,6 +12,8 @@
   "nj_fair_max_ratio": 0.8,
   "postponements_downgrade_at": 3,
   "min_value_usd": 10000,
-  "min_ratio_plausible": 0.05
+  "min_ratio_plausible": 0.05,
+  "ky_strong_max_ratio": 0.5,
+  "ky_fair_max_ratio": 0.75
  }
 }

@@ -9,7 +9,7 @@ BASE = os.environ.get("SITE_URL", BRAND["site_url"]).rstrip("/")
 ENR_P = os.path.join(ROOT, "data", "enrich", "enrich.json"); ENR = json.load(open(ENR_P)) if os.path.exists(ENR_P) else {}
 CFG = json.load(open(os.path.join(ROOT, "config.json"))) if os.path.exists(os.path.join(ROOT, "config.json")) else {}
 SV = CFG.get("streetview", {})  # Google Street View Static slot: off until enabled + api_key set
-STATES = {"ohio": ("Ohio", "OH"), "new-jersey": ("New Jersey", "NJ")}
+STATES = {"ohio": ("Ohio", "OH"), "new-jersey": ("New Jersey", "NJ"), "kentucky": ("Kentucky", "KY")}
 def E(s): return html.escape(str(s)) if s is not None else ""
 def slug(s): return re.sub(r"[^a-z0-9]+", "-", (s or "").lower()).strip("-")
 def usd(v): return "—" if v is None else f"${v:,.0f}"
@@ -30,7 +30,8 @@ footer{font-size:16px;color:#5b6475}.scroll{overflow-x:auto}h1,h2,h3{color:NAVY}
 figure.ph{border-style:solid}.ph img{width:100%;height:100%;object-fit:cover}.ph figcaption{font-size:14px;font-weight:400;padding:4px}
 .sbar{background:NAVY;color:#fff;font-size:18px}.sbar .w{display:flex;align-items:center;justify-content:center;gap:16px;flex-wrap:wrap;padding-top:8px;padding-bottom:8px;text-align:center}
 .sbtn{display:inline-block;background:GOLD;color:NAVY!important;font-weight:700;text-decoration:none;padding:8px 18px;border-radius:6px;white-space:nowrap}.sbtn:hover{filter:brightness(1.08)}
-@media(max-width:600px){.sbar{font-size:16px}.sbar .w{gap:8px}}""").replace("NAVY", BRAND["navy"]).replace("GOLD", BRAND["gold"])
+@media(max-width:600px){.sbar{font-size:16px}.sbar .w{gap:8px}}
+@media(max-width:600px){header .w{flex-wrap:wrap;gap:6px}header nav{width:100%;display:flex;justify-content:center;gap:22px}header nav a{margin-left:0}}""").replace("NAVY", BRAND["navy"]).replace("GOLD", BRAND["gold"])
 DISC = ('<p class="warn"><b>Verify before you bid.</b> This is an unofficial summary of public sheriff-sale listings. Sales are often cancelled or '
         'postponed. Always confirm details with the official legal notice and the county sheriff\'s official sale site linked on each page. Not legal or financial advice.</p>')
 SUB = "https://deedhound.beehiiv.com/subscribe"
@@ -51,6 +52,7 @@ def page(path, title, desc, body, ld=None, crumbs=None):
 {BAR}<header><div class="w"><a class="logo" href="/">{('<img src="'+BRAND["logo"]+'" alt="'+E(BRAND["name"])+'" height="68">') if BRAND["logo"] else E(BRAND["name"])}<small>{E(BRAND["tagline"])}</small></a><nav>{" ".join(f'<a href="/{k}/">{v[0]}</a>' for k,v in STATES.items())}</nav></div></header>
 <main class="w"><div class="muted">{nav}</div>{body}</main>
 <footer class="w">Data compiled from lists published by county sheriffs' offices. Bidding happens on each county's official sale site. {DISC}</footer></body></html>"""
+    if path.startswith("kentucky/"): doc = doc.replace("County Sheriff list", "County Master Commissioner list").replace("as published by the Sheriff", "as published by the Master Commissioner").replace(' County Sheriff"', ' County Master Commissioner"').replace("Kentucky sheriff sales", "Kentucky master commissioner sales").replace("Kentucky Sheriff Sales", "Kentucky Master Commissioner Sales").replace("County sheriff sales work", "County master commissioner sales work").replace("Kentucky sheriff sale ·", "Kentucky master commissioner sale ·")
     fp = os.path.join(OUT, path); os.makedirs(os.path.dirname(fp), exist_ok=True); open(fp, "w").write(_bp(doc))
 def table(items, show_county=False):
     r = "".join(f'<tr><td>{fdate(i["sale_date"])}</td><td><a href="{i["url"]}">{E(i["address"] or "")}</a></td><td>{E(i["city"])}</td>'
@@ -61,7 +63,8 @@ def table(items, show_county=False):
 REGION = {"ohio": {"montgomery":"Southwest","wood":"Northwest","allen":"Northwest","stark":"Northeast","lorain":"Northeast","medina":"Northeast","richland":"North Central",
    "portage":"Northeast","trumbull":"Northeast","mahoning":"Northeast","summit":"Northeast","clermont":"Southwest","clark":"Southwest"},
   "new-jersey": {"bergen":"North","essex":"North","hudson":"North","passaic":"North","morris":"North","union":"North","hunterdon":"Central","middlesex":"Central","monmouth":"Central","ocean":"Central",
-   "burlington":"South","camden":"South","gloucester":"South","salem":"South","cumberland":"South","atlantic":"South","cape-may":"South"}}
+   "burlington":"South","camden":"South","gloucester":"South","salem":"South","cumberland":"South","atlantic":"South","cape-may":"South"},
+  "kentucky": {"jefferson":"Louisville area","fayette":"Lexington area"}}
 DEAD = re.compile(r"CANCEL|SOLD|WITHDRAW|BANKRUPT|SATISF|VACAT|STAY|CLOSED|REDEEM|RELEASED", re.I)
 def picks(st, items):
     out = []
@@ -109,6 +112,10 @@ LAW = {"ohio": [
   ("What is the minimum bid at an Ohio sheriff sale?", "For most foreclosure sales the property cannot sell for less than two-thirds of its court-ordered appraised value (Ohio Revised Code 2329.20). If it does not sell, it is typically offered again at a second sale with no minimum, as published for each property.", "https://codes.ohio.gov/ohio-revised-code/section-2329.20"),
   ("How much deposit do I need?", "For residential property, Ohio law sets the deposit by appraised value: $2,000 if appraised at $10,000 or less, $5,000 if over $10,000 up to $200,000, and $10,000 if over $200,000 (Ohio Revised Code 2329.211). The plaintiff/judgment creditor is not required to make a deposit.", "https://codes.ohio.gov/ohio-revised-code/section-2329.211"),
   ("Can the owner still stop the sale?", "An Ohio owner can redeem the property by paying the judgment, interest and costs any time before the court confirms the sale (Ohio Revised Code 2329.33). Sales are also often cancelled or postponed, so always re-check the official list.", "https://codes.ohio.gov/ohio-revised-code/section-2329.33")],
+ "kentucky": [
+  ("Is there a minimum bid at a Kentucky master commissioner sale?", "Kentucky law does not set a fixed minimum bid. But if a court-ordered sale brings less than two-thirds (2/3) of the court appraisal, the former owner can buy the property back (redeem it) within six months of the sale by repaying the price plus 10% a year interest and certain costs (KRS 426.530). Buyers who want to avoid that risk bid at least 2/3 of the appraisal.", "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=45200"),
+  ("How do I pay if I win?", "The Jefferson and Fayette commissioners' published terms: pay cash, or pay a 10% deposit at the sale and post a bond for the balance, which is due within 30 days with interest (KRS 426.705 bond). Check each sale's official notice.", "https://faycom.info/upcoming/"),
+  ("Who runs the sale?", "In Kentucky, foreclosure sales ordered by the circuit court are held by the court's Master Commissioner, not the sheriff. Jefferson County sales are held at the Hall of Justice in Louisville; Fayette County sales at 120 North Limestone in Lexington unless held online.", "https://www.jeffcomm.org/")],
  "new-jersey": [
   ("Can a New Jersey sheriff sale be postponed?", "Yes. Under N.J.S.A. 2A:17-36 (as amended by P.L.2019, c.71) the sheriff may make up to five adjournments: two at the lender's request, two at the debtor's request, and one if both agree, each up to 30 calendar days. A court may order more for cause. That is why many listings show several postponements.", "https://pub.njleg.state.nj.us/Bills/2018/PL19/71_.PDF"),
   ("How much deposit does the winning bidder pay?", "State law (N.J.S.A. 2A:50-64, P.L.2019, c.71) requires the successful bidder to pay a 20 percent deposit, in cash or by certified or cashier's check payable to the county sheriff, immediately when the sale ends.", "https://pub.njleg.state.nj.us/Bills/2018/PL19/71_.PDF"),
@@ -196,7 +203,7 @@ def build_state(st, urls):
     for cn, cs, d, items in counties:
         cities = {}
         for i in items: cities.setdefault(i["city"] or "Unknown city", []).append(i)
-        bid = f"https://{d['county'].replace('-','')}.sheriffsaleauction.ohio.gov" if st == "ohio" else "https://salesweb.civilview.com/"
+        bid = f"https://{d['county'].replace('-','')}.sheriffsaleauction.ohio.gov" if st == "ohio" else d["source"] if st == "kentucky" else "https://salesweb.civilview.com/"
         for i in items:
             full = f'{i["address"]}, {i["city"]}, {ab} {i["zip"] or ""}'.strip()
             ld = {"@context": "https://schema.org", "@type": "Event", "name": f"Sheriff sale: {full}", "startDate": i["sale_date"],
@@ -250,13 +257,14 @@ def top_deals(st, n):
     return f'<h2>Top Strong deals in {sn} right now</h2><p class="muted">Upcoming sales only, lowest price-to-value first.</p><ul style="padding:0">{li}</ul><p><a href="/{st}/">See all {sn} sales →</a></p>'
 def home_hero():
     return ('<div class="card" style="border-left:6px solid #1b7f3b;font-size:21px"><h1 style="margin-top:0">Deal Check: a quick Strong / Fair / Pass grade on every sheriff sale</h1>'
-            '<p>We compare the published opening bid (Ohio) or amount owed to the lender (New Jersey) with the official county or town value, and show you the math. '
+            '<p>We compare the published opening bid (Ohio) or amount owed to the lender (New Jersey, Kentucky) with the official county or town value, and show you the math. '
             'It is a simple first look at public numbers, not an appraisal and not financial advice, so always inspect and verify with the county.</p>'
-            '<p><a href="/deal-check/"><b>How Deal Check works →</b></a> &nbsp;·&nbsp; <a href="/financing/"><b>How to pay for a sheriff sale →</b></a></p></div>' + top_deals("ohio", 6) + top_deals("new-jersey", 6))
+            '<p><a href="/deal-check/"><b>How Deal Check works →</b></a> &nbsp;·&nbsp; <a href="/financing/"><b>How to pay for a sheriff sale →</b></a></p></div>' + top_deals("ohio", 6) + top_deals("new-jersey", 6) + top_deals("kentucky", 6))
 def how_page(urls):
     c = DCK.DC
     body = (f'<h1>How Deal Check works</h1><div class="card" style="font-size:20px"><p>Deal Check divides a price by an official value:</p><ul>'
       f'<li><b>Ohio:</b> the published minimum/opening bid ÷ the county auditor market value (or, if we have not matched the auditor record, the sheriff\'s court-ordered appraisal). Ohio law (ORC 2329.20) usually sets the first-sale minimum at two-thirds of the appraisal, so many first sales grade Fair.</li>'
+      f'<li><b>Kentucky:</b> no opening bid is published, so we use the judgment amount the sale must raise (from the Master Commissioner\'s notice) ÷ the commissioner\'s court-ordered appraisal. If a sale brings under 2/3 of the appraisal, the owner can redeem within 6 months (KRS 426.530). Strong: {c.get("ky_strong_max_ratio",0.5):.0%} or less; Fair: up to {c.get("ky_fair_max_ratio",0.75):.0%}.</li>'
       f'<li><b>New Jersey:</b> no opening bid is published, so we use the approximate amount owed to the lender (judgment/upset) ÷ the town\'s net assessed value from the state MOD-IV tax list. Towns assess at different ratios, so treat it as a rough guide.</li></ul>'
       f'<p><b>Strong</b>: {c["strong_max_ratio"]:.0%} or less (Ohio) / {c["nj_strong_max_ratio"]:.0%} or less (NJ). <b>Fair</b>: up to {c["fair_max_ratio"]:.0%} (Ohio) / {c["nj_fair_max_ratio"]:.0%} (NJ). <b>Pass</b>: above that.</p>'
       f'<p>A grade drops one step after {c["postponements_downgrade_at"]} or more postponements. <b>Not enough data</b> means a number is missing, the official value is under {usd(c["min_value_usd"])}, or the published price is under {c["min_ratio_plausible"]:.0%} of value (usually a placeholder).</p>'
@@ -264,11 +272,11 @@ def how_page(urls):
       '<p class="warn"><b>Not financial advice.</b> Deal Check does not know the condition, occupancy, liens, title problems or back taxes. Inspect, run a title and lien search, and verify with the county before you bid.</p>')
     page("deal-check/index.html", f"How Deal Check Works | {BRAND['name']}", "How DeedHound grades sheriff sales Strong, Fair or Pass from published bids and official values.", body, None, [("Home", "/"), ("How Deal Check works", "/deal-check/")]); urls.append("/deal-check/")
 def newsletter_page(urls):
-    body = ('<h1>Get the weekly sheriff sale email</h1><p style="font-size:21px">One plain, easy-to-read email each week with the best new sheriff sale and foreclosure auction picks in Ohio and New Jersey, each with a simple Deal Check grade. Free. Unsubscribe anytime.</p>'
+    body = ('<h1>Get the weekly sheriff sale email</h1><p style="font-size:21px">One plain, easy-to-read email each week with the best new sheriff sale and foreclosure auction picks in Ohio, New Jersey and Kentucky, each with a simple Deal Check grade. Free. Unsubscribe anytime.</p>'
             '<div class="card"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="8cc00e28-eb77-4416-834b-c8a35f27f00f"></script>'
             f'<p class="muted">Form not showing? <a class="sbtn" href="{SUB}">Sign up on our Beehiiv page →</a></p></div>'
             '<p class="muted">We never sell your email. Emails are sent through Beehiiv.</p>')
-    page("newsletter/index.html", "Free weekly sheriff sale email – DeedHound", "Sign up for a free weekly email of the best sheriff sale picks in Ohio and New Jersey.", body, None, [("Home", "/"), ("Email signup", "/newsletter/")])
+    page("newsletter/index.html", "Free weekly sheriff sale email – DeedHound", "Sign up for a free weekly email of the best sheriff sale picks in Ohio, New Jersey and Kentucky.", body, None, [("Home", "/"), ("Email signup", "/newsletter/")])
     urls.append("/newsletter/")
 def main():
     shutil.rmtree(OUT, ignore_errors=True); os.makedirs(OUT); open(os.path.join(OUT, "style.css"), "w").write(CSS); open(os.path.join(OUT, ".nojekyll"), "w").close(); shutil.copytree(os.path.join(ROOT, "assets"), os.path.join(OUT, "assets"))
