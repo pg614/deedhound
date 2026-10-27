@@ -27,11 +27,17 @@ form.nl{display:flex;gap:8px;flex-wrap:wrap}form.nl input{flex:1;min-width:220px
 footer{font-size:16px;color:#5b6475}.scroll{overflow-x:auto}h1,h2,h3{color:NAVY}.grid a{border-left:5px solid GOLD}
 .pd{display:grid;grid-template-columns:minmax(260px,380px) 1fr;gap:18px;align-items:start}@media(max-width:760px){.pd{grid-template-columns:1fr}.kv{grid-template-columns:1fr 1fr}}
 .ph{margin:0;width:100%;aspect-ratio:4/3;background:#eef1f5;border:2px dashed #c6ccd6;border-radius:10px;display:flex;align-items:center;justify-content:center;text-align:center;color:#5b6475;font-weight:600;overflow:hidden;flex-direction:column}
-figure.ph{border-style:solid}.ph img{width:100%;height:100%;object-fit:cover}.ph figcaption{font-size:14px;font-weight:400;padding:4px}""").replace("NAVY", BRAND["navy"]).replace("GOLD", BRAND["gold"])
+figure.ph{border-style:solid}.ph img{width:100%;height:100%;object-fit:cover}.ph figcaption{font-size:14px;font-weight:400;padding:4px}
+.sbar{background:NAVY;color:#fff;font-size:18px}.sbar .w{display:flex;align-items:center;justify-content:center;gap:16px;flex-wrap:wrap;padding-top:8px;padding-bottom:8px;text-align:center}
+.sbtn{display:inline-block;background:GOLD;color:NAVY!important;font-weight:700;text-decoration:none;padding:8px 18px;border-radius:6px;white-space:nowrap}.sbtn:hover{filter:brightness(1.08)}
+@media(max-width:600px){.sbar{font-size:16px}.sbar .w{gap:8px}}""").replace("NAVY", BRAND["navy"]).replace("GOLD", BRAND["gold"])
 DISC = ('<p class="warn"><b>Verify before you bid.</b> This is an unofficial summary of public sheriff-sale listings. Sales are often cancelled or '
         'postponed. Always confirm details with the official legal notice and the county sheriff\'s official sale site linked on each page. Not legal or financial advice.</p>')
-NL = ('<div class="card"><h2 style="margin-top:0">Get the weekly sheriff sale email</h2><p class="muted">One plain, easy-to-read email each week with new sales and a few picks near you. Free. (Signup coming soon — not yet connected.)</p>'
-      '<form class="nl" onsubmit="alert(\'Newsletter signup is not live yet.\');return false"><input type="email" placeholder="you@example.com" aria-label="Email"><button>Subscribe</button></form></div>')
+SUB = "https://deedhound.beehiiv.com/subscribe"
+NL = ('<div class="card"><h2 style="margin-top:0">Get the weekly sheriff sale email</h2><p class="muted">One plain, easy-to-read email each week with the best new sheriff sale picks. Free. Unsubscribe anytime.</p>'
+      '<p><a class="sbtn" href="/newsletter/">Sign up free →</a></p></div>')
+BAR = ('<div class="sbar"><div class="w"><span>📬 Get the week\'s best sheriff sale picks by email. <b>Free.</b></span>'
+       '<a class="sbtn" href="/newsletter/">Sign up free</a></div></div>')
 def page(path, title, desc, body, ld=None, crumbs=None):
     canon = BASE + "/" + path.replace("index.html", "")
     lds = (ld if isinstance(ld, list) else [ld]) if ld else []
@@ -42,7 +48,7 @@ def page(path, title, desc, body, ld=None, crumbs=None):
 <title>{E(title)}</title><meta name="description" content="{E(desc)}"><link rel="canonical" href="{canon}"><link rel="stylesheet" href="/style.css"><link rel="icon" href="{BRAND.get("favicon","")}"><link rel="apple-touch-icon" href="{BRAND.get("apple_icon","")}"><meta name="theme-color" content="{BRAND["navy"]}">
 <meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}">
 {''.join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in lds)}</head><body>
-<header><div class="w"><a class="logo" href="/">{('<img src="'+BRAND["logo"]+'" alt="'+E(BRAND["name"])+'" height="68">') if BRAND["logo"] else E(BRAND["name"])}<small>{E(BRAND["tagline"])}</small></a><nav>{" ".join(f'<a href="/{k}/">{v[0]}</a>' for k,v in STATES.items())}</nav></div></header>
+{BAR}<header><div class="w"><a class="logo" href="/">{('<img src="'+BRAND["logo"]+'" alt="'+E(BRAND["name"])+'" height="68">') if BRAND["logo"] else E(BRAND["name"])}<small>{E(BRAND["tagline"])}</small></a><nav>{" ".join(f'<a href="/{k}/">{v[0]}</a>' for k,v in STATES.items())}</nav></div></header>
 <main class="w"><div class="muted">{nav}</div>{body}</main>
 <footer class="w">Data compiled from lists published by county sheriffs' offices. Bidding happens on each county's official sale site. {DISC}</footer></body></html>"""
     fp = os.path.join(OUT, path); os.makedirs(os.path.dirname(fp), exist_ok=True); open(fp, "w").write(_bp(doc))
@@ -257,9 +263,16 @@ def how_page(urls):
       '<p>Every listing shows its numbers, sources and "as of" dates in a "Why" list.</p><p><a href="/financing/"><b>How to pay for a sheriff sale →</b></a></p></div>'
       '<p class="warn"><b>Not financial advice.</b> Deal Check does not know the condition, occupancy, liens, title problems or back taxes. Inspect, run a title and lien search, and verify with the county before you bid.</p>')
     page("deal-check/index.html", f"How Deal Check Works | {BRAND['name']}", "How DeedHound grades sheriff sales Strong, Fair or Pass from published bids and official values.", body, None, [("Home", "/"), ("How Deal Check works", "/deal-check/")]); urls.append("/deal-check/")
+def newsletter_page(urls):
+    body = ('<h1>Get the weekly sheriff sale email</h1><p style="font-size:21px">One plain, easy-to-read email each week with the best new sheriff sale and foreclosure auction picks in Ohio and New Jersey, each with a simple Deal Check grade. Free. Unsubscribe anytime.</p>'
+            '<div class="card"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="8cc00e28-eb77-4416-834b-c8a35f27f00f"></script>'
+            f'<p class="muted">Form not showing? <a class="sbtn" href="{SUB}">Sign up on our Beehiiv page →</a></p></div>'
+            '<p class="muted">We never sell your email. Emails are sent through Beehiiv.</p>')
+    page("newsletter/index.html", "Free weekly sheriff sale email – DeedHound", "Sign up for a free weekly email of the best sheriff sale picks in Ohio and New Jersey.", body, None, [("Home", "/"), ("Email signup", "/newsletter/")])
+    urls.append("/newsletter/")
 def main():
     shutil.rmtree(OUT, ignore_errors=True); os.makedirs(OUT); open(os.path.join(OUT, "style.css"), "w").write(CSS); open(os.path.join(OUT, ".nojekyll"), "w").close(); shutil.copytree(os.path.join(ROOT, "assets"), os.path.join(OUT, "assets"))
-    urls = ["/"]; stats = [x for x in (build_state(st, urls) for st in STATES) if x]; how_page(urls); import financing; financing.build(page, urls, BRAND)
+    urls = ["/"]; stats = [x for x in (build_state(st, urls) for st in STATES) if x]; how_page(urls); import financing; financing.build(page, urls, BRAND); newsletter_page(urls)
     grid = "".join(f'<a href="/{st}/"><b>{n}</b>{sn}<br><span class="muted">{c} counties · as of {o}</span></a>' for st, sn, n, c, o in stats)
     body = (home_hero() + f'<h2>{E(BRAND["tagline"])}</h2><p>Free, plain-English lists of upcoming sheriff sales, compiled from lists published by county sheriffs. Pick your state:</p>'
             f'<div class="grid">{grid}</div>{NL}{DISC}')
