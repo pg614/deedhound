@@ -38,6 +38,7 @@ html[data-theme=dark] .logo img{background:#fff;border-radius:10px;padding:4px 8
 html[data-theme=dark] th{background:#08203f}
 .thm{display:inline-flex;align-items:center;gap:8px;font:inherit;font-size:18px;font-weight:700;padding:10px 16px;min-height:48px;border-radius:24px;border:2px solid var(--head);background:transparent;color:var(--head);cursor:pointer}
 .thm:focus-visible{outline:3px solid GOLD;outline-offset:2px}.thm .ic{font-size:22px;line-height:1}
+.hero{padding:8px 0 4px}.hero h1{font-size:36px;line-height:1.2;margin:4px 0 10px}.hero .sub{font-size:21px;margin:0 0 14px}.sbtn.big{font-size:21px;padding:14px 24px;min-height:52px}.dcline{font-size:18px;border-left:6px solid #1b7f3b;background:var(--card);padding:8px 14px;border-radius:6px;margin:8px 0}.callnote{margin:8px 0 16px}@media(max-width:600px){.hero h1{font-size:30px}.sbtn.big{white-space:normal;text-align:center}}
 .dcstrip{border-left:6px solid #1b7f3b;padding:10px 16px}.dcstrip h1{font-size:22px;margin:0 0 4px;line-height:1.3}.dcstrip p{margin:0;font-size:18px}
 .bbadge{display:inline-block;padding:2px 10px;border-radius:12px;color:#fff;font-weight:700;font-size:16px;white-space:nowrap}
 html[data-theme=dark] .bbadge{box-shadow:0 0 0 1px rgba(255,255,255,.35)}
@@ -276,8 +277,11 @@ def top_deals(st, n):
     li = "".join(f'<li class="card" style="list-style:none;font-size:20px"><a href="{i["url"]}"><b>{E(i["address"])}, {E(i["city"])}</b></a> {DCK.badge("Strong")}<br>{E(i["county_name"])} County · Sale {fdate(i["sale_date"])}<br>{lab} {usd(i["dc"]["price"])} vs. value {usd(i["dc"]["val"])} = <b>{i["dc"]["r"]:.0%}</b>{('<br><i>Check first: ' + E(NOTES[i["url"].strip("/")]["bullets"][-1 if len(NOTES[i["url"].strip("/")]["bullets"])<2 else 0]) + '</i>') if i["url"].strip("/") in NOTES else ""}<br><span class="muted">Listing data as of {asof(i["as_of"])}</span></li>' for i in c)
     return f'<h2>Top Strong deals in {sn} right now</h2><p class="muted">Upcoming sales only, lowest price-to-value first.</p><ul style="padding:0">{li}</ul><p><a href="/{st}/">See all {sn} sales →</a></p>'
 def home_hero():
-    return ('<div class="card dcstrip"><h1>Deal Check: a quick Strong / Fair / Pass grade on every sheriff sale</h1>'
-            '<p>Each listing\'s price ÷ its official value, with the math shown. <a href="/deal-check/"><b>How it works →</b></a> · <a href="/financing/"><b>How to pay →</b></a></p></div>' + top_deals("ohio", 6) + top_deals("pennsylvania", 6) + top_deals("kentucky", 6) + top_deals("new-jersey", 6))
+    return ('<div class="hero"><h1>Every sheriff sale in one weekly email. Free.</h1>'
+            '<p class="sub">We check the official county lists in Ohio, Pennsylvania, Kentucky and New Jersey, so you don\'t have to dig through dozens of websites and PDFs.</p>'
+            '<p><a class="sbtn big" href="/newsletter/">Send me the free weekly list</a></p></div>'
+            '<p class="dcline">Each sale gets a quick Strong / Fair / Pass first look, with the math shown. <a href="/deal-check/"><b>How it works →</b></a></p>'
+            '<p class="warn callnote"><b>Sales can be cancelled up to the last minute, so call the sheriff that morning.</b></p>' + top_deals("ohio", 6) + top_deals("pennsylvania", 6) + top_deals("kentucky", 6) + top_deals("new-jersey", 6))
 def how_page(urls):
     c = DCK.DC
     body = (f'<h1>How Deal Check works</h1><div class="card" style="font-size:20px"><p>Deal Check divides a price by an official value:</p><ul>'
