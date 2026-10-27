@@ -4,7 +4,7 @@
 set -u
 cd "$(dirname "$0")/.."
 python3 scraper/official.py ohio new-jersey pennsylvania
-# Kentucky (scraper lives on branch kentucky; skipped until merged)
-if [ -f scraper/kentucky.py ]; then python3 scraper/kentucky.py; fi
+# Kentucky: Fayette + Jefferson Master Commissioner lists
+python3 scraper/kentucky.py
 python3 enrich.py
 SITE_URL="${SITE_URL:-https://pg614.github.io/deedhound}" BASE_PATH="${BASE_PATH:-/deedhound}" python3 build.py
