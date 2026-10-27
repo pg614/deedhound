@@ -24,8 +24,8 @@ def grade(st,i,e):
         else: price=i.get("upset_amount"); pl="debt amount published by the Sheriff"
         pv=fact(e,"OPA market value"); av=fact(e,"County assessed value")
         if pv: val,vl,vs=pv,"City of Philadelphia OPA market value",esrc
-        elif av: val,vl,vs=av,"county assessed value",esrc
-        else: val,vl,vs=None,"county assessed or city market value",esrc
+        else: val,vl,vs=None,"current market value (Philadelphia OPA)",esrc
+        if av and not pv: why.append("Montgomery County's assessed value is shown below, but it is based on 1996 values, so we do not grade with it.")
         sm,fm=DC["pa_strong_max_ratio"],DC["pa_fair_max_ratio"]
     else:
         price=i.get("upset_amount"); pl="approx. judgment/upset amount owed to the lender"
