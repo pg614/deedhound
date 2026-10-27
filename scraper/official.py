@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Scrapers for sheriff-published official sale lists (robots.txt checked at runtime).
 Never touches *.sheriffsaleauction.ohio.gov (robots Disallow: /)."""
-import re, html, json, os, sys, time, datetime, subprocess, tempfile, urllib.request, urllib.parse, urllib.robotparser, http.cookiejar
+import re, html, json, os, sys, time, datetime, subprocess, tempfile, urllib.request, urllib.parse, urllib.robotparser, http.cookiejar, hashlib
 from zoneinfo import ZoneInfo
 UA = "Mozilla/5.0 (compatible; OhioSheriffSaleTracker/0.1; public-info site)"
 BUA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"
@@ -115,20 +115,35 @@ import signal; signal.signal(signal.SIGALRM, _alarm)
 CV_CACHE = os.path.join(tempfile.gettempdir(), "civilview_pa_cache"); os.makedirs(CV_CACHE, exist_ok=True)  # same-day resume after a hang (6h max age)
 def civilview_pa(county):
     """Pennsylvania CivilView lists (Philadelphia, Montgomery, Lehigh). Field labels differ by county; status history order differs, so we use the latest-dated entry."""
-    s = S(); lu = f"https://salesweb.civilview.com/Sales/SalesSearch?countyId={CIVILVIEW_PA[county]}"; h = s.get(lu); out = []; seen = set()
-    for pid in dict.fromkeys(re.findall(r'SaleDetails\?PropertyId=(\d+)', h)):
-        du = f"https://salesweb.civilview.com/Sales/SaleDetails?PropertyId={pid}"
-        if len(out) % 50 == 0: print("  ", county, len(out), NOW(), flush=True)
-        t = None; cf = os.path.join(CV_CACHE, pid + ".json")
-        if os.path.exists(cf) and time.time() - os.path.getmtime(cf) < 6 * 3600: t = json.load(open(cf))
-        for attempt in range(3 if t is None else 0):
+    lu = f"https://salesweb.civilview.com/Sales/SalesSearch?countyId={CIVILVIEW_PA[county]}"; out = []; seen = set()
+    # PropertyIds rotate per session and detail pages need the session cookie; a lost session returns the
+    # site's county index page instead. So key rows by their list-row text (stable), validate each detail page,
+    # and on a bad page start a new session, re-read the list and look the row up again.
+    def listing():
+        s = S(); h = s.get(lu); m = {}
+        for r in re.findall(r"<tr.*?</tr>", h, re.S):
+            pm = re.search(r"SaleDetails\?PropertyId=(\d+)", r)
+            if pm: m.setdefault("|".join(txt(r)[1:]), pm.group(1))
+        return s, m
+    def valid(t): return bool(t) and any(x in ("Sheriff #:", "Court Case #:", "Book & Writ:") for x in t)
+    s, rows = listing(); keys = list(rows); print("  ", county, "list rows", len(keys), NOW(), flush=True)
+    for n, key in enumerate(keys):
+        if n % 50 == 0: print("  ", county, n, len(out), NOW(), flush=True)
+        t = None; cf = os.path.join(CV_CACHE, county + "_" + hashlib.sha1(key.encode()).hexdigest() + ".json")
+        if os.path.exists(cf) and time.time() - os.path.getmtime(cf) < 12 * 3600: t = json.load(open(cf))
+        for attempt in range(4 if t is None else 0):
             try:
-                signal.alarm(90); t = txt(s.get(du)); signal.alarm(0); json.dump(t, open(cf, "w")); break
+                pid = rows.get(key)
+                if not pid: break
+                signal.alarm(90); t = txt(s.get(f"https://salesweb.civilview.com/Sales/SaleDetails?PropertyId={pid}")); signal.alarm(0)
+                if valid(t): json.dump(t, open(cf, "w")); break
+                raise ValueError("session lost (index page returned)")
             except Exception as e:
-                signal.alarm(0); print("  retry", pid, attempt, repr(e), NOW(), flush=True); time.sleep(30)
-                try: signal.alarm(90); s = S(); s.get(lu); signal.alarm(0)
+                signal.alarm(0); t = None; print("  retry", key[:30], attempt, repr(e), NOW(), flush=True); time.sleep(20 * (attempt + 1))
+                try: signal.alarm(120); s, rows = listing(); signal.alarm(0)
                 except Exception: signal.alarm(0)
-        if t is None: print("  skip", pid, flush=True); continue
+        if not valid(t): print("  skip", key[:40], flush=True); continue
+        pid = rows.get(key, ""); du = lu  # detail PropertyIds expire with the session, so link the official county list
         hi = t.index("Status History") if "Status History" in t else len(t); f = {}
         for i, x in enumerate(t[:hi - 1]):
             m = re.match(r"(.+?)\s*:\s*(.*)$", x)
