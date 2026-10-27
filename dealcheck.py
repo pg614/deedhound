@@ -8,7 +8,7 @@ def d(s): return datetime.datetime.fromisoformat(s).strftime("%b %-d, %Y")
 def fact(e,name):
     for f in (e or {}).get("facts",[]):
         if f[0]==name: return f[1]
-COLORS={"Strong":"#1b7f3b","Fair":"#b7791f","Pass":"#b42318","Not enough data":"#5b6475"}
+COLORS={"Strong":"#1b7f3b","Fair":"#8a5a12","Pass":"#b42318","Not enough data":"#5b6475"}
 def grade(st,i,e):
     """returns (grade, why[list of str], summary sentence parts dict)"""
     why=[]; src=f'official {i["county"].replace("-"," ").title()} County {"Master Commissioner" if st=="kentucky" else "sheriff"} list, as of {d(i["as_of"])}'
@@ -69,7 +69,7 @@ def grade(st,i,e):
         g={"Strong":"Fair","Fair":"Pass"}[g]; why.append(f"Grade lowered one step because of {p} postponements (sale may not happen).")
     why.append("Occupancy: not stated by the official source.")
     return g,why,info
-def badge(g): return f'<span style="display:inline-block;padding:2px 10px;border-radius:12px;color:#fff;background:{COLORS[g]};font-weight:700;font-size:16px;white-space:nowrap">{E(g)}</span>'
+def badge(g): return f'<span class="bbadge" style="background:{COLORS[g]}">{E(g)}</span>'
 def summary(st,i,g,info,fdate):
     s=[f'This property is scheduled for sheriff sale on {fdate(i["sale_date"])}.']
     if info.get("r") is not None:
@@ -104,7 +104,7 @@ def bid_html(st,i,cn,bid,fdate,inf):
         steps=["Check the official listing the day before, since NJ sales are often postponed.","Go to the sheriff sale in person at the time and place on the official notice; bring certified funds for the 20% deposit.","Balance is due later (usually within about 30 days); the owner can still redeem during the 10 days after the sale."]
         link=f'<a href="{E(i["source_url"])}" rel="nofollow">Official {cn} County Sheriff listing</a>'
     ex=("".join(f"<li>{E(x)}</li>" for x in (inf or {}).get("facts",[])[:2]))
-    return (f'<div class="card" style="border:3px solid #f5b82e"><h2 style="margin-top:0">How to bid</h2><div class="kv"><div><b>Sale date</b></div><div>{fdate(i["sale_date"])}'
+    return (f'<div class="card goldbox"><h2 style="margin-top:0">How to bid</h2><div class="kv"><div><b>Sale date</b></div><div>{fdate(i["sale_date"])}'
       +(' (time: see official notice)' )+f'</div><div><b>Where to bid</b></div><div>{link}</div><div><b>Deposit</b></div><div>{E(dep)}</div></div>'
       '<ol>'+"".join(f"<li>{E(s)}</li>" for s in steps)+'</ol>'+(f'<p class="muted">County rules:</p><ul class="muted">{ex}</ul>' if ex else "")+'<p><a href="/financing/"><b>How to pay for a sheriff sale (cash, loans, deadlines) →</b></a></p></div>')
 

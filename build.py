@@ -15,23 +15,34 @@ def slug(s): return re.sub(r"[^a-z0-9]+", "-", (s or "").lower()).strip("-")
 def usd(v): return "—" if v is None else f"${v:,.0f}"
 def fdate(d): return datetime.date.fromisoformat(d).strftime("%a, %b %-d, %Y")
 def asof(a): return datetime.datetime.fromisoformat(a).strftime("%b %-d, %Y %-I:%M %p ET")
-CSS = ("""*{box-sizing:border-box}body{margin:0;font:19px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:#1d2433;background:#f6f7f9}
-a{color:NAVY}header{background:#fff;color:NAVY;border-bottom:5px solid GOLD}header .w{display:flex;align-items:center;justify-content:space-between}header a{color:NAVY;text-decoration:none;font-weight:600}
-.w{max-width:1080px;margin:0 auto;padding:16px}.logo{font-weight:800;font-size:24px;display:flex;align-items:center;gap:10px}.logo small{font-weight:500;font-size:16px;color:NAVY;margin-left:4px;max-width:150px;line-height:1.2}.logoslot{display:inline-block;width:40px;height:40px;border-radius:50%;background:#f5b82e}nav a{margin-left:18px;font-size:18px}
-h1{font-size:34px;margin:8px 0}.muted{color:#3f4756;font-size:17px}.card{background:#fff;border:1px solid #e3e6eb;border-radius:10px;padding:16px;margin:12px 0}
-table{width:100%;border-collapse:collapse;background:#fff}th,td{padding:12px 12px;border-bottom:1px solid #dde1e7;text-align:left;font-size:18px}th{background:NAVY;color:#fff;position:sticky;top:0}
+CSS = ("""*{box-sizing:border-box}body{margin:0;font:19px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:var(--fg);background:var(--bg)}
+a{color:var(--link)}header{background:var(--hdr);color:var(--head);border-bottom:5px solid GOLD}header .w{display:flex;align-items:center;justify-content:space-between}header a{color:var(--head);text-decoration:none;font-weight:600}
+.w{max-width:1080px;margin:0 auto;padding:16px}.logo{font-weight:800;font-size:24px;display:flex;align-items:center;gap:10px}.logo small{font-weight:500;font-size:16px;color:var(--head);margin-left:4px;max-width:150px;line-height:1.2}.logoslot{display:inline-block;width:40px;height:40px;border-radius:50%;background:#f5b82e}nav a{margin-left:18px;font-size:18px}
+h1{font-size:34px;margin:8px 0}.muted{color:var(--muted);font-size:17px}.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px;margin:12px 0}
+table{width:100%;border-collapse:collapse;background:var(--card)}th,td{padding:12px 12px;border-bottom:1px solid var(--line);text-align:left;font-size:18px}th{background:NAVY;color:#fff;position:sticky;top:0}
 td.n{text-align:right;font-variant-numeric:tabular-nums}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px}
-.grid a{display:block;background:#fff;border:1px solid #e3e6eb;border-radius:8px;padding:12px;text-decoration:none}.grid b{font-size:26px;display:block;color:NAVY}
-.warn{background:#fff8e6;border:1px solid #f1d48a;border-radius:8px;padding:14px 16px;font-size:17px}.kv{display:grid;grid-template-columns:240px 1fr;gap:6px 12px}
-form.nl{display:flex;gap:8px;flex-wrap:wrap}form.nl input{flex:1;min-width:220px;padding:14px;font-size:18px;border:1px solid #c9ced8;border-radius:6px}form.nl button{padding:14px 22px;font-size:18px;background:GOLD;color:#fff;border:0;border-radius:6px;font-weight:700}
-footer{font-size:16px;color:#5b6475}.scroll{overflow-x:auto}h1,h2,h3{color:NAVY}.grid a{border-left:5px solid GOLD}
+.grid a{display:block;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px;text-decoration:none}.grid b{font-size:26px;display:block;color:var(--head)}
+.warn{background:var(--warnbg);border:1px solid var(--warnline);color:var(--fg);border-radius:8px;padding:14px 16px;font-size:17px}.kv{display:grid;grid-template-columns:240px 1fr;gap:6px 12px}
+form.nl{display:flex;gap:8px;flex-wrap:wrap}form.nl input{flex:1;min-width:220px;padding:14px;font-size:18px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--fg)}form.nl button{padding:14px 22px;font-size:18px;background:GOLD;color:NAVY;border:0;border-radius:6px;font-weight:700}
+footer{font-size:16px;color:var(--muted)}.scroll{overflow-x:auto}h1,h2,h3{color:var(--head)}.grid a{border-left:5px solid GOLD}
 .pd{display:grid;grid-template-columns:minmax(260px,380px) 1fr;gap:18px;align-items:start}@media(max-width:760px){.pd{grid-template-columns:1fr}.kv{grid-template-columns:1fr 1fr}}
-.ph{margin:0;width:100%;aspect-ratio:4/3;background:#eef1f5;border:2px dashed #c6ccd6;border-radius:10px;display:flex;align-items:center;justify-content:center;text-align:center;color:#5b6475;font-weight:600;overflow:hidden;flex-direction:column}
+.ph{margin:0;width:100%;aspect-ratio:4/3;background:var(--phbg);border:2px dashed var(--line);border-radius:10px;display:flex;align-items:center;justify-content:center;text-align:center;color:var(--muted);font-weight:600;overflow:hidden;flex-direction:column}
 figure.ph{border-style:solid}.ph img{width:100%;height:100%;object-fit:cover}.ph figcaption{font-size:14px;font-weight:400;padding:4px}
 .sbar{background:NAVY;color:#fff;font-size:18px}.sbar .w{display:flex;align-items:center;justify-content:center;gap:16px;flex-wrap:wrap;padding-top:8px;padding-bottom:8px;text-align:center}
 .sbtn{display:inline-block;background:GOLD;color:NAVY!important;font-weight:700;text-decoration:none;padding:8px 18px;border-radius:6px;white-space:nowrap}.sbtn:hover{filter:brightness(1.08)}
 @media(max-width:600px){.sbar{font-size:16px}.sbar .w{gap:8px}}
-@media(max-width:760px){header .w{flex-wrap:wrap;gap:6px}header nav{width:100%;display:flex;flex-wrap:wrap;gap:6px 0}header nav a{margin:0 16px 0 0;font-size:17px}}""").replace("NAVY", BRAND["navy"]).replace("GOLD", BRAND["gold"])
+@media(max-width:760px){header .w{flex-wrap:wrap;gap:6px}header nav{width:100%;display:flex;flex-wrap:wrap;gap:6px 0}header nav a{margin:0 16px 0 0;font-size:17px}}
+:root{color-scheme:light;--bg:#f6f7f9;--fg:#1d2433;--muted:#3f4756;--card:#fff;--line:#d5dae2;--hdr:#fff;--head:NAVY;--link:NAVY;--warnbg:#fff8e6;--warnline:#f1d48a;--phbg:#eef1f5;--gold:GOLD}
+html[data-theme=dark]{color-scheme:dark;--bg:#0d1523;--fg:#e8ecf2;--muted:#b8c1cf;--card:#16213a;--line:#2e3b57;--hdr:NAVY;--head:#f0c36b;--link:#9cc3ff;--warnbg:#2a2312;--warnline:#7a5d22;--phbg:#1b2741}
+html[data-theme=dark] .logo img{background:#fff;border-radius:10px;padding:4px 8px}
+html[data-theme=dark] th{background:#08203f}
+.thm{display:inline-flex;align-items:center;gap:8px;font:inherit;font-size:18px;font-weight:700;padding:10px 16px;min-height:48px;border-radius:24px;border:2px solid var(--head);background:transparent;color:var(--head);cursor:pointer}
+.thm:focus-visible{outline:3px solid GOLD;outline-offset:2px}.thm .ic{font-size:22px;line-height:1}
+.dcstrip{border-left:6px solid #1b7f3b;padding:10px 16px}.dcstrip h1{font-size:22px;margin:0 0 4px;line-height:1.3}.dcstrip p{margin:0;font-size:18px}
+.bbadge{display:inline-block;padding:2px 10px;border-radius:12px;color:#fff;font-weight:700;font-size:16px;white-space:nowrap}
+html[data-theme=dark] .bbadge{box-shadow:0 0 0 1px rgba(255,255,255,.35)}
+.goldbox{border:3px solid GOLD!important}
+html[data-theme=dark] .card:has(script[data-beehiiv-form]){background:#fff;color:#1d2433}html[data-theme=dark] .card:has(script[data-beehiiv-form]) .muted{color:#3f4756}""").replace("NAVY", BRAND["navy"]).replace("GOLD", BRAND["gold"])
 DISC = ('<p class="warn"><b>Verify before you bid.</b> This is an unofficial summary of public sheriff-sale listings. Sales are often cancelled or '
         'postponed. Always confirm details with the official legal notice and the county sheriff\'s official sale site linked on each page. Not legal or financial advice.</p>')
 SUB = "https://deedhound.beehiiv.com/subscribe"
@@ -39,6 +50,8 @@ NL = ('<div class="card"><h2 style="margin-top:0">Get the weekly sheriff sale em
       '<p><a class="sbtn" href="/newsletter/">Sign up free →</a></p></div>')
 BAR = ('<div class="sbar"><div class="w"><span>📬 Get the week\'s best sheriff sale picks by email. <b>Free.</b></span>'
        '<a class="sbtn" href="/newsletter/">Sign up free</a></div></div>')
+THEME_HEAD = '<script>(function(){try{var t=localStorage.getItem("theme")}catch(e){}if(t!=="light"&&t!=="dark")t=matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";document.documentElement.setAttribute("data-theme",t)})()</script>'
+THEME_FOOT = '<script>(function(){var b=document.getElementById("thm"),d=document.documentElement;function sync(){var k=d.getAttribute("data-theme")==="dark";b.querySelector(".ic").textContent=k?"☀️":"🌙";b.querySelector(".tx").textContent=k?"Light mode":"Dark mode";b.setAttribute("aria-pressed",k)}sync();b.onclick=function(){var t=d.getAttribute("data-theme")==="dark"?"light":"dark";d.setAttribute("data-theme",t);try{localStorage.setItem("theme",t)}catch(e){}sync()}})()</script>'
 def page(path, title, desc, body, ld=None, crumbs=None):
     canon = BASE + "/" + path.replace("index.html", "")
     lds = (ld if isinstance(ld, list) else [ld]) if ld else []
@@ -46,12 +59,12 @@ def page(path, title, desc, body, ld=None, crumbs=None):
         {"@type": "ListItem", "position": i + 1, "name": n, "item": BASE + u} for i, (n, u) in enumerate(crumbs)]})
     nav = " › ".join(f'<a href="{u}">{E(n)}</a>' for n, u in crumbs) if crumbs else ""
     doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{E(title)}</title><meta name="description" content="{E(desc)}"><link rel="canonical" href="{canon}"><link rel="stylesheet" href="/style.css"><link rel="icon" href="{BRAND.get("favicon","")}"><link rel="apple-touch-icon" href="{BRAND.get("apple_icon","")}"><meta name="theme-color" content="{BRAND["navy"]}">
+<title>{E(title)}</title><meta name="description" content="{E(desc)}"><link rel="canonical" href="{canon}">{THEME_HEAD}<link rel="stylesheet" href="/style.css"><link rel="icon" href="{BRAND.get("favicon","")}"><link rel="apple-touch-icon" href="{BRAND.get("apple_icon","")}"><meta name="theme-color" content="{BRAND["navy"]}">
 <meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}">
 {''.join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in lds)}</head><body>
-{BAR}<header><div class="w"><a class="logo" href="/">{('<img src="'+BRAND["logo"]+'" alt="'+E(BRAND["name"])+'" height="68">') if BRAND["logo"] else E(BRAND["name"])}<small>{E(BRAND["tagline"])}</small></a><nav>{" ".join(f'<a href="/{k}/">{v[0]}</a>' for k,v in STATES.items())}</nav></div></header>
+{BAR}<header><div class="w"><a class="logo" href="/">{('<img src="'+BRAND["logo"]+'" alt="'+E(BRAND["name"])+'" height="68">') if BRAND["logo"] else E(BRAND["name"])}<small>{E(BRAND["tagline"])}</small></a><nav>{" ".join(f'<a href="/{k}/">{v[0]}</a>' for k,v in STATES.items())}</nav><button class="thm" type="button" id="thm" aria-label="Switch light or dark mode"><span class="ic" aria-hidden="true">🌙</span><span class="tx">Dark mode</span></button></div></header>
 <main class="w"><div class="muted">{nav}</div>{body}</main>
-<footer class="w">Data compiled from lists published by county sheriffs' offices. Bidding happens on each county's official sale site. {DISC}</footer></body></html>"""
+<footer class="w">Data compiled from lists published by county sheriffs' offices. Bidding happens on each county's official sale site. {DISC}</footer>{THEME_FOOT}</body></html>"""
     if path.startswith("kentucky/"): doc = doc.replace("County Sheriff list", "County Master Commissioner list").replace("as published by the Sheriff", "as published by the Master Commissioner").replace(' County Sheriff"', ' County Master Commissioner"').replace("Kentucky sheriff sales", "Kentucky master commissioner sales").replace("Kentucky Sheriff Sales", "Kentucky Master Commissioner Sales").replace("County sheriff sales work", "County master commissioner sales work").replace("Kentucky sheriff sale ·", "Kentucky master commissioner sale ·")
     fp = os.path.join(OUT, path); os.makedirs(os.path.dirname(fp), exist_ok=True); open(fp, "w").write(_bp(doc))
 def table(items, show_county=False):
@@ -263,10 +276,8 @@ def top_deals(st, n):
     li = "".join(f'<li class="card" style="list-style:none;font-size:20px"><a href="{i["url"]}"><b>{E(i["address"])}, {E(i["city"])}</b></a> {DCK.badge("Strong")}<br>{E(i["county_name"])} County · Sale {fdate(i["sale_date"])}<br>{lab} {usd(i["dc"]["price"])} vs. value {usd(i["dc"]["val"])} = <b>{i["dc"]["r"]:.0%}</b>{('<br><i>Check first: ' + E(NOTES[i["url"].strip("/")]["bullets"][-1 if len(NOTES[i["url"].strip("/")]["bullets"])<2 else 0]) + '</i>') if i["url"].strip("/") in NOTES else ""}<br><span class="muted">Listing data as of {asof(i["as_of"])}</span></li>' for i in c)
     return f'<h2>Top Strong deals in {sn} right now</h2><p class="muted">Upcoming sales only, lowest price-to-value first.</p><ul style="padding:0">{li}</ul><p><a href="/{st}/">See all {sn} sales →</a></p>'
 def home_hero():
-    return ('<div class="card" style="border-left:6px solid #1b7f3b;font-size:21px"><h1 style="margin-top:0">Deal Check: a quick Strong / Fair / Pass grade on every sheriff sale</h1>'
-            '<p>We compare the published opening bid (Ohio), minimum bid or debt (Pennsylvania) or amount owed to the lender (New Jersey, Kentucky) with the official county or town value, and show you the math. '
-            'It is a simple first look at public numbers, not an appraisal and not financial advice, so always inspect and verify with the county.</p>'
-            '<p><a href="/deal-check/"><b>How Deal Check works →</b></a> &nbsp;·&nbsp; <a href="/financing/"><b>How to pay for a sheriff sale →</b></a></p></div>' + top_deals("ohio", 6) + top_deals("pennsylvania", 6) + top_deals("kentucky", 6) + top_deals("new-jersey", 6))
+    return ('<div class="card dcstrip"><h1>Deal Check: a quick Strong / Fair / Pass grade on every sheriff sale</h1>'
+            '<p>Each listing\'s price ÷ its official value, with the math shown. <a href="/deal-check/"><b>How it works →</b></a> · <a href="/financing/"><b>How to pay →</b></a></p></div>' + top_deals("ohio", 6) + top_deals("pennsylvania", 6) + top_deals("kentucky", 6) + top_deals("new-jersey", 6))
 def how_page(urls):
     c = DCK.DC
     body = (f'<h1>How Deal Check works</h1><div class="card" style="font-size:20px"><p>Deal Check divides a price by an official value:</p><ul>'
