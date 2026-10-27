@@ -1,11 +1,16 @@
 {
+ "state": "ohio",
  "county": "montgomery",
- "as_of": "2026-10-24T23:03-04:00",
+ "as_of": "2026-10-27T06:12-04:00",
  "source": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
  "count": 102,
  "items": [
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2023 CV 05861",
@@ -22,10 +27,14 @@
    "sale_date": "2026-10-30",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2023 CV 05861",
@@ -42,10 +51,14 @@
    "sale_date": "2026-10-30",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2023 CV 05861",
@@ -62,10 +75,14 @@
    "sale_date": "2026-10-30",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2023 CV 05861",
@@ -82,10 +99,14 @@
    "sale_date": "2026-10-30",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2023 CV 05861",
@@ -102,10 +123,14 @@
    "sale_date": "2026-10-30",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2023 CV 05861",
@@ -122,10 +147,14 @@
    "sale_date": "2026-10-30",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06072",
@@ -142,10 +171,14 @@
    "sale_date": "2026-10-30",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2023 CV 02698",
@@ -162,10 +195,14 @@
    "sale_date": "2026-11-06",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 05960",
@@ -182,10 +219,14 @@
    "sale_date": "2026-11-06",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01908",
@@ -202,10 +243,14 @@
    "sale_date": "2026-11-06",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 02228",
@@ -222,10 +267,14 @@
    "sale_date": "2026-11-06",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 02543",
@@ -242,10 +291,14 @@
    "sale_date": "2026-11-06",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 02595",
@@ -262,10 +315,14 @@
    "sale_date": "2026-11-06",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 02811",
@@ -282,10 +339,14 @@
    "sale_date": "2026-11-06",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 03166",
@@ -302,10 +363,14 @@
    "sale_date": "2026-11-13",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06245",
@@ -322,10 +387,14 @@
    "sale_date": "2026-11-13",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "POSTPONED - PLAINTIF",
    "case_number": "POSTPONED - PLAINTIF",
@@ -342,10 +411,14 @@
    "sale_date": "2026-11-13",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "CANCELLED",
    "case_number": "CANCELLED",
@@ -362,10 +435,14 @@
    "sale_date": "2026-11-13",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 02481",
@@ -382,10 +459,14 @@
    "sale_date": "2026-11-13",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 03373",
@@ -402,10 +483,14 @@
    "sale_date": "2026-11-13",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 03827",
@@ -422,10 +507,14 @@
    "sale_date": "2026-11-13",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2019 CV 01725",
@@ -442,10 +531,14 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2024 CV 03777",
@@ -462,10 +555,14 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 02390",
@@ -482,10 +579,14 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 04195",
@@ -502,10 +603,14 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06021",
@@ -522,10 +627,14 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01096",
@@ -542,10 +651,14 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 02319",
@@ -562,10 +675,14 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 02359",
@@ -582,10 +699,14 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 03236",
@@ -602,10 +723,14 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06244",
@@ -622,10 +747,14 @@
    "sale_date": "2026-12-04",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06938",
@@ -642,10 +771,14 @@
    "sale_date": "2026-12-04",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00053",
@@ -662,10 +795,14 @@
    "sale_date": "2026-12-04",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00774",
@@ -682,10 +819,14 @@
    "sale_date": "2026-12-04",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01621",
@@ -702,10 +843,14 @@
    "sale_date": "2026-12-04",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 02452",
@@ -722,10 +867,14 @@
    "sale_date": "2026-12-04",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 02742",
@@ -742,10 +891,14 @@
    "sale_date": "2026-12-11",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06936",
@@ -762,10 +915,14 @@
    "sale_date": "2026-12-11",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 07029",
@@ -782,10 +939,14 @@
    "sale_date": "2026-12-11",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00123",
@@ -802,10 +963,14 @@
    "sale_date": "2026-12-11",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00725",
@@ -822,10 +987,14 @@
    "sale_date": "2026-12-11",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01943",
@@ -842,10 +1011,14 @@
    "sale_date": "2026-12-11",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 02616",
@@ -862,10 +1035,14 @@
    "sale_date": "2026-12-11",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 03179",
@@ -882,10 +1059,14 @@
    "sale_date": "2026-12-11",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 03831",
@@ -902,10 +1083,14 @@
    "sale_date": "2026-12-11",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 03944",
@@ -922,10 +1107,14 @@
    "sale_date": "2026-12-11",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 04620",
@@ -942,10 +1131,14 @@
    "sale_date": "2026-12-11",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 02277",
@@ -962,10 +1155,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 02836",
@@ -982,10 +1179,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 04957",
@@ -1002,10 +1203,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 05636",
@@ -1022,10 +1227,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06036",
@@ -1042,10 +1251,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06374",
@@ -1062,10 +1275,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06620",
@@ -1082,10 +1299,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06629",
@@ -1102,10 +1323,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06631",
@@ -1122,10 +1347,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06658",
@@ -1142,10 +1371,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06665",
@@ -1162,10 +1395,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06682",
@@ -1182,10 +1419,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06700",
@@ -1202,10 +1443,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06728",
@@ -1222,10 +1467,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06784",
@@ -1242,10 +1491,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06785",
@@ -1262,10 +1515,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06855",
@@ -1282,10 +1539,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00287",
@@ -1302,10 +1563,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00513",
@@ -1322,10 +1587,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00547",
@@ -1342,10 +1611,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00629",
@@ -1362,10 +1635,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00681",
@@ -1382,10 +1659,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00787",
@@ -1402,10 +1683,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "CANCELLED",
    "case_number": "CANCELLED",
@@ -1422,10 +1707,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01037",
@@ -1442,10 +1731,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01156",
@@ -1462,10 +1755,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01270",
@@ -1482,10 +1779,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01496",
@@ -1502,10 +1803,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01502",
@@ -1522,10 +1827,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01555",
@@ -1542,10 +1851,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01582",
@@ -1562,10 +1875,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 05401",
@@ -1582,10 +1899,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06004",
@@ -1602,10 +1923,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06587",
@@ -1622,10 +1947,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06601",
@@ -1642,10 +1971,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06791",
@@ -1662,10 +1995,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06829",
@@ -1682,10 +2019,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2025 CV 06992",
@@ -1702,10 +2043,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00095",
@@ -1722,10 +2067,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00243",
@@ -1742,10 +2091,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00284",
@@ -1762,10 +2115,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00291",
@@ -1782,10 +2139,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00527",
@@ -1802,10 +2163,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00546",
@@ -1822,10 +2187,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00758",
@@ -1842,10 +2211,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00860",
@@ -1862,10 +2235,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 00940",
@@ -1882,10 +2259,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01010",
@@ -1902,10 +2283,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01335",
@@ -1922,10 +2307,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01416",
@@ -1942,10 +2331,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01435",
@@ -1962,10 +2355,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01441",
@@ -1982,10 +2379,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01559",
@@ -2002,10 +2403,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01712",
@@ -2022,10 +2427,14 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   },
   {
    "county": "montgomery",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "ACTIVE",
    "case_number": "2026 CV 01882",
@@ -2042,7 +2451,7 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
    "source_url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:12-04:00"
   }
  ]
 }

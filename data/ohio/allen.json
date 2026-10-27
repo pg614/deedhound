@@ -1,8 +1,8 @@
 {
  "state": "ohio",
  "county": "allen",
- "as_of": "2026-10-25T00:34-04:00",
- "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209261263",
+ "as_of": "2026-10-27T06:14-04:00",
+ "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213156080",
  "count": 7,
  "items": [
   {
@@ -11,7 +11,7 @@
    "status_history": [],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209261263",
+   "auction_id": "2213156080",
    "status": "SCHEDULED",
    "case_number": "CF 2024 0083",
    "parcel_id": "47-0707-14-006.000",
@@ -26,8 +26,8 @@
    "attorney": "Brian Green",
    "sale_date": "2026-10-28",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209261263",
-   "as_of": "2026-10-25T00:34-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213156080",
+   "as_of": "2026-10-27T06:13-04:00",
    "sheriff_number": "26001744"
   },
   {
@@ -36,7 +36,7 @@
    "status_history": [],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209261268",
+   "auction_id": "2213156086",
    "status": "SCHEDULED",
    "case_number": "CF 2025 0115 B",
    "parcel_id": "25-2000-02-004.002",
@@ -51,8 +51,8 @@
    "attorney": "Joshua A. Koltak",
    "sale_date": "2026-10-28",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209261268",
-   "as_of": "2026-10-25T00:34-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213156086",
+   "as_of": "2026-10-27T06:13-04:00",
    "sheriff_number": "26001759"
   },
   {
@@ -61,7 +61,7 @@
    "status_history": [],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209261260",
+   "auction_id": "2213156078",
    "status": "SCHEDULED",
    "case_number": "CF 2026 0028",
    "parcel_id": "36-2412-13-030.000",
@@ -76,8 +76,8 @@
    "attorney": "Robert H. Young",
    "sale_date": "2026-11-04",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209261260",
-   "as_of": "2026-10-25T00:34-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213156078",
+   "as_of": "2026-10-27T06:13-04:00",
    "sheriff_number": "26001612"
   },
   {
@@ -86,7 +86,7 @@
    "status_history": [],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209261272",
+   "auction_id": "2213156090",
    "status": "SCHEDULED",
    "case_number": "CF 2026 0066",
    "parcel_id": "36-2410-08-002.000",
@@ -101,8 +101,8 @@
    "attorney": "Benjamin Hoen",
    "sale_date": "2026-11-25",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209261272",
-   "as_of": "2026-10-25T00:34-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213156090",
+   "as_of": "2026-10-27T06:13-04:00",
    "sheriff_number": "26001998"
   },
   {
@@ -111,7 +111,7 @@
    "status_history": [],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209261273",
+   "auction_id": "2213156091",
    "status": "SCHEDULED",
    "case_number": "CF 2026 0062",
    "parcel_id": "37-2110-01-005.001",
@@ -126,8 +126,8 @@
    "attorney": "Nicholas M. Smith",
    "sale_date": "2026-11-25",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209261273",
-   "as_of": "2026-10-25T00:34-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213156091",
+   "as_of": "2026-10-27T06:14-04:00",
    "sheriff_number": "26001999"
   },
   {
@@ -136,7 +136,7 @@
    "status_history": [],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209261274",
+   "auction_id": "2213156092",
    "status": "SCHEDULED",
    "case_number": "CF 2026 0034",
    "parcel_id": "36-2408-02-013.000",
@@ -151,8 +151,8 @@
    "attorney": "Paul Nalepka",
    "sale_date": "2026-11-25",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209261274",
-   "as_of": "2026-10-25T00:34-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213156092",
+   "as_of": "2026-10-27T06:14-04:00",
    "sheriff_number": "26002000"
   },
   {
@@ -161,7 +161,7 @@
    "status_history": [],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209261275",
+   "auction_id": "2213156093",
    "status": "SCHEDULED",
    "case_number": "CF 2024 0099",
    "parcel_id": "37-0403-01-013.000",
@@ -176,8 +176,8 @@
    "attorney": "David T. Brady",
    "sale_date": "2026-11-25",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209261275",
-   "as_of": "2026-10-25T00:34-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213156093",
+   "as_of": "2026-10-27T06:14-04:00",
    "sheriff_number": "26002019"
   }
  ]

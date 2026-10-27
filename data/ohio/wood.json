@@ -1,11 +1,16 @@
 {
+ "state": "ohio",
  "county": "wood",
- "as_of": "2026-10-24T23:03-04:00",
+ "as_of": "2026-10-27T06:13-04:00",
  "source": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
  "count": 5,
  "items": [
   {
    "county": "wood",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "SCHEDULED",
    "case_number": "25-CV-0524",
@@ -22,10 +27,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:13-04:00"
   },
   {
    "county": "wood",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "SCHEDULED",
    "case_number": "26-CV-0219",
@@ -42,10 +51,14 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:13-04:00"
   },
   {
    "county": "wood",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "SCHEDULED",
    "case_number": "26-LF-0004",
@@ -62,10 +75,14 @@
    "sale_date": "2026-11-19",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:13-04:00"
   },
   {
    "county": "wood",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "SCHEDULED",
    "case_number": "26-LF-0021",
@@ -82,10 +99,14 @@
    "sale_date": "2026-11-19",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:13-04:00"
   },
   {
    "county": "wood",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
    "auction_id": null,
    "status": "SCHEDULED",
    "case_number": "26-CV-0156",
@@ -102,7 +123,7 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
-   "as_of": "2026-10-24T23:03-04:00"
+   "as_of": "2026-10-27T06:13-04:00"
   }
  ]
 }

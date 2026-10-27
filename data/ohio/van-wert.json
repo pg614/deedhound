@@ -1,7 +1,7 @@
 {
  "state": "ohio",
  "county": "van-wert",
- "as_of": "2026-10-26T10:34-04:00",
+ "as_of": "2026-10-27T06:10-04:00",
  "source": "https://www.vanwertcountyohio.gov/government/sheriff/divisions/sheriff_sales.php",
  "count": 1,
  "items": [
@@ -27,7 +27,7 @@
    "sale_date": "2026-10-29",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.vanwertcountyohio.gov/government/sheriff/divisions/sheriff_sales.php",
-   "as_of": "2026-10-26T10:34-04:00"
+   "as_of": "2026-10-27T06:10-04:00"
   }
  ]
 }

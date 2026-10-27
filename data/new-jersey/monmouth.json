@@ -1,470 +1,10 @@
 {
  "state": "new-jersey",
  "county": "monmouth",
- "as_of": "2026-10-25T00:25-04:00",
- "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973163",
- "count": 95,
+ "as_of": "2026-10-27T07:11-04:00",
+ "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432516",
+ "count": 88,
  "items": [
-  {
-   "county": "monmouth",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-10-26"
-    },
-    {
-     "status": "Bankrupt",
-     "date": "2026-08-03"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-08-03"
-    },
-    {
-     "status": "Bankrupt",
-     "date": "2026-03-16"
-    },
-    {
-     "status": "Court Ordered Defendant Adjournment",
-     "date": "2026-03-16"
-    },
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-02-02"
-    },
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-01-05"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2025-12-08"
-    }
-   ],
-   "times_postponed": 3,
-   "upset_amount": 384816.09,
-   "auction_id": "2208973163",
-   "status": "SCHEDULED",
-   "case_number": "F00059825",
-   "parcel_id": "Tax Lot 21 & 22 Block 161 Tax Map of Township of Aberdeen",
-   "address": "126 Milton Avenue",
-   "city": "Cliffwood",
-   "zip": "07721",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Wilmington Savings Fund Society, FSB, Not In Its Individual Capacity, But Solely As Owner Trustee for CSMC 2022-NQM5 Trust, A Delaware Statutory Trust",
-   "defendant": "Yubir Rojas Gasga A/K/A Yubir Rojasgasga",
-   "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
-   "sale_date": "2026-10-26",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973163",
-   "as_of": "2026-10-25T00:22-04:00",
-   "sheriff_number": "FOR-25002025"
-  },
-  {
-   "county": "monmouth",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Court Ordered Plaintiff Adjournment",
-     "date": "2026-10-26"
-    },
-    {
-     "status": "Adjournment Plaintiff",
-     "date": "2026-09-14"
-    },
-    {
-     "status": "Adjournment Plaintiff",
-     "date": "2026-08-17"
-    },
-    {
-     "status": "Adjournment Plaintiff",
-     "date": "2026-07-20"
-    },
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-06-22"
-    },
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-05-26"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-04-27"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-02-17"
-    }
-   ],
-   "times_postponed": 6,
-   "upset_amount": 550022.96,
-   "auction_id": "2208973201",
-   "status": "SCHEDULED",
-   "case_number": "F00463123",
-   "parcel_id": "Lot 4, Block 446 on the official Tax Map of the Township of Middletown",
-   "address": "9 Flomar Avenue",
-   "city": "Leonardo",
-   "zip": "07737",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Lakeview Loan Servicing, LLC",
-   "defendant": "Nicholas Hubbard Jr. et al.",
-   "attorney": "Brock & Scott, PLLC",
-   "sale_date": "2026-10-26",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973201",
-   "as_of": "2026-10-25T00:22-04:00",
-   "sheriff_number": "FOR-25002385"
-  },
-  {
-   "county": "monmouth",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Bankrupt",
-     "date": "2026-10-26"
-    },
-    {
-     "status": "Adjournment Plaintiff",
-     "date": "2026-10-26"
-    },
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-10-13"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-09-14"
-    },
-    {
-     "status": "Bankrupt",
-     "date": "2026-03-30"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-03-30"
-    }
-   ],
-   "times_postponed": 2,
-   "upset_amount": 135283.79,
-   "auction_id": "2208973241",
-   "status": "SCHEDULED",
-   "case_number": "F00769323",
-   "parcel_id": "Tax Lot:12   Block:21",
-   "address": "25 Campview Place",
-   "city": "Keansburg",
-   "zip": "07734",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Habitat for Humanity in Monmouth County, Inc. f/k/a Habitat for Humanity of Northeast Monmouth County, Inc.",
-   "defendant": "Toby C. Richard, Sr.; Tony A. Richard",
-   "attorney": "Lowenstein Sandler LLP",
-   "sale_date": "2026-10-26",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973241",
-   "as_of": "2026-10-25T00:22-04:00",
-   "sheriff_number": "FOR-26000220"
-  },
-  {
-   "county": "monmouth",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-10-26"
-    },
-    {
-     "status": "Adjournment Plaintiff",
-     "date": "2026-09-28"
-    },
-    {
-     "status": "Adjournment Plaintiff",
-     "date": "2026-08-31"
-    },
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-08-03"
-    },
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-07-06"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-06-08"
-    }
-   ],
-   "times_postponed": 4,
-   "upset_amount": 252506.33,
-   "auction_id": "2208973303",
-   "status": "SCHEDULED",
-   "case_number": "F01203624",
-   "parcel_id": "Tax Lot: 33   Block: 65.04 Located on the tax map of the Borough of Tinton Falls",
-   "address": "22 Willshire Drive",
-   "city": "Tinton Falls",
-   "zip": "07724",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Nationstar Mortgage LLC",
-   "defendant": "Alma Moses, her heirs, devisees and personal representatives and his/hers, their or any of their successors in right, title and interest et al.",
-   "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
-   "sale_date": "2026-10-26",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973303",
-   "as_of": "2026-10-25T00:22-04:00",
-   "sheriff_number": "FOR-26000679"
-  },
-  {
-   "county": "monmouth",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-10-26"
-    },
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-09-28"
-    },
-    {
-     "status": "Adjournment Plaintiff",
-     "date": "2026-08-31"
-    },
-    {
-     "status": "Adjournment Plaintiff",
-     "date": "2026-08-03"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-07-06"
-    }
-   ],
-   "times_postponed": 4,
-   "upset_amount": 781754.42,
-   "auction_id": "2208973328",
-   "status": "SCHEDULED",
-   "case_number": "F01863910",
-   "parcel_id": "Tax Block #84.18, Lot #66 Tax Map of The Township of Howell",
-   "address": "79 Concord Circle",
-   "city": "Howell",
-   "zip": "07731",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "TD Bank, N.A.",
-   "defendant": "Tim Hanley a/k/a Timothy R. Hanley, et al.",
-   "attorney": "Duane Morris LLP",
-   "sale_date": "2026-10-26",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973328",
-   "as_of": "2026-10-25T00:22-04:00",
-   "sheriff_number": "FOR-26000963"
-  },
-  {
-   "county": "monmouth",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-10-26"
-    },
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-09-28"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-08-31"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-07-06"
-    }
-   ],
-   "times_postponed": 2,
-   "upset_amount": 1323662.54,
-   "auction_id": "2208973336",
-   "status": "SCHEDULED",
-   "case_number": "F03073416",
-   "parcel_id": "Lot 83.44, Block 180 Tax Map of the Township of Marlboro",
-   "address": "55 Deerfield Road",
-   "city": "Morganville",
-   "zip": "07751",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "M&T Bank S/B/M Hudson City Savings Bank",
-   "defendant": "Sudhir Alankar, et al.",
-   "attorney": "McCalla Raymer Leibert Pierce LLC",
-   "sale_date": "2026-10-26",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973336",
-   "as_of": "2026-10-25T00:22-04:00",
-   "sheriff_number": "FOR-26001015"
-  },
-  {
-   "county": "monmouth",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-10-26"
-    },
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-09-28"
-    },
-    {
-     "status": "Adjournment Plaintiff",
-     "date": "2026-08-31"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-08-03"
-    }
-   ],
-   "times_postponed": 3,
-   "upset_amount": 367550.81,
-   "auction_id": "2208973351",
-   "status": "SCHEDULED",
-   "case_number": "F00303024",
-   "parcel_id": "Tax Lots(s): 21, in Block: 105 Tax Map of Township of Howell",
-   "address": "10 Woodside Drive",
-   "city": "Howell",
-   "zip": "07731",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "U.S. Bank Trust Company, National Association, as Trustee as Successor-in-interest to U.S. Bank National Association, as IndentureTtrustee for The Holders Of The CIM TRUST 2019-R4,",
-   "defendant": "Michael Stancheck",
-   "attorney": "Friedman Vartolo LLP",
-   "sale_date": "2026-10-26",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973351",
-   "as_of": "2026-10-25T00:22-04:00",
-   "sheriff_number": "FOR-26001194"
-  },
-  {
-   "county": "monmouth",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-10-26"
-    },
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-09-28"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-08-31"
-    }
-   ],
-   "times_postponed": 2,
-   "upset_amount": 586724.31,
-   "auction_id": "2208973377",
-   "status": "SCHEDULED",
-   "case_number": "F00210125",
-   "parcel_id": "Lot and Block: Lot 12.01, Block 398 Tax Map of City of Long Branch",
-   "address": "187 Liberty Street",
-   "city": "Long Branch",
-   "zip": "07740",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Loan Funder LLC, Series 53522",
-   "defendant": "187 Liberty LLC and Fernando Desouza",
-   "attorney": "Weber Gallagher Simpson Stapleton Fires & Newby",
-   "sale_date": "2026-10-26",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973377",
-   "as_of": "2026-10-25T00:22-04:00",
-   "sheriff_number": "FOR-26001387"
-  },
-  {
-   "county": "monmouth",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-10-26"
-    },
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-09-28"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-08-31"
-    }
-   ],
-   "times_postponed": 2,
-   "upset_amount": 747756.21,
-   "auction_id": "2208973379",
-   "status": "SCHEDULED",
-   "case_number": "F01099025",
-   "parcel_id": "Lot and Block: Lot 13, Block 28 Tax Map of Borough of Keansburg",
-   "address": "6 Shore Boulevard10 Shore Boulevard",
-   "city": "",
-   "zip": null,
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Loan Funder LLC, Series 78460",
-   "defendant": "6 Shore Blvd LLC, et. al.",
-   "attorney": "Weber Gallagher Simpson Stapleton Fires & Newby, LLP",
-   "sale_date": "2026-10-26",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973379",
-   "as_of": "2026-10-25T00:22-04:00",
-   "sheriff_number": "FOR-26001420"
-  },
-  {
-   "county": "monmouth",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-10-26"
-    },
-    {
-     "status": "Adjournment Defendant",
-     "date": "2026-09-28"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-08-31"
-    }
-   ],
-   "times_postponed": 2,
-   "upset_amount": 286879.41,
-   "auction_id": "2208973380",
-   "status": "SCHEDULED",
-   "case_number": "F00160924",
-   "parcel_id": "Lot and Block: Lot 2 f/k/a 1 Block 2513 f/k/a 9013",
-   "address": "723 Ruth Drive",
-   "city": "Neptune",
-   "zip": "07753",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "U.S. Bank Trust Company, National Association, as Trustee, as Successor-in-interest to U.S. Bank National Association, as Trustee Successor in interest to Bank of America National Association, as Trustee, Successor by Merger to Lasalle Babnk National Association, as as trustee for Residential Asset Mortgage Products, Inc., Mortgage Asset-Backed Pass-Through Certificates Series 2007-PR3",
-   "defendant": "Nicole S. Dickerson a/k/a Nicole M. Dickerson, et. al.",
-   "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
-   "sale_date": "2026-10-26",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973380",
-   "as_of": "2026-10-25T00:22-04:00",
-   "sheriff_number": "FOR-26001433"
-  },
   {
    "county": "monmouth",
    "state": "new-jersey",
@@ -492,7 +32,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 563175.63,
-   "auction_id": "2208972818",
+   "auction_id": "2212432516",
    "status": "SCHEDULED",
    "case_number": "F00974523",
    "parcel_id": "LOT 1 BLOCK 165 Tax Map of the Township of Howell",
@@ -507,8 +47,8 @@
    "attorney": "Stern & Eisenberg, PC",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208972818",
-   "as_of": "2026-10-25T00:22-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432516",
+   "as_of": "2026-10-27T07:07-04:00",
    "sheriff_number": "FOR-24001485"
   },
   {
@@ -562,7 +102,7 @@
    ],
    "times_postponed": 10,
    "upset_amount": 651764.99,
-   "auction_id": "2208973165",
+   "auction_id": "2212432863",
    "status": "SCHEDULED",
    "case_number": "F00030025",
    "parcel_id": "LOT 32.24 BLOCK 29 TAX MAP OF TOWNSHIP OF HOLMDEL",
@@ -577,8 +117,8 @@
    "attorney": "Pincus Law Group, PLLC",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973165",
-   "as_of": "2026-10-25T00:22-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432863",
+   "as_of": "2026-10-27T07:07-04:00",
    "sheriff_number": "FOR-25002028"
   },
   {
@@ -612,7 +152,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": 223639.55,
-   "auction_id": "2208973277",
+   "auction_id": "2212432975",
    "status": "SCHEDULED",
    "case_number": "F01029325",
    "parcel_id": "Lot and Block: Lot 7, Block 148 Tax Map of Borough of Keansburg",
@@ -627,8 +167,8 @@
    "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973277",
-   "as_of": "2026-10-25T00:22-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432975",
+   "as_of": "2026-10-27T07:07-04:00",
    "sheriff_number": "FOR-26000452"
   },
   {
@@ -658,7 +198,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": 544266.28,
-   "auction_id": "2208973337",
+   "auction_id": "2212433035",
    "status": "SCHEDULED",
    "case_number": "F00726525",
    "parcel_id": "Lot and Block: Lot 7.02, Block 110 Tax Map of Borough of Matawan",
@@ -673,8 +213,8 @@
    "attorney": "Brock & Scott, PLLC",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973337",
-   "as_of": "2026-10-25T00:22-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433035",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001019"
   },
   {
@@ -700,7 +240,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 76243.74,
-   "auction_id": "2208973365",
+   "auction_id": "2212433063",
    "status": "SCHEDULED",
    "case_number": "L00353723",
    "parcel_id": "Tax Lot: 7   Block: 176  Located on the tax map of the Township of Morganville",
@@ -715,8 +255,8 @@
    "attorney": "Snellings Law LLC",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973365",
-   "as_of": "2026-10-25T00:22-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433063",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001307"
   },
   {
@@ -742,7 +282,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 183354.16,
-   "auction_id": "2208973375",
+   "auction_id": "2212433073",
    "status": "SCHEDULED",
    "case_number": "F00136626",
    "parcel_id": "Lot and Block: Lot 21, Block 596 f/k/a Lot 2.01, Block 114.01 Tax Map of Township of Middletown",
@@ -757,9 +297,51 @@
    "attorney": "Brock & Scott, PLLC",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973375",
-   "as_of": "2026-10-25T00:22-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433073",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001379"
+  },
+  {
+   "county": "monmouth",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Court Ordered Defendant Adjournment",
+     "date": "2026-11-09"
+    },
+    {
+     "status": "Adjournment Defendant",
+     "date": "2026-10-26"
+    },
+    {
+     "status": "Adjournment Defendant",
+     "date": "2026-09-28"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-08-31"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 586724.31,
+   "auction_id": "2212433075",
+   "status": "SCHEDULED",
+   "case_number": "F00210125",
+   "parcel_id": "Lot and Block: Lot 12.01, Block 398 Tax Map of City of Long Branch",
+   "address": "187 Liberty Street",
+   "city": "Long Branch",
+   "zip": "07740",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Loan Funder LLC, Series 53522",
+   "defendant": "187 Liberty LLC and Fernando Desouza",
+   "attorney": "Weber Gallagher Simpson Stapleton Fires & Newby",
+   "sale_date": "2026-11-09",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433075",
+   "as_of": "2026-10-27T07:08-04:00",
+   "sheriff_number": "FOR-26001387"
   },
   {
    "county": "monmouth",
@@ -780,7 +362,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 621858.8,
-   "auction_id": "2208973384",
+   "auction_id": "2212433082",
    "status": "SCHEDULED",
    "case_number": "F00271224",
    "parcel_id": "Tax Lot(s): 42   Block:84.08  Located on the tax map of the Township of Howell",
@@ -795,8 +377,8 @@
    "attorney": "Friedman Vartolo LLP",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973384",
-   "as_of": "2026-10-25T00:22-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433082",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001506"
   },
   {
@@ -818,7 +400,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 495126.94,
-   "auction_id": "2208973385",
+   "auction_id": "2212433083",
    "status": "SCHEDULED",
    "case_number": "F00248226",
    "parcel_id": "Lot and Block: Lot(s)23, Block 80.06 Tax Map of Township of Freehold",
@@ -833,8 +415,8 @@
    "attorney": "Friedman Vartolo LLP",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973385",
-   "as_of": "2026-10-25T00:22-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433083",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001507"
   },
   {
@@ -856,7 +438,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 458712.09,
-   "auction_id": "2208973388",
+   "auction_id": "2212433086",
    "status": "SCHEDULED",
    "case_number": "F00757025",
    "parcel_id": "Lot and Block: Lot 23 Block 180 f/k/a Lot 7 Block 50.F Tax Map of Township of Marlboro",
@@ -871,8 +453,8 @@
    "attorney": "Logs Legal Group, LLP",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973388",
-   "as_of": "2026-10-25T00:22-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433086",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001527"
   },
   {
@@ -894,7 +476,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 86095.89,
-   "auction_id": "2208973389",
+   "auction_id": "2212433087",
    "status": "SCHEDULED",
    "case_number": "F01607018",
    "parcel_id": "Lot 14, Block 133 Tax Map of the Borough of Union Beach",
@@ -909,8 +491,8 @@
    "attorney": "Pincus Law Group, PLLC",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973389",
-   "as_of": "2026-10-25T00:22-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433087",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001561"
   },
   {
@@ -928,7 +510,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 192322.11,
-   "auction_id": "2208973400",
+   "auction_id": "2212433098",
    "status": "SCHEDULED",
    "case_number": "F00366626",
    "parcel_id": "Lot and Block: Lot 93, Block 339 Tax Map of Township of Marlboro",
@@ -943,8 +525,8 @@
    "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973400",
-   "as_of": "2026-10-25T00:22-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433098",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001731"
   },
   {
@@ -962,7 +544,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 264322.1,
-   "auction_id": "2208973401",
+   "auction_id": "2212433099",
    "status": "SCHEDULED",
    "case_number": "F00090926",
    "parcel_id": "Lot and Block: Lot 26, Block 5105 Tax Map of Township of Neptune",
@@ -977,8 +559,8 @@
    "attorney": "Hill Wallack LLP",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973401",
-   "as_of": "2026-10-25T00:22-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433099",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001740"
   },
   {
@@ -996,7 +578,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 705500.35,
-   "auction_id": "2208973403",
+   "auction_id": "2212433101",
    "status": "SCHEDULED",
    "case_number": "01114924",
    "parcel_id": "Lot and Block: Lot 3, Block 84.11 Tax Map of the Township of Howell",
@@ -1011,43 +593,9 @@
    "attorney": "Brock & Scott, PLLC",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973403",
-   "as_of": "2026-10-25T00:22-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433101",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001774"
-  },
-  {
-   "county": "monmouth",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Adjournment Plaintiff",
-     "date": "2026-11-09"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-10-13"
-    }
-   ],
-   "times_postponed": 1,
-   "upset_amount": 159770.27,
-   "auction_id": "2208973404",
-   "status": "SCHEDULED",
-   "case_number": "00650624",
-   "parcel_id": "Lot and Block: Lot 50.02, Block 86.182 Tax Map of Township of Freehold",
-   "address": "50 Christopher Court",
-   "city": "",
-   "zip": null,
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as Owner Trustee for RCAF Acquisition Trust",
-   "defendant": "Michael J. Augello, et. al.",
-   "attorney": "Hladik, Onorato & Federman, LLP",
-   "sale_date": "2026-11-09",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973404",
-   "as_of": "2026-10-25T00:23-04:00",
-   "sheriff_number": "FOR-26001788"
   },
   {
    "county": "monmouth",
@@ -1064,7 +612,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 389504.77,
-   "auction_id": "2208973406",
+   "auction_id": "2212433104",
    "status": "SCHEDULED",
    "case_number": "F01338222",
    "parcel_id": "Tax Lot: 12  Block: 1803 Located on the tax map of the City of Asbury Park",
@@ -1079,8 +627,8 @@
    "attorney": "Gross Polowy, LLC",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973406",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433104",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001792"
   },
   {
@@ -1098,7 +646,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 270864.55,
-   "auction_id": "2208973407",
+   "auction_id": "2212433105",
    "status": "SCHEDULED",
    "case_number": "F00653325",
    "parcel_id": "Tax Lot: 12  Block: 126 Located on the tax map of the Borough of Keansburg",
@@ -1113,8 +661,8 @@
    "attorney": "Logs Legal Group, LLP",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973407",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433105",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001793"
   },
   {
@@ -1128,7 +676,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 2283952.66,
-   "auction_id": "2208973416",
+   "auction_id": "2212433114",
    "status": "SCHEDULED",
    "case_number": "F00345926",
    "parcel_id": null,
@@ -1143,8 +691,8 @@
    "attorney": "LaRocca, Hornik, Greenberg, Kittredge, Carlin & McPartland LLP",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973416",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433114",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001880"
   },
   {
@@ -1158,7 +706,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 2003607.76,
-   "auction_id": "2208973420",
+   "auction_id": "2212433118",
    "status": "SCHEDULED",
    "case_number": "F00323725",
    "parcel_id": "Lot and Block: Lot 7, Block 5, Tax Map of City of Long Branch",
@@ -1173,8 +721,8 @@
    "attorney": "Hasbani & Light, P.C.",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973420",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433118",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001903"
   },
   {
@@ -1188,7 +736,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 211338.08,
-   "auction_id": "2208973421",
+   "auction_id": "2212433119",
    "status": "SCHEDULED",
    "case_number": "F00367826",
    "parcel_id": "Tax Lot: #8    Block: #134  Located on the tax map of the Borough of Union Beach",
@@ -1203,8 +751,8 @@
    "attorney": "Stern & Eisenberg",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973421",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433119",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001904"
   },
   {
@@ -1218,7 +766,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 21327.34,
-   "auction_id": "2208973424",
+   "auction_id": "2212433122",
    "status": "SCHEDULED",
    "case_number": "F00307826",
    "parcel_id": "Lot and Block: Lot 126, Block 139.02 Tax Map of Township of Howell",
@@ -1233,8 +781,8 @@
    "attorney": "Cutolo Barros LLC",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973424",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433122",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001918"
   },
   {
@@ -1248,7 +796,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 1014680.3,
-   "auction_id": "2208973425",
+   "auction_id": "2212433123",
    "status": "SCHEDULED",
    "case_number": "F00023223",
    "parcel_id": "Tax Lot: 22.06   Block: 2803  Located on the tax map of the Township of Eatontown",
@@ -1263,8 +811,8 @@
    "attorney": "Michael Ivanciu, ESQ.",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973425",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433123",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001921"
   },
   {
@@ -1278,7 +826,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 57189.36,
-   "auction_id": "2208973426",
+   "auction_id": "2212433124",
    "status": "SCHEDULED",
    "case_number": "F251425",
    "parcel_id": "Lot and Block: Lot 16, Block 105 Tax Map of Township of Ocean",
@@ -1293,8 +841,8 @@
    "attorney": "Honig & Greenberg LLC",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973426",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433124",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001922"
   },
   {
@@ -1308,7 +856,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 291932.48,
-   "auction_id": "2208973427",
+   "auction_id": "2212433125",
    "status": "SCHEDULED",
    "case_number": "F00405423",
    "parcel_id": "Tax LOT: 3 BLOCK 230",
@@ -1323,8 +871,8 @@
    "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973427",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433125",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-26001935"
   },
   {
@@ -1370,7 +918,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": 543904.29,
-   "auction_id": "2208972686",
+   "auction_id": "2212432384",
    "status": "SCHEDULED",
    "case_number": "F00213420",
    "parcel_id": "Tax Lot(s): 51.08, in Block: 101  Tax Map of Township of Freehold",
@@ -1385,8 +933,8 @@
    "attorney": "Friedman Vartolo LLP",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208972686",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432384",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-21001891"
   },
   {
@@ -1436,7 +984,7 @@
    ],
    "times_postponed": 5,
    "upset_amount": 357689.12,
-   "auction_id": "2208972707",
+   "auction_id": "2212432405",
    "status": "SCHEDULED",
    "case_number": "F00202722",
    "parcel_id": "Lot 9, Block 16 Tax Map of the Borough of Keyport",
@@ -1451,8 +999,8 @@
    "attorney": "Pluese, Becker & Saltzman, LLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208972707",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432405",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-22002460"
   },
   {
@@ -1494,7 +1042,7 @@
    ],
    "times_postponed": 5,
    "upset_amount": 315104.01,
-   "auction_id": "2208972735",
+   "auction_id": "2212432433",
    "status": "SCHEDULED",
    "case_number": "F00172823",
    "parcel_id": "Tax Lot: 1.32 S03 Tax Block: 86.09 Tax Map of Township of Freehold",
@@ -1509,8 +1057,8 @@
    "attorney": "Pluese, Becker & Saltzman, LLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208972735",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432433",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-23001856"
   },
   {
@@ -1564,7 +1112,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": 645204.76,
-   "auction_id": "2208972824",
+   "auction_id": "2212432522",
    "status": "SCHEDULED",
    "case_number": "F00515521",
    "parcel_id": "Tax Lot(s): 18, in Block: 546 Tax Map of Township of Middletown",
@@ -1579,8 +1127,8 @@
    "attorney": "Friedman Vartolo LLP",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208972824",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432522",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-24001567"
   },
   {
@@ -1622,7 +1170,7 @@
    ],
    "times_postponed": 5,
    "upset_amount": 390778.62,
-   "auction_id": "2208973192",
+   "auction_id": "2212432890",
    "status": "SCHEDULED",
    "case_number": "F01351923",
    "parcel_id": "Lot: 11 f/k/a Lot 2; Block: 4214 f/k/a Block 1401 Tax Map of Township of Neptune",
@@ -1637,9 +1185,71 @@
    "attorney": "Hill Wallack LLP",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973192",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432890",
+   "as_of": "2026-10-27T07:08-04:00",
    "sheriff_number": "FOR-25002312"
+  },
+  {
+   "county": "monmouth",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Adjournment Plaintiff",
+     "date": "2026-11-23"
+    },
+    {
+     "status": "Court Ordered Plaintiff Adjournment",
+     "date": "2026-10-26"
+    },
+    {
+     "status": "Adjournment Plaintiff",
+     "date": "2026-09-14"
+    },
+    {
+     "status": "Adjournment Plaintiff",
+     "date": "2026-08-17"
+    },
+    {
+     "status": "Adjournment Plaintiff",
+     "date": "2026-07-20"
+    },
+    {
+     "status": "Adjournment Defendant",
+     "date": "2026-06-22"
+    },
+    {
+     "status": "Adjournment Defendant",
+     "date": "2026-05-26"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-04-27"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-02-17"
+    }
+   ],
+   "times_postponed": 7,
+   "upset_amount": 550022.96,
+   "auction_id": "2212432899",
+   "status": "SCHEDULED",
+   "case_number": "F00463123",
+   "parcel_id": "Lot 4, Block 446 on the official Tax Map of the Township of Middletown",
+   "address": "9 Flomar Avenue",
+   "city": "Leonardo",
+   "zip": "07737",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Lakeview Loan Servicing, LLC",
+   "defendant": "Nicholas Hubbard Jr. et al.",
+   "attorney": "Brock & Scott, PLLC",
+   "sale_date": "2026-11-23",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432899",
+   "as_of": "2026-10-27T07:09-04:00",
+   "sheriff_number": "FOR-25002385"
   },
   {
    "county": "monmouth",
@@ -1676,7 +1286,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": 557527.21,
-   "auction_id": "2208973247",
+   "auction_id": "2212432945",
    "status": "SCHEDULED",
    "case_number": "F0090962525",
    "parcel_id": "Lot and Block: Lot 22, Block 576 Tax Map of Township of Middletown",
@@ -1691,8 +1301,8 @@
    "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973247",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432945",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26000244"
   },
   {
@@ -1722,7 +1332,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 2494392.8,
-   "auction_id": "2208973258",
+   "auction_id": "2212432956",
    "status": "SCHEDULED",
    "case_number": "F00373124",
    "parcel_id": "Lot and Block: Lot 10.06, Block 6 Tax Map of Township of Colts Neck",
@@ -1737,8 +1347,8 @@
    "attorney": "Stern Lavinthal & Frankenberg LLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973258",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432956",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26000289"
   },
   {
@@ -1764,7 +1374,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 262727.0,
-   "auction_id": "2208973293",
+   "auction_id": "2212432991",
    "status": "SCHEDULED",
    "case_number": "F00885025",
    "parcel_id": "Tax Lot: 21.02    Block: 49 Located on the tax map of the Township of Aberdeen",
@@ -1779,8 +1389,8 @@
    "attorney": "Pluese, Becker & Saltzman",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973293",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432991",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26000569"
   },
   {
@@ -1806,7 +1416,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 554834.3,
-   "auction_id": "2208973294",
+   "auction_id": "2212432992",
    "status": "SCHEDULED",
    "case_number": "F01353617",
    "parcel_id": "Tax Lot: 25   Block: 141 Located on the tax map of the Township of Hazlet",
@@ -1821,8 +1431,8 @@
    "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973294",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432992",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26000572"
   },
   {
@@ -1848,7 +1458,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 509458.71,
-   "auction_id": "2208973372",
+   "auction_id": "2212433070",
    "status": "SCHEDULED",
    "case_number": "F01107425",
    "parcel_id": "Lot and Block: Lot 12, Block 30 Tax Map of the Borough of Oceanport",
@@ -1863,8 +1473,8 @@
    "attorney": "Brock & Scott, PLLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973372",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433070",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26001365"
   },
   {
@@ -1886,7 +1496,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 319522.34,
-   "auction_id": "2208973390",
+   "auction_id": "2212433088",
    "status": "SCHEDULED",
    "case_number": "F00053219",
    "parcel_id": "Lot 19 (fka 69), Block 110 (fka 46) Tax Map of the Borough of Keansburg",
@@ -1901,8 +1511,8 @@
    "attorney": "McCalla Raymer Leibert Pierce LLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973390",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433088",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26001590"
   },
   {
@@ -1924,7 +1534,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 36177.7,
-   "auction_id": "2208973391",
+   "auction_id": "2212433089",
    "status": "SCHEDULED",
    "case_number": "F990525",
    "parcel_id": "Lot and Block: Lot 2 and Lots 3 through 7, Block 86 Tax Map of Borough Keyport",
@@ -1939,8 +1549,8 @@
    "attorney": "Simeone & Raynor, LLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973391",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433089",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26001595"
   },
   {
@@ -1962,7 +1572,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 323353.34,
-   "auction_id": "2208973394",
+   "auction_id": "2212433092",
    "status": "SCHEDULED",
    "case_number": "F01380525",
    "parcel_id": "Lot and Block: Lot 1 C0036, Block 396 Tax Map of Township of Marlboro",
@@ -1977,8 +1587,8 @@
    "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973394",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433092",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26001670"
   },
   {
@@ -2000,7 +1610,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 180836.55,
-   "auction_id": "2208973395",
+   "auction_id": "2212433093",
    "status": "SCHEDULED",
    "case_number": "F01219025",
    "parcel_id": "Lot and Block: Lot 135, Block 25.01 Tax Map of Township of Howell",
@@ -2015,8 +1625,8 @@
    "attorney": "LHR&G Private Lender Group",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973395",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433093",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26001676"
   },
   {
@@ -2038,7 +1648,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 421964.71,
-   "auction_id": "2208973396",
+   "auction_id": "2212433094",
    "status": "SCHEDULED",
    "case_number": "F01168523",
    "parcel_id": "Lot and Block: Lot 52, Block 35.70 Tax Map of Township of Howell",
@@ -2053,8 +1663,8 @@
    "attorney": "Parker McCay P.A.",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973396",
-   "as_of": "2026-10-25T00:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433094",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26001681"
   },
   {
@@ -2076,7 +1686,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 416600.09,
-   "auction_id": "2208973397",
+   "auction_id": "2212433095",
    "status": "SCHEDULED",
    "case_number": "F00454325",
    "parcel_id": "Lot and Block: Lot 1  f/k/a 13, Block 1610 f/k/a 3026 Tax Map of Township of Neptune",
@@ -2091,8 +1701,8 @@
    "attorney": "Romano Garubo & Argentieri",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973397",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433095",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26001684"
   },
   {
@@ -2114,7 +1724,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 160934.78,
-   "auction_id": "2208973398",
+   "auction_id": "2212433096",
    "status": "SCHEDULED",
    "case_number": "F00106426",
    "parcel_id": "Lot and Block: Lot 7 C1109, Block 176 Tax Map of Township of Marlboro",
@@ -2129,8 +1739,8 @@
    "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973398",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433096",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26001692"
   },
   {
@@ -2148,7 +1758,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 281292.79,
-   "auction_id": "2208973417",
+   "auction_id": "2212433115",
    "status": "SCHEDULED",
    "case_number": "F01358825",
    "parcel_id": "Lot and Block: Lot 7.22 C1000, Block 164.01 Tax Map of Township of Howell",
@@ -2163,8 +1773,8 @@
    "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973417",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433115",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26001886"
   },
   {
@@ -2178,7 +1788,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 506294.63,
-   "auction_id": "2208973428",
+   "auction_id": "2212433126",
    "status": "SCHEDULED",
    "case_number": "F00809525",
    "parcel_id": "Tax Lot: 1,2 and 3  Block: 187 Located on the tax map of the Township of Howell",
@@ -2193,8 +1803,8 @@
    "attorney": "Brock & Scott, PLLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973428",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433126",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26001939"
   },
   {
@@ -2208,7 +1818,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 248858.0,
-   "auction_id": "2208973429",
+   "auction_id": "2212433127",
    "status": "SCHEDULED",
    "case_number": "F00129726",
    "parcel_id": "Lot and Block: Lot 10, Block 178 Tax Map of Borough of Keansburg",
@@ -2223,8 +1833,8 @@
    "attorney": "McCalla Raymer Leibert Pierce LLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973429",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433127",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26001947"
   },
   {
@@ -2238,7 +1848,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 480065.82,
-   "auction_id": "2208973430",
+   "auction_id": "2212433128",
    "status": "SCHEDULED",
    "case_number": "F00882225",
    "parcel_id": "Lot and Block: Lot 33 FKA Lot 25 FKA Lot 23.03, Block 194 FKA Block 736, Tax Map of Township of Middletown",
@@ -2253,8 +1863,8 @@
    "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973430",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433128",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26001954"
   },
   {
@@ -2268,7 +1878,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 358565.55,
-   "auction_id": "2208973431",
+   "auction_id": "2212433129",
    "status": "SCHEDULED",
    "case_number": "F00001726",
    "parcel_id": "Lot and Block: Lot 16, Block 120 Tax Map of Township of Marlboro",
@@ -2283,8 +1893,8 @@
    "attorney": "Logs Legal Group, LLP",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973431",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433129",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26001971"
   },
   {
@@ -2298,7 +1908,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 632009.69,
-   "auction_id": "2208973432",
+   "auction_id": "2212433130",
    "status": "SCHEDULED",
    "case_number": "F00852023",
    "parcel_id": "Lot and Block: Lot 7, Block 76  Tax Map of Borough of Union Beach",
@@ -2313,8 +1923,8 @@
    "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973432",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433130",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26001992"
   },
   {
@@ -2328,7 +1938,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 302562.75,
-   "auction_id": "2208973433",
+   "auction_id": "2212433131",
    "status": "SCHEDULED",
    "case_number": "F00238926",
    "parcel_id": "Lot and Block: Lot 1.05, Block 843 Tax Map of Township of Middletown",
@@ -2343,8 +1953,8 @@
    "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973433",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433131",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26002007"
   },
   {
@@ -2358,7 +1968,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 871966.94,
-   "auction_id": "2208973435",
+   "auction_id": "2212433133",
    "status": "SCHEDULED",
    "case_number": "F431626",
    "parcel_id": "Lot and Block: Lot 100, Block 746 Tax Map of Township of Middletown",
@@ -2373,8 +1983,8 @@
    "attorney": "Dembo Brown & Burns LLP",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973435",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433133",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26002020"
   },
   {
@@ -2388,7 +1998,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 126690.89,
-   "auction_id": "2208973436",
+   "auction_id": "2212433134",
    "status": "SCHEDULED",
    "case_number": "F01610219",
    "parcel_id": "Lot 14 F/K/A Lot 1 Block 1612 F/K/A Block 3030 Tax Map of Township of Neptune",
@@ -2403,8 +2013,8 @@
    "attorney": "Brock & Scott, PLLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973436",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433134",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26002021"
   },
   {
@@ -2418,7 +2028,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 303458.45,
-   "auction_id": "2208973437",
+   "auction_id": "2212433135",
    "status": "SCHEDULED",
    "case_number": "F434126",
    "parcel_id": "Tax Lot: 79.01    Block: 423  Located on the tax map of the Township of Manalapan",
@@ -2433,8 +2043,8 @@
    "attorney": "Dembo Brown & Burns LLP",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973437",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433135",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26002025"
   },
   {
@@ -2448,7 +2058,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 290286.77,
-   "auction_id": "2208973438",
+   "auction_id": "2212433136",
    "status": "SCHEDULED",
    "case_number": "F00903324",
    "parcel_id": "Block 229, Lot 9 Tax Map of The Township of Wall",
@@ -2463,8 +2073,8 @@
    "attorney": "Stern Lavinthal & Frankenberg LLC",
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973438",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433136",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-26002026"
   },
   {
@@ -2526,7 +2136,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": 2881941.63,
-   "auction_id": "2208972745",
+   "auction_id": "2212432443",
    "status": "SCHEDULED",
    "case_number": "F00569123",
    "parcel_id": "Tax Lot: 44 Block: 46 Tax Map of Borough of West Long Branch",
@@ -2541,8 +2151,8 @@
    "attorney": "Hladik, Onorato & Federman, LLP",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208972745",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432443",
+   "as_of": "2026-10-27T07:09-04:00",
    "sheriff_number": "FOR-24000207"
   },
   {
@@ -2596,7 +2206,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": 604259.23,
-   "auction_id": "2208972781",
+   "auction_id": "2212432479",
    "status": "SCHEDULED",
    "case_number": "F01111323",
    "parcel_id": "Tax Lot: 2.061 Tax Block: 87 on the Tax Map of The Township of Freehold",
@@ -2611,8 +2221,8 @@
    "attorney": "Pluese, Becker & Saltzman, LLC",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208972781",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432479",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-24001055"
   },
   {
@@ -2642,7 +2252,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 745496.77,
-   "auction_id": "2208972826",
+   "auction_id": "2212432524",
    "status": "SCHEDULED",
    "case_number": "F01691718",
    "parcel_id": "Block 138.10, Lot 13 Tax Map of the Township of Howell",
@@ -2657,8 +2267,8 @@
    "attorney": "Stern Lavinthal & Frankenberg LLC",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208972826",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432524",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-24001590"
   },
   {
@@ -2700,7 +2310,7 @@
    ],
    "times_postponed": 5,
    "upset_amount": 298540.35,
-   "auction_id": "2208972994",
+   "auction_id": "2212432692",
    "status": "SCHEDULED",
    "case_number": "F01124723",
    "parcel_id": "Tax Lot(s): 1  Block: 11 Located on the tax map of the Borough of Keansburg",
@@ -2715,8 +2325,8 @@
    "attorney": "Friedman Vartolo LLP",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208972994",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432692",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-25000414"
   },
   {
@@ -2766,7 +2376,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": 299262.61,
-   "auction_id": "2208973019",
+   "auction_id": "2212432717",
    "status": "SCHEDULED",
    "case_number": "F00638222",
    "parcel_id": "Tax Lot No. Lot 9 FKA 11 Block 1002 FKA 72  in Asbury Park Block Lot 4 FKA 11.01 Block 601 fka 180 in Neptune Township Tax Map of City of Asbury Park",
@@ -2781,8 +2391,8 @@
    "attorney": "KML Law Group, PC",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973019",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432717",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-25000665"
   },
   {
@@ -2844,7 +2454,7 @@
    ],
    "times_postponed": 12,
    "upset_amount": 10840376.04,
-   "auction_id": "2208973137",
+   "auction_id": "2212432835",
    "status": "SCHEDULED",
    "case_number": "F01155423",
    "parcel_id": null,
@@ -2859,8 +2469,8 @@
    "attorney": "Connell Foley LLP",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973137",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432835",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-25001822"
   },
   {
@@ -2890,7 +2500,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 516966.75,
-   "auction_id": "2208973321",
+   "auction_id": "2212433019",
    "status": "SCHEDULED",
    "case_number": "F00495623",
    "parcel_id": "Lot and Block: Lot 6, Block 244 Tax Map of Township of Hazlet",
@@ -2905,8 +2515,8 @@
    "attorney": "Hill Wallack LLP",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973321",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433019",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26000911"
   },
   {
@@ -2924,7 +2534,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 947960.53,
-   "auction_id": "2208973361",
+   "auction_id": "2212433059",
    "status": "SCHEDULED",
    "case_number": "F00044126",
    "parcel_id": "Lot and Block: Lot 8, Block 37.03 Tax Map of Township of Freehold",
@@ -2939,8 +2549,8 @@
    "attorney": "Powers Kirn, LLC",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973361",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433059",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26001262"
   },
   {
@@ -2962,7 +2572,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 332280.8,
-   "auction_id": "2208973399",
+   "auction_id": "2212433097",
    "status": "SCHEDULED",
    "case_number": "F01034423",
    "parcel_id": "Lot and Block: Lot 12 f/k/a 10, Block 1604 f/k/a 3020",
@@ -2977,9 +2587,47 @@
    "attorney": "Pluese, Becker & Saltzman",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973399",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433097",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26001709"
+  },
+  {
+   "county": "monmouth",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Adjournment Plaintiff",
+     "date": "2026-12-07"
+    },
+    {
+     "status": "Adjournment Plaintiff",
+     "date": "2026-11-09"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-10-13"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 159770.27,
+   "auction_id": "2212433102",
+   "status": "SCHEDULED",
+   "case_number": "00650624",
+   "parcel_id": "Lot and Block: Lot 50.02, Block 86.182 Tax Map of Township of Freehold",
+   "address": "50 Christopher Court",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. Bank Trust National Association, not in its individual capacity, but solely as Owner Trustee for RCAF Acquisition Trust",
+   "defendant": "Michael J. Augello, et. al.",
+   "attorney": "Hladik, Onorato & Federman, LLP",
+   "sale_date": "2026-12-07",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433102",
+   "as_of": "2026-10-27T07:10-04:00",
+   "sheriff_number": "FOR-26001788"
   },
   {
    "county": "monmouth",
@@ -3000,7 +2648,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 190997.04,
-   "auction_id": "2208973405",
+   "auction_id": "2212433103",
    "status": "SCHEDULED",
    "case_number": "F00314126",
    "parcel_id": "Lot and Block: Lot 31, Block 1102, Tax Map of Township of Manalapan",
@@ -3015,8 +2663,8 @@
    "attorney": "Hladik, Onorato & Federman, LLP",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973405",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433103",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26001791"
   },
   {
@@ -3038,7 +2686,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 50827.98,
-   "auction_id": "2208973409",
+   "auction_id": "2212433107",
    "status": "SCHEDULED",
    "case_number": "F00061826",
    "parcel_id": "Lot and Block: Lot 1.0909, Block 87. Tax Map of City of Long Branch",
@@ -3053,8 +2701,8 @@
    "attorney": "Pellegrino & Feldstein LLC",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973409",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433107",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26001795"
   },
   {
@@ -3072,7 +2720,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 187174.43,
-   "auction_id": "2208973418",
+   "auction_id": "2212433116",
    "status": "SCHEDULED",
    "case_number": "F00437226",
    "parcel_id": "Lot and Block: Lot 27, Block 1302, Tax Map of Borough of Eatontown",
@@ -3087,8 +2735,8 @@
    "attorney": "Friedman Vartolo LLP",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973418",
-   "as_of": "2026-10-25T00:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433116",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26001894"
   },
   {
@@ -3106,7 +2754,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 936863.54,
-   "auction_id": "2208973423",
+   "auction_id": "2212433121",
    "status": "SCHEDULED",
    "case_number": "F00446224",
    "parcel_id": "Lot and Block: Lot 21, Block 901 Tax Map of Township of Middletown",
@@ -3121,8 +2769,8 @@
    "attorney": "Hill Wallack LLP",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973423",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433121",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26001916"
   },
   {
@@ -3136,7 +2784,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 484864.62,
-   "auction_id": "2208973439",
+   "auction_id": "2212433137",
    "status": "SCHEDULED",
    "case_number": "F00662926",
    "parcel_id": "Lot and Block: Lot 33.06, Block 83.17 Tax Map of Township of Freehold",
@@ -3151,8 +2799,8 @@
    "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973439",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433137",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26002028"
   },
   {
@@ -3166,7 +2814,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 467966.76,
-   "auction_id": "2208973440",
+   "auction_id": "2212433138",
    "status": "SCHEDULED",
    "case_number": "F00943123",
    "parcel_id": "Lot and Block: Lot 2, Block 212 Tax Map of Township of Ocean",
@@ -3181,8 +2829,8 @@
    "attorney": "Parker McCay P.A.",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973440",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433138",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26002055"
   },
   {
@@ -3196,7 +2844,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 331115.54,
-   "auction_id": "2208973441",
+   "auction_id": "2212433139",
    "status": "SCHEDULED",
    "case_number": "00899524",
    "parcel_id": "Lot and Block: Lot 3, Block 697",
@@ -3211,8 +2859,8 @@
    "attorney": "Gross Polowy, LLC",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973441",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433139",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26002056"
   },
   {
@@ -3226,7 +2874,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 128187.25,
-   "auction_id": "2208973442",
+   "auction_id": "2212433140",
    "status": "SCHEDULED",
    "case_number": "F00165326",
    "parcel_id": "Lot and Block: Lot 10, Block 26.01 Tax Map of Borough of Tinton Falls",
@@ -3241,8 +2889,8 @@
    "attorney": "McCabe, Weisberg & Conway, LLC",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973442",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433140",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26002065"
   },
   {
@@ -3256,7 +2904,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 349285.29,
-   "auction_id": "2208973443",
+   "auction_id": "2212433141",
    "status": "SCHEDULED",
    "case_number": "00917422",
    "parcel_id": "Lot and Block: Lot(s) 26, Block 62 Tax Map of Township of Freehold",
@@ -3271,8 +2919,8 @@
    "attorney": "Friedman Vartolo LLP",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973443",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433141",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26002071"
   },
   {
@@ -3286,7 +2934,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 475445.1,
-   "auction_id": "2208973444",
+   "auction_id": "2212433142",
    "status": "SCHEDULED",
    "case_number": "00619326",
    "parcel_id": "Lot and Block: Lot 4.01, Block 377 Tax Map of City of Long Branch",
@@ -3301,8 +2949,8 @@
    "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973444",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433142",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26002084"
   },
   {
@@ -3316,7 +2964,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 372732.57,
-   "auction_id": "2208973445",
+   "auction_id": "2212433143",
    "status": "SCHEDULED",
    "case_number": "F01231924",
    "parcel_id": "Tax Lot #4 Block #2305 Tax Map of Township of Neptune",
@@ -3331,8 +2979,8 @@
    "attorney": "Stern & Eisenberg, PC",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973445",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433143",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26002097"
   },
   {
@@ -3346,7 +2994,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 773176.69,
-   "auction_id": "2208973446",
+   "auction_id": "2212433144",
    "status": "SCHEDULED",
    "case_number": "F108126",
    "parcel_id": "Tax Lot: 2.04    Block: 86  Located on the tax map of the Township of Freehold",
@@ -3361,8 +3009,8 @@
    "attorney": "Dembo Brown & Burns LLP",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973446",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433144",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26002100"
   },
   {
@@ -3376,7 +3024,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 454177.55,
-   "auction_id": "2208973447",
+   "auction_id": "2212433145",
    "status": "SCHEDULED",
    "case_number": "F00125226",
    "parcel_id": "Lot and Block: Lot 11, Block 212 Tax Map of Borough of Union Beach",
@@ -3391,8 +3039,8 @@
    "attorney": "McCalla Raymer Leibert Pierce LLC",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973447",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433145",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26002112"
   },
   {
@@ -3406,7 +3054,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 223787.37,
-   "auction_id": "2208973448",
+   "auction_id": "2212433146",
    "status": "SCHEDULED",
    "case_number": "F00126226",
    "parcel_id": "Lot and Block: Lot 16, Block 363 Tax Map of City of Long Branch",
@@ -3421,8 +3069,8 @@
    "attorney": "McCabe, Weisberg & Conway, LLC",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973448",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433146",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26002117"
   },
   {
@@ -3436,7 +3084,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 1000410.25,
-   "auction_id": "2208973449",
+   "auction_id": "2212433147",
    "status": "SCHEDULED",
    "case_number": "F00049323",
    "parcel_id": "Lot and Block: Lot 11, Block 706, Tax Map of Township of Manalapan",
@@ -3451,8 +3099,8 @@
    "attorney": "Stern & Eisenberg, PC",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973449",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433147",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26002119"
   },
   {
@@ -3466,7 +3114,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 561368.0,
-   "auction_id": "2208973450",
+   "auction_id": "2212433148",
    "status": "SCHEDULED",
    "case_number": "F00298426",
    "parcel_id": "Lot and Block: Lot 14, Block 111 Tax Map of Township of Aberdeen",
@@ -3481,8 +3129,8 @@
    "attorney": "Brock & Scott, PLLC",
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973450",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433148",
+   "as_of": "2026-10-27T07:10-04:00",
    "sheriff_number": "FOR-26002135"
   },
   {
@@ -3524,7 +3172,7 @@
    ],
    "times_postponed": 5,
    "upset_amount": 172375.32,
-   "auction_id": "2208973054",
+   "auction_id": "2212432752",
    "status": "SCHEDULED",
    "case_number": "F00707524",
    "parcel_id": "Tax Lot #78 Block #92 Tax Map of Neptune City",
@@ -3539,8 +3187,8 @@
    "attorney": "Stern & Eisenberg, PC",
    "sale_date": "2027-01-11",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973054",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432752",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "FOR-25001088"
   },
   {
@@ -3578,7 +3226,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": 793893.34,
-   "auction_id": "2208973223",
+   "auction_id": "2212432921",
    "status": "SCHEDULED",
    "case_number": "F00227225",
    "parcel_id": "Lot and Block: Lot 9, Block 304 Tax Map of Township of Manalapan",
@@ -3593,8 +3241,8 @@
    "attorney": "Pluese, Becker, Saltzman & Thomas, LLC",
    "sale_date": "2027-01-11",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973223",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212432921",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "FOR-26000095"
   },
   {
@@ -3628,7 +3276,7 @@
    ],
    "times_postponed": 5,
    "upset_amount": 310209.46,
-   "auction_id": "2208973354",
+   "auction_id": "2212433052",
    "status": "SCHEDULED",
    "case_number": "F00405523",
    "parcel_id": "Lot: 56 Block: 17 on the official Tax Map of the Borough of Allentown",
@@ -3643,8 +3291,8 @@
    "attorney": "Brock & Scott, PLLC",
    "sale_date": "2027-01-11",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973354",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433052",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "FOR-26001223"
   },
   {
@@ -3666,7 +3314,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 20549.34,
-   "auction_id": "2208973410",
+   "auction_id": "2212433108",
    "status": "SCHEDULED",
    "case_number": "F00367426",
    "parcel_id": "Lot and Block: Lot 22.78, Block 2, Qual C78 Tax Map of Borough of Englishtown",
@@ -3681,8 +3329,8 @@
    "attorney": "Cutolo Barros LLC",
    "sale_date": "2027-01-11",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973410",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433108",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "FOR-26001817"
   },
   {
@@ -3704,7 +3352,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 4592954.87,
-   "auction_id": "2208973411",
+   "auction_id": "2212433109",
    "status": "SCHEDULED",
    "case_number": "F00859024",
    "parcel_id": "Lot and Block: Lot 19, Block 6 Tax Map of Borough of Roosevelt",
@@ -3719,8 +3367,8 @@
    "attorney": "McKenna DuPont Stone & Washburne, PC",
    "sale_date": "2027-01-11",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973411",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433109",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "FOR-26001832"
   },
   {
@@ -3742,7 +3390,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 752817.74,
-   "auction_id": "2208973414",
+   "auction_id": "2212433112",
    "status": "SCHEDULED",
    "case_number": "F00309926",
    "parcel_id": "Lot and Block: Lot 40, Block 13 Tax Map of Borough of Lake Como",
@@ -3757,8 +3405,8 @@
    "attorney": "Stern & Eisenberg, PC",
    "sale_date": "2027-01-11",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973414",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433112",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "FOR-26001857"
   },
   {
@@ -3780,7 +3428,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 255579.89,
-   "auction_id": "2208973419",
+   "auction_id": "2212433117",
    "status": "SCHEDULED",
    "case_number": "F00258626",
    "parcel_id": "Lot and Block: Lot 34.01 C0616, Block 600, Tax Map of Township of Middletown",
@@ -3795,8 +3443,8 @@
    "attorney": "Pluese, Becker, Saltzman & Thomas, LLC",
    "sale_date": "2027-01-11",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973419",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433117",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "FOR-26001900"
   },
   {
@@ -3810,7 +3458,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 399739.31,
-   "auction_id": "2208973451",
+   "auction_id": "2212433149",
    "status": "SCHEDULED",
    "case_number": "F00516326",
    "parcel_id": "Lot and Block: Lot 78, Block 61.03, Tax Map of Borough of Tinton Falls",
@@ -3825,9 +3473,39 @@
    "attorney": "Powers Kirn, LLC",
    "sale_date": "2027-01-11",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973451",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433149",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "FOR-26002195"
+  },
+  {
+   "county": "monmouth",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-11"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 269800.54,
+   "auction_id": "2212433150",
+   "status": "SCHEDULED",
+   "case_number": "F00689726",
+   "parcel_id": "Lot and Block: Lot 2, Block 119.01 Tax Map of Borough of Freehold",
+   "address": "15 Reid Way",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Provident Funding Associates, L.P.",
+   "defendant": "Nasiruz Zaman, et al.",
+   "attorney": "Powers Kirn, LLC",
+   "sale_date": "2027-01-11",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433150",
+   "as_of": "2026-10-27T07:11-04:00",
+   "sheriff_number": "FOR-26002206"
   },
   {
    "county": "monmouth",
@@ -3848,7 +3526,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 367832.59,
-   "auction_id": "2208973434",
+   "auction_id": "2212433132",
    "status": "SCHEDULED",
    "case_number": "F00079226",
    "parcel_id": "Lot and Block: Lot 41, Block 3304 Tax Map of Township of Eatontown",
@@ -3863,8 +3541,8 @@
    "attorney": "KML Law Group, PC",
    "sale_date": "2027-02-08",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2208973434",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2212433132",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "FOR-26002015"
   }
  ]

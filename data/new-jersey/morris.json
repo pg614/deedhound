@@ -1,9 +1,9 @@
 {
  "state": "new-jersey",
  "county": "morris",
- "as_of": "2026-10-25T00:29-04:00",
- "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250816",
- "count": 93,
+ "as_of": "2026-10-27T07:15-04:00",
+ "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213242985",
+ "count": 92,
  "items": [
   {
    "county": "morris",
@@ -76,7 +76,7 @@
    ],
    "times_postponed": 15,
    "upset_amount": null,
-   "auction_id": "2209250816",
+   "auction_id": "2213242985",
    "status": "ADJOURNED PER COURT ORDER TO",
    "case_number": "F-009742-22",
    "parcel_id": null,
@@ -91,8 +91,8 @@
    "attorney": null,
    "sale_date": "2026-10-29",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250816",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213242985",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "24001999"
   },
   {
@@ -130,7 +130,7 @@
    ],
    "times_postponed": 6,
    "upset_amount": null,
-   "auction_id": "2209250870",
+   "auction_id": "2213243061",
    "status": "ADJOURNED PER COURT ORDER TO",
    "case_number": "F-010400-24",
    "parcel_id": null,
@@ -145,8 +145,8 @@
    "attorney": null,
    "sale_date": "2026-10-29",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250870",
-   "as_of": "2026-10-25T00:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243061",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "25001880"
   },
   {
@@ -192,7 +192,7 @@
    ],
    "times_postponed": 8,
    "upset_amount": null,
-   "auction_id": "2209250885",
+   "auction_id": "2213243084",
    "status": "ADJOURNED PER COURT ORDER TO",
    "case_number": "F-009729-23",
    "parcel_id": null,
@@ -207,8 +207,8 @@
    "attorney": null,
    "sale_date": "2026-10-29",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250885",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243084",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "26000221"
   },
   {
@@ -238,7 +238,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": null,
-   "auction_id": "2209250931",
+   "auction_id": "2213243155",
    "status": "ADJOURNED BY THE PLAINTIFF TO",
    "case_number": "F-000561-26",
    "parcel_id": null,
@@ -253,47 +253,9 @@
    "attorney": null,
    "sale_date": "2026-10-29",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250931",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243155",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "26000783"
-  },
-  {
-   "county": "morris",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-08-06"
-    },
-    {
-     "status": "Adjourned by the Defendant to",
-     "date": "2026-10-01"
-    },
-    {
-     "status": "Adjourned by the Plaintiff to",
-     "date": "2026-10-29"
-    }
-   ],
-   "times_postponed": 2,
-   "upset_amount": null,
-   "auction_id": "2209250961",
-   "status": "ADJOURNED BY THE PLAINTIFF TO",
-   "case_number": "F-8068-25",
-   "parcel_id": null,
-   "address": "60-68 Harding Avenue",
-   "city": "Dover",
-   "zip": "07801",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "SILVER HILL CAPITAL, LLC FKA COMMUNITY LOAN SERVICING, LLC",
-   "defendant": "60 HARDING AVENUE LLC, et als.",
-   "attorney": null,
-   "sale_date": "2026-10-29",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250961",
-   "as_of": "2026-10-25T00:26-04:00",
-   "sheriff_number": "26001017"
   },
   {
    "county": "morris",
@@ -318,7 +280,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2209250964",
+   "auction_id": "2213243208",
    "status": "ADJOURNED BY THE PLAINTIFF TO",
    "case_number": "F-011630-22",
    "parcel_id": null,
@@ -333,8 +295,8 @@
    "attorney": null,
    "sale_date": "2026-10-29",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250964",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243208",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "26001021"
   },
   {
@@ -352,7 +314,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250983",
+   "auction_id": "2213243241",
    "status": "ADJOURNED BY THE DEFENDANT TO",
    "case_number": "F-005108-20",
    "parcel_id": null,
@@ -367,8 +329,8 @@
    "attorney": null,
    "sale_date": "2026-10-29",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250983",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243241",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "26001113"
   },
   {
@@ -386,7 +348,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250985",
+   "auction_id": "2213243244",
    "status": "ADJOURNED BY THE DEFENDANT TO",
    "case_number": "F-005919-21",
    "parcel_id": null,
@@ -401,8 +363,8 @@
    "attorney": null,
    "sale_date": "2026-10-29",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250985",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243244",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "26001114"
   },
   {
@@ -424,7 +386,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2209250988",
+   "auction_id": "2213243247",
    "status": "ADJOURNED BY THE DEFENDANT TO",
    "case_number": "F-016640-18",
    "parcel_id": null,
@@ -439,47 +401,9 @@
    "attorney": null,
    "sale_date": "2026-10-29",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250988",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243247",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "26001127"
-  },
-  {
-   "county": "morris",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-09-03"
-    },
-    {
-     "status": "Adjourned by the Defendant to",
-     "date": "2026-10-01"
-    },
-    {
-     "status": "Adjourned by the Defendant to",
-     "date": "2026-10-29"
-    }
-   ],
-   "times_postponed": 2,
-   "upset_amount": null,
-   "auction_id": "2209250990",
-   "status": "ADJOURNED BY THE DEFENDANT TO",
-   "case_number": "F-000635-26",
-   "parcel_id": null,
-   "address": "21 Ryan Ln.",
-   "city": "Lincoln Park",
-   "zip": "07035",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "PHH Asset Services LLC,",
-   "defendant": "Emre Dagdagan, et. al.",
-   "attorney": null,
-   "sale_date": "2026-10-29",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250990",
-   "as_of": "2026-10-25T00:26-04:00",
-   "sheriff_number": "26001158"
   },
   {
    "county": "morris",
@@ -496,7 +420,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209251019",
+   "auction_id": "2213243288",
    "status": "ADJOURNED BY THE PLAINTIFF TO",
    "case_number": "F-008319-24",
    "parcel_id": null,
@@ -511,8 +435,8 @@
    "attorney": null,
    "sale_date": "2026-10-29",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251019",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243288",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "26001312"
   },
   {
@@ -526,37 +450,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209251039",
-   "status": "SCHEDULED",
-   "case_number": "F-004122-25",
-   "parcel_id": null,
-   "address": "72 Village Road",
-   "city": "Pompton Plains",
-   "zip": "07444",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLEY AS OWNER TRUSTEE FOR RCAF ACQUISITON TRUST,",
-   "defendant": "DANIEL DUGAN; ROBIN DUGAN,",
-   "attorney": null,
-   "sale_date": "2026-10-29",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251039",
-   "as_of": "2026-10-25T00:26-04:00",
-   "sheriff_number": "26001503"
-  },
-  {
-   "county": "morris",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-10-29"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2209251043",
+   "auction_id": "2213243320",
    "status": "SCHEDULED",
    "case_number": "F-001189-26",
    "parcel_id": null,
@@ -571,8 +465,8 @@
    "attorney": null,
    "sale_date": "2026-10-29",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251043",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243320",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "26001515"
   },
   {
@@ -650,7 +544,7 @@
    ],
    "times_postponed": 11,
    "upset_amount": null,
-   "auction_id": "2209250795",
+   "auction_id": "2213242954",
    "status": "ADJOURNED PER COURT ORDER TO",
    "case_number": "F-008283-22",
    "parcel_id": null,
@@ -665,8 +559,8 @@
    "attorney": null,
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250795",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213242954",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "23001440"
   },
   {
@@ -724,7 +618,7 @@
    ],
    "times_postponed": 8,
    "upset_amount": null,
-   "auction_id": "2209250821",
+   "auction_id": "2213242991",
    "status": "RESCHEDULED",
    "case_number": "F-003451-24",
    "parcel_id": null,
@@ -739,8 +633,8 @@
    "attorney": null,
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250821",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213242991",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "25000451"
   },
   {
@@ -794,7 +688,7 @@
    ],
    "times_postponed": 9,
    "upset_amount": null,
-   "auction_id": "2209250829",
+   "auction_id": "2213243003",
    "status": "ADJOURNED PER COURT ORDER TO",
    "case_number": "F-010023-24",
    "parcel_id": null,
@@ -809,8 +703,8 @@
    "attorney": null,
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250829",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243003",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "25000866"
   },
   {
@@ -828,7 +722,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250993",
+   "auction_id": "2213243253",
    "status": "ADJOURNED BY THE DEFENDANT TO",
    "case_number": "F-001211-26",
    "parcel_id": null,
@@ -843,8 +737,8 @@
    "attorney": null,
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250993",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243253",
+   "as_of": "2026-10-27T07:11-04:00",
    "sheriff_number": "26001164"
   },
   {
@@ -862,7 +756,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250995",
+   "auction_id": "2213243256",
    "status": "ADJOURNED BY THE DEFENDANT TO",
    "case_number": "F-293-25",
    "parcel_id": null,
@@ -877,8 +771,8 @@
    "attorney": null,
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250995",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243256",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001169"
   },
   {
@@ -900,7 +794,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2209250999",
+   "auction_id": "2213243262",
    "status": "ADJOURNED BY THE PLAINTIFF TO",
    "case_number": "F-002240-22",
    "parcel_id": null,
@@ -915,8 +809,8 @@
    "attorney": null,
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250999",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243262",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001194"
   },
   {
@@ -934,7 +828,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209251004",
+   "auction_id": "2213243269",
    "status": "ADJOURNED BY THE DEFENDANT TO",
    "case_number": "F-009822-25",
    "parcel_id": null,
@@ -949,8 +843,8 @@
    "attorney": null,
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251004",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243269",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001206"
   },
   {
@@ -968,7 +862,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209251008",
+   "auction_id": "2213243276",
    "status": "ADJOURNED BY THE DEFENDANT TO",
    "case_number": "F-008821-25",
    "parcel_id": null,
@@ -983,8 +877,8 @@
    "attorney": null,
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251008",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243276",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001227"
   },
   {
@@ -1002,7 +896,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209251030",
+   "auction_id": "2213243299",
    "status": "ADJOURNED BY THE DEFENDANT TO",
    "case_number": "F-003690-26",
    "parcel_id": null,
@@ -1017,8 +911,8 @@
    "attorney": null,
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251030",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243299",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001415"
   },
   {
@@ -1032,7 +926,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209251050",
+   "auction_id": "2213243327",
    "status": "SCHEDULED",
    "case_number": "F-001776-26",
    "parcel_id": null,
@@ -1047,8 +941,8 @@
    "attorney": null,
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251050",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243327",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001548"
   },
   {
@@ -1062,7 +956,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209251056",
+   "auction_id": "2213243334",
    "status": "SCHEDULED",
    "case_number": "F-013698-25",
    "parcel_id": null,
@@ -1077,8 +971,8 @@
    "attorney": null,
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251056",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243334",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001605"
   },
   {
@@ -1092,7 +986,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209251058",
+   "auction_id": "2213243336",
    "status": "SCHEDULED",
    "case_number": "F-010784-25",
    "parcel_id": null,
@@ -1107,8 +1001,8 @@
    "attorney": null,
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251058",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243336",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001618"
   },
   {
@@ -1122,7 +1016,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209251060",
+   "auction_id": "2213243338",
    "status": "SCHEDULED",
    "case_number": "F-004714-26",
    "parcel_id": null,
@@ -1137,8 +1031,8 @@
    "attorney": null,
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251060",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243338",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001626"
   },
   {
@@ -1156,7 +1050,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209250861",
+   "auction_id": "2213243049",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-000237-21",
    "parcel_id": null,
@@ -1171,8 +1065,8 @@
    "attorney": null,
    "sale_date": "2026-11-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250861",
-   "as_of": "2026-10-25T00:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243049",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "25001798"
   },
   {
@@ -1218,7 +1112,7 @@
    ],
    "times_postponed": 8,
    "upset_amount": null,
-   "auction_id": "2209250865",
+   "auction_id": "2213243055",
    "status": "ADJOURNED PER COURT ORDER TO",
    "case_number": "F-005505-25",
    "parcel_id": null,
@@ -1233,8 +1127,8 @@
    "attorney": null,
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250865",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243055",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "25001823"
   },
   {
@@ -1272,7 +1166,7 @@
    ],
    "times_postponed": 6,
    "upset_amount": null,
-   "auction_id": "2209250889",
+   "auction_id": "2213243095",
    "status": "ADJOURNED BY THE PLAINTIFF TO",
    "case_number": "F-009287-25",
    "parcel_id": null,
@@ -1287,8 +1181,8 @@
    "attorney": null,
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250889",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243095",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26000266"
   },
   {
@@ -1314,7 +1208,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2209250896",
+   "auction_id": "2213243103",
    "status": "RESCHEDULED",
    "case_number": "F-5127-25",
    "parcel_id": null,
@@ -1329,8 +1223,8 @@
    "attorney": null,
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250896",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243103",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26000365"
   },
   {
@@ -1360,7 +1254,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": null,
-   "auction_id": "2209250916",
+   "auction_id": "2213243132",
    "status": "ADJOURNED BY THE PLAINTIFF TO",
    "case_number": "F-010403-25",
    "parcel_id": null,
@@ -1375,8 +1269,8 @@
    "attorney": null,
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250916",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243132",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26000651"
   },
   {
@@ -1402,7 +1296,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2209250977",
+   "auction_id": "2213243231",
    "status": "ADJOURNED BY THE DEFENDANT TO",
    "case_number": "F-204-26",
    "parcel_id": null,
@@ -1417,8 +1311,8 @@
    "attorney": null,
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250977",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243231",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001093"
   },
   {
@@ -1436,7 +1330,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209251010",
+   "auction_id": "2213243278",
    "status": "ADJOURNED BY THE PLAINTIFF TO",
    "case_number": "F-007272-24",
    "parcel_id": null,
@@ -1451,8 +1345,8 @@
    "attorney": null,
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251010",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243278",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001290"
   },
   {
@@ -1470,7 +1364,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209251014",
+   "auction_id": "2213243283",
    "status": "ADJOURNED BY THE DEFENDANT TO",
    "case_number": "F-008461-25",
    "parcel_id": null,
@@ -1485,8 +1379,8 @@
    "attorney": null,
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251014",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243283",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001294"
   },
   {
@@ -1504,7 +1398,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209251036",
+   "auction_id": "2213243305",
    "status": "ADJOURNED BY THE DEFENDANT TO",
    "case_number": "F-003545-26",
    "parcel_id": null,
@@ -1519,9 +1413,43 @@
    "attorney": null,
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251036",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243305",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001478"
+  },
+  {
+   "county": "morris",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-29"
+    },
+    {
+     "status": "Adjourned by the Plaintiff to",
+     "date": "2026-12-03"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": null,
+   "auction_id": "2213243307",
+   "status": "ADJOURNED BY THE PLAINTIFF TO",
+   "case_number": "F-004122-25",
+   "parcel_id": null,
+   "address": "72 Village Road",
+   "city": "Pompton Plains",
+   "zip": "07444",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLEY AS OWNER TRUSTEE FOR RCAF ACQUISITON TRUST,",
+   "defendant": "DANIEL DUGAN; ROBIN DUGAN,",
+   "attorney": null,
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243307",
+   "as_of": "2026-10-27T07:12-04:00",
+   "sheriff_number": "26001503"
   },
   {
    "county": "morris",
@@ -1534,7 +1462,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209251065",
+   "auction_id": "2213243342",
    "status": "SCHEDULED",
    "case_number": "F-012453-25",
    "parcel_id": null,
@@ -1549,8 +1477,8 @@
    "attorney": null,
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251065",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243342",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001649"
   },
   {
@@ -1564,7 +1492,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209251067",
+   "auction_id": "2213243345",
    "status": "SCHEDULED",
    "case_number": "F-004421-26",
    "parcel_id": null,
@@ -1579,8 +1507,8 @@
    "attorney": null,
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251067",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243345",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001650"
   },
   {
@@ -1594,7 +1522,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209251069",
+   "auction_id": "2213243347",
    "status": "SCHEDULED",
    "case_number": "F-000688-24",
    "parcel_id": null,
@@ -1609,8 +1537,8 @@
    "attorney": null,
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251069",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243347",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001657"
   },
   {
@@ -1624,7 +1552,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209251071",
+   "auction_id": "2213243349",
    "status": "SCHEDULED",
    "case_number": "F-005792-26",
    "parcel_id": null,
@@ -1639,8 +1567,8 @@
    "attorney": null,
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251071",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243349",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001667"
   },
   {
@@ -1654,7 +1582,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209251073",
+   "auction_id": "2213243351",
    "status": "SCHEDULED",
    "case_number": "F-003399-26",
    "parcel_id": null,
@@ -1669,8 +1597,8 @@
    "attorney": null,
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251073",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243351",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001674"
   },
   {
@@ -1684,7 +1612,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209251075",
+   "auction_id": "2213243353",
    "status": "SCHEDULED",
    "case_number": "MRS-DC-011866-25; DJ-064340-26",
    "parcel_id": null,
@@ -1699,8 +1627,8 @@
    "attorney": null,
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251075",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243353",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001702"
   },
   {
@@ -1714,7 +1642,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209251077",
+   "auction_id": "2213243355",
    "status": "SCHEDULED",
    "case_number": "MRS-DC-007461-24; DJ-140147-25",
    "parcel_id": null,
@@ -1729,8 +1657,8 @@
    "attorney": null,
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251077",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243355",
+   "as_of": "2026-10-27T07:12-04:00",
    "sheriff_number": "26001703"
   },
   {
@@ -1756,7 +1684,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2209250966",
+   "auction_id": "2213243212",
    "status": "ADJOURNED BY THE PLAINTIFF TO",
    "case_number": "F-006810-23",
    "parcel_id": null,
@@ -1771,9 +1699,51 @@
    "attorney": null,
    "sale_date": "2027-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250966",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243212",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "26001037"
+  },
+  {
+   "county": "morris",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-09-03"
+    },
+    {
+     "status": "Adjourned by the Defendant to",
+     "date": "2026-10-01"
+    },
+    {
+     "status": "Adjourned by the Defendant to",
+     "date": "2026-10-29"
+    },
+    {
+     "status": "Adjourned per Court Order to",
+     "date": "2027-01-07"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": null,
+   "auction_id": "2213243250",
+   "status": "ADJOURNED PER COURT ORDER TO",
+   "case_number": "F-000635-26",
+   "parcel_id": null,
+   "address": "21 Ryan Ln.",
+   "city": "Lincoln Park",
+   "zip": "07035",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PHH Asset Services LLC,",
+   "defendant": "Emre Dagdagan, et. al.",
+   "attorney": null,
+   "sale_date": "2027-01-07",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243250",
+   "as_of": "2026-10-27T07:13-04:00",
+   "sheriff_number": "26001158"
   },
   {
    "county": "morris",
@@ -1790,7 +1760,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209251025",
+   "auction_id": "2213243295",
    "status": "ADJOURNED BY THE DEFENDANT TO",
    "case_number": "F-000328-26",
    "parcel_id": null,
@@ -1805,8 +1775,8 @@
    "attorney": null,
    "sale_date": "2027-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251025",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243295",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "26001401"
   },
   {
@@ -1824,7 +1794,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209251041",
+   "auction_id": "2213243318",
    "status": "ADJOURNED BY THE DEFENDANT TO",
    "case_number": "F-008107-25",
    "parcel_id": null,
@@ -1839,8 +1809,8 @@
    "attorney": null,
    "sale_date": "2027-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251041",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243318",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "26001506"
   },
   {
@@ -1862,7 +1832,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2209251045",
+   "auction_id": "2213243323",
    "status": "ADJOURNED PER COURT ORDER TO",
    "case_number": "F-008015-22",
    "parcel_id": null,
@@ -1877,8 +1847,8 @@
    "attorney": null,
    "sale_date": "2027-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251045",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243323",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "26001518"
   },
   {
@@ -1896,7 +1866,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209251047",
+   "auction_id": "2213243325",
    "status": "ADJOURNED BY THE DEFENDANT TO",
    "case_number": "F-003552-25",
    "parcel_id": null,
@@ -1911,8 +1881,8 @@
    "attorney": null,
    "sale_date": "2027-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251047",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243325",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "26001528"
   },
   {
@@ -1930,7 +1900,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209251052",
+   "auction_id": "2213243329",
    "status": "ADJOURNED BY THE DEFENDANT TO",
    "case_number": "F-007068-26",
    "parcel_id": null,
@@ -1945,8 +1915,8 @@
    "attorney": null,
    "sale_date": "2027-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251052",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243329",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "26001561"
   },
   {
@@ -1960,7 +1930,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209251080",
+   "auction_id": "2213243357",
    "status": "SCHEDULED",
    "case_number": "F-010602-25",
    "parcel_id": null,
@@ -1975,8 +1945,8 @@
    "attorney": null,
    "sale_date": "2027-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251080",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243357",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "26001714"
   },
   {
@@ -1990,7 +1960,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209251082",
+   "auction_id": "2213243360",
    "status": "SCHEDULED",
    "case_number": "F-009024-25",
    "parcel_id": null,
@@ -2005,8 +1975,8 @@
    "attorney": null,
    "sale_date": "2027-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251082",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243360",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "26001717"
   },
   {
@@ -2056,7 +2026,7 @@
    ],
    "times_postponed": 5,
    "upset_amount": null,
-   "auction_id": "2209250793",
+   "auction_id": "2213242951",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-010683-22",
    "parcel_id": null,
@@ -2071,8 +2041,8 @@
    "attorney": null,
    "sale_date": "2027-02-04",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250793",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213242951",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "23000413"
   },
   {
@@ -2094,7 +2064,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250855",
+   "auction_id": "2213243040",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "ESX-L-003587-23; J-018102-24",
    "parcel_id": null,
@@ -2109,8 +2079,8 @@
    "attorney": null,
    "sale_date": "2027-02-25",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250855",
-   "as_of": "2026-10-25T00:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243040",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "25001531"
   },
   {
@@ -2136,7 +2106,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2209250819",
+   "auction_id": "2213242988",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-006396-24",
    "parcel_id": null,
@@ -2151,8 +2121,8 @@
    "attorney": null,
    "sale_date": "2027-03-11",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250819",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213242988",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "25000421"
   },
   {
@@ -2174,7 +2144,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250823",
+   "auction_id": "2213242994",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-013777-22",
    "parcel_id": null,
@@ -2189,8 +2159,8 @@
    "attorney": null,
    "sale_date": "2027-03-11",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250823",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213242994",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "25000474"
   },
   {
@@ -2216,7 +2186,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2209250791",
+   "auction_id": "2213242947",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-026006-12",
    "parcel_id": null,
@@ -2231,8 +2201,8 @@
    "attorney": null,
    "sale_date": "2027-05-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250791",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213242947",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "22000064"
   },
   {
@@ -2266,7 +2236,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2209250827",
+   "auction_id": "2213243000",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-000989-25",
    "parcel_id": null,
@@ -2281,8 +2251,8 @@
    "attorney": null,
    "sale_date": "2027-05-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250827",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243000",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "25000818"
   },
   {
@@ -2308,7 +2278,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250894",
+   "auction_id": "2213243100",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-2218-23",
    "parcel_id": null,
@@ -2323,8 +2293,8 @@
    "attorney": null,
    "sale_date": "2027-05-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250894",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243100",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "26000361"
   },
   {
@@ -2346,7 +2316,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250831",
+   "auction_id": "2213243006",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-004910-24",
    "parcel_id": null,
@@ -2361,8 +2331,8 @@
    "attorney": null,
    "sale_date": "2027-05-13",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250831",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243006",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "25000905"
   },
   {
@@ -2380,7 +2350,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209250834",
+   "auction_id": "2213243009",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-000550-25",
    "parcel_id": null,
@@ -2395,8 +2365,8 @@
    "attorney": null,
    "sale_date": "2027-06-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250834",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243009",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "25000998"
   },
   {
@@ -2438,7 +2408,7 @@
    ],
    "times_postponed": 5,
    "upset_amount": null,
-   "auction_id": "2209250838",
+   "auction_id": "2213243016",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-000658-25",
    "parcel_id": null,
@@ -2453,8 +2423,8 @@
    "attorney": null,
    "sale_date": "2027-07-08",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250838",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243016",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "25001134"
   },
   {
@@ -2484,7 +2454,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2209250840",
+   "auction_id": "2213243019",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-001937-24",
    "parcel_id": null,
@@ -2499,8 +2469,8 @@
    "attorney": null,
    "sale_date": "2027-07-08",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250840",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243019",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "25001233"
   },
   {
@@ -2522,7 +2492,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250842",
+   "auction_id": "2213243022",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-012923-24",
    "parcel_id": null,
@@ -2537,8 +2507,8 @@
    "attorney": null,
    "sale_date": "2027-07-15",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250842",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243022",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "25001246"
   },
   {
@@ -2564,7 +2534,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2209250844",
+   "auction_id": "2213243025",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-001414-25",
    "parcel_id": null,
@@ -2579,8 +2549,8 @@
    "attorney": null,
    "sale_date": "2027-07-29",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250844",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243025",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "25001259"
   },
   {
@@ -2602,7 +2572,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250846",
+   "auction_id": "2213243028",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-003068-25",
    "parcel_id": null,
@@ -2617,8 +2587,8 @@
    "attorney": null,
    "sale_date": "2027-08-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250846",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243028",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "25001343"
   },
   {
@@ -2664,7 +2634,7 @@
    ],
    "times_postponed": 8,
    "upset_amount": null,
-   "auction_id": "2209250849",
+   "auction_id": "2213243031",
    "status": "ADJOURNED PER COURT ORDER TO",
    "case_number": "F-004143-25",
    "parcel_id": null,
@@ -2679,8 +2649,8 @@
    "attorney": null,
    "sale_date": "2027-08-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250849",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243031",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "25001368"
   },
   {
@@ -2706,7 +2676,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2209250863",
+   "auction_id": "2213243052",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-012083-24",
    "parcel_id": null,
@@ -2721,8 +2691,8 @@
    "attorney": null,
    "sale_date": "2027-08-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250863",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243052",
+   "as_of": "2026-10-27T07:13-04:00",
    "sheriff_number": "25001812"
   },
   {
@@ -2756,7 +2726,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2209250891",
+   "auction_id": "2213243096",
    "status": "HOLD - COURT ORDER",
    "case_number": "F-014565-23",
    "parcel_id": null,
@@ -2771,8 +2741,8 @@
    "attorney": null,
    "sale_date": "2027-09-02",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250891",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243096",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "26000331"
   },
   {
@@ -2794,7 +2764,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250853",
+   "auction_id": "2213243037",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-000520-25",
    "parcel_id": null,
@@ -2809,8 +2779,8 @@
    "attorney": null,
    "sale_date": "2027-09-16",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250853",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243037",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "25001511"
   },
   {
@@ -2832,7 +2802,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250859",
+   "auction_id": "2213243046",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-001282-18",
    "parcel_id": null,
@@ -2847,8 +2817,8 @@
    "attorney": null,
    "sale_date": "2027-09-16",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250859",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243046",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "25001614"
   },
   {
@@ -2878,7 +2848,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2209250857",
+   "auction_id": "2213243043",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-004102-25",
    "parcel_id": null,
@@ -2893,8 +2863,8 @@
    "attorney": null,
    "sale_date": "2027-09-30",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250857",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243043",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "25001606"
   },
   {
@@ -2916,7 +2886,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250881",
+   "auction_id": "2213243078",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-007775-25",
    "parcel_id": null,
@@ -2931,8 +2901,8 @@
    "attorney": null,
    "sale_date": "2027-11-11",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250881",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243078",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "26000119"
   },
   {
@@ -2994,7 +2964,7 @@
    ],
    "times_postponed": 6,
    "upset_amount": null,
-   "auction_id": "2209250799",
+   "auction_id": "2213242960",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-028273-15",
    "parcel_id": null,
@@ -3009,8 +2979,8 @@
    "attorney": null,
    "sale_date": "2027-12-02",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250799",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213242960",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "24000490"
   },
   {
@@ -3040,7 +3010,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2209250876",
+   "auction_id": "2213243071",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-010022-19",
    "parcel_id": null,
@@ -3055,8 +3025,8 @@
    "attorney": null,
    "sale_date": "2027-12-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250876",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243071",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "25001933"
   },
   {
@@ -3078,7 +3048,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250878",
+   "auction_id": "2213243074",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-008464-25",
    "parcel_id": null,
@@ -3093,8 +3063,8 @@
    "attorney": null,
    "sale_date": "2027-12-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250878",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243074",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "25001951"
   },
   {
@@ -3136,7 +3106,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": null,
-   "auction_id": "2209250797",
+   "auction_id": "2213242957",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-010634-22",
    "parcel_id": null,
@@ -3151,8 +3121,8 @@
    "attorney": null,
    "sale_date": "2027-12-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250797",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213242957",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "24000291"
   },
   {
@@ -3170,7 +3140,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209250883",
+   "auction_id": "2213243081",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-010836-23",
    "parcel_id": null,
@@ -3185,8 +3155,8 @@
    "attorney": null,
    "sale_date": "2028-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250883",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243081",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "26000138"
   },
   {
@@ -3240,7 +3210,7 @@
    ],
    "times_postponed": 6,
    "upset_amount": null,
-   "auction_id": "2209250801",
+   "auction_id": "2213242963",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-005376-23",
    "parcel_id": null,
@@ -3255,8 +3225,8 @@
    "attorney": null,
    "sale_date": "2028-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250801",
-   "as_of": "2026-10-25T00:28-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213242963",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "24000638"
   },
   {
@@ -3278,7 +3248,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250903",
+   "auction_id": "2213243112",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-018778-19",
    "parcel_id": null,
@@ -3293,8 +3263,8 @@
    "attorney": null,
    "sale_date": "2028-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250903",
-   "as_of": "2026-10-25T00:29-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243112",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "26000413"
   },
   {
@@ -3316,7 +3286,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250918",
+   "auction_id": "2213243135",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-002723-25",
    "parcel_id": null,
@@ -3331,8 +3301,8 @@
    "attorney": null,
    "sale_date": "2028-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250918",
-   "as_of": "2026-10-25T00:29-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243135",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "26000690"
   },
   {
@@ -3362,7 +3332,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2209250898",
+   "auction_id": "2213243106",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-006230-25",
    "parcel_id": null,
@@ -3377,8 +3347,8 @@
    "attorney": null,
    "sale_date": "2028-03-02",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250898",
-   "as_of": "2026-10-25T00:29-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243106",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "26000401"
   },
   {
@@ -3400,7 +3370,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250907",
+   "auction_id": "2213243119",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-006134-25",
    "parcel_id": null,
@@ -3415,8 +3385,8 @@
    "attorney": null,
    "sale_date": "2028-03-16",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250907",
-   "as_of": "2026-10-25T00:29-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243119",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "26000511"
   },
   {
@@ -3442,7 +3412,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2209250806",
+   "auction_id": "2213242969",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-013780-23",
    "parcel_id": null,
@@ -3457,8 +3427,8 @@
    "attorney": null,
    "sale_date": "2028-03-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250806",
-   "as_of": "2026-10-25T00:29-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213242969",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "24000948"
   },
   {
@@ -3484,7 +3454,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2209250909",
+   "auction_id": "2213243122",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-003375-25",
    "parcel_id": null,
@@ -3499,8 +3469,8 @@
    "attorney": null,
    "sale_date": "2028-03-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250909",
-   "as_of": "2026-10-25T00:29-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243122",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "26000564"
   },
   {
@@ -3530,7 +3500,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2209250929",
+   "auction_id": "2213243152",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-002374-22",
    "parcel_id": null,
@@ -3545,8 +3515,8 @@
    "attorney": null,
    "sale_date": "2028-03-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250929",
-   "as_of": "2026-10-25T00:29-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243152",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "26000768"
   },
   {
@@ -3576,7 +3546,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2209250927",
+   "auction_id": "2213243148",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-012362-25",
    "parcel_id": null,
@@ -3591,8 +3561,8 @@
    "attorney": null,
    "sale_date": "2028-04-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250927",
-   "as_of": "2026-10-25T00:29-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243148",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "26000767"
   },
   {
@@ -3638,7 +3608,7 @@
    ],
    "times_postponed": 6,
    "upset_amount": null,
-   "auction_id": "2209250808",
+   "auction_id": "2213242972",
    "status": "HOLD - COURT ORDER",
    "case_number": "F-000227-22",
    "parcel_id": null,
@@ -3653,8 +3623,8 @@
    "attorney": null,
    "sale_date": "2028-04-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250808",
-   "as_of": "2026-10-25T00:29-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213242972",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "24001361"
   },
   {
@@ -3676,7 +3646,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250920",
+   "auction_id": "2213243138",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-012315-25",
    "parcel_id": null,
@@ -3691,8 +3661,8 @@
    "attorney": null,
    "sale_date": "2028-04-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250920",
-   "as_of": "2026-10-25T00:29-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243138",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "26000731"
   },
   {
@@ -3710,7 +3680,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209250955",
+   "auction_id": "2213243190",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-004375-23",
    "parcel_id": null,
@@ -3725,8 +3695,8 @@
    "attorney": null,
    "sale_date": "2028-04-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250955",
-   "as_of": "2026-10-25T00:29-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243190",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "26001013"
   },
   {
@@ -3748,7 +3718,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250946",
+   "auction_id": "2213243178",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-006615-25",
    "parcel_id": null,
@@ -3763,8 +3733,8 @@
    "attorney": null,
    "sale_date": "2028-05-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250946",
-   "as_of": "2026-10-25T00:29-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243178",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "26000960"
   },
   {
@@ -3786,7 +3756,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209250950",
+   "auction_id": "2213243184",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-013611-25",
    "parcel_id": null,
@@ -3801,8 +3771,8 @@
    "attorney": null,
    "sale_date": "2028-06-08",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250950",
-   "as_of": "2026-10-25T00:29-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243184",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "26000975"
   },
   {
@@ -3820,7 +3790,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209250997",
+   "auction_id": "2213243259",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-009203-25",
    "parcel_id": null,
@@ -3835,8 +3805,8 @@
    "attorney": null,
    "sale_date": "2028-07-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209250997",
-   "as_of": "2026-10-25T00:29-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243259",
+   "as_of": "2026-10-27T07:14-04:00",
    "sheriff_number": "26001170"
   },
   {
@@ -3858,7 +3828,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2209251002",
+   "auction_id": "2213243266",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "F-000076-25",
    "parcel_id": null,
@@ -3873,8 +3843,8 @@
    "attorney": null,
    "sale_date": "2028-07-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251002",
-   "as_of": "2026-10-25T00:29-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243266",
+   "as_of": "2026-10-27T07:15-04:00",
    "sheriff_number": "26001195"
   },
   {
@@ -3892,7 +3862,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2209251021",
+   "auction_id": "2213243290",
    "status": "HOLD - BANKRUPTCY",
    "case_number": "SWC-F-2697-23",
    "parcel_id": null,
@@ -3907,8 +3877,8 @@
    "attorney": null,
    "sale_date": "2028-08-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2209251021",
-   "as_of": "2026-10-25T00:29-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2213243290",
+   "as_of": "2026-10-27T07:15-04:00",
    "sheriff_number": "26001367"
   }
  ]
