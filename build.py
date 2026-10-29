@@ -47,12 +47,16 @@ html[data-theme=dark] .card:has(script[data-beehiiv-form]){background:#fff;color
 DISC = ('<p class="warn"><b>Verify before you bid.</b> This is an unofficial summary of public sheriff-sale listings. Sales are often cancelled or '
         'postponed. Always confirm details with the official legal notice and the county sheriff\'s official sale site linked on each page. Not legal or financial advice.</p>')
 SUB = "https://deedhound.beehiiv.com/subscribe"
+INDEXNOW_KEY = CFG.get("indexnow_key", "")
 NL = ('<div class="card"><h2 style="margin-top:0">Get the weekly sheriff sale email</h2><p class="muted">One plain, easy-to-read email each week with the best new sheriff sale picks. Free. Unsubscribe anytime.</p>'
       '<p><a class="sbtn" href="/newsletter/">Sign up free →</a></p></div>')
 BAR = ('<div class="sbar"><div class="w"><span>📬 Get the week\'s best sheriff sale picks by email. <b>Free.</b></span>'
        '<a class="sbtn" href="/newsletter/">Sign up free</a></div></div>')
 THEME_HEAD = '<script>(function(){try{var t=localStorage.getItem("theme")}catch(e){}if(t!=="light"&&t!=="dark")t=matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";document.documentElement.setAttribute("data-theme",t)})()</script>'
 THEME_FOOT = '<script>(function(){var b=document.getElementById("thm"),d=document.documentElement;function sync(){var k=d.getAttribute("data-theme")==="dark";b.querySelector(".ic").textContent=k?"☀️":"🌙";b.querySelector(".tx").textContent=k?"Light mode":"Dark mode";b.setAttribute("aria-pressed",k)}sync();b.onclick=function(){var t=d.getAttribute("data-theme")==="dark"?"light":"dark";d.setAttribute("data-theme",t);try{localStorage.setItem("theme",t)}catch(e){}sync()}})()</script>'
+def _abs(u): return u if not u or u.startswith("http") else BASE + "/" + u.lstrip("/")
+OGIMG = (f'<meta property="og:image" content="{_abs(BRAND.get("apple_icon") or BRAND.get("logo"))}"><meta name="twitter:image" content="{_abs(BRAND.get("apple_icon") or BRAND.get("logo"))}">') if (BRAND.get("apple_icon") or BRAND.get("logo")) else ""
+LM = {}
 def page(path, title, desc, body, ld=None, crumbs=None):
     canon = BASE + "/" + path.replace("index.html", "")
     lds = (ld if isinstance(ld, list) else [ld]) if ld else []
@@ -61,7 +65,7 @@ def page(path, title, desc, body, ld=None, crumbs=None):
     nav = " › ".join(f'<a href="{u}">{E(n)}</a>' for n, u in crumbs) if crumbs else ""
     doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{E(title)}</title><meta name="description" content="{E(desc)}"><link rel="canonical" href="{canon}">{THEME_HEAD}<link rel="stylesheet" href="/style.css"><link rel="icon" href="{BRAND.get("favicon","")}"><link rel="apple-touch-icon" href="{BRAND.get("apple_icon","")}"><meta name="theme-color" content="{BRAND["navy"]}">
-<meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}">
+<meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:url" content="{canon}"><meta property="og:type" content="website"><meta property="og:site_name" content="{E(BRAND["name"])}"><meta property="og:locale" content="en_US">{OGIMG}<meta name="twitter:card" content="summary"><meta name="twitter:title" content="{E(title)}"><meta name="twitter:description" content="{E(desc)}">
 {''.join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in lds)}</head><body>
 {BAR}<header><div class="w"><a class="logo" href="/">{('<img src="'+BRAND["logo"]+'" alt="'+E(BRAND["name"])+'" height="68">') if BRAND["logo"] else E(BRAND["name"])}<small>{E(BRAND["tagline"])}</small></a><nav>{" ".join(f'<a href="/{k}/">{v[0]}</a>' for k,v in STATES.items())}</nav><button class="thm" type="button" id="thm" aria-label="Switch light or dark mode"><span class="ic" aria-hidden="true">🌙</span><span class="tx">Dark mode</span></button></div></header>
 <main class="w"><div class="muted">{nav}</div>{body}</main>
@@ -223,6 +227,8 @@ def build_state(st, urls):
         cities = {}
         for i in items: cities.setdefault(i["city"] or "Unknown city", []).append(i)
         bid = f"https://{d['county'].replace('-','')}.sheriffsaleauction.ohio.gov" if st == "ohio" else d["source"] if st == "kentucky" else "https://salesweb.civilview.com/"
+        _tc = {}
+        for i in items: _tc[(i["address"], i["city"], i["sale_date"])] = _tc.get((i["address"], i["city"], i["sale_date"]), 0) + 1
         for i in items:
             full = f'{i["address"]}, {i["city"]}, {ab} {i["zip"] or ""}'.strip()
             ld = {"@context": "https://schema.org", "@type": "Event", "name": f"Sheriff sale: {full}", "startDate": i["sale_date"],
@@ -243,12 +249,12 @@ def build_state(st, urls):
                     '<div class="card kv">' + "".join(f"<div><b>{k}</b></div><div>{v}</div>" for k, v in kv) + '</div>' + enrich_html(i, full) +
                     f'<p><a href="{E(i["source_url"])}" rel="nofollow">See this listing on the official {cn} County Sheriff list →</a>'
                     + (f'<br><a href="{bid}" rel="nofollow">Register / bid on the official {cn} County sale site →</a>' if st == "ohio" else "") + f'</p>{DISC}{NL}')
-            page(i["url"].strip("/") + "/index.html", f'{i["address"]}, {i["city"]} {ab} – Sheriff Sale {fdate(i["sale_date"])} | {BRAND["name"]}',
-                 f'Sheriff sale {fdate(i["sale_date"])}: {full}. Case {i["case_number"]}.', body, {k: v for k, v in ld.items() if v},
-                 [("Home", "/"), (sn, f"/{st}/"), (f"{cn} County", f"{cs}/"), (i["city"], f'{cs}/{slug(i["city"]) or "unknown-city"}/'), (i["address"], i["url"])]); urls.append(i["url"])
+            page(i["url"].strip("/") + "/index.html", (f'{i["address"]}, {i["city"]} {ab}' if i.get("address") else f'{cn} County {ab} case {i["case_number"]}') + f' – Sheriff Sale {fdate(i["sale_date"])}' + (f' (Case {i["case_number"]})' if _tc[(i["address"], i["city"], i["sale_date"])] > 1 else "") + f' | {BRAND["name"]}',
+                 f'Sheriff sale {fdate(i["sale_date"])}: {full}. Case {i["case_number"]}.', body, {k: v for k, v in ld.items() if v} if i.get("address") and i.get("city") else None,
+                 [("Home", "/"), (sn, f"/{st}/"), (f"{cn} County", f"{cs}/"), (i["city"], f'{cs}/{slug(i["city"]) or "unknown-city"}/'), (i["address"], i["url"])]); urls.append(i["url"]); LM[i["url"]] = str(i.get("as_of") or "")[:10]
         for c, its in cities.items():
             u = f"{cs}/{slug(c)}/"
-            page(u.strip("/") + "/index.html", f"{c}, {ab} Sheriff Sales ({len(its)} upcoming) | {BRAND['name']}", f"{len(its)} upcoming sheriff sales in {c}, {cn} County, {sn}.",
+            page(u.strip("/") + "/index.html", f"{c}, {cn} County {ab} Sheriff Sales ({len(its)} upcoming) | {BRAND['name']}", f"{len(its)} upcoming sheriff sales in {c}, {cn} County, {sn}.",
                  f'<h1>{E(c)}, {sn} sheriff sales</h1><p class="muted">{len(its)} upcoming in {E(c)}, {cn} County · Data as of {asof(d["as_of"])} · Source: <a href="{d["source"]}" rel="nofollow">official {cn} County list</a></p>{table(its)}<p>More: <a href="{cs}/">all {cn} County sheriff sales</a> · ' + " · ".join(f'<a href="{cs}/{slug(o)}/">{E(o)}</a>' for o in sorted(cities) if o != c) + f'</p>{DISC}{NL}', None,
                  [("Home", "/"), (sn, f"/{st}/"), (f"{cn} County", f"{cs}/"), (c, u)]); urls.append(u)
         clinks = " · ".join(f'<a href="{cs}/{slug(c)}/">{E(c)} ({len(v)})</a>' for c, v in sorted(cities.items()))
@@ -259,7 +265,7 @@ def build_state(st, urls):
                 + (table(items) if items else "<p>No upcoming sales listed right now.</p>") + faq_html(faq) + nb_html(st, nb) + DISC + NL)
         page(f"{cs.strip('/')}/index.html", f"{cn} County {sn} Sheriff Sales – {len(items)} Upcoming Foreclosure Auctions (as of {ad})", f"{len(items)} upcoming {cn} County, {sn} sheriff sales and foreclosure auctions as of {ad}, from the official county list: dates, addresses, appraisals, minimum bids, and how sales work.",
              body, [{"@context": "https://schema.org", "@type": "ItemList", "numberOfItems": len(items), "itemListElement": [{"@type": "ListItem", "position": n + 1, "url": BASE + i["url"]} for n, i in enumerate(items[:200])]}, faq_ld(faq)],
-             [("Home", "/"), (sn, f"/{st}/"), (f"{cn} County", f"{cs}/")]); urls.append(f"{cs}/")
+             [("Home", "/"), (sn, f"/{st}/"), (f"{cn} County", f"{cs}/")]); urls.append(f"{cs}/"); LM[f"{cs}/"] = str(d.get("as_of") or "")[:10]
     guides = build_guides(st, urls)
     allitems.sort(key=lambda i: i["sale_date"]); oldest = min(asof(d["as_of"]) for _, _, d, _ in counties)
     grid = "".join(f'<a href="{cs}/"><b>{len(it)}</b>{cn} County<br><span class="muted">as of {asof(d["as_of"])}</span></a>' for cn, cs, d, it in sorted(counties, key=lambda x: -len(x[3])))
@@ -308,10 +314,18 @@ def main():
     body = (home_hero() + f'<h2>{E(BRAND["tagline"])}</h2><p>Free, plain-English lists of upcoming sheriff sales, compiled from lists published by county sheriffs. Pick your state:</p>'
             f'<div class="grid">{grid}</div>{NL}{DISC}')
     page("index.html", f'{BRAND["name"]} – {BRAND["tagline"]}', "Free lists of upcoming sheriff sales and foreclosure auctions by state and county.", body,
-         {"@context": "https://schema.org", "@type": "WebSite", "name": BRAND["name"], "url": BASE + "/"})
+         [{"@context": "https://schema.org", "@type": "WebSite", "name": BRAND["name"], "url": BASE + "/", "description": BRAND["tagline"]},
+          {"@context": "https://schema.org", "@type": "Organization", "name": BRAND["name"], "url": BASE + "/", **({"logo": _abs(BRAND["logo"])} if BRAND.get("logo") else {})}])
     today = datetime.date.today().isoformat()
     open(os.path.join(OUT, "sitemap.xml"), "w").write('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
-        "".join(f"<url><loc>{BASE}{u}</loc><lastmod>{today}</lastmod></url>" for u in urls) + "</urlset>")
+        "".join(f"<url><loc>{BASE}{u}</loc><lastmod>{LM.get(u) or today}</lastmod></url>" for u in dict.fromkeys(urls)) + "</urlset>")
+    open(os.path.join(OUT, "urls.txt"), "w").write("".join(f"{BASE}{u}\n" for u in dict.fromkeys(urls)))
+    if INDEXNOW_KEY: open(os.path.join(OUT, INDEXNOW_KEY + ".txt"), "w").write(INDEXNOW_KEY)
+    llms = [f"# {BRAND['name']}", "", f"> {BRAND['tagline']}. Free, unofficial lists of upcoming sheriff sales and foreclosure auctions compiled daily from lists published by county sheriffs and Kentucky master commissioners. Always verify with the official county source before bidding; not legal or financial advice.", "",
+            "## States", ""] + [f"- [{sn} sheriff sales]({BASE}/{st}/): {n} upcoming sales in {c} counties, data as of {o} or later" for st, sn, n, c, o in stats] + ["", "## Guides", "",
+            f"- [How Deal Check works]({BASE}/deal-check/): how listings are graded Strong / Fair / Pass from published bids and official values",
+            f"- [How to pay for a sheriff sale]({BASE}/financing/)", f"- [Free weekly email]({BASE}/newsletter/)", "", "## Optional", "", f"- [Sitemap]({BASE}/sitemap.xml): every county, city and listing page", ""]
+    open(os.path.join(OUT, "llms.txt"), "w").write("\n".join(llms))
     open(os.path.join(OUT, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n")
     print("Strong listings needing notes:", len(NEED_NOTES), NEED_NOTES[:20]); print("GRADES", json.dumps(GRADES)); json.dump(ALL, open(os.path.join(ROOT,'site_items.json'),'w'), default=str); print(len(urls), "pages;", stats, "dup-slugs:", len(DUPS), "merged 2nd-sale rows:", len(MERGED)); [print(" ", x) for x in DUPS[:25]]
 main()

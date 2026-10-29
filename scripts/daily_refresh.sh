@@ -20,5 +20,7 @@ git add -A data site
 if git diff --cached --quiet; then echo "no data changes"; else
   git commit -q -m "Daily refresh $(date +%F): OH, NJ, PA, KY data, enrich, rebuild" || fail "commit"
   git push -q origin "HEAD:$DEPLOY_BRANCH" || { git pull -q --rebase origin "$DEPLOY_BRANCH" && git push -q origin "HEAD:$DEPLOY_BRANCH"; } || fail "push"
+  # IndexNow ping for changed pages (after Pages deploys); never affects the run
+  ( sleep 600; python3 scripts/indexnow.py changed HEAD ) >> "logs/indexnow_$(date +%F).log" 2>&1 &
 fi
 echo "PUSHED $(git rev-parse --short HEAD)"
