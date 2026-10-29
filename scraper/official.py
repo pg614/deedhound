@@ -112,7 +112,7 @@ CIVILVIEW_PA = {"philadelphia": 60, "montgomery": 23, "lehigh": 51}
 class _Hang(Exception): pass
 def _alarm(*a): raise _Hang("request hung > 90s")
 import signal; signal.signal(signal.SIGALRM, _alarm)
-CV_CACHE = os.path.join(tempfile.gettempdir(), "civilview_pa_cache"); os.makedirs(CV_CACHE, exist_ok=True)  # same-day resume after a hang (6h max age)
+CV_CACHE = os.environ.get("CV_CACHE") or os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "tmp", "civilview_pa_cache"); os.makedirs(CV_CACHE, exist_ok=True)  # checkpoint: detail pages cached 12h so a re-run resumes where a cut-off run stopped
 def civilview_pa(county):
     """Pennsylvania CivilView lists (Philadelphia, Montgomery, Lehigh). Field labels differ by county; status history order differs, so we use the latest-dated entry."""
     lu = f"https://salesweb.civilview.com/Sales/SalesSearch?countyId={CIVILVIEW_PA[county]}"; out = []; seen = set()

@@ -1,8 +1,8 @@
 {
  "state": "ohio",
  "county": "logan",
- "as_of": "2026-10-27T06:11-04:00",
- "source": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-21-26.pdf",
+ "as_of": "2026-10-28T06:08-04:00",
+ "source": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
  "count": 8,
  "items": [
   {
@@ -26,8 +26,8 @@
    "attorney": null,
    "sale_date": "2026-11-18",
    "sale_type": "Tax foreclosure (in person)",
-   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-21-26.pdf",
-   "as_of": "2026-10-27T06:11-04:00"
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
+   "as_of": "2026-10-28T06:08-04:00"
   },
   {
    "county": "logan",
@@ -50,8 +50,8 @@
    "attorney": null,
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure (online)",
-   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-21-26.pdf",
-   "as_of": "2026-10-27T06:11-04:00"
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
+   "as_of": "2026-10-28T06:08-04:00"
   },
   {
    "county": "logan",
@@ -60,7 +60,7 @@
    "times_postponed": null,
    "upset_amount": null,
    "auction_id": null,
-   "status": "SCHEDULED",
+   "status": "CANCELED",
    "case_number": "CV26-06-0232",
    "parcel_id": "04-069-00-00-005-001",
    "address": "3583 Co Rd 142 N",
@@ -74,8 +74,8 @@
    "attorney": null,
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure (online)",
-   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-21-26.pdf",
-   "as_of": "2026-10-27T06:11-04:00"
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
+   "as_of": "2026-10-28T06:08-04:00"
   },
   {
    "county": "logan",
@@ -98,8 +98,8 @@
    "attorney": null,
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure (online)",
-   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-21-26.pdf",
-   "as_of": "2026-10-27T06:11-04:00"
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
+   "as_of": "2026-10-28T06:08-04:00"
   },
   {
    "county": "logan",
@@ -122,8 +122,8 @@
    "attorney": null,
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure (online)",
-   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-21-26.pdf",
-   "as_of": "2026-10-27T06:11-04:00"
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
+   "as_of": "2026-10-28T06:08-04:00"
   },
   {
    "county": "logan",
@@ -146,8 +146,8 @@
    "attorney": null,
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure (online)",
-   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-21-26.pdf",
-   "as_of": "2026-10-27T06:11-04:00"
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
+   "as_of": "2026-10-28T06:08-04:00"
   },
   {
    "county": "logan",
@@ -170,8 +170,8 @@
    "attorney": null,
    "sale_date": "2026-11-18",
    "sale_type": "Tax foreclosure (in person)",
-   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-21-26.pdf",
-   "as_of": "2026-10-27T06:11-04:00"
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
+   "as_of": "2026-10-28T06:08-04:00"
   },
   {
    "county": "logan",
@@ -194,8 +194,8 @@
    "attorney": null,
    "sale_date": "2026-12-16",
    "sale_type": "Foreclosure (online)",
-   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-21-26.pdf",
-   "as_of": "2026-10-27T06:11-04:00"
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
+   "as_of": "2026-10-28T06:08-04:00"
   }
  ]
 }

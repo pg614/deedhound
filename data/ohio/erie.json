@@ -1,7 +1,7 @@
 {
  "state": "ohio",
  "county": "erie",
- "as_of": "2026-10-27T06:10-04:00",
+ "as_of": "2026-10-28T06:08-04:00",
  "source": "https://www.eriecounty.oh.gov/SheriffSales.aspx",
  "count": 4,
  "items": [
@@ -27,7 +27,7 @@
    "sale_date": "2026-11-10",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.eriecounty.oh.gov/SheriffSales.aspx",
-   "as_of": "2026-10-27T06:10-04:00"
+   "as_of": "2026-10-28T06:08-04:00"
   },
   {
    "county": "erie",
@@ -51,7 +51,7 @@
    "sale_date": "2026-11-10",
    "sale_type": "Tax foreclosure (online)",
    "source_url": "https://www.eriecounty.oh.gov/SheriffSales.aspx",
-   "as_of": "2026-10-27T06:10-04:00"
+   "as_of": "2026-10-28T06:08-04:00"
   },
   {
    "county": "erie",
@@ -75,7 +75,7 @@
    "sale_date": "2026-11-10",
    "sale_type": "Tax foreclosure (online)",
    "source_url": "https://www.eriecounty.oh.gov/SheriffSales.aspx",
-   "as_of": "2026-10-27T06:10-04:00"
+   "as_of": "2026-10-28T06:08-04:00"
   },
   {
    "county": "erie",
@@ -99,7 +99,7 @@
    "sale_date": "2026-11-10",
    "sale_type": "Tax foreclosure (online)",
    "source_url": "https://www.eriecounty.oh.gov/SheriffSales.aspx",
-   "as_of": "2026-10-27T06:10-04:00"
+   "as_of": "2026-10-28T06:08-04:00"
   }
  ]
 }
