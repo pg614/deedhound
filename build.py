@@ -302,7 +302,7 @@ def newsletter_page(urls):
     page("newsletter/index.html", "Free weekly sheriff sale email – DeedHound", "Sign up for a free weekly email of the best sheriff sale picks in Ohio, Pennsylvania, Kentucky and New Jersey.", body, None, [("Home", "/"), ("Email signup", "/newsletter/")])
     urls.append("/newsletter/")
 def main():
-    shutil.rmtree(OUT, ignore_errors=True); os.makedirs(OUT); open(os.path.join(OUT, "style.css"), "w").write(CSS); open(os.path.join(OUT, ".nojekyll"), "w").close(); shutil.copytree(os.path.join(ROOT, "assets"), os.path.join(OUT, "assets"))
+    shutil.rmtree(OUT, ignore_errors=True); os.makedirs(OUT); open(os.path.join(OUT, "style.css"), "w").write(CSS); open(os.path.join(OUT, ".nojekyll"), "w").close(); _h=urllib.parse.urlparse(BASE).hostname or ""; (_h and not _h.endswith("github.io") and not BASE_PATH) and open(os.path.join(OUT, "CNAME"), "w").write(_h + "\n"); shutil.copytree(os.path.join(ROOT, "assets"), os.path.join(OUT, "assets"))
     urls = ["/"]; stats = [x for x in (build_state(st, urls) for st in STATES) if x]; how_page(urls); import financing; financing.build(page, urls, BRAND); newsletter_page(urls)
     grid = "".join(f'<a href="/{st}/"><b>{n}</b>{sn}<br><span class="muted">{c} counties · as of {o}</span></a>' for st, sn, n, c, o in stats)
     body = (home_hero() + f'<h2>{E(BRAND["tagline"])}</h2><p>Free, plain-English lists of upcoming sheriff sales, compiled from lists published by county sheriffs. Pick your state:</p>'

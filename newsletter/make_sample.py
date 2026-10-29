@@ -4,7 +4,7 @@ R=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 A=json.load(open(os.path.join(R,'site_items.json')));t=datetime.date.today();end=(t+datetime.timedelta(14)).isoformat()
 G=["camden","gloucester","burlington"]
 it=sorted([i for i in A if i["county"] in G and t.isoformat()<=i["sale_date"]<=end],key=lambda i:({"Strong":0,"Fair":1,"Pass":2}.get(i["grade"],3),i["sale_date"]))
-B="https://pg614.github.io/deedhound"; C={"Strong":"#1b7f3b","Fair":"#b7791f","Pass":"#b42318","Not enough data":"#5b6475"}
+B="https://deedhound.app"; C={"Strong":"#1b7f3b","Fair":"#b7791f","Pass":"#b42318","Not enough data":"#5b6475"}
 def u(v): return f"${v:,.0f}" if v else "not published"
 def dt(s): return datetime.date.fromisoformat(s).strftime("%a %b %-d")
 td='style="padding:10px;border-bottom:1px solid #ddd"'

@@ -5,7 +5,7 @@ Jefferson: https://www.jeffcomm.org/docs/webPush.csv (no robots.txt) + official 
 and appraisal PDF link (handwritten scan: linked, not machine-read)."""
 import csv, io, json, os, re, html, subprocess, tempfile, time, datetime, urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); OUT = os.path.join(ROOT, "data", "kentucky")
-UA = {"User-Agent": "DeedHoundBot/1.0 (+https://pg614.github.io/deedhound/)"}
+UA = {"User-Agent": "DeedHoundBot/1.0 (+https://deedhound.app/)"}
 def get(u, method="GET"):
     r = urllib.request.urlopen(urllib.request.Request(u, headers=UA, method=method), timeout=30); return r.read() if method == "GET" else r.status
 def now(): return datetime.datetime.now().astimezone().isoformat(timespec="minutes")
