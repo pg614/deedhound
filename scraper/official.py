@@ -84,12 +84,27 @@ CIVILVIEW = {"ohio": {"allen": 34, "lorain": 18, "medina": 81, "richland": 61},
                  "hudson": 10, "hunterdon": 32, "middlesex": 73, "monmouth": 8, "morris": 9, "ocean": 85, "passaic": 17, "salem": 20, "union": 15}}
 def civilview(county, state="ohio"):
     s = S(); lu = f"https://salesweb.civilview.com/Sales/SalesSearch?countyId={CIVILVIEW[state][county]}"; h = s.get(lu); out = []
-    st = "OH" if state == "ohio" else "NJ"
-    for pid in re.findall(r'SaleDetails\?PropertyId=(\d+)', h):
+    st = "OH" if state == "ohio" else "NJ"; bad = 0
+    ids = list(dict.fromkeys(re.findall(r'SaleDetails\?PropertyId=(\d+)', h))); done = set(); relisted = False
+    while ids:
+      pid = ids.pop(0); done.add(pid)
+      if True:
         du = f"https://salesweb.civilview.com/Sales/SaleDetails?PropertyId={pid}"
         if len(out) % 25 == 0: print("  ", county, len(out), NOW(), flush=True)
-        try: t = txt(s.get(du))
-        except Exception as e: print("  skip", pid, e, flush=True); continue
+        t = None
+        for attempt in range(3):  # CivilView sometimes returns the index/error page instead of the detail (session lost); re-open the list for a fresh session and retry
+            try:
+                t = txt(s.get(du))
+                if any(x in ("Sheriff #:", "Court Case #:") for x in t) and "Sales Date:" in t: break
+                print("  retry", pid, attempt, "detail page invalid", NOW(), flush=True)
+            except Exception as e: print("  retry", pid, attempt, repr(e), NOW(), flush=True)
+            t = None; time.sleep(5 * (attempt + 1)); s = S(); s.get(lu)
+        if t is None:
+            print("  skip", pid, "no valid detail page", flush=True); bad += 1
+            if bad >= 3 and not relisted:  # the county re-published its list mid-scrape (new PropertyIds, seen in Camden Oct 30, 2026): re-read the list once and pick up the new ids
+                relisted = True; s = S(); ids = [x for x in dict.fromkeys(re.findall(r'SaleDetails\?PropertyId=(\d+)', s.get(lu))) if x not in done]; print("  ", county, "list re-read,", len(ids), "ids left", flush=True)
+            if bad >= 15 and bad > len(out): raise RuntimeError(f"{county}: {bad} invalid detail pages, list is being re-published; keeping previous data")
+            continue
         hi = t.index("Status History") if "Status History" in t else len(t); f = {}
         for i, x in enumerate(t[:hi - 1]):
             if x.endswith(":") and x[:-1] not in f: f[x[:-1]] = t[i + 1] if not t[i + 1].endswith(":") else ""
@@ -106,6 +121,7 @@ def civilview(county, state="ohio"):
             appraised_value=money(f.get("Appraised Value")), opening_bid=money(f.get("Starting Bid")), upset_amount=money(up),
             status=(hist[-1]["status"] if hist else "Scheduled").upper(), status_history=hist, times_postponed=postp,
             sale_date=mdy(f.get("Sales Date") or f.get("Sale Date") or f.get("Sale Date/Time") or next((v for k, v in f.items() if "date" in k.lower() and re.search(r"\d+/\d+/\d+", v or "")), None)), sale_type="Tax foreclosure" if "TREASURER" in (f.get("Plaintiff") or "").upper() else "Foreclosure", source_url=du))
+    if bad: print("  ", county, "invalid detail pages skipped:", bad, flush=True)
     return out
 
 CIVILVIEW_PA = {"philadelphia": 60, "montgomery": 23, "lehigh": 51}

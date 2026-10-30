@@ -7,7 +7,12 @@ import csv, io, json, os, re, html, subprocess, tempfile, time, datetime, urllib
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); OUT = os.path.join(ROOT, "data", "kentucky")
 UA = {"User-Agent": "DeedHoundBot/1.0 (+https://deedhound.app/)"}
 def get(u, method="GET"):
-    r = urllib.request.urlopen(urllib.request.Request(u, headers=UA, method=method), timeout=30); return r.read() if method == "GET" else r.status
+    for attempt in range(3):  # jeffcomm.org sits behind a Sucuri firewall that sometimes answers 307 (seen Oct 30, 2026); back off and retry
+        try:
+            r = urllib.request.urlopen(urllib.request.Request(u, headers=UA, method=method), timeout=30); return r.read() if method == "GET" else r.status
+        except urllib.error.HTTPError as e:
+            if e.code not in (307, 429, 502, 503) or attempt == 2: raise
+            time.sleep(20 * (attempt + 1))
 def now(): return datetime.datetime.now().astimezone().isoformat(timespec="minutes")
 def money(s): return float(s.replace(",", "")) if s else None
 def item(**k):

@@ -104,7 +104,11 @@ def montgomery_pa(items, cache):
     for i in items:
         pins = [re.sub(r"\D", "", p) for p in re.split(r"&|,| and ", i.get("parcel_id") or "")]; pins = [p for p in pins if len(p) == 12]
         if len(pins) != 1: continue  # several parcels sold together: we do not add them up
-        f = get(MONT + "/query", {"where": f"PARCEL='{pins[0]}'", "outFields": "PARCEL,LOCATION1,ASSESSMENT,ASMT_CHGDA,YEAR_BUILT,SFLA,LAND_ACRES,EST_CO_TAX,EST_MUNI_T,EST_SCH_TA,Muni_Name", "returnGeometry": "false", "f": "json"}).get("features", [])
+        f = None
+        for attempt in range(3):  # PASDA sometimes times out (Oct 30, 2026); one slow parcel should not drop the whole county
+            try: f = get(MONT + "/query", {"where": f"PARCEL='{pins[0]}'", "outFields": "PARCEL,LOCATION1,ASSESSMENT,ASMT_CHGDA,YEAR_BUILT,SFLA,LAND_ACRES,EST_CO_TAX,EST_MUNI_T,EST_SCH_TA,Muni_Name", "returnGeometry": "false", "f": "json"}).get("features", []); break
+            except Exception as e: print("  montgomery retry", pins[0], attempt, repr(e), flush=True); time.sleep(10 * (attempt + 1))
+        if f is None: continue
         if len(f) != 1: continue
         r = f[0]["attributes"]; hit += 1
         tax = sum(r[k] or 0 for k in ("EST_CO_TAX", "EST_MUNI_T", "EST_SCH_TA")) or None
