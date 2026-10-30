@@ -56,6 +56,14 @@ THEME_HEAD = '<script>(function(){try{var t=localStorage.getItem("theme")}catch(
 THEME_FOOT = '<script>(function(){var b=document.getElementById("thm"),d=document.documentElement;function sync(){var k=d.getAttribute("data-theme")==="dark";b.querySelector(".ic").textContent=k?"☀️":"🌙";b.querySelector(".tx").textContent=k?"Light mode":"Dark mode";b.setAttribute("aria-pressed",k)}sync();b.onclick=function(){var t=d.getAttribute("data-theme")==="dark"?"light":"dark";d.setAttribute("data-theme",t);try{localStorage.setItem("theme",t)}catch(e){}sync()}})()</script>'
 def _abs(u): return u if not u or u.startswith("http") else BASE + "/" + u.lstrip("/")
 OGIMG = (f'<meta property="og:image" content="{_abs(BRAND.get("apple_icon") or BRAND.get("logo"))}"><meta name="twitter:image" content="{_abs(BRAND.get("apple_icon") or BRAND.get("logo"))}">') if (BRAND.get("apple_icon") or BRAND.get("logo")) else ""
+GA_ID = CFG.get("ga4_measurement_id", "")
+GA_HEAD = (f'<script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","{GA_ID}");</script>') if GA_ID else ""
+GA_FOOT = ('<script>(function(){if(!window.gtag)return;var sent={};function loc(el){if(!el||!el.closest)return"page";if(el.closest(".sbar"))return"bar";if(el.closest(".hero"))return"hero";if(el.closest("footer"))return"footer";if(el.closest("[data-beehiiv-form],.card:has(script[data-beehiiv-form])"))return"beehiiv_form";if(location.pathname.indexOf("/newsletter/")===0)return"newsletter_page";return"card"}'
+    'function ev(l,how){gtag("event","newsletter_signup",{location:l,method:how,page_path:location.pathname})}'
+    'var RX=/(newsletter|subscribe|sign.?up|waitlist|join|beehiiv)/i;'
+    'document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("a,button,input[type=submit]");if(!a)return;var h=a.getAttribute("href")||"";if(/\\/newsletter\\/|beehiiv/i.test(h)||(a.tagName!=="A"&&RX.test(a.textContent+" "+(a.value||""))))ev(loc(a),"click")},true);'
+    'document.addEventListener("submit",function(e){var f=e.target;if(RX.test((f.action||"")+" "+(f.className||"")+" "+(f.id||"")))ev(loc(f),"submit")},true);'
+    'window.addEventListener("blur",function(){setTimeout(function(){var f=document.activeElement;if(f&&f.tagName==="IFRAME"&&/beehiiv/i.test(f.src||"")&&!sent[f.src]){sent[f.src]=1;ev(loc(f),"iframe_focus")}},0)})})()</script>') if GA_ID else ""
 LM = {}
 def page(path, title, desc, body, ld=None, crumbs=None):
     canon = BASE + "/" + path.replace("index.html", "")
@@ -63,13 +71,13 @@ def page(path, title, desc, body, ld=None, crumbs=None):
     if crumbs: lds.append({"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
         {"@type": "ListItem", "position": i + 1, "name": n, "item": BASE + u} for i, (n, u) in enumerate(crumbs)]})
     nav = " › ".join(f'<a href="{u}">{E(n)}</a>' for n, u in crumbs) if crumbs else ""
-    doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+    doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">{GA_HEAD}
 <title>{E(title)}</title><meta name="description" content="{E(desc)}"><link rel="canonical" href="{canon}">{THEME_HEAD}<link rel="stylesheet" href="/style.css"><link rel="icon" href="{BRAND.get("favicon","")}"><link rel="apple-touch-icon" href="{BRAND.get("apple_icon","")}"><meta name="theme-color" content="{BRAND["navy"]}">
 <meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:url" content="{canon}"><meta property="og:type" content="website"><meta property="og:site_name" content="{E(BRAND["name"])}"><meta property="og:locale" content="en_US">{OGIMG}<meta name="twitter:card" content="summary"><meta name="twitter:title" content="{E(title)}"><meta name="twitter:description" content="{E(desc)}">
 {''.join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in lds)}</head><body>
 {BAR}<header><div class="w"><a class="logo" href="/">{('<img src="'+BRAND["logo"]+'" alt="'+E(BRAND["name"])+'" height="68">') if BRAND["logo"] else E(BRAND["name"])}<small>{E(BRAND["tagline"])}</small></a><nav>{" ".join(f'<a href="/{k}/">{v[0]}</a>' for k,v in STATES.items())}</nav><button class="thm" type="button" id="thm" aria-label="Switch light or dark mode"><span class="ic" aria-hidden="true">🌙</span><span class="tx">Dark mode</span></button></div></header>
 <main class="w"><div class="muted">{nav}</div>{body}</main>
-<footer class="w">Data compiled from lists published by county sheriffs' offices. Bidding happens on each county's official sale site. {DISC}</footer>{THEME_FOOT}</body></html>"""
+<footer class="w">Data compiled from lists published by county sheriffs' offices. Bidding happens on each county's official sale site. {DISC}</footer>{THEME_FOOT}{GA_FOOT}</body></html>"""
     if path.startswith("kentucky/"): doc = doc.replace("County Sheriff list", "County Master Commissioner list").replace("as published by the Sheriff", "as published by the Master Commissioner").replace(' County Sheriff"', ' County Master Commissioner"').replace("Kentucky sheriff sales", "Kentucky master commissioner sales").replace("Kentucky Sheriff Sales", "Kentucky Master Commissioner Sales").replace("County sheriff sales work", "County master commissioner sales work").replace("Kentucky sheriff sale ·", "Kentucky master commissioner sale ·")
     fp = os.path.join(OUT, path); os.makedirs(os.path.dirname(fp), exist_ok=True); open(fp, "w").write(_bp(doc))
 def table(items, show_county=False):
