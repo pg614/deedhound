@@ -1,34 +1,10 @@
 {
  "state": "ohio",
  "county": "wood",
- "as_of": "2026-10-28T06:11-04:00",
+ "as_of": "2026-10-30T06:07-04:00",
  "source": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
  "count": 5,
  "items": [
-  {
-   "county": "wood",
-   "state": "ohio",
-   "status_history": [],
-   "times_postponed": null,
-   "upset_amount": null,
-   "auction_id": null,
-   "status": "SCHEDULED",
-   "case_number": "25-CV-0524",
-   "parcel_id": null,
-   "address": "139 Maple Street",
-   "city": "Rossford",
-   "zip": null,
-   "appraised_value": 135000.0,
-   "opening_bid": 90000.0,
-   "deposit": null,
-   "plaintiff": null,
-   "defendant": null,
-   "attorney": null,
-   "sale_date": "2026-11-05",
-   "sale_type": "Foreclosure (online)",
-   "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
-   "as_of": "2026-10-28T06:11-04:00"
-  },
   {
    "county": "wood",
    "state": "ohio",
@@ -51,7 +27,7 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
-   "as_of": "2026-10-28T06:11-04:00"
+   "as_of": "2026-10-30T06:07-04:00"
   },
   {
    "county": "wood",
@@ -75,7 +51,7 @@
    "sale_date": "2026-11-19",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
-   "as_of": "2026-10-28T06:11-04:00"
+   "as_of": "2026-10-30T06:07-04:00"
   },
   {
    "county": "wood",
@@ -99,7 +75,7 @@
    "sale_date": "2026-11-19",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
-   "as_of": "2026-10-28T06:11-04:00"
+   "as_of": "2026-10-30T06:07-04:00"
   },
   {
    "county": "wood",
@@ -123,7 +99,31 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
-   "as_of": "2026-10-28T06:11-04:00"
+   "as_of": "2026-10-30T06:07-04:00"
+  },
+  {
+   "county": "wood",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "25-CV-0524",
+   "parcel_id": null,
+   "address": "139 Maple Street",
+   "city": "Rossford",
+   "zip": null,
+   "appraised_value": 135000.0,
+   "opening_bid": 90000.0,
+   "deposit": null,
+   "plaintiff": null,
+   "defendant": null,
+   "attorney": null,
+   "sale_date": "2026-12-10",
+   "sale_type": "Foreclosure (online)",
+   "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
+   "as_of": "2026-10-30T06:07-04:00"
   }
  ]
 }

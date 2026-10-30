@@ -1,370 +1,10 @@
 {
  "state": "new-jersey",
  "county": "burlington",
- "as_of": "2026-10-28T06:27-04:00",
- "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908206",
- "count": 100,
+ "as_of": "2026-10-30T06:21-04:00",
+ "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471040",
+ "count": 95,
  "items": [
-  {
-   "county": "burlington",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled for",
-     "date": "2026-09-03"
-    },
-    {
-     "status": "1st Attorney Adjournment to",
-     "date": "2026-10-01"
-    },
-    {
-     "status": "1st Debtor Adjournment to",
-     "date": "2026-10-29"
-    }
-   ],
-   "times_postponed": 2,
-   "upset_amount": 3302892.64,
-   "auction_id": "2214908206",
-   "status": "1ST DEBTOR ADJOURNMENT TO",
-   "case_number": "F-008572-23",
-   "parcel_id": "AND 8.01; THENCE. 3. ALONG THE LINE OF 8.01 SOUTH 30 DEGREES 28 MINUTES 00 SECONDS EAST A DISTANCE OF 100.00 FEET TO A POINT IN THE   NORTHWESTERLY LINE OF WEST BROAD STREET; THENCE. 4. ALONG THE NORTHWESTERLY LINE OF WEST BROAD STREET, SOUTH 58 DEGREES 25 MINUTES 00 SECONDS EAST A DISTANCE OF 66-42 FOOT TO THE POINT AND PLACE OF BEGINNING, FOR INFORMATION ONLY: COUNTY: BURLINGTON, MUNICIPALITY: PALMYRA BOROUGH TAX BLOCK: 60, TAX LOT: 5.01 AND 5.02 ADDRESS: TRACT I: 519 AND 521 WEST BROAD STREET, PALMYRA, NJ 080654. THE ABOVE TAX LOT AND BLACK DESIGNATION AND THE STREET ADDRESS DESIGNATION FOR INFORMATIONAL PURPOSES ONLY AND IS NOT TO BE CONSTRUED AS PART OF THE LEGAL DESCRIPTION. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $3,260,197.77 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of BLEUBELL BROAD LLC; HELENA PORGES; BUREAU OF HOUSING INSPECTION; STATE OF NEW JERSEY; UNKNOWN OCCUPANTS #1-10 N/WA RONALD WILLIAMS, OCCUPANT APT. B; UNKNOWN OCCUPANTS #1-10 N/K/A DEBRA HALE, 519B",
-   "address": "519 & 521 WEST BROAD STREET",
-   "city": "Palmyra",
-   "zip": "08065",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR SPARTAN FUNDING I TRUST",
-   "defendant": "BLEUBELL BROAD LLC; HELENA PORGES; BUREAU OF HOUSING INSPECTION; STATE OF NEW JERSEY; UNKNOWN OCCUPANTS #1-10 N/WA RONALD WILLIAMS, OCCUPANT APT. B; UNKNOWN OCCUPANTS #1-10 N/K/A DEBRA HALE, 519B OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A BRITTANEY HALE, 519B OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A LEONARD KENNON, 519B OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A JENNIE ARIZZI, 521B OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A ROB KAROWSKI, 521D OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A NORMA MATTHEWS, 521D OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A JANE DOE (NAME REFUSED), 2ND FLOOR BACK BUILDING APT. OCCUPANT; UNKNOWN OCCUPANTS 10 N/K/A BRIDGET NATIELLO APT. A TENANT, UNKNOWN OCCUPANTS #1-10 N/K/A THERESA RODRIGUES APT. D TENANT, UNKNOWN OCCUPANTS #1-10 N/K/A JOANN CARNEY APT. H TENANT, UNKNOWN OCCUPANTS #1-10 N/K/A DEBBIE ANDERSON APT. C TENANT, UNKNOWN OCCUPANTS #1-10 N/K/A ELISABETH HAYWOOD APT. G TENANT, UNKNOWN OCCUPANTS #1-10 N/K/A NATAISHA TURNER APT. B TENANT",
-   "attorney": "FRIEDMAN VARTOLO LLP",
-   "sale_date": "2026-10-29",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908206",
-   "as_of": "2026-10-28T06:23-04:00",
-   "sheriff_number": "26001485"
-  },
-  {
-   "county": "burlington",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled for",
-     "date": "2026-09-03"
-    },
-    {
-     "status": "1st Attorney Adjournment to",
-     "date": "2026-10-01"
-    },
-    {
-     "status": "1st Debtor Adjournment to",
-     "date": "2026-10-29"
-    }
-   ],
-   "times_postponed": 2,
-   "upset_amount": 3302892.64,
-   "auction_id": "2214908207",
-   "status": "1ST DEBTOR ADJOURNMENT TO",
-   "case_number": "F-008572-23",
-   "parcel_id": "TAX MAP; THENCE. 2. SOUTH 82 DEGREES 49 MINUTES 39 SECONDS EAST ALONG THE LINE BETWEEN LOTS: 6 AND 24, BLOCK: 1483. TAX MAP A DISTANCE OF 64.08 FEET TO A POINT, SAID POINT THE DIVISION LINE BETWEEN LOTS: 6 AND 23, BLOCK: 14683 TAX MAP; THENCE. 3. NORTH 04 DEGREES 38 MINUTES 59 SECONDS EAST ALONG THE DIVISION LINE BETWEEN LOTS: 6 AND 23, BLOCK: 1483, TAX MAP, A DISTANCE OF 11.83 FEET TO AN ANGLE POINT IN SAME: THENCE. 4. SOUTH 65 DEGREES 21 MINUTES 01 SECOND EAST CONTINUING ALONG THE DIVISION LINE BETWEEN LOTS: 6 AND 23, BLOCK: 1483, TAX MAP A DISTANCE OF 60.00 FEET TO A POINT SAID POINT BEING IN THE DIVISION LINE BETWEEN LOTS: 6 AND 7, BLOCK: 1483. TAX MAP; THENCE. 5. NORTH 04 DEGREES 58 MINUTES 41 SECONDS EAST ALONG THE DIVISION LINE BETWEEN LOTS: 6 AND 7, BLOCK: 483. TAX MAP, A DISTANCE OF 231.51 FEET TO A POINT IN THE CENTER TINE OF WARREN STREET; THENCE. 6. NORTH 82 DEGREES 24 MINUTES 11 SECONDS WEST ALONG THE CENTER LINE OF LINE OF WARREN STREET A DISTANCE OF 124.00 FEET TO THE POINT AND PLACE OF BEGINNING. FOR INFORMATION ONLY: COUNTY: BURLINGTON, MUNICIPALITY: BEVERLY CITY TAX BLOCK: 1483, TAX LOT: 6 ADDRESS: TRACT 1: 66 WARREN STREET, BEVERLY. NJ 08010. THE ABOVE TAX LOT AND BLOCK DESIGNATION AND THE STREET ADDRESS DESIGNATION IS FOR INFORMATIONAL PURPOSES ONLY AND IS 00210 BE CONSTRUED AS PART OF LEGAL DESCRIPTION. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s",
-   "address": "66 WARREN STREET",
-   "city": "Beverly",
-   "zip": "08010",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR SPARTAN FUNDING I TRUST",
-   "defendant": "BLEUBELL BROAD LLC; HELENA PORGES; BUREAU OF HOUSING INSPECTION; STATE OF NEW JERSEY; UNKNOWN OCCUPANTS #1-10 N/K/A RONALD WILLIAMS, OCCUPANT APT. B; UNKNOWN OCCUPANTS #1-10 N/K/A DEBRA HALE, 519B OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A BRITTANEY HALE, 519B OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A LEONARD KENNON, 519B OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A JENNIE ARIZZI, 521B OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A ROB KAROWSKI, 521D OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A NORMA MATTHEWS, 521D OCCUPANT; UNKNOWN OCCUPANTS #1-10 N/K/A JANE DOE (NAME REFUSED), 2ND FLOOR BACK BUILDING APT. OCCUPANT; UNKNOWN OCCUPANTS 10 N/K/A BRIDGET NATIELLO APT. A TENANT, UNKNOWN OCCUPANTS #1-10 N/K/A THERESA RODRIGUES APT. D TENANT, UNKNOWN OCCUPANTS #1-10 N/K/A JOANN CARNEY APT. H TENANT, UNKNOWN OCCUPANTS #1-10 N/K/A DEBBIE ANDERSON APT. C TENANT, UNKNOWN OCCUPANTS #1-10 N/K/A ELISABETH HAYWOOD APT. G TENANT, UNKNOWN OCCUPANTS #1-10 N/K/A NATAISHA TURNER APT. B TENANT",
-   "attorney": "FRIEDMAN VARTOLO LLP",
-   "sale_date": "2026-10-29",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908207",
-   "as_of": "2026-10-28T06:23-04:00",
-   "sheriff_number": "26001486"
-  },
-  {
-   "county": "burlington",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled for",
-     "date": "2026-09-03"
-    },
-    {
-     "status": "1st Debtor Adjournment to",
-     "date": "2026-10-01"
-    },
-    {
-     "status": "2nd Debtor Adjournment to",
-     "date": "2026-10-29"
-    },
-    {
-     "status": "Cancelled",
-     "date": "2026-10-29"
-    }
-   ],
-   "times_postponed": 2,
-   "upset_amount": 159058.56,
-   "auction_id": "2214908209",
-   "status": "CANCELLED",
-   "case_number": "F-000378-26",
-   "parcel_id": null,
-   "address": "1309 SPRINGSIDE PLACE",
-   "city": "Burlington",
-   "zip": "08016",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
-   "defendant": "LAVELL L. JAMES; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
-   "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
-   "sale_date": "2026-10-29",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908209",
-   "as_of": "2026-10-28T06:23-04:00",
-   "sheriff_number": "26001503"
-  },
-  {
-   "county": "burlington",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "One DEBTOR Adjournment Available as of",
-     "date": "2026-09-03"
-    },
-    {
-     "status": "One ATTORNEY Adjournment Available as of",
-     "date": "2026-09-03"
-    },
-    {
-     "status": "Scheduled for",
-     "date": "2026-09-03"
-    },
-    {
-     "status": "2nd Debtor Adjournment to",
-     "date": "2026-10-01"
-    },
-    {
-     "status": "2nd Attorney Adjournment to",
-     "date": "2026-10-29"
-    }
-   ],
-   "times_postponed": 4,
-   "upset_amount": 92051.42,
-   "auction_id": "2214908210",
-   "status": "2ND ATTORNEY ADJOURNMENT TO",
-   "case_number": "F-004124-25-B",
-   "parcel_id": "OUTSTANDING. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $88,865.86 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of MICHAEL J. DURNING; MRS. MICHAEL J. DURNING, HIS WIFE; FLORENCE TOLLGATE CONDOMINIUM ASSOCIATION Defendant(s) taken in execution at the suit of LOANDEPOT.COM, LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON COUNTY SHERIFF. IF THE BALANCE OF THE PURCHASE PRICE IS TO BE FINANCED, BIDDER MUST PRESENT",
-   "address": "39 FLORENCE TOLLGATE PLACE UNIT 6",
-   "city": "Florence",
-   "zip": "08518",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "LOANDEPOT.COM, LLC",
-   "defendant": "MICHAEL J. DURNING; MRS. MICHAEL J. DURNING, HIS WIFE; FLORENCE TOLLGATE CONDOMINIUM ASSOCIATION",
-   "attorney": "BROCK & SCOTT PLLC",
-   "sale_date": "2026-10-29",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908210",
-   "as_of": "2026-10-28T06:23-04:00",
-   "sheriff_number": "26001505"
-  },
-  {
-   "county": "burlington",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled for",
-     "date": "2026-10-01"
-    },
-    {
-     "status": "1st Debtor Adjournment to",
-     "date": "2026-10-29"
-    },
-    {
-     "status": "Cancelled",
-     "date": "2026-10-29"
-    }
-   ],
-   "times_postponed": 1,
-   "upset_amount": 65766.23,
-   "auction_id": "2214908222",
-   "status": "CANCELLED",
-   "case_number": "F-012718-25",
-   "parcel_id": "RESTRICTIONS, REVERSIONS, RESERVATIONS, AND EASEMENTS OF RECORD. THE OCCUPANCY STATUS OF THE SUBJECT PROPERTY IS UNKNOWN. NO PRIOR MORTGAGES OR LIENS ARE OUTSTANDING. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $0.00 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of ALI OZBAS; DILEK OZBAS; DISCOVER BANK; WELLS FARGO BANK, N.A. Defendant(s) taken in execution at the suit of NATIONSTAR MORTGAGE LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY.",
-   "address": "312 DOWNING COURT",
-   "city": "Westampton",
-   "zip": "08060",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "NATIONSTAR MORTGAGE LLC",
-   "defendant": "ALI OZBAS; DILEK OZBAS; DISCOVER BANK; WELLS FARGO BANK, N.A.",
-   "attorney": "LOGS LEGAL GROUP LLP",
-   "sale_date": "2026-10-29",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908222",
-   "as_of": "2026-10-28T06:23-04:00",
-   "sheriff_number": "26001759"
-  },
-  {
-   "county": "burlington",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled for",
-     "date": "2026-10-01"
-    },
-    {
-     "status": "1st Debtor Adjournment to",
-     "date": "2026-10-29"
-    }
-   ],
-   "times_postponed": 1,
-   "upset_amount": 149258.37,
-   "auction_id": "2214908223",
-   "status": "1ST DEBTOR ADJOURNMENT TO",
-   "case_number": "F-005966-25",
-   "parcel_id": "AUTHORITY. ALL INTERESTED PAR-TIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO, THE CURRENT AMOUNT DUE THEREON. ** IF THE SALE IS SET ASIDE FOR ANY REASON, THE PURCHASER AT THE SALE SHALL BE ENTITLED ONLY A RETURN OF THE DEPOSIT PAID. THE PURCHASER SHALL HAVE NO FURTHER RECOURSE AGAINST THE MORTGAGOR, MORTGAGEE OR THE MORTGAGEE'S ATTORNEY. AS THE ABOVE DESCRIPTION DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION, SAID FULL LEGAL DESCRIPTION IS ANNEXED TO THAT CERTAIN MORTGAGE RECORDED IN THE BURLINGTON COUNTY CLERK'S OFFICE IN BOOK 1 1980 AT PAGE 553, ET SEQ., NEW JERSEY, AND THE WRIT OF EXECUTION ON FILE WITH THE SHERIFF OF BURLINGTON COUNTY. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $143,969.61 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of NICHOLAS P. DIMUZIO, HIS OR HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER,",
-   "address": "7 GRAMERCY PLACE",
-   "city": "Southampton",
-   "zip": "08088",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "MIDFIRST BANK",
-   "defendant": "NICHOLAS P. DIMUZIO, HIS OR HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; ABBY BLOOM; UNITED STATES OF AMERICA; STATE OF NEW JERSEY; INTRUST BANK and LEISURETOWNE ASSOCIATION, INC.",
-   "attorney": "GROSS POLOWY, LLC",
-   "sale_date": "2026-10-29",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908223",
-   "as_of": "2026-10-28T06:23-04:00",
-   "sheriff_number": "26001768"
-  },
-  {
-   "county": "burlington",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled for",
-     "date": "2026-10-29"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": 313202.55,
-   "auction_id": "2214908234",
-   "status": "SCHEDULED FOR",
-   "case_number": "F-004411-26",
-   "parcel_id": null,
-   "address": "6 POTTER LANE",
-   "city": "Willingboro",
-   "zip": "08046",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "CITIZENS BANK, N.A.",
-   "defendant": "DESIREE NIEVES, NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY AND UNITED STATES OF AMERICA",
-   "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
-   "sale_date": "2026-10-29",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908234",
-   "as_of": "2026-10-28T06:23-04:00",
-   "sheriff_number": "26001911"
-  },
-  {
-   "county": "burlington",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled for",
-     "date": "2026-10-29"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": 103914.15,
-   "auction_id": "2214908237",
-   "status": "SCHEDULED FOR",
-   "case_number": "F-004543-26",
-   "parcel_id": "GENERAL REMARK: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES. NO PRIOR MORTGAGES OR LIENS ARE OUTSTANDING. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $101,951.64 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of EMMANUEL CRUZ A/K/A EMMANUEL CRUZ; PRISCILLA POSADA-CRUZ; STATE FARM INDEMNITY COMPANY SUBROGEE ROSA RODRIGUEZ Defendant(s) taken in execution at the suit of ROCKET MORTGAGE, LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE",
-   "address": "30 TWIN HILL DRIVE",
-   "city": "Willingboro",
-   "zip": "08046",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "ROCKET MORTGAGE, LLC",
-   "defendant": "EMMANUEL CRUZ A/K/A EMMANUEL CRUZ; PRISCILLA POSADA-CRUZ; STATE FARM INDEMNITY COMPANY SUBROGEE ROSA RODRIGUEZ",
-   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
-   "sale_date": "2026-10-29",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908237",
-   "as_of": "2026-10-28T06:23-04:00",
-   "sheriff_number": "26001915"
-  },
-  {
-   "county": "burlington",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled for",
-     "date": "2026-10-29"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": 247023.91,
-   "auction_id": "2214908239",
-   "status": "SCHEDULED FOR",
-   "case_number": "F-008574-25",
-   "parcel_id": "CAZENOVIA CREEK FUNDING IL LLC AMOUNT: $843.07 BOOK: 13374 PAGE: 7695 INSTRUMENT NUMBER: CERTIFICATE NO: 18-00077 TOTAL: $4,615.79 OCCUPANCY STATUS: OCCUPIED. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $241,395.87 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of GERARD PIERRE; ODANIE PIERRE; FIFTH THIRD BANK, SUCCESSOR BY MERGER WITH DIVIDEND SOLAR FINANCE LLC; MIDLAND FUNDING LLC; NJR CLEAN ENERGY VENTURES CORP; NJR CLEAN ENERGY VENTURES II CORPORATION Defendant(s) taken in execution at the suit of U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LB-TIKI SERIES VI TRUST Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A",
-   "address": "12 CHURCHILL STREET",
-   "city": "Westampton",
-   "zip": "08060",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LB-TIKI SERIES VI TRUST",
-   "defendant": "GERARD PIERRE; ODANIE PIERRE; FIFTH THIRD BANK, SUCCESSOR BY MERGER WITH DIVIDEND SOLAR FINANCE LLC; MIDLAND FUNDING LLC; NJR CLEAN ENERGY VENTURES CORP; NJR CLEAN ENERGY VENTURES II CORPORATION",
-   "attorney": "FRIEDMAN VARTOLO LLP",
-   "sale_date": "2026-10-29",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908239",
-   "as_of": "2026-10-28T06:23-04:00",
-   "sheriff_number": "26001945"
-  },
-  {
-   "county": "burlington",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled for",
-     "date": "2026-10-29"
-    },
-    {
-     "status": "Cancelled",
-     "date": "2026-10-29"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": 244346.8,
-   "auction_id": "2214908240",
-   "status": "CANCELLED",
-   "case_number": "F-001257-26",
-   "parcel_id": "DELANCEY PLACE CONDOMINIUM ASSOCIATION, INC. 15,018.14 G/T 06/14/2021. DELANCEY PLACE CONDOMINIUM ASSOCIATION, INC. $18,502.14 G/T 09/23/2022. DELANCEY PLACE CONDOMINIUM ASSOCIATION, INC.  $22,049.64 G/T 07/27/2023. DELANCEY PLACE CONDOMINIUM ASSOCIATION, INC. $28,453.14 G/T 01/18/2024. DELANCEY PLACE CONDOMINIUM ASSOCIATION, INC. $35,471.64 G/T 03/19/2025. DELANCEY PLACE CONDOMINIUM ASSOCIATION, INC. $42,479.88 G/T 01/19/2026. TOTAL: $42,479.88 \u2013 CUMULATIVE. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $240,602.78 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of AMY WARAKSA; GREGORY WARAKSA; DELANCEY PLACE CONDOMINIUM ASSOCIATION, INC. Defendant(s) taken in execution at the suit of THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF CWALT, INC., ALTERNATIVE LOAN TRUST 200428CB, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2004-28CB, Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A",
-   "address": "1605 DELANCEY WAY",
-   "city": "Marlton",
-   "zip": "08053",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK, AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF CWALT, INC., ALTERNATIVE LOAN TRUST 200428CB, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2004-28CB,",
-   "defendant": "AMY WARAKSA; GREGORY WARAKSA; DELANCEY PLACE CONDOMINIUM ASSOCIATION, INC.",
-   "attorney": "PARKER MCCAY, PA",
-   "sale_date": "2026-10-29",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908240",
-   "as_of": "2026-10-28T06:23-04:00",
-   "sheriff_number": "26001946"
-  },
   {
    "county": "burlington",
    "state": "new-jersey",
@@ -416,7 +56,7 @@
    ],
    "times_postponed": 9,
    "upset_amount": 253947.71,
-   "auction_id": "2214908186",
+   "auction_id": "2218471040",
    "status": "CANCELLED",
    "case_number": "F-022315-18-C",
    "parcel_id": null,
@@ -431,8 +71,8 @@
    "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908186",
-   "as_of": "2026-10-28T06:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471040",
+   "as_of": "2026-10-30T06:17-04:00",
    "sheriff_number": "25001775"
   },
   {
@@ -478,7 +118,7 @@
    ],
    "times_postponed": 8,
    "upset_amount": 283704.68,
-   "auction_id": "2214908188",
+   "auction_id": "2218471042",
    "status": "ADJOURNED BY COURT TO",
    "case_number": "F-004964-25",
    "parcel_id": null,
@@ -493,8 +133,8 @@
    "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908188",
-   "as_of": "2026-10-28T06:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471042",
+   "as_of": "2026-10-30T06:17-04:00",
    "sheriff_number": "26000294"
   },
   {
@@ -520,7 +160,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 525383.19,
-   "auction_id": "2214908193",
+   "auction_id": "2218471047",
    "status": "2ND DEBTOR ADJOURNMENT TO",
    "case_number": "F-005788-25",
    "parcel_id": "REGISTER. NO PRIOR MORTGAGES OR LIENS ARE OUTSTANDING. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $505,307.07 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of MARY ASH A/K/A MARY E. ASH; MR. ASH, SPOUSE OF MARY ASH A/K/A MARY E. ASH; LEROY ASH, GRANDE AT BURRS MILL HOMEOWNER'S ASSOCIATION, INC. Defendant(s) taken in execution at the suit of DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR INDYMAC INDX MORTGAGE LOAN TRUST 2006-AR41, MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2006-AR41 Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90)",
@@ -535,8 +175,8 @@
    "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908193",
-   "as_of": "2026-10-28T06:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471047",
+   "as_of": "2026-10-30T06:17-04:00",
    "sheriff_number": "26001293"
   },
   {
@@ -562,7 +202,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 178498.7,
-   "auction_id": "2214908194",
+   "auction_id": "2218471048",
    "status": "2ND DEBTOR ADJOURNMENT TO",
    "case_number": "F-004614-25",
    "parcel_id": "PENALTY $516.15 OPEN PLUS PENALTY; OWED IN ARREARS SUBJECT TO FINAL READING. GENERAL REMARK: SUBJECT TO TAX SALE JULY 16,2026. SUBJECT TO ADDITIONAL FEES. INFORMATION: ESCROW $300 FOR FINAL WATER & SEWER READING, OR CONTACT MUA. CONTACT TAX COLLECTOR FOR REDEMPTION 2 - 3 DAYS PRIOR TO CLOSING. THE SHERIFF RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $170,227.92 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of MATTHEW P. RELVA Defendant(s) taken in execution at the suit of U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPA CITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY.",
@@ -577,8 +217,8 @@
    "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908194",
-   "as_of": "2026-10-28T06:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471048",
+   "as_of": "2026-10-30T06:17-04:00",
    "sheriff_number": "26001313"
   },
   {
@@ -604,7 +244,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 169989.6,
-   "auction_id": "2214908195",
+   "auction_id": "2218471049",
    "status": "1ST ATTORNEY ADJOURNMENT TO",
    "case_number": "F-005105-25",
    "parcel_id": null,
@@ -619,8 +259,8 @@
    "attorney": "FRIEDMAN VARTOLO LLP",
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908195",
-   "as_of": "2026-10-28T06:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471049",
+   "as_of": "2026-10-30T06:17-04:00",
    "sheriff_number": "26001316"
   },
   {
@@ -650,7 +290,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 92612.93,
-   "auction_id": "2214908212",
+   "auction_id": "2218471062",
    "status": "CANCELLED",
    "case_number": "F-012092-25",
    "parcel_id": "SEWER AMOUNT: $967.97 CERT NO.: 25-00048 SOLD: 10/16/2025 TO: PRO CAP 8 FBO FIRSTRUST BANK LIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL PRIOR TO SETTLEMENT FOR REDEMPTION FIGURES. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54. TOTAL: $967.97. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $90,672.49 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of BRITTNEY S. BUTLER A/K/A BRITTANY S. BUTLER; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT; STATE OF NEW JERSEY; SETH S. MARSHALL A/K/A SETH MARSHALL Defendant(s) taken in execution at the suit of LAKEVIEW LOAN SERVICING, LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE-",
@@ -665,8 +305,8 @@
    "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908212",
-   "as_of": "2026-10-28T06:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471062",
+   "as_of": "2026-10-30T06:17-04:00",
    "sheriff_number": "26001551"
   },
   {
@@ -684,7 +324,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 187323.73,
-   "auction_id": "2214908227",
+   "auction_id": "2218471077",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-013887-25",
    "parcel_id": "purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $176,886.95 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of GATE 7 LLC; KENNETH WALLACE; UNKNOWN OCCUPANTS #1-10 N/KA MIKE RITTER, TENANT Defendant(s) taken in execution at the suit of ATHENE ANNUITY AND LIFE COMPANY Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON COUNTY SHERIFF. IF THE BALANCE OF THE PURCHASE PRICE IS TO BE FINANCED, BIDDER MUST PRESENT AT SALE PRE-APPROVAL DOCUMENTATION FROM AN INSTITUTION REGULATED BY THE DEPARTMENT OF BANKING AND INSURANCE OR FEDERAL BANKING AGENCY AS DEFINED IN THE NEW JERSEY RESIDENTIAL MORTGAGE LENDING ACT. THOSE PERMITTED TO PAY THREE- AND ONE-HALF PERCENT DEPOSIT (3.5%) SHALL BE THE FOLLOWING IN ORDER OF PRIORITY: 1. THE FORECLOSED UPON DEFENDANT, THE FORECLOSED UPON DEFENDANT\u2019S NEXT OF KIN OR TENANT, MEETING THE ABOVE REQUIREMENTS, SHALL HAVE RIGHT OF FIRST REFUSAL TO PURCHASE THE PROPERTY; (only available for the initial sale unless the sale is delayed) 2. AN INDIVIDUAL, MEETING THE ABOVE REQUIREMENTS WHO INTENDS TO OCCUPY THE PROPERTY AS HIS PRIMARY RESIDENCE FOR NO LESS THAN EIGHTY-FOUR (84) MONTHS;",
@@ -699,8 +339,8 @@
    "attorney": "FRIEDMAN VARTOLO LLP",
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908227",
-   "as_of": "2026-10-28T06:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471077",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26001812"
   },
   {
@@ -714,7 +354,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 151784.23,
-   "auction_id": "2214908241",
+   "auction_id": "2218471089",
    "status": "SCHEDULED FOR",
    "case_number": "F-006111-26",
    "parcel_id": null,
@@ -729,8 +369,8 @@
    "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908241",
-   "as_of": "2026-10-28T06:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471089",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26001981"
   },
   {
@@ -748,7 +388,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 255915.22,
-   "auction_id": "2214908243",
+   "auction_id": "2218471091",
    "status": "SCHEDULED FOR",
    "case_number": "F-006283-22-B",
    "parcel_id": null,
@@ -763,8 +403,8 @@
    "attorney": "FRIEDMAN VARTOLO LLP",
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908243",
-   "as_of": "2026-10-28T06:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471091",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26001984"
   },
   {
@@ -782,7 +422,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 345651.49,
-   "auction_id": "2214908244",
+   "auction_id": "2218471092",
    "status": "SCHEDULED FOR",
    "case_number": "F-003360-25",
    "parcel_id": null,
@@ -797,8 +437,8 @@
    "attorney": "FRIEDMAN VARTOLO LLP",
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908244",
-   "as_of": "2026-10-28T06:23-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471092",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26001985"
   },
   {
@@ -812,7 +452,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 275092.91,
-   "auction_id": "2214908245",
+   "auction_id": "2218471093",
    "status": "SCHEDULED FOR",
    "case_number": "F-002347-26",
    "parcel_id": "deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $269,120.14 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of RONALD TRANI; ELISHA M. KASHOW Defendant(s) taken in execution at the suit of PENNYMAC LOAN SERVICES, LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON COUNTY SHERIFF. IF THE BALANCE OF THE PURCHASE PRICE IS TO BE FINANCED, BIDDER MUST PRESENT AT SALE PRE-APPROVAL DOCUMENTATION FROM AN INSTITUTION REGULATED BY THE DEPARTMENT OF BANKING AND INSURANCE OR FEDERAL BANKING AGENCY AS DEFINED IN THE NEW JERSEY RESIDENTIAL MORTGAGE LENDING ACT. THOSE PERMITTED TO PAY",
@@ -827,8 +467,8 @@
    "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908245",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471093",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26001986"
   },
   {
@@ -841,38 +481,8 @@
     }
    ],
    "times_postponed": 0,
-   "upset_amount": 138363.29,
-   "auction_id": "2214908246",
-   "status": "SCHEDULED FOR",
-   "case_number": "F-010634-25",
-   "parcel_id": null,
-   "address": "232 WEST LINWOOD AVENUE",
-   "city": "Maple Shade",
-   "zip": "08052",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "TH MSR HOLDINGS LLC",
-   "defendant": "JEFFREY A. WILBUR; CYNTHIA A. WILBUR; MIDLAND CREDIT MANAGEMENT INC.",
-   "attorney": "ALBERTELLI LAW",
-   "sale_date": "2026-11-05",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908246",
-   "as_of": "2026-10-28T06:24-04:00",
-   "sheriff_number": "26001988"
-  },
-  {
-   "county": "burlington",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled for",
-     "date": "2026-11-05"
-    }
-   ],
-   "times_postponed": 0,
    "upset_amount": 376286.62,
-   "auction_id": "2214908247",
+   "auction_id": "2218471095",
    "status": "SCHEDULED FOR",
    "case_number": "F-001847-26",
    "parcel_id": null,
@@ -887,8 +497,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908247",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471095",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26001990"
   },
   {
@@ -902,7 +512,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 217146.37,
-   "auction_id": "2214908248",
+   "auction_id": "2218471096",
    "status": "SCHEDULED FOR",
    "case_number": "F-001541-25",
    "parcel_id": null,
@@ -917,8 +527,8 @@
    "attorney": "FRIEDMAN VARTOLO LLP",
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908248",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471096",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26002000"
   },
   {
@@ -932,7 +542,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 119526.46,
-   "auction_id": "2214908249",
+   "auction_id": "2218471097",
    "status": "SCHEDULED FOR",
    "case_number": "F-003319-26",
    "parcel_id": null,
@@ -947,8 +557,8 @@
    "attorney": "FRIEDMAN VARTOLO LLP",
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908249",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471097",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26002001"
   },
   {
@@ -966,7 +576,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 375040.47,
-   "auction_id": "2214908250",
+   "auction_id": "2218471098",
    "status": "CANCELLED",
    "case_number": "F-005661-26",
    "parcel_id": "PURSUANT TO COURT RULES 4:64-3 AND 4:57-2 STATING THE NATURE AND EXTENT OF THAT PERSON'S CLAIM AND ASKING FOR AN ORDER DIRECTING PAYMENT OF THE SURPLUS MONEY. THE SHERIFF OR OTHER PERSON CONDUCTING THE SALE WILL HAVE INFORMATION REGARDING THE SURPLUS, IF ANY. THE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED. NO PRIOR MORTGAGES OR LIENS ARE OUTSTANDING. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $370,147.99 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of MICHAEL ALEXANDER; PAMELA ALEXANDER; FORD MOTOR CREDIT COMPANY; FIRST AMERICA ACCEPTANCE CO. LLC ASSIGNEE HUDSON & KEYSES CHASE BANK; ASSET ACCEPTANCE LLC; LVNV FUNDING LLC ASSIGNEE NEW CENTURY FINANCIAL SERVICES INC.; Defendant(s) taken in execution at the suit of DEUTSCHE BANK NATIONAL TRUST COMPANY AS TRUSTEE FOR MASTR SPECIALIZED LOAN TRUST 2007-1 MORTGAGE PASS-THROUGH CERTIFICATES Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON COUNTY SHERIFF. IF THE BALANCE OF THE PURCHASE",
@@ -981,8 +591,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908250",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471098",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26002002"
   },
   {
@@ -1000,7 +610,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 300931.49,
-   "auction_id": "2214908251",
+   "auction_id": "2218471099",
    "status": "SCHEDULED FOR",
    "case_number": "F-003072-25",
    "parcel_id": "609-894-3328 OR 609-894-3332 FOR MORE INFORMATION. LIENS: YEAR: 2024 TYPE: 3RD PARTY SOLID WASTE AMOUNT: $905.03 CERT NO.: 25-00105 SOLD: 04/16/2025 TO: CHANGSHENG LU LIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL PRIOR TO SETTLEMENT FOR REDEMPTION FIGURES. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54 GENERAL REMARK: MAINTENANCE FEE EXISTS. CONTACT CONSTRUCTION/INSPECTIONS DEPARTMENT 609 894-3330. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $292,049.67 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of DEBORAH A. GRAY A/K/A DEBORAH GRAY; DWAYNE JACKSON Defendant(s) taken in execution at the suit of U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF",
@@ -1015,8 +625,8 @@
    "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908251",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471099",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26002003"
   },
   {
@@ -1082,7 +692,7 @@
    ],
    "times_postponed": 12,
    "upset_amount": 127275.36,
-   "auction_id": "2214908185",
+   "auction_id": "2218471039",
    "status": "CANCELLED",
    "case_number": "F-010964-24",
    "parcel_id": null,
@@ -1097,8 +707,8 @@
    "attorney": "POWERS KIRN, LLC",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908185",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471039",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "25001755"
   },
   {
@@ -1144,7 +754,7 @@
    ],
    "times_postponed": 8,
    "upset_amount": 133539.32,
-   "auction_id": "2214908187",
+   "auction_id": "2218471041",
    "status": "ADJOURNED BY COURT TO",
    "case_number": "F-010993-24",
    "parcel_id": null,
@@ -1159,8 +769,8 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908187",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471041",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26000108"
   },
   {
@@ -1194,7 +804,7 @@
    ],
    "times_postponed": 5,
    "upset_amount": 170534.07,
-   "auction_id": "2214908189",
+   "auction_id": "2218471043",
    "status": "CONSENTED ADJOURNMENT TO",
    "case_number": "F-006182-25",
    "parcel_id": "by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $167,109.48 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of RYAN OYOLA, MRS. RYAN OYOLA, WIFE OF RYAN OYOLA AND OAK PINES HOMEOWNERS ASSOCIATION, INC. Defendant(s) taken in execution at the suit of AMERIHOME MORTGAGE COMPANY, LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON COUNTY SHERIFF. IF THE BALANCE OF THE PURCHASE PRICE IS TO BE FINANCED, BIDDER MUST PRESENT AT SALE PRE-APPROVAL DOCUMENTATION FROM AN INSTITUTION REGULATED BY THE DEPARTMENT OF BANKING AND INSURANCE OR FEDERAL BANKING AGENCY AS DEFINED IN THE NEW JERSEY RESIDENTIAL MORTGAGE LENDING ACT. THOSE PERMITTED TO PAY THREE- AND ONE-HALF PERCENT DEPOSIT (3.5%) SHALL BE THE FOLLOWING IN ORDER OF PRIORITY: 1. THE FORECLOSED UPON DEFENDANT, THE FORECLOSED UPON DEFENDANT\u2019S NEXT OF KIN OR TENANT, MEETING THE ABOVE REQUIREMENTS, SHALL HAVE RIGHT OF FIRST REFUSAL TO PURCHASE THE PROPERTY; (only available for the initial sale unless the sale is delayed)",
@@ -1209,8 +819,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908189",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471043",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26001034"
   },
   {
@@ -1236,7 +846,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 11052234.55,
-   "auction_id": "2214908196",
+   "auction_id": "2218471050",
    "status": "ADJOURNED BY COURT TO",
    "case_number": "F-008376-25",
    "parcel_id": "REGISTERED HOLDERS OF MORGAN STANLEY BANK OF AMERICA MERRILL LYNCH TRUST 2015-C22, COMMERCIAL MORTGAGE PASS THROUGH CERTIFICATES WITH THE BURLINGTON COUNTY CLERK ON MAY 29, 2015 IN BOOK: ORI 13173, PAGE: 6410 THE ABOVE ADVERTISEMENT DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION OF THE REAL ESTATE. THE FULL LEGAL DESCRIPTION MAY BE FOUND AT THE OFFICE OF THE SHERIFF DURING REGULAR BUSINESS-HOURS. LEGAL DESCRIPTION. ALL THAT CERTAIN LOT, PARCEL OR OF LAND, SITUATE AND LYING IN THE TOWNSHIP OF MT LAUREL, COUNTY OF BURLINGTON, THE STATE OF NEW JERSEY, MD BEING MORE PARTICULARLY DESCRIBED AS FOLLOWS: PARCEL ONE:  BEGINNING AT A POINT IN THE SOUTHERLY LINE OF HOWARD BOULEVARD (VARIABLE WIDTH) SAID POINT BEING DISTANT  ALONG THE SAME, EASTERLY 756.62 FEET FROM THE INTERSECTION OF SAID SOUTHERLY LINE OF HOWARD BOULEVARD, PROLONGATED WESTERLY WITH THE EASTERLY LINE OF NEW JERSEY STATE HIGHWAY ROUTE 73 (AS WIDENED TO 69 FEET FROM CENTERLINE) PROLONGATED NORTHERLY AND FROM SAID BEGINNING POINT RUNNING; THENCE. 1. EASTERLY ALONG SAID SOUTHERLY LINE OF HOWARD BOULEVARD ON A CURVE BEARING TO THE RIGHT HAVING A RADIUS OF 320.00 FEET, ARC. DISTANCE OF 36.40 FEET TO A POINT OF TANGENCY THEREIN; THENCE. 2. ALONG THE SAME, NORTH 85 DEGREES 54 MINUTES 30 SECONDS EAST, 241.16 FEET TO A POINT OF CURVATURE THEREIN; THENCE. 3. EASTERLY ALONG THE SAME, ON A CURVE BEARING TO THE LEFT HAVING A RADIUS OF 480.00 FEET, AN ARC DISTANCE OF 228.27 FEET (PER DEED BOOK 4567 PAGE 161) AND 228.26 FEET (PER PLAN HEREINAFTER MENTIONED) TO A POINT THENCE. 4. ALONG THE SOUTHWESTERLY LINE OF LOT: 7 IN BLOCK: 1104, SOUTH 37 DEGREES 04 MINUTES 45 SECONDS EAST, 441.24 FEET TO A POINT IN THE NORTHWESTERLY LINE OF BLOCK 1103.02; THENCE. 5. ALONG SAID NORTHWESTERLY LINE OF BLOCK: 1103.02, SOUTH 36 DEGREES 55 MINUTES 15 SECONDS WEST, 457.00 FEET TO A POINT; THENCE. 6. ALONG THE NORTHEASTERLY LINE OF LOT: 1.02 IN BLOCK: 1104, NORTH 37 DEGREES 04 MINUTES 45 SECONDS WEST, 200.00 FEET TO A POINT AND COMER; THENCE.",
@@ -1251,8 +861,8 @@
    "attorney": "MCCARTER & ENGLISH, LLP",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908196",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471050",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26001322"
   },
   {
@@ -1274,7 +884,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 335441.86,
-   "auction_id": "2214908213",
+   "auction_id": "2218471063",
    "status": "2ND DEBTOR ADJOURNMENT TO",
    "case_number": "F-009058-25",
    "parcel_id": "$141.48 OPEN PLUS PENALTY $848.88 OPEN PLUS PENALTY. VACANT LOT CHARGE: PROPERTY REGISTRATION FEES EXIST. CONTACT CLERKS OFFICE 609-654-2608. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $331,379.07 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of JOHN J. NEELY, JR.; BANK OF AMERICA, NA Defendant(s) taken in execution at the suit of U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCCF 2 ACQUISITION TRUST Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR",
@@ -1289,8 +899,8 @@
    "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908213",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471063",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26001634"
   },
   {
@@ -1312,7 +922,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 279210.3,
-   "auction_id": "2214908214",
+   "auction_id": "2218471064",
    "status": "2ND ATTORNEY ADJOURNMENT TO",
    "case_number": "F-010540-25",
    "parcel_id": "ACCOUNT: 10013430 0 01/16/2026 - 04/15/2026 $168.58 OPEN PLUS PENALTY SUBJECT TO FINAL READING. THE SHERIFF RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $273,428.65 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of DOMINIQUE DELLA PENNA; JAMES A. HOOD; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT Defendant(s) taken in execution at the suit of PENNYMAC LOAN SERVICES, LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS",
@@ -1327,8 +937,8 @@
    "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908214",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471064",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26001657"
   },
   {
@@ -1350,7 +960,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 266018.06,
-   "auction_id": "2214908215",
+   "auction_id": "2218471065",
    "status": "2ND ATTORNEY ADJOURNMENT TO",
    "case_number": "F-009844-25",
    "parcel_id": null,
@@ -1365,8 +975,8 @@
    "attorney": "KML LAW GROUP, P.C.",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908215",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471065",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26001672"
   },
   {
@@ -1384,7 +994,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 237784.43,
-   "auction_id": "2214908254",
+   "auction_id": "2218471102",
    "status": "CANCELLED",
    "case_number": "F-012055-25",
    "parcel_id": "REGISTRATION FEES EXIST - CONTACT LICENSES AND INSPECTIONS FOR DETAILS AT 609-239-5847. THE PROPERTY IS REPORTED TO BE OWNER OCCUPIED. THE FULL LEGAL DESCRIPTION CAN BE FOUND IN THE OFFICE OF THE CLERK OF BURLINGTON COUNTY IN MORTGAGE BOOK OR 13271 PAGE 5501 THE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $233,010.31 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of SHAQUANDA TAYLOR, WILLIAM E. TAYLOR, MIKE THOMAS, UNITED STATES OF AMERICA, THE ENTERPRISE CENTER CAPITAL CORPORATION, GREATER NEWARK ENTERPRISES CORPORATION, VIRTUA WEST JERSEY HEALTH SYSTEMS, DISCOVER BANK, PNC BANK NA, FEDERATED FINANCIAL CORPORATION OF AMERICA, AMERICAN HONDA FINANCE CORP, ANWAR WALID, DONNA WALID, WALID COUTURE ENTERPRISES INC., STATE OF NEW JERSEY Defendant(s) taken in execution at the suit of PENNYMAC LOAN SERVICES, LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE",
@@ -1399,8 +1009,8 @@
    "attorney": "POWERS KIRN, LLC",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908254",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471102",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26002022"
   },
   {
@@ -1414,7 +1024,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 137282.8,
-   "auction_id": "2214908256",
+   "auction_id": "2218471104",
    "status": "SCHEDULED FOR",
    "case_number": "F-000742-26",
    "parcel_id": "OTHER CHARGES CAN BE OBTAINED FROM THE LOCAL TAXING AUTHORITY. ALL INTERESTED PARTIES ARE TO- CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO, THE CURRENT AMOUNT DUE THEREON. ** IF THE SALE IS SET ASIDE FOR ANY REASON, THE PURCHASER AT THE SALE SHALL BE ENTITLED ONLY A RETURN OF THE DEPOSIT PAID. THE PURCHASER SHALL HAVE NO FURTHER RECOURSE AGAINST THE MORTGAGOR, MORTGAGEE OR THE MORTGAGEE'S ATTORNEY. AS THE ABOVE DESCRIPTION DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION, SAID FULL LEGAL DESCRIPTION IS ANNEXED TO THAT CERTAIN MORTGAGE RECORDED IN THE BURLINGTON COUNTY CLERK'S OFFICE IN INSTRUMENT NUMBER: 5438672, SEQ., NEW JERSEY, AND THE WRIT OF EXECUTION ON FILE WITH THE SHERIFF OF BURLINGTON COUNTY. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $133,922.36 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of SEAN E. GIFFORD AND UNITED STATES OF",
@@ -1429,8 +1039,8 @@
    "attorney": "GROSS POLOWY, LLC",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908256",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471104",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26002027"
   },
   {
@@ -1448,7 +1058,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 0.0,
-   "auction_id": "2214908257",
+   "auction_id": "2218471105",
    "status": "SCHEDULED FOR",
    "case_number": "F-010142-22-B",
    "parcel_id": "UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO THE CURRENT AMOUNT DUE THEREON. ** IF THE SALE IS SET ASIDE FOR ANY REASON, THE PURCHASER AT THE SALE SHALL BE ENTITLED ONLY A RETURN OF THE DEPOSIT PAID. THE PURCHASER SHALL HAVE NO FURTHER RECOURSE AGAINST THE MORTGAGOR, MORTGAGEE OR THE MORTGAGEE'S ATTORNEY. AS THE ABOVE DESCRIPTION DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION, SAID FULL LEGAL DESCRIPTION IS ANNEXED TO THAT CERTAIN MORTGAGE RECORDED IN THE BURLINGTON COUNTY CLERK'S OFFICE IN BOOK MBI 1905 AT PAGE 973, ET SEQ., NEW JERSEY, AND THE WRIT OF EXECUTION ON FILE WITH THE SHERIFF OF BURLINGTON COUNTY. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $188,681.44 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of BRIAN D. WOOD AND CHRISTINE M. WOOD Defendant(s) taken in execution at the suit of U.S. BANK TRUST, N.A., AS TRUSTEE FOR LSF9 MASTER PARTICIPATION",
@@ -1463,8 +1073,8 @@
    "attorney": "GROSS POLOWY, LLC",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908257",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471105",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26002028"
   },
   {
@@ -1478,7 +1088,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 487119.21,
-   "auction_id": "2214908258",
+   "auction_id": "2218471106",
    "status": "SCHEDULED FOR",
    "case_number": "F-010494-25",
    "parcel_id": "Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $474,551.95 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of CHRISTINA IMPERIAL; DERRICK STATON; R & R SURGICAL SERVICES, P.A. DBA R & R SURGICAL SERVICES DBA R AND R SURGICAL ASSOCIATES; RANCOCAS ANESTHESIOLOGY, P.A. DBA RANCOCAS ANESTHESIOLOGY; THE GRANDE AT RANCOCAS CREEK HOMEOWNERS ASSOCIATION, INC.; UNITED STATES OF AMERICA ACTING THROUGH SECRETARY OF HOUSING AND URBAN DEVELOPMENT; Defendant(s) taken in execution at the suit of CROSSCOUNTRY MORTGAGE LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON COUNTY SHERIFF. IF THE BALANCE OF THE PURCHASE PRICE IS TO BE FINANCED, BIDDER MUST PRESENT AT SALE PRE-APPROVAL DOCUMENTATION FROM AN INSTITUTION",
@@ -1493,8 +1103,8 @@
    "attorney": "ALBERTELLI LAW",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908258",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471106",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26002029"
   },
   {
@@ -1508,7 +1118,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 519431.78,
-   "auction_id": "2214908259",
+   "auction_id": "2218471107",
    "status": "SCHEDULED FOR",
    "case_number": "F-004534-26",
    "parcel_id": "PROPERTY. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING LIENS OR ENCUMBRANCES REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED HEREBY AND, IF SO, TO ASCERTAIN THE CURRENT AMOUNT DUE THEREON. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $513,021.79 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of JUANITA SIMMONS and LEONARD SIMMONS, Co-Administrators of the Estate of Dorothy Simmons, deceased; UNKNOWN BENEFICIARIES OF THE JOHN SIMMONS, SR. and DOROTHY SIMMONS REVOCABLE LIVING TRUST u/d/t November 17, 2004; STATE OF NEW JERSEY and UNITED STATES OF AMERICA Defendant(s) taken in execution at the suit of BELTWAY CAPITAL, LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR",
@@ -1523,8 +1133,8 @@
    "attorney": "DEMBO, BROWN & BURNS LLP",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908259",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471107",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26002031"
   },
   {
@@ -1538,7 +1148,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 120867.46,
-   "auction_id": "2214908261",
+   "auction_id": "2218471109",
    "status": "SCHEDULED FOR",
    "case_number": "F-009706-25",
    "parcel_id": "ELIGIBLE TO BID ON THE PROPERTY. ADDITIONALLY, THE PROPERTY MUST BE OCCUPIED AS AN AFFORDABLE HOUSEHOLD AS THEIR PRINCIPAL RESIDENCE AND CANNOT BE RENTED TO A THIRD PARTY. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $0.00 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of KENYATTA QUEEN; TOWNSHIP OF DELANCO; STATE OF NEW JERSEY; NEW JERSEY DEPARTMENT OF COMMUNITY AFFAIRS - COUNCIL  ON AFFORDABLE HOUSING; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; ABC BAIL BONDS, INC.; CREDIT UNION OF NEW JERSEY Defendant(s) taken in execution at the suit of NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID",
@@ -1553,8 +1163,8 @@
    "attorney": "PARKER MCCAY, PA",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908261",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471109",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26002042"
   },
   {
@@ -1588,7 +1198,7 @@
    ],
    "times_postponed": 5,
    "upset_amount": 157589.64,
-   "auction_id": "2214908190",
+   "auction_id": "2218471044",
    "status": "2ND ATTORNEY ADJOURNMENT TO",
    "case_number": "F-009252-25",
    "parcel_id": "costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $150,439.21 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of GARY ALSTON; ROSILEI B. PEREIRA-ALSTON; SUNRUN, INC.; LINDA J. ALSTON; VIRTUA WILLINGBORO HOSPITAL Defendant(s) taken in execution at the suit of NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON COUNTY SHERIFF. IF THE BALANCE OF THE PURCHASE PRICE IS TO BE FINANCED, BIDDER MUST PRESENT AT SALE PRE-APPROVAL DOCUMENTATION FROM AN INSTITUTION REGULATED",
@@ -1603,8 +1213,8 @@
    "attorney": "PINCUS & TARAB, ATTORNEYS AT LAW, PLLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908190",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471044",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26001077"
   },
   {
@@ -1638,7 +1248,7 @@
    ],
    "times_postponed": 5,
    "upset_amount": 73032.03,
-   "auction_id": "2214908191",
+   "auction_id": "2218471045",
    "status": "ADJOURNED BY COURT TO",
    "case_number": "F-008359-25",
    "parcel_id": "HOUSING AND URBAN DEVELOPMENT, DATED 12/14/2021 AND RECORDED 03/11/2022 IN BOOK ORI 3599, PAGE 8163 AS INSTRUMENT NUMBER 5735173, TO SECURE $14,506.41 NO PRIOR MORTGAGES OR LIENS ARE OUTSTANDING. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $67,300.37 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of MELISSA FERRARO N/K/A MELISSA BARRACLOUGH; MR. BARRACLOUGH, HUSBAND OF MELISSA BARRACLOUGH; UNITED STATES OF AMERICA Defendant(s) taken in execution at the suit of NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS",
@@ -1653,8 +1263,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908191",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471045",
+   "as_of": "2026-10-30T06:18-04:00",
    "sheriff_number": "26001116"
   },
   {
@@ -1680,7 +1290,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 139320.67,
-   "auction_id": "2214908192",
+   "auction_id": "2218471046",
    "status": "ADJOURNED BY COURT TO",
    "case_number": "F-010773-24",
    "parcel_id": null,
@@ -1695,8 +1305,8 @@
    "attorney": "HLADIK, ONORATO & FEDERMAN, LLP",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908192",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471046",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001246"
   },
   {
@@ -1722,7 +1332,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 146382.18,
-   "auction_id": "2214908197",
+   "auction_id": "2218471051",
    "status": "1ST ATTORNEY ADJOURNMENT TO",
    "case_number": "F-007126-25",
    "parcel_id": null,
@@ -1737,8 +1347,8 @@
    "attorney": "KML LAW GROUP, P.C.",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908197",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471051",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001355"
   },
   {
@@ -1764,7 +1374,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 245443.59,
-   "auction_id": "2214908199",
+   "auction_id": "2218471053",
    "status": "2ND ATTORNEY ADJOURNMENT TO",
    "case_number": "F-000880-25",
    "parcel_id": null,
@@ -1779,8 +1389,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908199",
-   "as_of": "2026-10-28T06:24-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471053",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001391"
   },
   {
@@ -1806,7 +1416,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 333056.92,
-   "auction_id": "2214908200",
+   "auction_id": "2218471054",
    "status": "1ST ATTORNEY ADJOURNMENT TO",
    "case_number": "F-012061-25",
    "parcel_id": "Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $321,266.30 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of JOHN ENGLAND, DILLON WILLIS, JEAN ENGLAND, TESLA, INC. and UNITED STATES OF AMERICA Defendant(s) taken in execution at the suit of LAKEVIEW LOAN SERVICING, LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON COUNTY SHERIFF. IF THE BALANCE OF THE PURCHASE PRICE IS TO BE FINANCED, BIDDER MUST PRESENT AT SALE PRE-APPROVAL DOCUMENTATION FROM AN INSTITUTION REGULATED BY THE DEPARTMENT OF BANKING AND INSURANCE OR FEDERAL BANKING AGENCY AS DEFINED IN THE NEW JERSEY RESIDENTIAL MORTGAGE LENDING ACT.",
@@ -1821,8 +1431,8 @@
    "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908200",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471054",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001405"
   },
   {
@@ -1848,7 +1458,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 65265.95,
-   "auction_id": "2214908201",
+   "auction_id": "2218471055",
    "status": "1ST ATTORNEY ADJOURNMENT TO",
    "case_number": "F-010318-25",
    "parcel_id": "ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO, THE CURRENT AMOUNT DUE THEREON. ** IF THE SALE IS SET ASIDE FOR ANY REASON, THE PURCHASER AT THE SALE SHALL BE ENTITLED ONLY A RETURN OF THE DEPOSIT PAID. THE PURCHASER SHALL HAVE NO FURTHER RECOURSE AGAINST THE MORTGAGOR, MORTGAGEE OR THE MORTGAGEE'S ATTORNEY. AS THE ABOVE DESCRIPTION DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION, SAID FULL LEGAL DESCRIPTION IS ANNEXED TO THAT CERTAIN MORTGAGE RECORDED IN THE BURLINGTON COUNTY CLERK'S OFFICE IN INSTRUMENT NUMBER: 5218445, SEQ., NEW JERSEY, AND THE WRIT OF EXECUTION ON FILE WITH THE SHERIFF OF BURLINGTON COUNTY. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $63,050.54 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of JAMES R. STEWART, VERIZON DIRECTORIES CORPORATION TS, TROPICANA CASINO HOTEL, STATE OF NEW JERSEY, UNITED STATES OF AMERICA ON",
@@ -1863,8 +1473,8 @@
    "attorney": "GROSS POLOWY, LLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908201",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471055",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001429"
   },
   {
@@ -1890,7 +1500,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 172441.79,
-   "auction_id": "2214908202",
+   "auction_id": "2218471056",
    "status": "2ND DEBTOR ADJOURNMENT TO",
    "case_number": "F-001121-26",
    "parcel_id": "296, AND THE AMENDED. RESTRICTIONS AS CONTAINED IN DEED BOOK 4079, PAGE 119. NO PRIOR MORTGAGES OR LIENS ARE OUTSTANDING. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $165,072.06 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of YVETTE GIBBS Defendant(s) taken in execution at the suit of LAKEVIEW LOAN SERVICING, LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON COUNTY SHERIFF. IF THE BALANCE OF THE PURCHASE PRICE IS",
@@ -1905,8 +1515,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908202",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471056",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001430"
   },
   {
@@ -1932,7 +1542,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 237792.15,
-   "auction_id": "2214908203",
+   "auction_id": "2218471057",
    "status": "2ND DEBTOR ADJOURNMENT TO",
    "case_number": "F-002237-26",
    "parcel_id": null,
@@ -1947,8 +1557,8 @@
    "attorney": "KML LAW GROUP, P.C.",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908203",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471057",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001434"
   },
   {
@@ -1974,7 +1584,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 140402.93,
-   "auction_id": "2214908204",
+   "auction_id": "2218471058",
    "status": "1ST ATTORNEY ADJOURNMENT TO",
    "case_number": "F-001484-25",
    "parcel_id": null,
@@ -1989,8 +1599,8 @@
    "attorney": "LOGS LEGAL GROUP LLP",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908204",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471058",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001458"
   },
   {
@@ -2012,7 +1622,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 305451.08,
-   "auction_id": "2214908216",
+   "auction_id": "2218471066",
    "status": "2ND DEBTOR ADJOURNMENT TO",
    "case_number": "F-008496-22",
    "parcel_id": "SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $300,460.19 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of THOMAS G. PACANOWSKI; MELISSA WEISNER; THOMAS F. PACANOWSKI, JR.; ROSE MARYPACANOWSKI; UNITED STATES OF AMERICA Defendant(s) taken in execution at the suit of PENNYMAC LOAN SERVICES, LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER",
@@ -2027,9 +1637,47 @@
    "attorney": "POWERS KIRN, LLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908216",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471066",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001685"
+  },
+  {
+   "county": "burlington",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled for",
+     "date": "2026-09-24"
+    },
+    {
+     "status": "1st Debtor Adjournment to",
+     "date": "2026-10-22"
+    },
+    {
+     "status": "2nd Debtor Adjournment to",
+     "date": "2026-11-19"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 200163.43,
+   "auction_id": "2218471067",
+   "status": "2ND DEBTOR ADJOURNMENT TO",
+   "case_number": "F-003134-26",
+   "parcel_id": null,
+   "address": "7 COCHITA TRAIL",
+   "city": "Browns Mills",
+   "zip": "08015",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY",
+   "defendant": "ANTHONY M. PICCOLI",
+   "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+   "sale_date": "2026-11-19",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471067",
+   "as_of": "2026-10-30T06:19-04:00",
+   "sheriff_number": "26001690"
   },
   {
    "county": "burlington",
@@ -2054,7 +1702,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 320642.17,
-   "auction_id": "2214908217",
+   "auction_id": "2218471068",
    "status": "CANCELLED",
    "case_number": "F-013840-25",
    "parcel_id": null,
@@ -2069,8 +1717,8 @@
    "attorney": "KML LAW GROUP, P.C.",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908217",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471068",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001692"
   },
   {
@@ -2092,7 +1740,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 377759.05,
-   "auction_id": "2214908218",
+   "auction_id": "2218471069",
    "status": "2ND DEBTOR ADJOURNMENT TO",
    "case_number": "F-009247-25",
    "parcel_id": "asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $364,313.03 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of JOSEPH T. EGAN, JR.; DEANA EGAN; NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY; STATE OF NEW JERSEY Defendant(s) taken in execution at the suit of U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON COUNTY SHERIFF. IF THE BALANCE OF THE PURCHASE PRICE IS TO BE FINANCED, BIDDER MUST PRESENT AT SALE PRE-APPROVAL DOCUMENTATION FROM AN INSTITUTION REGULATED BY THE DEPARTMENT OF BANKING AND INSURANCE OR FEDERAL BANKING AGENCY AS DEFINED IN THE NEW JERSEY RESIDENTIAL MORTGAGE LENDING ACT. THOSE PERMITTED TO PAY THREE- AND ONE-HALF PERCENT DEPOSIT (3.5%) SHALL BE THE",
@@ -2107,8 +1755,8 @@
    "attorney": "PARKER MCCAY, PA",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908218",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471069",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001695"
   },
   {
@@ -2130,7 +1778,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 181376.99,
-   "auction_id": "2214908219",
+   "auction_id": "2218471070",
    "status": "2ND DEBTOR ADJOURNMENT TO",
    "case_number": "F-001996-26",
    "parcel_id": null,
@@ -2145,8 +1793,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908219",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471070",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001702"
   },
   {
@@ -2168,7 +1816,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 317958.18,
-   "auction_id": "2214908220",
+   "auction_id": "2218471071",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-006776-25",
    "parcel_id": "PENALTY. NO PRIOR MORTGAGES OR LIENS ARE OUTSTANDING. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $313,931.87 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of JILLIAN E. JOHNSON; DOMINIC AFFATATO; JAMES L AFFATATO; MARIE AFFATATO; VIRTUA WEST JERSEY HEALTH SYST; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT Defendant(s) taken in execution at the suit of WELLS FARGO BANK, N.A. Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR",
@@ -2183,8 +1831,8 @@
    "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908220",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471071",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001737"
   },
   {
@@ -2202,7 +1850,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 317637.92,
-   "auction_id": "2214908228",
+   "auction_id": "2218471078",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-012870-25",
    "parcel_id": "FROM A MONUMENT AT THE SOUTHERLY END OF CURVED STREET LINE CONNECTING THE SOUTHEASTERLY LINE OF MAPLE AVENUE AND THE NORTHEASTERLY LINE OF DAWSON STREET, SAID BEGINNING POINT BEING CORNER TO LOT 36, AND FROM SAID BEGINNING POINT EXTENDING SOUTHEASTWARDLY ALONG THE NORTHEASTERLY LINE OF DAWSON STREET SEVENTY-FIVE (75) FEET TO A POINT; THENCE. NORTHEASTERLY, AT RIGHT ANGLES TO DAWSON STREET, THE DISTANCE OF ONE HUNDRED AND FIFTY (150) FEET TO A POINT IN THE REAR LINE OF LOT 16, AS SHOWN ON SAID REVISED RAN; THENCE. NORTHWESTWARDLY PARALLEL WITH DAWSON STREET THE DISTANCE OF SEVENTY-FIVE (75) FEET TO A POINT CORNER TO SAID LOT 36, THENCE. SOUTHWESTWARDLY ALONG THE SOUTHEASTERLY LINE OF SAID LOT 36, AND PARALLEL WITH MAPLE AVENUE, AND AT RIGHT ANGLES TO DAWSON STEET, THE DISTANCE OF HUNDRED AND FIFTY (150) FEET TO NORTHEASTERLY LINE OF DAWSON STREET AND POINT, AND PLACE OF BEGINNING. BEING ALSO SHOWN AND DESIGNATED AS LOT 35 AND THE NORTH-WESTERLY-ONE-HALF OF LOT 34, IN BLOCK 245,A; ON PLATE 34 OF THE OFFICIAL TAX MAP OF THE SAID TOWNSHIP OF MOORESTOWN AS REVISED IN 1957. FOR INFORMATIONAL PURPOSES ONLY: ALSO KNOWN AS LOT 51 ADDITIONAL LOT L52 IN BLOCK 4200 ON THE TOWNSHIP OF MOORESTOWN TAX. MAP. BEING THE SAME LAND AND PREMISES WHICH BECAME VESTED IN CHESTER A. JONES AND DORA JONES, HIS WIFE, BY DEED DATED AUGUST 29, 1963, AND RECORDED SEPTEMBER 26, 1963, IN THE LAND RECORDS OFFICE OF THE REGISTER OF DEEDS FOR BURLINGTON COUNTY, NEW JERSEY. 511 DAWSON STREET, MOORESTOWN, NJ 08057. SUBSEQUENTLY, THE SAID CHESTER A. JONES DID DEPART THIS LIFE ON DECEMBER 31, 1979, WHEREUPON SAID LANDS PASSED BY OPERATION OF LAW UNTO HIS WIFE, DORA E. JONES. NO PRIOR MORTGAGES OR LIENS ARE OUTSTANDING. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court",
@@ -2217,8 +1865,8 @@
    "attorney": "GREENSPOON MARDER LLP",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908228",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471078",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001860"
   },
   {
@@ -2236,7 +1884,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 296223.87,
-   "auction_id": "2214908229",
+   "auction_id": "2218471079",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-004163-26",
    "parcel_id": null,
@@ -2251,8 +1899,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908229",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471079",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001864"
   },
   {
@@ -2270,7 +1918,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 132687.69,
-   "auction_id": "2214908230",
+   "auction_id": "2218471080",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-000385-26",
    "parcel_id": null,
@@ -2285,8 +1933,8 @@
    "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908230",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471080",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001865"
   },
   {
@@ -2308,7 +1956,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 194240.55,
-   "auction_id": "2214908231",
+   "auction_id": "2218471081",
    "status": "CANCELLED",
    "case_number": "F-008576-23",
    "parcel_id": null,
@@ -2323,8 +1971,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908231",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471081",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001870"
   },
   {
@@ -2342,7 +1990,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 154282.48,
-   "auction_id": "2214908232",
+   "auction_id": "2218471082",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-003718-26",
    "parcel_id": null,
@@ -2357,8 +2005,8 @@
    "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908232",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471082",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001873"
   },
   {
@@ -2376,7 +2024,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 328562.55,
-   "auction_id": "2214908233",
+   "auction_id": "2218471083",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-007795-24",
    "parcel_id": null,
@@ -2391,8 +2039,8 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908233",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471083",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26001876"
   },
   {
@@ -2406,7 +2054,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 244243.07,
-   "auction_id": "2214908264",
+   "auction_id": "2218471112",
    "status": "SCHEDULED FOR",
    "case_number": "F-003686-26",
    "parcel_id": null,
@@ -2421,8 +2069,8 @@
    "attorney": "THE LAW OFFICE OF MICHAEL A. ALFIERI",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908264",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471112",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26002072"
   },
   {
@@ -2436,7 +2084,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 132819.4,
-   "auction_id": "2214908265",
+   "auction_id": "2218471113",
    "status": "SCHEDULED FOR",
    "case_number": "F-004165-26",
    "parcel_id": "PERSON CLAIMING THE SURPLUS, OR ANY PART THEREOF, MAY FILE A MOTION PURSUANT TO COURT RULES 4:64-3 AND 4:57-2 STATING THE NATURE AND EXTENT OF THAT PERSON'S CLAIM AND ASKING FOR AN ORDER DIRECTING PAYMENT OF THE SURPLUS MONEY. THE SHERIFF OR OTHER PERSON CONDUCTING THE SALE WILL HAVE INFORMATION REGARDING THE SURPLUS, IF ANY. PURSUANT TO 28 USC 2410(C) THIS SALE IS SUBJECT TO A 1 YEAR RIGHT OF REDEMPTION HELD BY THE UNITED STATES OF AMERICA BY VIRTUE OF ITS LIEN: PARTIAL CLAIM MORTGAGE: THOMAS J. FINLAY-STAMM TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, DATED 08/16/2025 AND RECORDED 10/08/2025 IN BOOK OR13789, PAGE 1673, TO SECURE $7,651.72. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $127,768.86 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of THOMAS J. FINLAY-STAMM; UNITED STATES OF AMERICA Defendant(s) taken in execution at the suit of NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON COUNTY",
@@ -2451,8 +2099,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908265",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471113",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26002074"
   },
   {
@@ -2466,7 +2114,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 64071.32,
-   "auction_id": "2214908266",
+   "auction_id": "2218471114",
    "status": "SCHEDULED FOR",
    "case_number": "F-003907-26",
    "parcel_id": "OF BURLINGTON COUNTY IN MORTGAGE BOOK MB5107 PAGE 130 THE SHERIFF HEREBY RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION. NO PRIOR MORTGAGES OR LIENS ARE OUTSTANDING. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $61,684.80 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of KENNETH J. WALLACE, DEBORAH WALLACE, ROBERT S. GARWOOD, ALLEGHNY /AA BAIL BONDS INC., DISCOVER BANK C/O DISCOVER PRODUCTS INC., MIDLAND CREDIT MANAGEMENT, INC., ASSIGNEE OF CITIBANK, NA THE HOME DEPOT Defendant(s) taken in execution at the suit of JPMORGAN CHASE BANK, NATIONAL ASSOCIATION Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID",
@@ -2481,8 +2129,8 @@
    "attorney": "POWERS KIRN, LLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908266",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471114",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26002075"
   },
   {
@@ -2496,7 +2144,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 257764.6,
-   "auction_id": "2214908267",
+   "auction_id": "2218471115",
    "status": "SCHEDULED FOR",
    "case_number": "F-006806-25",
    "parcel_id": "NORTH 21 DEGREES 30 MINUTES 00 SECONDS WEST, A DISTANCE OF 150.00 FEET TO A REBAR WITH CAP FOUND; THENCE. (4) ALONG THE SOUTHEASTERLY LINE OF GLENVIEW DRIVE, NORTH 68 DEGREES 30 MINUTES 00 SECONDS EAST, A DISTANCE OF 75.00 FEET TO THE POINT OF BEGINNING. BEING KNOWN AS LOT 19, BLOCK C-2703 ON \u201cPLAN OF LOTS, SECTION 3, GLEN-MEAD\u201d DATED OCTOBER 3, 1959, MAP NO. 1901. FOR INFORMATIONAL PURPOSES ONLY: BEING LOT 19, BLOCK 1803 ON THE TAX MAP OF THE TOWNSHIP OF CINNAMINSON. COMMONLY KNOWN AS: 6 GLENVIEW DRIVE, CINNAMINSON, (CINNAMINSON TOWNSHIP), NEW JERSEY. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $254,196.76 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of LAURA PALILLERO, MR. PALILLERO, HUSBAND OF LAURA PALILLERO, UNITED STATES OF AMERICA and STATE OF NEW JERSEY Defendant(s) taken in execution at the suit of CROSSCOUNTRY MORTGAGE, LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH,",
@@ -2511,8 +2159,8 @@
    "attorney": "GREENSPOON MARDER LLP",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908267",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471115",
+   "as_of": "2026-10-30T06:19-04:00",
    "sheriff_number": "26002083"
   },
   {
@@ -2526,7 +2174,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 302963.06,
-   "auction_id": "2214908270",
+   "auction_id": "2218471118",
    "status": "SCHEDULED FOR",
    "case_number": "F-012741-24",
    "parcel_id": "DEGREES 07 MINUTES EAST 130.87 FEET TO THE SOUTHERLY SIDE OF HOLLY LANE; THENCE. (4) ALONG THE SAME NORTH 51 DEGREES 35 MINUTES WEST 100 FEET TO THE POINT OF BEGINNING. BEING ALSO KNOWN AS LOT 4, BLOCK J ON MAP OF \"HAMPTON ESTATES, WESTAMPTON TOWNSHIP, BURLINGTON, N.J.,\" ALBERT C. JONES, ENGINEER, DATED DECEMBER 28, 1954. FOR INFORMATION PURPOSES ONLY: BEING KNOWN AS TAX LOT 6 IN TAX BLOCK 1207 ON THE OFFICIAL TAX MAP OF THE TOWNSHIP OF WESTAMPTON, BURLINGTON COUNTY, STATE OF NEW JERSEY. FOR INFORMATION PURPOSES ONLY: THE MAILING ADDRESS IS 730 HOLLY LANE, MOUNT HOLLY, NEW JERSEY 08060. PRIOR MORTGAGE OR LIENS OUTSTANDING AND NOT EXTINGUISHING BY THE SALE ARE AS LISTED IN SECTION 2 BELOW. PRO CAP 8 FBO FIRSTRUST BANK \u2013 TAX SALE CERTIFICATE #23-00038. FACE $357.78 + INTEREST/COSTS. CHRISTIANA TRUST AS CUSTODIAN GSRAN-Z, LLC \u2013 TAX SALE CERTIFICATE#25-00066 FACE $3,114.04 + INTEREST/COSTS. TOTAL: $3,471.82 + COSTS. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $280,214.96 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the",
@@ -2541,9 +2189,39 @@
    "attorney": "PERLOW LAW",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908270",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471118",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26002105"
+  },
+  {
+   "county": "burlington",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled for",
+     "date": "2026-12-03"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 220448.7,
+   "auction_id": "2218471038",
+   "status": "SCHEDULED FOR",
+   "case_number": "F-001545-24-B",
+   "parcel_id": null,
+   "address": "27 SOUTH CHESTNUT AVENUE",
+   "city": "Maple Shade",
+   "zip": "08052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NATIONSTAR MORTGAGE LLC",
+   "defendant": "JASON E. JONES DECEASED, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; AZARA RENE JONES, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; JORDAN EMMANUEL JONES, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; KELSIE RANDOLPH, MID PENN BANK; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+   "attorney": "KML LAW GROUP, P.C.",
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471038",
+   "as_of": "2026-10-30T06:20-04:00",
+   "sheriff_number": "24002089"
   },
   {
    "county": "burlington",
@@ -2568,7 +2246,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 15034.33,
-   "auction_id": "2214908205",
+   "auction_id": "2218471059",
    "status": "ADJOURNED BY COURT TO",
    "case_number": "F-007050-24",
    "parcel_id": null,
@@ -2583,8 +2261,8 @@
    "attorney": "CUTOLO BARROS LLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908205",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471059",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26001480"
   },
   {
@@ -2610,7 +2288,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 586140.71,
-   "auction_id": "2214908208",
+   "auction_id": "2218471060",
    "status": "1ST ATTORNEY ADJOURNMENT TO",
    "case_number": "F-000753-24",
    "parcel_id": null,
@@ -2625,8 +2303,8 @@
    "attorney": "FRIEDMAN VARTOLO LLP",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908208",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471060",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26001501"
   },
   {
@@ -2652,7 +2330,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 584429.82,
-   "auction_id": "2214908211",
+   "auction_id": "2218471061",
    "status": "CONSENTED ADJOURNMENT TO",
    "case_number": "F-010386-25",
    "parcel_id": "Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $572,984.88 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of CHRISTOPHER MCSHEA; ELISSA MCSHEA; STATE OF NEW JERSEY Defendant(s) taken in execution at the suit of FIRSTRUST BANK Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON COUNTY SHERIFF. IF THE BALANCE OF THE PURCHASE PRICE IS TO BE FINANCED, BIDDER MUST PRESENT AT SALE PRE-APPROVAL DOCUMENTATION FROM AN INSTITUTION REGULATED BY THE DEPARTMENT OF BANKING AND INSURANCE OR FEDERAL BANKING AGENCY AS DEFINED IN THE NEW JERSEY RESIDENTIAL MORTGAGE LENDING ACT. THOSE PERMITTED TO PAY THREE- AND",
@@ -2667,8 +2345,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908211",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471061",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26001528"
   },
   {
@@ -2690,7 +2368,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 188315.99,
-   "auction_id": "2214908221",
+   "auction_id": "2218471072",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-002200-25",
    "parcel_id": null,
@@ -2705,8 +2383,8 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908221",
-   "as_of": "2026-10-28T06:25-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471072",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26001739"
   },
   {
@@ -2727,8 +2405,46 @@
     }
    ],
    "times_postponed": 2,
+   "upset_amount": 149258.37,
+   "auction_id": "2218471073",
+   "status": "2ND DEBTOR ADJOURNMENT TO",
+   "case_number": "F-005966-25",
+   "parcel_id": "AUTHORITY. ALL INTERESTED PAR-TIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER OR NOT ANY OUTSTANDING INTEREST REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO, THE CURRENT AMOUNT DUE THEREON. ** IF THE SALE IS SET ASIDE FOR ANY REASON, THE PURCHASER AT THE SALE SHALL BE ENTITLED ONLY A RETURN OF THE DEPOSIT PAID. THE PURCHASER SHALL HAVE NO FURTHER RECOURSE AGAINST THE MORTGAGOR, MORTGAGEE OR THE MORTGAGEE'S ATTORNEY. AS THE ABOVE DESCRIPTION DOES NOT CONSTITUTE A FULL LEGAL DESCRIPTION, SAID FULL LEGAL DESCRIPTION IS ANNEXED TO THAT CERTAIN MORTGAGE RECORDED IN THE BURLINGTON COUNTY CLERK'S OFFICE IN BOOK 1 1980 AT PAGE 553, ET SEQ., NEW JERSEY, AND THE WRIT OF EXECUTION ON FILE WITH THE SHERIFF OF BURLINGTON COUNTY. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $143,969.61 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of NICHOLAS P. DIMUZIO, HIS OR HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER,",
+   "address": "7 GRAMERCY PLACE",
+   "city": "Southampton",
+   "zip": "08088",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MIDFIRST BANK",
+   "defendant": "NICHOLAS P. DIMUZIO, HIS OR HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE, AND INTEREST; ABBY BLOOM; UNITED STATES OF AMERICA; STATE OF NEW JERSEY; INTRUST BANK and LEISURETOWNE ASSOCIATION, INC.",
+   "attorney": "GROSS POLOWY, LLC",
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471073",
+   "as_of": "2026-10-30T06:20-04:00",
+   "sheriff_number": "26001768"
+  },
+  {
+   "county": "burlington",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled for",
+     "date": "2026-10-01"
+    },
+    {
+     "status": "1st Debtor Adjournment to",
+     "date": "2026-10-29"
+    },
+    {
+     "status": "2nd Debtor Adjournment to",
+     "date": "2026-12-03"
+    }
+   ],
+   "times_postponed": 2,
    "upset_amount": 309678.81,
-   "auction_id": "2214908224",
+   "auction_id": "2218471074",
    "status": "2ND DEBTOR ADJOURNMENT TO",
    "case_number": "F-013210-25-B",
    "parcel_id": null,
@@ -2743,8 +2459,8 @@
    "attorney": "KML LAW GROUP, P.C.",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908224",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471074",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26001770"
   },
   {
@@ -2766,7 +2482,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 228246.41,
-   "auction_id": "2214908225",
+   "auction_id": "2218471075",
    "status": "2ND ATTORNEY ADJOURNMENT TO",
    "case_number": "F-004201-26",
    "parcel_id": "any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $224,942.09 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of JEFFREY L. CZAPLICKI; CHRISTINE L. CZAPLICKI A/K/A CHRISTINE CZAPLICKI A/K/A CHRISTINE THOMPSON; UNITED STATES OF AMERICA ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT; STATE OF NEW JERSEY Defendant(s) taken in execution at the suit of ONITY MORTGAGE CORPORATION F/K/A PHH MORTGAGE CORPORATION Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON COUNTY SHERIFF. IF THE BALANCE OF THE PURCHASE PRICE IS TO BE FINANCED,",
@@ -2781,8 +2497,8 @@
    "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908225",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471075",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26001795"
   },
   {
@@ -2804,7 +2520,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 271681.59,
-   "auction_id": "2214908226",
+   "auction_id": "2218471076",
    "status": "2ND DEBTOR ADJOURNMENT TO",
    "case_number": "F-002286-26",
    "parcel_id": "THE COMMONS AT LAUREL CREEK CONDOMINIUM ASSOCIATION, INC. MAY BE ENTITLED TO LIMITED PRIORITY PURSUANT TO STATUTE. NO PRIOR MORTGAGES OR LIENS ARE OUTSTANDING. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $268,182.70 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of CASSAUNDRA K. REID A/K/A CASSAUNDRA WALKER A/K/A CASSAUNDRA REID, COMMONS AT LAUREL GREEK CONDOMINIUM ASSOCIATION, INC; INDIA SMITH; NEW JERSEY PROPERTY LIABILITY INSURANCE GUARANTY ASSN, AS STAT ADMIN UNSATISFIED CLAIM & JUDGMENT FUND Defendant(s) taken in execution at the suit of LAKEVIEW LOAN SERVICING, LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN",
@@ -2819,8 +2535,8 @@
    "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908226",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471076",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26001797"
   },
   {
@@ -2838,7 +2554,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 434169.1,
-   "auction_id": "2214908235",
+   "auction_id": "2218471084",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-013657-25",
    "parcel_id": "THEREOF, MAY FILE A MOTION PURSUANT TO COURT RULES 4:64-3 AND 4:57-2 STATING THE NATURE AND EXTENT OF THAT PERSON'S CLAIM AND ASKING FOR AN ORDER DIRECTING PAYMENT OF THE SURPLUS MONEY. THE SHERIFF OR OTHER PERSON CONDUCTING THE SALE WILL HAVE INFORMATION REGARDING THE SURPLUS, IF ANY. THE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED. PURSUANT TO 28 USC 2410(C) THIS SALE IS SUBJECT TO A 1 YEAR RIGHT OF REDEMPTION HELD BY THE UNITED STATES OF AMERICA BY VIRTUE OF ITS LIEN: PARTIAL CLAIM MORTGAGE: JODI R WEBB TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, DATED 03/21/2022 AND RECORDED 06/14/2022 IN BOOK ORI 3617, PAGE 8438, TO SECURE $103,088.18. PARTIAL CLAIM MORTGAGE: JODI R WEBB TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, DATED 02/24/2025 AND RECORDED 03/25/2025 IN BOOK OR13760, PAGE 5612, TO SECURE $20,617.63. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $424,883.02 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of JODI R. WEBB; CHARLES WEBB; UNITED STATES OF AMERICA Defendant(s) taken in execution at the suit of LAKEVIEW LOAN SERVICING, LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK",
@@ -2853,8 +2569,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908235",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471084",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26001912"
   },
   {
@@ -2872,7 +2588,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 224732.59,
-   "auction_id": "2214908236",
+   "auction_id": "2218471085",
    "status": "1ST ATTORNEY ADJOURNMENT TO",
    "case_number": "F-004895-25",
    "parcel_id": "COURT RULES 4:64-3 AND 4:57-2 STATING THE NATURE AND EXTENT OF THAT PERSON'S CLAIM AND ASKING FOR AN ORDER DIRECTING PAYMENT OF THE SURPLUS MONEY. THE SHERIFF OR OTHER PERSON CONDUCTING THE SALE WILL HAVE INFORMATION REGARDING THE SURPLUS, IF ANY. THE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED. PURSUANT TO 28 USC 2410(C) THIS SALE IS SUBJECT TO A 1 YEAR RIGHT OF REDEMPTION HELD BY THE UNITED STATES OF AMERICA BY VIRTUE OF ITS LIEN: PARTIAL CLAIM MORTGAGE: WILLIAM A WITTMAN JR TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, DATED 09/01/2022 AND RECORDED ON 11/15/2022, IN BOOK OR13646, PAGE 3337, TO SECURE $15,113.59. NO PRIOR MORTGAGES OR LIENS ARE OUTSTANDING. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $219,140.73 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of WILLIAM A. WITTMAN, JR.; SHYAMA FERNANDO; UNITED STATES OF AMERICA Defendant(s) taken in execution at the suit of FREEDOM MORTGAGE CORPORATION Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT",
@@ -2887,8 +2603,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908236",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471085",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26001913"
   },
   {
@@ -2905,8 +2621,42 @@
     }
    ],
    "times_postponed": 1,
+   "upset_amount": 103914.15,
+   "auction_id": "2218471086",
+   "status": "1ST DEBTOR ADJOURNMENT TO",
+   "case_number": "F-004543-26",
+   "parcel_id": "GENERAL REMARK: SUBJECT TO TAX SALE. SUBJECT TO ADDITIONAL FEES. NO PRIOR MORTGAGES OR LIENS ARE OUTSTANDING. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $101,951.64 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of EMMANUEL CRUZ A/K/A EMMANUEL CRUZ; PRISCILLA POSADA-CRUZ; STATE FARM INDEMNITY COMPANY SUBROGEE ROSA RODRIGUEZ Defendant(s) taken in execution at the suit of ROCKET MORTGAGE, LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE",
+   "address": "30 TWIN HILL DRIVE",
+   "city": "Willingboro",
+   "zip": "08046",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ROCKET MORTGAGE, LLC",
+   "defendant": "EMMANUEL CRUZ A/K/A EMMANUEL CRUZ; PRISCILLA POSADA-CRUZ; STATE FARM INDEMNITY COMPANY SUBROGEE ROSA RODRIGUEZ",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471086",
+   "as_of": "2026-10-30T06:20-04:00",
+   "sheriff_number": "26001915"
+  },
+  {
+   "county": "burlington",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled for",
+     "date": "2026-10-29"
+    },
+    {
+     "status": "1st Debtor Adjournment to",
+     "date": "2026-12-03"
+    }
+   ],
+   "times_postponed": 1,
    "upset_amount": 311892.65,
-   "auction_id": "2214908238",
+   "auction_id": "2218471087",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-005906-24",
    "parcel_id": null,
@@ -2921,9 +2671,43 @@
    "attorney": "FRIEDMAN VARTOLO LLP",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908238",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471087",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26001925"
+  },
+  {
+   "county": "burlington",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled for",
+     "date": "2026-10-29"
+    },
+    {
+     "status": "1st Debtor Adjournment to",
+     "date": "2026-12-03"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 247023.91,
+   "auction_id": "2218471088",
+   "status": "1ST DEBTOR ADJOURNMENT TO",
+   "case_number": "F-008574-25",
+   "parcel_id": "CAZENOVIA CREEK FUNDING IL LLC AMOUNT: $843.07 BOOK: 13374 PAGE: 7695 INSTRUMENT NUMBER: CERTIFICATE NO: 18-00077 TOTAL: $4,615.79 OCCUPANCY STATUS: OCCUPIED. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $241,395.87 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of GERARD PIERRE; ODANIE PIERRE; FIFTH THIRD BANK, SUCCESSOR BY MERGER WITH DIVIDEND SOLAR FINANCE LLC; MIDLAND FUNDING LLC; NJR CLEAN ENERGY VENTURES CORP; NJR CLEAN ENERGY VENTURES II CORPORATION Defendant(s) taken in execution at the suit of U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LB-TIKI SERIES VI TRUST Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A",
+   "address": "12 CHURCHILL STREET",
+   "city": "Westampton",
+   "zip": "08060",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE OF THE LB-TIKI SERIES VI TRUST",
+   "defendant": "GERARD PIERRE; ODANIE PIERRE; FIFTH THIRD BANK, SUCCESSOR BY MERGER WITH DIVIDEND SOLAR FINANCE LLC; MIDLAND FUNDING LLC; NJR CLEAN ENERGY VENTURES CORP; NJR CLEAN ENERGY VENTURES II CORPORATION",
+   "attorney": "FRIEDMAN VARTOLO LLP",
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471088",
+   "as_of": "2026-10-30T06:20-04:00",
+   "sheriff_number": "26001945"
   },
   {
    "county": "burlington",
@@ -2940,7 +2724,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 57807.2,
-   "auction_id": "2214908242",
+   "auction_id": "2218471090",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-004148-25",
    "parcel_id": "AND KINGS GRANT OPEN SPACE ASSOCIATION IN THE APPROXIMATE AMOUNT OF $206.00. ALL INTERESTED PARTIES ARE TO CONDUCT AND RELY UPON THEIR OWN INDEPENDENT INVESTIGATION TO ASCERTAIN WHETHER ANY OUTSTANDING INTERESTS REMAIN OF RECORD AND/OR HAVE PRIORITY OVER THE LIEN BEING FORECLOSED AND, IF SO, THE CURRENT AMOUNT DUE THEREON. ** IF THE SALE IS SET ASIDE FOR ANY REASON, THE PURCHASER AT THE SALE SHALL ONLY BE ENTITLED TO A RETURN OF THE DEPOSIT PAID. THE PURCHASER SHALL HAVE NO FURTHER RECOURSE AGAINST THE MORTGAGEE OR THE MORTGAGEE'S ATTORNEYS. ADDITIONAL REQUIREMENTS: PURCHASER MUST CERTIFY THAT PURCHASER IS NOT EMPLOYED BY THE TORONTO-DOMINION BANK, OR ANY OF ITS SUBSIDIARIES OR AFFILIATED CORPORATIONS (THE \"BANK\"), NOR IS PURCHASER RELATED IN ANY WAY WITH SOLICITORS OR AGENTS RETAINED BY OR ON BEHALF OF THE BANK IN RELATION TO THE PROPERTY THAT IS THE SUBJECT OF THIS TRANSACTION AND CONFIRMING THAT PURCHASER IS DEALING AT ARM'S LENGTH WITH THE AFOREMENTIONED PARTIES. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $56,208.12 besides interest, costs, and fees. The right to",
@@ -2955,9 +2739,43 @@
    "attorney": "DUANE MORRIS LLP",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908242",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471090",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26001983"
+  },
+  {
+   "county": "burlington",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled for",
+     "date": "2026-11-05"
+    },
+    {
+     "status": "1st Attorney Adjournment to",
+     "date": "2026-12-03"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 138363.29,
+   "auction_id": "2218471094",
+   "status": "1ST ATTORNEY ADJOURNMENT TO",
+   "case_number": "F-010634-25",
+   "parcel_id": null,
+   "address": "232 WEST LINWOOD AVENUE",
+   "city": "Maple Shade",
+   "zip": "08052",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "TH MSR HOLDINGS LLC",
+   "defendant": "JEFFREY A. WILBUR; CYNTHIA A. WILBUR; MIDLAND CREDIT MANAGEMENT INC.",
+   "attorney": "ALBERTELLI LAW",
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471094",
+   "as_of": "2026-10-30T06:20-04:00",
+   "sheriff_number": "26001988"
   },
   {
    "county": "burlington",
@@ -2970,7 +2788,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 205878.33,
-   "auction_id": "2214908271",
+   "auction_id": "2218471119",
    "status": "SCHEDULED FOR",
    "case_number": "F-004268-26",
    "parcel_id": null,
@@ -2985,8 +2803,8 @@
    "attorney": "KML LAW GROUP, P.C.",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908271",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471119",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26002121"
   },
   {
@@ -3000,7 +2818,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 225026.09,
-   "auction_id": "2214908272",
+   "auction_id": "2218471120",
    "status": "SCHEDULED FOR",
    "case_number": "F-013753-25",
    "parcel_id": "constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $221,747.41 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of CARLA J. ATKINSON AS TRUSTEE OF TRINITY PRINCE TRUST DATED 4/12/2021, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; CARLA J. ATKINSON, INDIVIDUALLY, HIS/HER HEIRS, DEVISEES, AND PERSONAL REPRESENTATIVES, AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; MR. OR MRS. ATKINSON, HUSBAND OR WIFE OF CARLA J. ATKINSON, THE SPOUSE, DOMESTIC PARTNER OR CIVIL UNION PARTNER OF CARLA J. ATKINSON STATE OF NEW JERSEY; UNITED STATES OF AMERICA; VILLA ROYALE ASSOCIATION; SOLARIS MUHLENBERG REGIONAL; ST PETERS UNIVERSITY HOSPITAL; KINGS GRANT OPEN SPACE ASSOCIATION, Defendant(s) taken in execution at the suit of M&T BANK Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON COUNTY SHERIFF.",
@@ -3015,8 +2833,8 @@
    "attorney": "KML LAW GROUP, P.C.",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908272",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471120",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26002124"
   },
   {
@@ -3030,7 +2848,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 556027.89,
-   "auction_id": "2214908273",
+   "auction_id": "2218471121",
    "status": "SCHEDULED FOR",
    "case_number": "F-003156-26",
    "parcel_id": null,
@@ -3045,8 +2863,8 @@
    "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908273",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471121",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26002126"
   },
   {
@@ -3060,7 +2878,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 284274.46,
-   "auction_id": "2214908274",
+   "auction_id": "2218471122",
    "status": "SCHEDULED FOR",
    "case_number": "F-005407-26",
    "parcel_id": null,
@@ -3075,8 +2893,8 @@
    "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908274",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471122",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26002144"
   },
   {
@@ -3094,7 +2912,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 278631.82,
-   "auction_id": "2214908275",
+   "auction_id": "2218471123",
    "status": "SCHEDULED FOR",
    "case_number": "F-011969-19-F",
    "parcel_id": "FILED IN THE SUPERIOR COURT OF NEW JERSEY ON JANUARY 23, 2025. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $274,601.23 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of ATHENA S. CARSON Defendant(s) taken in execution at the suit of WELLS FARGO BANK, N.A. Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON COUNTY SHERIFF. IF THE BALANCE OF THE PURCHASE PRICE IS TO BE FINANCED, BIDDER MUST PRESENT AT SALE PRE-APPROVAL",
@@ -3109,8 +2927,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908275",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471123",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26002148"
   },
   {
@@ -3123,8 +2941,8 @@
     }
    ],
    "times_postponed": 0,
-   "upset_amount": 0.0,
-   "auction_id": "2214908276",
+   "upset_amount": 99818.91,
+   "auction_id": "2218471124",
    "status": "SCHEDULED FOR",
    "case_number": "F-005050-26",
    "parcel_id": null,
@@ -3135,12 +2953,12 @@
    "opening_bid": null,
    "deposit": null,
    "plaintiff": "U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE LOAN TRUST 2006-RF4",
-   "defendant": "REGINA M. SKOMSKY",
+   "defendant": "REGINA M. SKOMSKY; CITY OF BEVERLY; UNITED STATES OF AMERICA; HOUSEHOLD FINANCE CORPORATION ILL; ARROW FINANCIAL SERVICES LLC; NEW CENTURY FINANCIAL SERVICES; LVNV",
    "attorney": "LOGS LEGAL GROUP LLP",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908276",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471124",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26002166"
   },
   {
@@ -3154,7 +2972,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 171871.53,
-   "auction_id": "2214908277",
+   "auction_id": "2218471125",
    "status": "SCHEDULED FOR",
    "case_number": "F-010675-25",
    "parcel_id": null,
@@ -3169,8 +2987,8 @@
    "attorney": "LOGS LEGAL GROUP, LLP",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908277",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471125",
+   "as_of": "2026-10-30T06:20-04:00",
    "sheriff_number": "26002182"
   },
   {
@@ -3184,7 +3002,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 83640.46,
-   "auction_id": "2214908278",
+   "auction_id": "2218471126",
    "status": "SCHEDULED FOR",
    "case_number": "F-003391-26",
    "parcel_id": "DISTANCE OF 69.5 FEET TO A POINT IN THE LINE OF LOT 23 AND THE WESTERLY LINE OF 3 FEET WIDE ALLEY EASEMENT. THENCE 3) NORTHWARDLY ALONG THE LINE OF LOT 23 AND THE SAID EASEMENT A DISTANCE OF 15.00 FEET TOA POINT IN THE SOUTHERLY LINE OF BARCLAY STREET. THENCE 4) EASTWARDLY ALONG THE SOUTHERLY LINE OF BARCLAY STREET A DISTANCE OF 69.50 FEET TO THE POINT AND PLACE OF BEGINNING. SUBJECT EASEMENTS AND RESTRICTIONS OF RECORD. COMMONLY KNOWN AS: 316 SAINT MARY STREET, BURLINGTON, NEW JERSEY 08016. BLOCK: 131, LOT: 24 TAX MAP OF CITY OF BURLINGTON. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $81,536.79 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of KRIS KIRK; TD BANK, N.A.; ALEXANDER H. VIGH D/B/A AHV ENTERPRISE; STATE OF NEW JERSEY Defendant(s) taken in execution at the suit of WILMINGTON SAVINGS FUND SOCIETY, FSB, SUCCESSOR BY MERGER TO BENEFICIAL BANK, FORMERLY KNOWN AS BENEFICIAL MUTUAL SAVINGS BANK Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT",
@@ -3199,8 +3017,8 @@
    "attorney": "EISENBERG, GOLD & AGRAWAL, P.C.",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908278",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471126",
+   "as_of": "2026-10-30T06:21-04:00",
    "sheriff_number": "26002197"
   },
   {
@@ -3214,7 +3032,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 50704.07,
-   "auction_id": "2214908279",
+   "auction_id": "2218471127",
    "status": "SCHEDULED FOR",
    "case_number": "F-007271-25",
    "parcel_id": null,
@@ -3229,8 +3047,8 @@
    "attorney": "PELLEGRINO & FELDSTEIN, L.L.C.",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908279",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471127",
+   "as_of": "2026-10-30T06:21-04:00",
    "sheriff_number": "26002200"
   },
   {
@@ -3244,7 +3062,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 276639.66,
-   "auction_id": "2214908280",
+   "auction_id": "2218471128",
    "status": "SCHEDULED FOR",
    "case_number": "F-001703-26",
    "parcel_id": "MOTION PURSUANT TO COURT RULES 4:64-3 AND 4:57-2 STATING THE NATURE AND EXTENT OF THAT PERSON'S CLAIM AND ASKING FOR AN ORDER DIRECTING PAYMENT OF THE SURPLUS MONEY. THE SHERIFF OR OTHER PERSON CONDUCTING THE SALE WILL HAVE INFORMATION REGARDING THE SURPLUS, IF ANY. THE OCCUPANCY STATUS OF THE PROPERTY IS: OWNER OCCUPIED. PURSUANT TO 28 USC 2410(C) THIS SALE IS SUBJECT TO A 1 YEAR RIGHT OF REDEMPTION HELD BY THE UNITED STATES OF AMERICA BY VIRTUE OF ITS LIEN:  PARTIAL CLAIMS MORTGAGE: ALVIN COOKE TO SECRETARY OF HOUSING AND URBAN DEVELOPMENT, DATED 12/14/2021 AND RECORDED 03/03/2022 IN BOOK OR13597, PAGE 6862, TO SECURE $66,992.82. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $271,393.55 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of ALVIN COOKE; STEPHANIE COOKE; AMERICAN HERITAGE FEDERAL CREDIT UNION; TD BANK, N.A.; AMERICA EXPRESS NATIONAL BANK; BANK OF AMERICA, N.A.; VELOCITY INVESTMENTS LLC; UNITED STATES OF AMERICA Defendant(s) taken in execution at the suit of FREEDOM MORTGAGE CORPORATION Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF",
@@ -3259,8 +3077,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908280",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471128",
+   "as_of": "2026-10-30T06:21-04:00",
    "sheriff_number": "26002201"
   },
   {
@@ -3274,7 +3092,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 231565.65,
-   "auction_id": "2214908281",
+   "auction_id": "2218471129",
    "status": "SCHEDULED FOR",
    "case_number": "F-002997-26",
    "parcel_id": null,
@@ -3289,8 +3107,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908281",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471129",
+   "as_of": "2026-10-30T06:21-04:00",
    "sheriff_number": "26002202"
   },
   {
@@ -3312,7 +3130,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 117008.6,
-   "auction_id": "2214908282",
+   "auction_id": "2218471130",
    "status": "SCHEDULED FOR",
    "case_number": "F-009508-24-B",
    "parcel_id": "TOWNSHIP TAX MAP; THENCE, 1) ALONG THE SOUTHWESTERLY SIDELINE NECK ROAD, S 15 O 51\u2019 30\" E A DISTANCE OF 56.20 FEET TO A POINT IN THE SAME AND IN THE DIVISION LINE BETWEEN LOTS 2.01 AND 5; THENCE, 2) ALONG THE SAME, S 74 O 08\u2019 30\u201d W A DISTANCE OF 230.46 FEET TO A POINT IN THE LINE OF LOT 5 AND CORNER TO LOTS 2.01 AND 3; THENCE, 3) ALONG THE DIVISION LINE BETWEEN LOTS 2.01 AND 3, N 530 25\u2019 00\u201d W A DISTANCE OF 70.86 FEET TO A POINT IN THE LINE OF LOT 3 AND CORNER TO LOTS 2.01 AND 2; THENCE. 4) ALONG THE DIVISION LINE BETWEEN LOTS 2 & 2.01, N 74 O 08\u2019 30\u201d E A DISTANCE OF 273.41 FEET TO THE POINT AND PLACE OF BEGINNING. BEING KNOWN LOT AS: 2.01, BLOCK: 146 AS ON THE BURLINGTON TOWNSHIP TAX MAP. MORE COMMONLY KNOWN AS: 602 NECK ROAD, BURLINGTON. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $114,944.52 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of ILLONA BROCK Defendant(s) taken in execution at the suit of NATIONSTAR MORTGAGE LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE,",
@@ -3327,8 +3145,8 @@
    "attorney": "GREENSPOON MARDER LLP",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908282",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471130",
+   "as_of": "2026-10-30T06:21-04:00",
    "sheriff_number": "26002208"
   },
   {
@@ -3342,7 +3160,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 247907.82,
-   "auction_id": "2214908283",
+   "auction_id": "2218471131",
    "status": "SCHEDULED FOR",
    "case_number": "F-004699-26",
    "parcel_id": null,
@@ -3357,8 +3175,8 @@
    "attorney": "KML LAW GROUP, P.C.",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908283",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471131",
+   "as_of": "2026-10-30T06:21-04:00",
    "sheriff_number": "26002216"
   },
   {
@@ -3380,7 +3198,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 538594.06,
-   "auction_id": "2214908284",
+   "auction_id": "2218471132",
    "status": "SCHEDULED FOR",
    "case_number": "F-014058-25-B",
    "parcel_id": "CERT NO.: 26-00041 SOLD: 08/20/2026 TO: LORAMARK CAPITAL LLC LIEN AMOUNT IS SUBJECT TO SUBSEQUENT TAXES + INTEREST. MUST CALL PRIOR TO SETTLEMENT FOR REDEMPTION FIGURES. THE REDEMPTION OF LIENS IS OUTLINED N.J.S.A 54:5-54 NO PRIOR MORTGAGES OR LIENS ARE OUTSTANDING. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $532,116.90 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of KAREN E BOUFFARD; TD BANK, N.A. Defendant(s) taken in execution at the suit of U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN",
@@ -3395,8 +3213,8 @@
    "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908284",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471132",
+   "as_of": "2026-10-30T06:21-04:00",
    "sheriff_number": "26002217"
   },
   {
@@ -3426,7 +3244,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": 523718.54,
-   "auction_id": "2214908198",
+   "auction_id": "2218471052",
    "status": "2ND ATTORNEY ADJOURNMENT TO",
    "case_number": "F-012502-25",
    "parcel_id": "A POST CLOSING INSPECTION BY THE ASSESSOR'S OFFICE. ANY IMPROVEMENTS FOUND BY THIS INSPECTION COMPLETED WITHOUT PROPER MUNICIPAL PERMITS WILL BE SUBJECT TO OMITTED AND ADDED ASSESSMENTS. THE SHERIFF RESERVES THE RIGHT TO ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $513,429.17 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of WILLY TRANQUILLE; MRS. TRANQUILLE, WIFE OF WILLY TRANQUILLE Defendant(s) taken in execution at the suit of PENNYMAC LOAN SERVICES, LLC Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE",
@@ -3441,8 +3259,8 @@
    "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
    "sale_date": "2026-12-10",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908198",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471052",
+   "as_of": "2026-10-30T06:21-04:00",
    "sheriff_number": "26001360"
   },
   {
@@ -3460,7 +3278,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 426341.29,
-   "auction_id": "2214908252",
+   "auction_id": "2218471100",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-000606-26",
    "parcel_id": "INTEREST. MUST CALL PRIOR TO SETTLEMENT FOR REDEMPTION FIGURES. THE REDEMPTION OF LIENS IS OUTLINED IN N.J.S.A 54:5-54. GENERAL REMARK: SUBJECT TO TAX SALE 10/14/2026. SUBJECT TO ADDITIONAL FEES.",
@@ -3475,8 +3293,8 @@
    "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID, CRANE & PARTNERS, PLLC",
    "sale_date": "2026-12-10",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908252",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471100",
+   "as_of": "2026-10-30T06:21-04:00",
    "sheriff_number": "26002015"
   },
   {
@@ -3494,7 +3312,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 193816.41,
-   "auction_id": "2214908253",
+   "auction_id": "2218471101",
    "status": "1ST ATTORNEY ADJOURNMENT TO",
    "case_number": "F-003591-26",
    "parcel_id": ", OR ANY PART THEREOF, MAY FILE A MOTION PURSUANT TO COURT RULES 4:64-3 AND 4:57-2 STATING THE NATURE AND EXTENT OF THAT PERSON'S CLAIM AND ASKING FOR AN ORDER DIRECTING PAYMENT OF THE SURPLUS MONEY. THE SHERIFF OR OTHER PERSON CONDUCTING THE SALE WILL HAVE INFORMATION REGARDING THE SURPLUS, IF ANY. THE OCCUPANCY STATUS OF THE PROPERTY IS: VACANT NO PRIOR MORTGAGES OR LIENS ARE OUTSTANDING. **THE PROPERTY IS BEING SOLD SUBJECT TO THE FOLLOWING DEED RESTRICTIONS: LIMITATION OF OCCUPANCY OF THE RESIDENTIAL UNIT TO DIRECT FAMILY MEMBERS INVOLVED IN OPERATION OF THE ONSITE BUSINESS; ELIMINATION OF THE RESIDENTIAL APARTMENT UPON SALE OF THE BUSINESS OR TERMINATION OF FAMILY OCCUPANCY.** Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $189,940.15 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of PATRICK MCGONIGLE Defendant(s) taken in execution at the suit of FREEDOM MORTGAGE CORPORATION Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED",
@@ -3509,8 +3327,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2026-12-10",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908253",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471101",
+   "as_of": "2026-10-30T06:21-04:00",
    "sheriff_number": "26002020"
   },
   {
@@ -3528,7 +3346,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 92298.35,
-   "auction_id": "2214908255",
+   "auction_id": "2218471103",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-013595-25",
    "parcel_id": null,
@@ -3543,8 +3361,8 @@
    "attorney": "STERN LAVINTHAL & FRANKENBERG LLC",
    "sale_date": "2026-12-10",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908255",
-   "as_of": "2026-10-28T06:26-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471103",
+   "as_of": "2026-10-30T06:21-04:00",
    "sheriff_number": "26002023"
   },
   {
@@ -3562,7 +3380,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 236933.7,
-   "auction_id": "2214908260",
+   "auction_id": "2218471108",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-004249-26",
    "parcel_id": null,
@@ -3577,8 +3395,8 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2026-12-10",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908260",
-   "as_of": "2026-10-28T06:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471108",
+   "as_of": "2026-10-30T06:21-04:00",
    "sheriff_number": "26002037"
   },
   {
@@ -3596,7 +3414,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 299331.46,
-   "auction_id": "2214908262",
+   "auction_id": "2218471110",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-002838-25",
    "parcel_id": null,
@@ -3611,8 +3429,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2027-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908262",
-   "as_of": "2026-10-28T06:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471110",
+   "as_of": "2026-10-30T06:21-04:00",
    "sheriff_number": "26002061"
   },
   {
@@ -3630,7 +3448,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 411688.12,
-   "auction_id": "2214908268",
+   "auction_id": "2218471116",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-002902-26",
    "parcel_id": null,
@@ -3645,8 +3463,8 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2027-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908268",
-   "as_of": "2026-10-28T06:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471116",
+   "as_of": "2026-10-30T06:21-04:00",
    "sheriff_number": "26002089"
   },
   {
@@ -3664,7 +3482,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 44602.71,
-   "auction_id": "2214908269",
+   "auction_id": "2218471117",
    "status": "1ST DEBTOR ADJOURNMENT TO",
    "case_number": "F-005971-26",
    "parcel_id": "THEREON. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $43,413.58 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of MARCO A. GASTELUM and MRS. MARCO A. GASTELUM Defendant(s) taken in execution at the suit of CITIZENS BANK, N.A. Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON COUNTY SHERIFF. IF THE BALANCE OF THE PURCHASE PRICE IS TO BE FINANCED, BIDDER MUST PRESENT AT SALE PRE-APPROVAL DOCUMENTATION FROM AN INSTITUTION",
@@ -3679,8 +3497,8 @@
    "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
    "sale_date": "2027-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908269",
-   "as_of": "2026-10-28T06:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471117",
+   "as_of": "2026-10-30T06:21-04:00",
    "sheriff_number": "26002090"
   },
   {
@@ -3698,7 +3516,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 30119.7,
-   "auction_id": "2214908263",
+   "auction_id": "2218471111",
    "status": "2ND DEBTOR ADJOURNMENT TO",
    "case_number": "F-014025-25",
    "parcel_id": "ADJOURN THIS SALE WITHOUT FURTHER NOTICE THROUGH PUBLICATION. NO PRIOR MORTGAGES OR LIENS ARE OUTSTANDING. Surplus Money: If after the sale and satisfaction of the mortgage debt, including costs and expenses, there remains any surplus money, the money will be deposited into the Superior Court Trust Fund and any person claiming the surplus, or any part thereof, may file a motion pursuant to Court Rules 4:64-3 and 4:57-2 stating the nature and extent of that person\u2019s claim and asking for an order directing payment of the surplus money. The Sheriff or other person conducting the sale will have information regarding the surplus, if any. This does not constitute a full legal description, which can be found in the County Clerk\u2019s Office or the Sheriff\u2019s Office. The Sheriff is not responsible and makes no representation as to the accuracy of the affidavit of considerations submitted by the plaintiff in regards to this property. The purchaser will pay the costs of drawing and executing the deed, sheriff\u2019s fees, costs, and commission. Judgment approximately $28,414.31 besides interest, costs, and fees. The right to adjourn this sale is specifically reserved by the undersigned. Seized as the property of MARISA ADAMS, STATE OF NEW JERSEY, UNITED STATES OF AMERICA, BURLINGTON COUNTY TRUST COMPANY Defendant(s) taken in execution at the suit of BANK OF AMERICA, N.A. Plaintiff(s) NOTICE TO THE PUBLIC AT THE TIME OF THE SALE, TWENTY PERCENT OF THE AMOUNT BID WILL BE REQUIRED AS A DEPOSIT, BY THE PURCHASER, IN CASH, CERTIFIED, TREASURER\u2019S, OR CASHIERS CHECK ONLY. THE BALANCE IS DUE TWO WEEKS FROM THE DATE OF SALE, IN CASH OR CERTIFIED, TREASURE\u2019S, OR CASHIERS CHECK ONLY. IN CERTAIN CASES, AT THE TIME OF THE SALE THREE- AND ONE-HALF PERCENT (3.5%) OF THE AMOUNT BID AS A DEPOSIT, IN CASH, CERTIFIED TREASURER\u2019S OR CASHIERS CHECK ONLY. THE BALANCE IS DUE NINETY DAYS (90) FROM DATE OF SALE IN CASH OR CERTIFIED, TREASURER\u2019S OR CASHIER\u2019S CHECK OR SHALL BE BY WIRE TRANSFER TO THE BURLINGTON",
@@ -3713,8 +3531,8 @@
    "attorney": "FRENKEL LAMBERT WEISS WEISMAN & GORDON, LLP",
    "sale_date": "2027-01-14",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2214908263",
-   "as_of": "2026-10-28T06:27-04:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2218471111",
+   "as_of": "2026-10-30T06:21-04:00",
    "sheriff_number": "26002063"
   }
  ]

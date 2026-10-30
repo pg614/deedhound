@@ -1,7 +1,7 @@
 {
  "state": "ohio",
  "county": "ashland",
- "as_of": "2026-10-28T06:08-04:00",
+ "as_of": "2026-10-30T06:03-04:00",
  "source": "https://www.ashlandcountysheriff.org/property-sales",
  "count": 2,
  "items": [
@@ -27,7 +27,7 @@
    "sale_date": "2026-11-10",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.ashlandcountysheriff.org/property-sales",
-   "as_of": "2026-10-28T06:08-04:00",
+   "as_of": "2026-10-30T06:03-04:00",
    "next_sale_date": "2026-11-24"
   },
   {
@@ -52,7 +52,7 @@
    "sale_date": "2026-11-10",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.ashlandcountysheriff.org/property-sales",
-   "as_of": "2026-10-28T06:08-04:00",
+   "as_of": "2026-10-30T06:03-04:00",
    "next_sale_date": "2026-11-24"
   }
  ]

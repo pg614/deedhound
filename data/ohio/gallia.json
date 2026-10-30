@@ -1,7 +1,7 @@
 {
  "state": "ohio",
  "county": "gallia",
- "as_of": "2026-10-28T06:08-04:00",
+ "as_of": "2026-10-30T06:03-04:00",
  "source": "https://www.galliasheriff.org/sheriff-sales",
  "count": 4,
  "items": [
@@ -27,7 +27,7 @@
    "sale_date": "2026-10-30",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.galliasheriff.org/sheriff-sales",
-   "as_of": "2026-10-28T06:08-04:00"
+   "as_of": "2026-10-30T06:03-04:00"
   },
   {
    "county": "gallia",
@@ -51,7 +51,7 @@
    "sale_date": "2026-10-30",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.galliasheriff.org/sheriff-sales",
-   "as_of": "2026-10-28T06:08-04:00"
+   "as_of": "2026-10-30T06:03-04:00"
   },
   {
    "county": "gallia",
@@ -75,7 +75,7 @@
    "sale_date": "2026-10-30",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.galliasheriff.org/sheriff-sales",
-   "as_of": "2026-10-28T06:08-04:00"
+   "as_of": "2026-10-30T06:03-04:00"
   },
   {
    "county": "gallia",
@@ -99,7 +99,7 @@
    "sale_date": "2026-11-13",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.galliasheriff.org/sheriff-sales",
-   "as_of": "2026-10-28T06:08-04:00"
+   "as_of": "2026-10-30T06:03-04:00"
   }
  ]
 }
