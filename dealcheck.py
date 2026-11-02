@@ -69,7 +69,7 @@ def grade(st,i,e):
         g={"Strong":"Fair","Fair":"Pass"}[g]; why.append(f"Grade lowered one step because of {p} postponements (sale may not happen).")
     why.append("Occupancy: not stated by the official source.")
     return g,why,info
-def badge(g): return f'<span class="bbadge" style="background:{COLORS[g]}">{E(g)}</span>'
+def badge(g): return f'<span class="bbadge g-{g.split()[0]}">{E(g)}</span>'
 def summary(st,i,g,info,fdate):
     s=[f'This property is scheduled for sheriff sale on {fdate(i["sale_date"])}.']
     if info.get("r") is not None:
