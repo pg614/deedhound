@@ -55,6 +55,21 @@ BAR = ('<div class="sbar"><div class="w"><span>📬 Get the week\'s best sheriff
 THEME_HEAD = '<script>(function(){try{var t=localStorage.getItem("theme")}catch(e){}if(t!=="light"&&t!=="dark")t=matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";document.documentElement.setAttribute("data-theme",t)})()</script>'
 THEME_FOOT = '<script>(function(){var b=document.getElementById("thm"),d=document.documentElement;function sync(){var k=d.getAttribute("data-theme")==="dark";b.querySelector(".ic").textContent=k?"☀️":"🌙";b.querySelector(".tx").textContent=k?"Light mode":"Dark mode";b.setAttribute("aria-pressed",k)}sync();b.onclick=function(){var t=d.getAttribute("data-theme")==="dark"?"light":"dark";d.setAttribute("data-theme",t);try{localStorage.setItem("theme",t)}catch(e){}sync()}})()</script>'
 def _abs(u): return u if not u or u.startswith("http") else BASE + "/" + u.lstrip("/")
+LD_IMG = _abs(BRAND.get("apple_icon") or BRAND.get("logo")) if (BRAND.get("apple_icon") or BRAND.get("logo")) else None
+def _vfrom(i, d):
+    v = i.get("first_seen") or i.get("as_of") or d.get("as_of")
+    return v or None
+def _ldesc(i, full, ab):
+    p = [f'Sheriff sale of {full}.']
+    if i.get("case_number"): p.append(f'Case {i["case_number"]}.')
+    if i.get("sale_type"): p.append(f'{i["sale_type"]}.')
+    if i.get("appraised_value"): p.append(f'Appraised ${i["appraised_value"]:,.0f}.')
+    if i.get("opening_bid"): p.append(f'Minimum bid ${i["opening_bid"]:,.0f}.')
+    out = ""
+    for x in p:
+        if len(out) + len(x) + 1 > 299: break
+        out = (out + " " + x).strip()
+    return out
 OGIMG = (f'<meta property="og:image" content="{_abs(BRAND.get("apple_icon") or BRAND.get("logo"))}"><meta name="twitter:image" content="{_abs(BRAND.get("apple_icon") or BRAND.get("logo"))}">') if (BRAND.get("apple_icon") or BRAND.get("logo")) else ""
 GA_ID = CFG.get("ga4_measurement_id", "")
 GA_HEAD = (f'<script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","{GA_ID}");</script>') if GA_ID else ""
@@ -242,7 +257,10 @@ def build_state(st, urls):
             ld = {"@context": "https://schema.org", "@type": "Event", "name": f"Sheriff sale: {full}", "startDate": i["sale_date"],
                   "eventStatus": "https://schema.org/EventScheduled", "organizer": {"@type": "Organization", "name": f"{cn} County Sheriff", "url": d["source"]},
                   "location": {"@type": "Place", "name": full, "address": {"@type": "PostalAddress", "streetAddress": i["address"], "addressLocality": i["city"], "postalCode": i["zip"], "addressRegion": ab, "addressCountry": "US"}},
-                  "offers": {"@type": "Offer", "price": i["opening_bid"], "priceCurrency": "USD", "url": i["source_url"]} if i["opening_bid"] else None}
+                  "offers": {"@type": "Offer", **({"price": i["opening_bid"], "priceCurrency": "USD"} if i["opening_bid"] else {}), "url": i["source_url"], "availability": "https://schema.org/InStock", "validFrom": _vfrom(i, d)},
+                  "endDate": i["sale_date"], "description": _ldesc(i, full, ab),
+                  "performer": {"@type": "Organization", "name": f"{cn} County Sheriff", "url": d["source"]}}
+            if LD_IMG: ld["image"] = LD_IMG
             kv = [("Sale date", fdate(i["sale_date"]) + f' ({E(i["sale_type"])})'), ("Address", E(full)), ("County", cn), ("Appraised value", usd(i["appraised_value"])),
                   ("Minimum / opening bid", usd(i["opening_bid"]) + (f' <span class="muted">({i["opening_bid"]/i["appraised_value"]:.0%} of appraisal)</span>' if i["opening_bid"] and i["appraised_value"] else ""))]
             if i.get("next_sale_date"): kv.append(("Next sale date if no bid", E(i["next_sale_date"]) + ' <span class="muted">as published by the Sheriff</span>'))
