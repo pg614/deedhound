@@ -15,41 +15,13 @@ def slug(s): return re.sub(r"[^a-z0-9]+", "-", (s or "").lower()).strip("-")
 def usd(v): return "—" if v is None else f"${v:,.0f}"
 def fdate(d): return datetime.date.fromisoformat(d).strftime("%a, %b %-d, %Y")
 def asof(a): return datetime.datetime.fromisoformat(a).strftime("%b %-d, %Y %-I:%M %p ET")
-CSS = ("""*{box-sizing:border-box}body{margin:0;font:19px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:var(--fg);background:var(--bg)}
-a{color:var(--link)}header{background:var(--hdr);color:var(--head);border-bottom:5px solid GOLD}header .w{display:flex;align-items:center;justify-content:space-between}header a{color:var(--head);text-decoration:none;font-weight:600}
-.w{max-width:1080px;margin:0 auto;padding:16px}.logo{font-weight:800;font-size:24px;display:flex;align-items:center;gap:10px}.logo small{font-weight:500;font-size:16px;color:var(--head);margin-left:4px;max-width:150px;line-height:1.2}.logoslot{display:inline-block;width:40px;height:40px;border-radius:50%;background:#f5b82e}nav a{margin-left:18px;font-size:18px}
-h1{font-size:34px;margin:8px 0}.muted{color:var(--muted);font-size:17px}.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px;margin:12px 0}
-table{width:100%;border-collapse:collapse;background:var(--card)}th,td{padding:12px 12px;border-bottom:1px solid var(--line);text-align:left;font-size:18px}th{background:NAVY;color:#fff;position:sticky;top:0}
-td.n{text-align:right;font-variant-numeric:tabular-nums}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px}
-.grid a{display:block;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px;text-decoration:none}.grid b{font-size:26px;display:block;color:var(--head)}
-.warn{background:var(--warnbg);border:1px solid var(--warnline);color:var(--fg);border-radius:8px;padding:14px 16px;font-size:17px}.kv{display:grid;grid-template-columns:240px 1fr;gap:6px 12px}
-form.nl{display:flex;gap:8px;flex-wrap:wrap}form.nl input{flex:1;min-width:220px;padding:14px;font-size:18px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--fg)}form.nl button{padding:14px 22px;font-size:18px;background:GOLD;color:NAVY;border:0;border-radius:6px;font-weight:700}
-footer{font-size:16px;color:var(--muted)}.scroll{overflow-x:auto}h1,h2,h3{color:var(--head)}.grid a{border-left:5px solid GOLD}
-.pd{display:grid;grid-template-columns:minmax(260px,380px) 1fr;gap:18px;align-items:start}@media(max-width:760px){.pd{grid-template-columns:1fr}.kv{grid-template-columns:1fr 1fr}}
-.ph{margin:0;width:100%;aspect-ratio:4/3;background:var(--phbg);border:2px dashed var(--line);border-radius:10px;display:flex;align-items:center;justify-content:center;text-align:center;color:var(--muted);font-weight:600;overflow:hidden;flex-direction:column}
-figure.ph{border-style:solid}.ph img{width:100%;height:100%;object-fit:cover}.ph figcaption{font-size:14px;font-weight:400;padding:4px}
-.sbar{background:NAVY;color:#fff;font-size:18px}.sbar .w{display:flex;align-items:center;justify-content:center;gap:16px;flex-wrap:wrap;padding-top:8px;padding-bottom:8px;text-align:center}
-.sbtn{display:inline-block;background:GOLD;color:NAVY!important;font-weight:700;text-decoration:none;padding:8px 18px;border-radius:6px;white-space:nowrap}.sbtn:hover{filter:brightness(1.08)}
-@media(max-width:600px){.sbar{font-size:16px}.sbar .w{gap:8px}}
-@media(max-width:760px){header .w{flex-wrap:wrap;gap:6px}header nav{width:100%;display:flex;flex-wrap:wrap;gap:6px 0}header nav a{margin:0 16px 0 0;font-size:17px}}
-:root{color-scheme:light;--bg:#f6f7f9;--fg:#1d2433;--muted:#3f4756;--card:#fff;--line:#d5dae2;--hdr:#fff;--head:NAVY;--link:NAVY;--warnbg:#fff8e6;--warnline:#f1d48a;--phbg:#eef1f5;--gold:GOLD}
-html[data-theme=dark]{color-scheme:dark;--bg:#0d1523;--fg:#e8ecf2;--muted:#b8c1cf;--card:#16213a;--line:#2e3b57;--hdr:NAVY;--head:#f0c36b;--link:#9cc3ff;--warnbg:#2a2312;--warnline:#7a5d22;--phbg:#1b2741}
-html[data-theme=dark] .logo img{background:#fff;border-radius:10px;padding:4px 8px}
-html[data-theme=dark] th{background:#08203f}
-.thm{display:inline-flex;align-items:center;gap:8px;font:inherit;font-size:18px;font-weight:700;padding:10px 16px;min-height:48px;border-radius:24px;border:2px solid var(--head);background:transparent;color:var(--head);cursor:pointer}
-.thm:focus-visible{outline:3px solid GOLD;outline-offset:2px}.thm .ic{font-size:22px;line-height:1}
-.hero{padding:8px 0 4px}.hero h1{font-size:36px;line-height:1.2;margin:4px 0 10px}.hero .sub{font-size:21px;margin:0 0 14px}.sbtn.big{font-size:21px;padding:14px 24px;min-height:52px}.dcline{font-size:18px;border-left:6px solid #1b7f3b;background:var(--card);padding:8px 14px;border-radius:6px;margin:8px 0}.callnote{margin:8px 0 16px}@media(max-width:600px){.hero h1{font-size:30px}.sbtn.big{white-space:normal;text-align:center}}
-.dcstrip{border-left:6px solid #1b7f3b;padding:10px 16px}.dcstrip h1{font-size:22px;margin:0 0 4px;line-height:1.3}.dcstrip p{margin:0;font-size:18px}
-.bbadge{display:inline-block;padding:2px 10px;border-radius:12px;color:#fff;font-weight:700;font-size:16px;white-space:nowrap}
-html[data-theme=dark] .bbadge{box-shadow:0 0 0 1px rgba(255,255,255,.35)}
-.goldbox{border:3px solid GOLD!important}
-html[data-theme=dark] .card:has(script[data-beehiiv-form]){background:#fff;color:#1d2433}html[data-theme=dark] .card:has(script[data-beehiiv-form]) .muted{color:#3f4756}""").replace("NAVY", BRAND["navy"]).replace("GOLD", BRAND["gold"])
+CSS = open(os.path.join(ROOT, "assets_src", "style.css")).read().replace("NAVY", BRAND["navy"]).replace("GOLD", BRAND["gold"])
 DISC = ('<p class="warn"><b>Verify before you bid.</b> This is an unofficial summary of public sheriff-sale listings. Sales are often cancelled or '
         'postponed. Always confirm details with the official legal notice and the county sheriff\'s official sale site linked on each page. Not legal or financial advice.</p>')
 SUB = "https://deedhound.beehiiv.com/subscribe"
 INDEXNOW_KEY = CFG.get("indexnow_key", "")
-NL = ('<div class="card"><h2 style="margin-top:0">Get the weekly sheriff sale email</h2><p class="muted">One plain, easy-to-read email each week with the best new sheriff sale picks. Free. Unsubscribe anytime.</p>'
-      '<p><a class="sbtn" href="/newsletter/">Sign up free →</a></p></div>')
+NL = ('<div class="nlstrip"><div><h2>Get the weekly sheriff sale email</h2><p>One plain, easy-to-read email each week with the best new sheriff sale picks. Free. Unsubscribe anytime.</p></div>'
+      '<a class="sbtn big" href="/newsletter/">Sign up free →</a></div>')
 BAR = ('<div class="sbar"><div class="w"><span>📬 Get the week\'s best sheriff sale picks by email. <b>Free.</b></span>'
        '<a class="sbtn" href="/newsletter/">Sign up free</a></div></div>')
 THEME_HEAD = '<script>(function(){try{var t=localStorage.getItem("theme")}catch(e){}if(t!=="light"&&t!=="dark")t=matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";document.documentElement.setAttribute("data-theme",t)})()</script>'
@@ -74,34 +46,35 @@ def _ldesc(i, full, ab):
 OGIMG = f'<meta property="og:image" content="{OG_IMG}"><meta name="twitter:image" content="{OG_IMG}">'
 GA_ID = CFG.get("ga4_measurement_id", "")
 GA_HEAD = (f'<script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","{GA_ID}");</script>') if GA_ID else ""
-GA_FOOT = ('<script>(function(){if(!window.gtag)return;var sent={};function loc(el){if(!el||!el.closest)return"page";if(el.closest(".sbar"))return"bar";if(el.closest(".hero"))return"hero";if(el.closest("footer"))return"footer";if(el.closest("[data-beehiiv-form],.card:has(script[data-beehiiv-form])"))return"beehiiv_form";if(location.pathname.indexOf("/newsletter/")===0)return"newsletter_page";return"card"}'
+GA_FOOT = ('<script>(function(){if(!window.gtag)return;var sent={};function loc(el){if(!el||!el.closest)return"page";if(el.closest(".sbar"))return"bar";if(el.closest(".hd"))return"header";if(el.closest(".sigrow"))return"hero";if(el.closest(".hero"))return"hero";if(el.closest("footer"))return"footer";if(el.closest("[data-beehiiv-form],.card:has(script[data-beehiiv-form])"))return"beehiiv_form";if(location.pathname.indexOf("/newsletter/")===0)return"newsletter_page";return"card"}'
     'function ev(l,how){gtag("event","newsletter_signup",{location:l,method:how,page_path:location.pathname})}'
     'var RX=/(newsletter|subscribe|sign.?up|waitlist|join|beehiiv)/i;'
     'document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("a,button,input[type=submit]");if(!a)return;var h=a.getAttribute("href")||"";if(/\\/newsletter\\/|beehiiv/i.test(h)||(a.tagName!=="A"&&RX.test(a.textContent+" "+(a.value||""))))ev(loc(a),"click")},true);'
     'document.addEventListener("submit",function(e){var f=e.target;if(RX.test((f.action||"")+" "+(f.className||"")+" "+(f.id||"")))ev(loc(f),"submit")},true);'
     'window.addEventListener("blur",function(){setTimeout(function(){var f=document.activeElement;if(f&&f.tagName==="IFRAME"&&/beehiiv/i.test(f.src||"")&&!sent[f.src]){sent[f.src]=1;ev(loc(f),"iframe_focus")}},0)})})()</script>') if GA_ID else ""
 LM = {}
-def page(path, title, desc, body, ld=None, crumbs=None):
+def page(path, title, desc, body, ld=None, crumbs=None, top=""):
     canon = BASE + "/" + path.replace("index.html", "")
     lds = (ld if isinstance(ld, list) else [ld]) if ld else []
     if crumbs: lds.append({"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
         {"@type": "ListItem", "position": i + 1, "name": n, "item": BASE + u} for i, (n, u) in enumerate(crumbs)]})
     nav = " › ".join(f'<a href="{u}">{E(n)}</a>' for n, u in crumbs) if crumbs else ""
     doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">{GA_HEAD}
-<title>{E(title)}</title><meta name="description" content="{E(desc)}"><link rel="canonical" href="{canon}">{THEME_HEAD}<link rel="stylesheet" href="/style.css"><link rel="icon" href="{BRAND.get("favicon","")}"><link rel="apple-touch-icon" href="{BRAND.get("apple_icon","")}"><meta name="theme-color" content="{BRAND["navy"]}">
-<meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:url" content="{canon}"><meta property="og:type" content="website"><meta property="og:site_name" content="{E(BRAND["name"])}"><meta property="og:locale" content="en_US">{OGIMG}<meta name="twitter:card" content="summary"><meta name="twitter:title" content="{E(title)}"><meta name="twitter:description" content="{E(desc)}">
+<title>{E(title)}</title><meta name="description" content="{E(desc)}"><link rel="canonical" href="{canon}">{THEME_HEAD}<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Libre+Franklin:wght@400;600;700&family=Playfair+Display:wght@800&display=swap"><link rel="stylesheet" href="/style.css"><link rel="icon" href="{BRAND.get("favicon","")}"><link rel="apple-touch-icon" href="{BRAND.get("apple_icon","")}"><meta name="theme-color" content="{BRAND["navy"]}">
+<meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:url" content="{canon}"><meta property="og:type" content="website"><meta property="og:site_name" content="{E(BRAND["name"])}"><meta property="og:locale" content="en_US">{OGIMG}<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{E(title)}"><meta name="twitter:description" content="{E(desc)}">
 {''.join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in lds)}</head><body>
-{BAR}<header><div class="w"><a class="logo" href="/">{('<img src="'+BRAND["logo"]+'" alt="'+E(BRAND["name"])+'" height="68">') if BRAND["logo"] else E(BRAND["name"])}<small>{E(BRAND["tagline"])}</small></a><nav>{" ".join(f'<a href="/{k}/">{v[0]}</a>' for k,v in STATES.items())}</nav><button class="thm" type="button" id="thm" aria-label="Switch light or dark mode"><span class="ic" aria-hidden="true">🌙</span><span class="tx">Dark mode</span></button></div></header>
-<main class="w"><div class="muted">{nav}</div>{body}</main>
-<footer class="w">Data compiled from lists published by county sheriffs' offices. Bidding happens on each county's official sale site. {DISC}</footer>{THEME_FOOT}{GA_FOOT}</body></html>"""
+<a class="skip" href="#main">Skip to content</a><header class="hd"><div class="w nav"><a class="logo" href="/"><img src="/assets/deedhound-logo.jpg" alt="" width="48" height="48"><span>DeedHound<small>{E(BRAND["tagline"])}</small></span></a><nav aria-label="States">{"".join(f'<a href="/{k}/">{v[0]}</a>' for k,v in STATES.items())}</nav><span class="sp"></span><button class="thm" type="button" id="thm" aria-label="Switch light or dark mode"><span class="ic" aria-hidden="true">🌙</span><span class="tx">Dark mode</span></button><a class="sbtn hdcta" href="/newsletter/">Free email</a></div></header>
+{top}<main class="w" id="main">{('<p class="crumb">'+nav+'</p>') if nav else ""}{body}</main>
+<footer class="ft"><div class="w"><div class="fcols"><div><b>DeedHound</b><p>Data compiled from lists published by county sheriffs' offices. Bidding happens on each county's official sale site.</p></div><div><b>States</b><p>{" · ".join(f'<a href="/{k}/">{v[0]}</a>' for k,v in STATES.items())}</p></div><div><b>Guides</b><p><a href="/deal-check/">How Deal Check works</a> · <a href="/financing/">How to pay</a> · <a href="/newsletter/">Free weekly email</a></p></div></div>{DISC}</div></footer>{THEME_FOOT}{GA_FOOT}</body></html>"""
     if path.startswith("kentucky/"): doc = doc.replace("County Sheriff list", "County Master Commissioner list").replace("as published by the Sheriff", "as published by the Master Commissioner").replace(' County Sheriff"', ' County Master Commissioner"').replace("Kentucky sheriff sales", "Kentucky master commissioner sales").replace("Kentucky Sheriff Sales", "Kentucky Master Commissioner Sales").replace("County sheriff sales work", "County master commissioner sales work").replace("Kentucky sheriff sale ·", "Kentucky master commissioner sale ·")
     fp = os.path.join(OUT, path); os.makedirs(os.path.dirname(fp), exist_ok=True); open(fp, "w").write(_bp(doc))
 def table(items, show_county=False):
-    r = "".join(f'<tr><td>{fdate(i["sale_date"])}</td><td><a href="{i["url"]}">{E(i["address"] or "")}</a></td><td>{E(i["city"])}</td>'
-                + (f'<td>{E(i["county_name"])}</td>' if show_county else "") +
-                f'<td>{DCK.badge(i["grade"]) if i.get("grade") else ""}</td><td class="n">{usd(i["appraised_value"]) if i["appraised_value"] else usd(i.get("upset_amount"))}</td><td class="n">{usd(i["opening_bid"])}</td><td>{E((i.get("plaintiff") or "—")[:28])}</td></tr>' for i in items)
-    return ('<div class="scroll"><table><thead><tr><th>Sale date</th><th>Address</th><th>City</th>' + ("<th>County</th>" if show_county else "") +
-            f'<th>Deal Check</th><th>Appraised / owed*</th><th>Min. bid</th><th>Lender</th></tr></thead><tbody>{r}</tbody></table></div>')
+    def row(i):
+        v = i["appraised_value"] or i.get("upset_amount")
+        return (f'<tr><td data-l="Deal Check">{DCK.badge(i["grade"]) if i.get("grade") else ""}</td><td class="adr"><a href="{i["url"]}">{E(i["address"] or "Address not published")}</a><span>{E(i["city"])}' + (f' · {E(i["county_name"])} Co.' if show_county else "") + '</span></td>'
+                f'<td data-l="Sale date">{fdate(i["sale_date"])}</td><td class="n" data-l="Appraised / owed*">{usd(v)}</td><td class="n" data-l="Min. bid">{usd(i["opening_bid"])}</td><td class="lend" data-l="Lender">{E((i.get("plaintiff") or "—")[:28])}</td></tr>')
+    return ('<div class="scroll"><table class="tbl"><thead><tr><th>Deal Check</th><th>Property</th><th>Sale date</th><th class="n">Appraised / owed*</th><th class="n">Min. bid</th><th>Lender</th></tr></thead><tbody>'
+            + "".join(row(i) for i in items) + '</tbody></table></div>')
 REGION = {"ohio": {"montgomery":"Southwest","wood":"Northwest","allen":"Northwest","stark":"Northeast","lorain":"Northeast","medina":"Northeast","richland":"North Central",
    "portage":"Northeast","trumbull":"Northeast","mahoning":"Northeast","summit":"Northeast","clermont":"Southwest","clark":"Southwest"},
   "new-jersey": {"bergen":"North","essex":"North","hudson":"North","passaic":"North","morris":"North","union":"North","hunterdon":"Central","middlesex":"Central","monmouth":"Central","ocean":"Central",
@@ -227,7 +200,7 @@ def build_guides(st, urls):
              f"Where to find {cn} County, Ohio sheriff sales: official sheriff and auction site links, deposit and 2/3 minimum bid rules. DeedHound doesn't list this county yet.",
              body, [faq_ld(faq)], [("Home", "/"), (sn, f"/{st}/"), (f"{cn} County", u)]); urls.append(u); out.append((cn, u))
     return out
-ALL = []; SEEN = set(); DUPS = []; MERGED = []
+ALL = []; SEEN = set(); DUPS = []; MERGED = []; SIDX = []
 def build_state(st, urls):
     sn, ab = STATES[st]; today = datetime.date.today().isoformat(); counties = []; allitems = []
     for f in sorted(glob.glob(os.path.join(ROOT, "data", st, "*.json"))):
@@ -273,15 +246,17 @@ def build_state(st, urls):
                   ("Plaintiff / lender", E(i["plaintiff"]) if i["plaintiff"] else '<span class="muted">Not on this county\'s published list — see the court docket</span>'), ("Plaintiff\'s attorney", E(i.get("attorney") or "—")),
                   ("Current status", E(i["status"])), ("Status history", hist_html(i))]
             _e = ENR.get(i.get("auction_id") or f'{i.get("county")}|{i["case_number"]}|{i["address"]}'); g, why, info = DCK.grade(st, i, _e); i["grade"] = g; i["dc"] = info; GRADES.setdefault(st, {}).setdefault(g, 0); GRADES[st][g] += 1
-            body = (f'<h1>{E(i["address"])}, {E(i["city"])} {DCK.badge(g)}</h1><p class="muted">{cn} County, {sn} sheriff sale · Data as of {asof(i["as_of"])}</p>' + DCK.summary(st, i, g, info, fdate) + DCK.bid_html(st, i, cn, bid, fdate, INFO.get(f"{st}/{slug(cn)}")) + DCK.deal_html(g, why) + note_html(i) +
+            body = (f'<h1>{E(i["address"])}, {E(i["city"])} {DCK.badge(g)}</h1><p class="muted">{cn} County, {sn} sheriff sale · Data as of {asof(i["as_of"])}</p>' + tiles_html(info, i) + DCK.summary(st, i, g, info, fdate) + DCK.bid_html(st, i, cn, bid, fdate, INFO.get(f"{st}/{slug(cn)}")) + DCK.deal_html(g, why) + note_html(i) +
                     '<div class="card kv">' + "".join(f"<div><b>{k}</b></div><div>{v}</div>" for k, v in kv) + '</div>' + enrich_html(i, full) +
                     f'<p><a href="{E(i["source_url"])}" rel="nofollow">See this listing on the official {cn} County Sheriff list →</a>'
                     + (f'<br><a href="{bid}" rel="nofollow">Register / bid on the official {cn} County sale site →</a>' if st == "ohio" else "") + f'</p>{DISC}{NL}')
             page(i["url"].strip("/") + "/index.html", (f'{i["address"]}, {i["city"]} {ab}' if i.get("address") else f'{cn} County {ab} case {i["case_number"]}') + f' – Sheriff Sale {fdate(i["sale_date"])}' + (f' (Case {i["case_number"]})' if _tc[(i["address"], i["city"], i["sale_date"])] > 1 else "") + f' | {BRAND["name"]}',
                  f'Sheriff sale {fdate(i["sale_date"])}: {full}. Case {i["case_number"]}.', body, {k: v for k, v in ld.items() if v} if i.get("address") and i.get("city") else None,
                  [("Home", "/"), (sn, f"/{st}/"), (f"{cn} County", f"{cs}/"), (i["city"], f'{cs}/{slug(i["city"]) or "unknown-city"}/'), (i["address"], i["url"])]); urls.append(i["url"]); LM[i["url"]] = str(i.get("as_of") or "")[:10]
+        SIDX.append({"t": f"{cn} County, {ab}", "s": "county", "n": len(items), "u": f"{cs}/"})
         for c, its in cities.items():
             u = f"{cs}/{slug(c)}/"
+            SIDX.append({"t": f"{c}, {ab}", "s": f"{cn} County", "n": len(its), "u": u, "z": sorted({str(i["zip"])[:5] for i in its if i.get("zip")})})
             page(u.strip("/") + "/index.html", f"{c}, {cn} County {ab} Sheriff Sales ({len(its)} upcoming) | {BRAND['name']}", f"{len(its)} upcoming sheriff sales in {c}, {cn} County, {sn}.",
                  f'<h1>{E(c)}, {sn} sheriff sales</h1><p class="muted">{len(its)} upcoming in {E(c)}, {cn} County · Data as of {asof(d["as_of"])} · Source: <a href="{d["source"]}" rel="nofollow">official {cn} County list</a></p>{table(its)}<p>More: <a href="{cs}/">all {cn} County sheriff sales</a> · ' + " · ".join(f'<a href="{cs}/{slug(o)}/">{E(o)}</a>' for o in sorted(cities) if o != c) + f'</p>{DISC}{NL}', None,
                  [("Home", "/"), (sn, f"/{st}/"), (f"{cn} County", f"{cs}/"), (c, u)]); urls.append(u)
@@ -308,13 +283,31 @@ def top_deals(st, n):
     c = sorted([i for i in ALL if i["url"].startswith(f"/{st}/") and i.get("grade") == "Strong" and i["sale_date"] >= t and i.get("address")], key=lambda i: i["dc"]["r"])[:n]
     if not c: return f"<h2>Top Strong deals in {sn}</h2><p>No upcoming listings grade Strong right now.</p>"
     lab = {"ohio": "Min. bid", "pennsylvania": "Min. bid / debt"}.get(st, "Owed to lender")
-    li = "".join(f'<li class="card" style="list-style:none;font-size:20px"><a href="{i["url"]}"><b>{E(i["address"])}, {E(i["city"])}</b></a> {DCK.badge("Strong")}<br>{E(i["county_name"])} County · Sale {fdate(i["sale_date"])}<br>{lab} {usd(i["dc"]["price"])} vs. value {usd(i["dc"]["val"])} = <b>{i["dc"]["r"]:.0%}</b>{('<br><i>Check first: ' + E(NOTES[i["url"].strip("/")]["bullets"][-1 if len(NOTES[i["url"].strip("/")]["bullets"])<2 else 0]) + '</i>') if i["url"].strip("/") in NOTES else ""}<br><span class="muted">Listing data as of {asof(i["as_of"])}</span></li>' for i in c)
-    return f'<h2>Top Strong deals in {sn} right now</h2><p class="muted">Upcoming sales only, lowest price-to-value first.</p><ul style="padding:0">{li}</ul><p><a href="/{st}/">See all {sn} sales →</a></p>'
+    li = "".join(f'<a class="dcard" href="{i["url"]}"><div class="ct">{DCK.badge("Strong")}<span class="date">{fdate(i["sale_date"])}</span></div><h3>{E(i["address"])}</h3><p class="loc">{E(i["city"])}, {STATES[st][1]} · {E(i["county_name"])} County</p><div class="nums"><div><small>{lab}</small><b>{usd(i["dc"]["price"])}</b></div><div><small>Value</small><b>{usd(i["dc"]["val"])}</b></div><div><small>Price ÷ value</small><b>{i["dc"]["r"]:.0%}</b></div></div>' + ('<p class="chk">Check first: ' + E(NOTES[i["url"].strip("/")]["bullets"][-1 if len(NOTES[i["url"].strip("/")]["bullets"])<2 else 0]) + '</p>' if i["url"].strip("/") in NOTES else "") + f'<p class="asof">Data as of {asof(i["as_of"])}</p></a>' for i in c)
+    return f'<div class="sh"><h2>Top Strong deals in {sn}</h2><a href="/{st}/">See all {sn} sales →</a></div><p class="muted">Upcoming sales only, lowest price-to-value first.</p><div class="cgrid">{li}</div>'
+def tiles_html(info, i):
+    t = []
+    if info.get("price"): t.append((info["pl"][:1].upper() + info["pl"][1:], usd(info["price"]), ""))
+    if info.get("val"): t.append((info["vl"][:1].upper() + info["vl"][1:], usd(info["val"]), ""))
+    if info.get("r") is not None: t.append(("Price is", f'{info["r"]:.0%}', "of value"))
+    t.append(("Sale date", datetime.date.fromisoformat(i["sale_date"]).strftime("%b %-d"), datetime.date.fromisoformat(i["sale_date"]).strftime("%A")))
+    return '<div class="ltiles">' + "".join(f'<div><small>{E(a)}</small><b>{b}</b>{f"<small>{E(c)}</small>" if c else ""}</div>' for a, b, c in t) + '</div>'
+BEEHIIV = '<script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="8cc00e28-eb77-4416-834b-c8a35f27f00f"></script>'
+def home_top(stats):
+    tot = sum(x[2] for x in stats); nc = sum(x[3] for x in stats); ns = len(stats); strong = sum(1 for i in ALL if i.get("grade") == "Strong")
+    oldest = min((x[4] for x in stats), key=lambda s: datetime.datetime.strptime(s, "%b %d, %Y %I:%M %p ET"))
+    tiles = [(f"{tot:,}", "upcoming sales"), (f"{nc}", "counties tracked"), (f"{ns}", "states"), (f"{strong:,}", "graded Strong")]
+    chips = "".join(f'<a class="chip" href="/{st}/">{sn} <span>{n:,}</span></a>' for st, sn, n, c, o in stats)
+    return (f'<section class="top"><div class="w hero"><span class="pill">Updated daily · data as of {oldest} or later</span>'
+            f'<h1>Stop digging through {nc} sheriff websites.<br><em>We already did.</em></h1>'
+            f'<p class="lead">Every upcoming sheriff sale in {", ".join(x[1] for x in stats[:-1])} and {stats[-1][1]}, with the minimum bid, the official value and a plain-English Deal Check. Free.</p>'
+            '<form class="search" id="srch" action="/" role="search" onsubmit="return false"><label for="q" class="vh">Search a county, city or ZIP code</label><input id="q" type="search" autocomplete="off" placeholder="County, city or ZIP — e.g. Elyria or 44035" aria-controls="sres"><button class="cta" type="submit">Find sales</button><ul id="sres" class="sres" role="listbox" hidden></ul></form>'
+            f'<nav class="chips" aria-label="Browse by state">{chips}</nav>'
+            '<div class="tiles">' + "".join(f'<div class="tile"><b>{a}</b><span>{b}</span></div>' for a, b in tiles) + '</div></div></section>'
+            '<section class="w sigrow" id="signup"><div><h2>Get the Friday list, free</h2><p>New sales, price changes and postponements in one plain email each week. Unsubscribe anytime.</p></div><div class="bh">' + BEEHIIV + f'<p class="muted">Form not showing? <a href="{SUB}">Sign up on Beehiiv →</a></p></div></section>'
+            '<script src="/search.js" defer></script>')
 def home_hero():
-    return ('<div class="hero"><h1>Every sheriff sale in one weekly email. Free.</h1>'
-            '<p class="sub">We check the official county lists in Ohio, Pennsylvania, Kentucky and New Jersey, so you don\'t have to dig through dozens of websites and PDFs.</p>'
-            '<p><a class="sbtn big" href="/newsletter/">Send me the free weekly list</a></p></div>'
-            '<p class="dcline">Each sale gets a quick Strong / Fair / Pass first look, with the math shown. <a href="/deal-check/"><b>How it works →</b></a></p>'
+    return ('<p class="dcline">Each sale gets a quick Strong / Fair / Pass first look, with the math shown. <a href="/deal-check/"><b>How it works →</b></a></p>'
             '<p class="warn callnote"><b>Sales can be cancelled up to the last minute, so call the sheriff that morning.</b></p>' + top_deals("ohio", 6) + top_deals("pennsylvania", 6) + top_deals("kentucky", 6) + top_deals("new-jersey", 6))
 def how_page(urls):
     c = DCK.DC
@@ -330,7 +323,7 @@ def how_page(urls):
     page("deal-check/index.html", f"How Deal Check Works | {BRAND['name']}", "How DeedHound grades sheriff sales Strong, Fair or Pass from published bids and official values.", body, None, [("Home", "/"), ("How Deal Check works", "/deal-check/")]); urls.append("/deal-check/")
 def newsletter_page(urls):
     body = ('<h1>Get the weekly sheriff sale email</h1><p style="font-size:21px">One plain, easy-to-read email each week with the best new sheriff sale and foreclosure auction picks in Ohio, Pennsylvania, Kentucky and New Jersey, each with a simple Deal Check grade. Free. Unsubscribe anytime.</p>'
-            '<div class="card"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="8cc00e28-eb77-4416-834b-c8a35f27f00f"></script>'
+            '<div class="card bh"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="8cc00e28-eb77-4416-834b-c8a35f27f00f"></script>'
             f'<p class="muted">Form not showing? <a class="sbtn" href="{SUB}">Sign up on our Beehiiv page →</a></p></div>'
             '<p class="muted">We never sell your email. Emails are sent through Beehiiv.</p>')
     page("newsletter/index.html", "Free weekly sheriff sale email – DeedHound", "Sign up for a free weekly email of the best sheriff sale picks in Ohio, Pennsylvania, Kentucky and New Jersey.", body, None, [("Home", "/"), ("Email signup", "/newsletter/")])
@@ -338,12 +331,14 @@ def newsletter_page(urls):
 def main():
     shutil.rmtree(OUT, ignore_errors=True); os.makedirs(OUT); open(os.path.join(OUT, "style.css"), "w").write(CSS); open(os.path.join(OUT, ".nojekyll"), "w").close(); _h=urllib.parse.urlparse(BASE).hostname or ""; (_h and not _h.endswith("github.io") and not BASE_PATH) and open(os.path.join(OUT, "CNAME"), "w").write(_h + "\n"); shutil.copytree(os.path.join(ROOT, "assets"), os.path.join(OUT, "assets"))
     urls = ["/"]; stats = [x for x in (build_state(st, urls) for st in STATES) if x]; how_page(urls); import financing; financing.build(page, urls, BRAND); newsletter_page(urls)
-    grid = "".join(f'<a href="/{st}/"><b>{n}</b>{sn}<br><span class="muted">{c} counties · as of {o}</span></a>' for st, sn, n, c, o in stats)
+    grid = "".join(f'<a href="/{st}/"><b>{n:,}</b>{sn}<br><span class="muted">{c} counties · as of {o}</span></a>' for st, sn, n, c, o in stats)
     body = (home_hero() + f'<h2>{E(BRAND["tagline"])}</h2><p>Free, plain-English lists of upcoming sheriff sales, compiled from lists published by county sheriffs. Pick your state:</p>'
-            f'<div class="grid">{grid}</div>{NL}{DISC}')
+            f'<div class="grid">{grid}</div>')
     page("index.html", f'{BRAND["name"]} – {BRAND["tagline"]}', "Free lists of upcoming sheriff sales and foreclosure auctions by state and county.", body,
          [{"@context": "https://schema.org", "@type": "WebSite", "name": BRAND["name"], "url": BASE + "/", "description": BRAND["tagline"]},
-          {"@context": "https://schema.org", "@type": "Organization", "name": BRAND["name"], "url": BASE + "/", **({"logo": _abs(BRAND["logo"])} if BRAND.get("logo") else {})}])
+          {"@context": "https://schema.org", "@type": "Organization", "name": BRAND["name"], "url": BASE + "/", **({"logo": _abs(BRAND["logo"])} if BRAND.get("logo") else {})}], None, home_top(stats))
+    json.dump(sorted(SIDX, key=lambda x: -x["n"]), open(os.path.join(OUT, "search.json"), "w"), separators=(",", ":"))
+    shutil.copy(os.path.join(ROOT, "assets_src", "search.js"), os.path.join(OUT, "search.js"))
     today = datetime.date.today().isoformat()
     open(os.path.join(OUT, "sitemap.xml"), "w").write('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
         "".join(f"<url><loc>{BASE}{u}</loc><lastmod>{LM.get(u) or today}</lastmod></url>" for u in dict.fromkeys(urls)) + "</urlset>")
