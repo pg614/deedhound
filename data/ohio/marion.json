@@ -1,9 +1,9 @@
 {
  "state": "ohio",
  "county": "marion",
- "as_of": "2026-10-30T06:04-04:00",
+ "as_of": "2026-11-02T06:03-05:00",
  "source": "https://www.marioncountyohio.gov/Documents/Elected%20Offices/Sheriff/Sheriff%20Sales/Sheriff%20Sale%2011-20-2026%20%28Amended%29.pdf",
- "count": 9,
+ "count": 8,
  "items": [
   {
    "county": "marion",
@@ -27,7 +27,7 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.marioncountyohio.gov/Documents/Elected%20Offices/Sheriff/Sheriff%20Sales/Sheriff%20Sale%2011-20-2026%20%28Amended%29.pdf",
-   "as_of": "2026-10-30T06:04-04:00",
+   "as_of": "2026-11-02T06:03-05:00",
    "next_sale_date": null
   },
   {
@@ -52,7 +52,7 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.marioncountyohio.gov/Documents/Elected%20Offices/Sheriff/Sheriff%20Sales/Sheriff%20Sale%2011-20-2026%20%28Amended%29.pdf",
-   "as_of": "2026-10-30T06:04-04:00",
+   "as_of": "2026-11-02T06:03-05:00",
    "next_sale_date": null
   },
   {
@@ -77,7 +77,7 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.marioncountyohio.gov/Documents/Elected%20Offices/Sheriff/Sheriff%20Sales/Sheriff%20Sale%2011-20-2026%20%28Amended%29.pdf",
-   "as_of": "2026-10-30T06:04-04:00",
+   "as_of": "2026-11-02T06:03-05:00",
    "next_sale_date": null
   },
   {
@@ -102,7 +102,7 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.marioncountyohio.gov/Documents/Elected%20Offices/Sheriff/Sheriff%20Sales/Sheriff%20Sale%2011-20-2026%20%28Amended%29.pdf",
-   "as_of": "2026-10-30T06:04-04:00",
+   "as_of": "2026-11-02T06:03-05:00",
    "next_sale_date": null
   },
   {
@@ -127,7 +127,7 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.marioncountyohio.gov/Documents/Elected%20Offices/Sheriff/Sheriff%20Sales/Sheriff%20Sale%2011-20-2026%20%28Amended%29.pdf",
-   "as_of": "2026-10-30T06:04-04:00",
+   "as_of": "2026-11-02T06:03-05:00",
    "next_sale_date": null
   },
   {
@@ -152,7 +152,7 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.marioncountyohio.gov/Documents/Elected%20Offices/Sheriff/Sheriff%20Sales/Sheriff%20Sale%2011-20-2026%20%28Amended%29.pdf",
-   "as_of": "2026-10-30T06:04-04:00",
+   "as_of": "2026-11-02T06:03-05:00",
    "next_sale_date": null
   },
   {
@@ -177,7 +177,7 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.marioncountyohio.gov/Documents/Elected%20Offices/Sheriff/Sheriff%20Sales/Sheriff%20Sale%2011-20-2026%20%28Amended%29.pdf",
-   "as_of": "2026-10-30T06:04-04:00",
+   "as_of": "2026-11-02T06:03-05:00",
    "next_sale_date": null
   },
   {
@@ -202,33 +202,8 @@
    "sale_date": "2026-11-06",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.marioncountyohio.gov/Documents/Elected%20Offices/Sheriff/Sheriff%20Sales/Sheriff%20Sale%2011-6-2026.pdf",
-   "as_of": "2026-10-30T06:04-04:00",
+   "as_of": "2026-11-02T06:03-05:00",
    "next_sale_date": "2026-11-20"
-  },
-  {
-   "county": "marion",
-   "state": "ohio",
-   "status_history": [],
-   "times_postponed": null,
-   "upset_amount": null,
-   "auction_id": null,
-   "status": "SCHEDULED",
-   "case_number": "2026 CV 0085",
-   "parcel_id": "11-003000.0300",
-   "address": "114 SCIOTO ST.",
-   "city": "Green Camp",
-   "zip": null,
-   "appraised_value": 65000.0,
-   "opening_bid": 43334.0,
-   "deposit": 5000.0,
-   "plaintiff": null,
-   "defendant": "ROCKET MORTGAGE, LLC",
-   "attorney": null,
-   "sale_date": "2026-10-30",
-   "sale_type": "Foreclosure (online)",
-   "source_url": "https://www.marioncountyohio.gov/Sheriff%20Sale%2010-30-2026.pdf",
-   "as_of": "2026-10-30T06:04-04:00",
-   "next_sale_date": "2026-11-13"
   }
  ]
 }
