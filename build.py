@@ -55,7 +55,8 @@ BAR = ('<div class="sbar"><div class="w"><span>📬 Get the week\'s best sheriff
 THEME_HEAD = '<script>(function(){try{var t=localStorage.getItem("theme")}catch(e){}if(t!=="light"&&t!=="dark")t=matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";document.documentElement.setAttribute("data-theme",t)})()</script>'
 THEME_FOOT = '<script>(function(){var b=document.getElementById("thm"),d=document.documentElement;function sync(){var k=d.getAttribute("data-theme")==="dark";b.querySelector(".ic").textContent=k?"☀️":"🌙";b.querySelector(".tx").textContent=k?"Light mode":"Dark mode";b.setAttribute("aria-pressed",k)}sync();b.onclick=function(){var t=d.getAttribute("data-theme")==="dark"?"light":"dark";d.setAttribute("data-theme",t);try{localStorage.setItem("theme",t)}catch(e){}sync()}})()</script>'
 def _abs(u): return u if not u or u.startswith("http") else BASE + "/" + u.lstrip("/")
-LD_IMG = _abs(BRAND.get("apple_icon") or BRAND.get("logo")) if (BRAND.get("apple_icon") or BRAND.get("logo")) else None
+OG_IMG = BASE + "/assets/deedhound-logo.jpg"
+LD_IMG = OG_IMG
 def _vfrom(i, d):
     v = i.get("first_seen") or i.get("as_of") or d.get("as_of")
     return v or None
@@ -70,7 +71,7 @@ def _ldesc(i, full, ab):
         if len(out) + len(x) + 1 > 299: break
         out = (out + " " + x).strip()
     return out
-OGIMG = (f'<meta property="og:image" content="{_abs(BRAND.get("apple_icon") or BRAND.get("logo"))}"><meta name="twitter:image" content="{_abs(BRAND.get("apple_icon") or BRAND.get("logo"))}">') if (BRAND.get("apple_icon") or BRAND.get("logo")) else ""
+OGIMG = f'<meta property="og:image" content="{OG_IMG}"><meta name="twitter:image" content="{OG_IMG}">'
 GA_ID = CFG.get("ga4_measurement_id", "")
 GA_HEAD = (f'<script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","{GA_ID}");</script>') if GA_ID else ""
 GA_FOOT = ('<script>(function(){if(!window.gtag)return;var sent={};function loc(el){if(!el||!el.closest)return"page";if(el.closest(".sbar"))return"bar";if(el.closest(".hero"))return"hero";if(el.closest("footer"))return"footer";if(el.closest("[data-beehiiv-form],.card:has(script[data-beehiiv-form])"))return"beehiiv_form";if(location.pathname.indexOf("/newsletter/")===0)return"newsletter_page";return"card"}'
@@ -254,12 +255,13 @@ def build_state(st, urls):
         for i in items: _tc[(i["address"], i["city"], i["sale_date"])] = _tc.get((i["address"], i["city"], i["sale_date"]), 0) + 1
         for i in items:
             full = f'{i["address"]}, {i["city"]}, {ab} {i["zip"] or ""}'.strip()
+            _shurl = "https://salesweb.civilview.com/" if st == "new-jersey" else d["source"]
             ld = {"@context": "https://schema.org", "@type": "Event", "name": f"Sheriff sale: {full}", "startDate": i["sale_date"],
-                  "eventStatus": "https://schema.org/EventScheduled", "organizer": {"@type": "Organization", "name": f"{cn} County Sheriff", "url": d["source"]},
+                  "eventStatus": "https://schema.org/EventScheduled", "organizer": {"@type": "Organization", "name": f"{cn} County Sheriff", "url": _shurl},
                   "location": {"@type": "Place", "name": full, "address": {"@type": "PostalAddress", "streetAddress": i["address"], "addressLocality": i["city"], "postalCode": i["zip"], "addressRegion": ab, "addressCountry": "US"}},
                   "offers": {"@type": "Offer", **({"price": i["opening_bid"], "priceCurrency": "USD"} if i["opening_bid"] else {}), "url": i["source_url"], "availability": "https://schema.org/InStock", "validFrom": _vfrom(i, d)},
                   "endDate": i["sale_date"], "description": _ldesc(i, full, ab),
-                  "performer": {"@type": "Organization", "name": f"{cn} County Sheriff", "url": d["source"]}}
+                  "performer": {"@type": "Organization", "name": f"{cn} County Sheriff", "url": _shurl}}
             if LD_IMG: ld["image"] = LD_IMG
             kv = [("Sale date", fdate(i["sale_date"]) + f' ({E(i["sale_type"])})'), ("Address", E(full)), ("County", cn), ("Appraised value", usd(i["appraised_value"])),
                   ("Minimum / opening bid", usd(i["opening_bid"]) + (f' <span class="muted">({i["opening_bid"]/i["appraised_value"]:.0%} of appraisal)</span>' if i["opening_bid"] and i["appraised_value"] else ""))]
