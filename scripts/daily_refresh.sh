@@ -10,7 +10,7 @@ fail() { echo "FAIL: $*"; exit 1; }
 git diff --quiet HEAD -- . ':!data' ':!site' || fail "uncommitted code changes; refusing to run"
 git fetch -q origin && git merge -q --ff-only "origin/$DEPLOY_BRANCH" || fail "cannot fast-forward to origin/$DEPLOY_BRANCH"
 step scrape; python3 scraper/official.py ohio new-jersey pennsylvania || fail "official.py"
-step kentucky; python3 scraper/kentucky.py || fail "kentucky.py"
+step kentucky; timeout -k 30 1800 python3 scraper/kentucky.py || echo "FALLBACK kentucky (timeout/error; keeping last good data)"
 step sanity; python3 scripts/sanity_check.py || fail "sanity check"
 step enrich; python3 enrich.py || fail "enrich.py"
 step build; python3 build.py || fail "build.py"

@@ -628,11 +628,25 @@ NAMES = {}
 if __name__ == "__main__":
     args = sys.argv[1:]
     keys = [k for k in JOBS if not args or k[0] in args or k[1] in args or f"{k[0]}/{k[1]}" in args]
+    import multiprocessing as mp
+    BUDGET = int(os.environ.get("COUNTY_BUDGET", "1800")); BUDGET_PA = int(os.environ.get("COUNTY_BUDGET_PA", "5400"))
+    def run1(st, c):
+        items = [dict(i, state=st) for i in JOBS[(st, c)]() if i["sale_date"] and i["sale_date"] >= TODAY.isoformat()]
+        src = items[0]["source_url"] if items else None
+        os.makedirs(os.path.join(OUT, st), exist_ok=True)
+        fn = os.path.join(OUT, st, c + ".json"); tmp = fn + ".tmp"
+        json.dump({"state": st, "county": c, "as_of": NOW(), "source": src, "count": len(items), "items": items}, open(tmp, "w"), indent=1)
+        os.replace(tmp, fn)  # atomic: a killed run never leaves a half-written file
+        print(st, c, len(items), flush=True)
+    fallback = []
     for st, c in keys:
-        try:
-            items = [dict(i, state=st) for i in JOBS[(st, c)]() if i["sale_date"] and i["sale_date"] >= TODAY.isoformat()]
-            src = items[0]["source_url"] if items else None
-            os.makedirs(os.path.join(OUT, st), exist_ok=True)
-            json.dump({"state": st, "county": c, "as_of": NOW(), "source": src, "count": len(items), "items": items}, open(os.path.join(OUT, st, c + ".json"), "w"), indent=1)
-            print(st, c, len(items), flush=True)
-        except Exception as e: print(st, c, "ERROR", repr(e), flush=True)
+        # Each county runs in its own process with a wall-clock budget; on timeout/error its last good file is kept.
+        budget = BUDGET_PA if st == "pennsylvania" else BUDGET
+        p = mp.get_context("fork").Process(target=run1, args=(st, c)); p.start(); p.join(budget)
+        if p.is_alive():
+            p.kill(); p.join(); print(st, c, f"TIMEOUT after {budget}s; keeping last good data", flush=True); fallback.append(f"{st}/{c} (timeout)")
+        elif p.exitcode != 0:
+            print(st, c, "ERROR exit", p.exitcode, "; keeping last good data", flush=True); fallback.append(f"{st}/{c} (error)")
+        try: os.remove(os.path.join(OUT, st, c + ".json.tmp"))
+        except FileNotFoundError: pass
+    print("FALLBACK counties (kept last good data):", ", ".join(fallback) or "none", flush=True)

@@ -65,5 +65,5 @@ def jefferson():
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
     for fn in (fayette, jefferson):
-        try: d = fn(); json.dump(d, open(os.path.join(OUT, d["county"] + ".json"), "w"), indent=1); print(d["county"], d["count"])
+        try: d = fn(); fn = os.path.join(OUT, d["county"] + ".json"); json.dump(d, open(fn + ".tmp", "w"), indent=1); os.replace(fn + ".tmp", fn); print(d["county"], d["count"])
         except Exception as e: print("FAILED", fn.__name__, e)
