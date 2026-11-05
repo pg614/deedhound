@@ -1,9 +1,9 @@
 {
  "state": "ohio",
  "county": "wood",
- "as_of": "2026-11-02T06:06-05:00",
+ "as_of": "2026-11-04T10:29-05:00",
  "source": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
- "count": 5,
+ "count": 8,
  "items": [
   {
    "county": "wood",
@@ -27,7 +27,7 @@
    "sale_date": "2026-11-05",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
-   "as_of": "2026-11-02T06:06-05:00"
+   "as_of": "2026-11-04T10:29-05:00"
   },
   {
    "county": "wood",
@@ -51,7 +51,7 @@
    "sale_date": "2026-11-19",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
-   "as_of": "2026-11-02T06:06-05:00"
+   "as_of": "2026-11-04T10:29-05:00"
   },
   {
    "county": "wood",
@@ -75,7 +75,7 @@
    "sale_date": "2026-11-19",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
-   "as_of": "2026-11-02T06:06-05:00"
+   "as_of": "2026-11-04T10:29-05:00"
   },
   {
    "county": "wood",
@@ -99,7 +99,7 @@
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
-   "as_of": "2026-11-02T06:06-05:00"
+   "as_of": "2026-11-04T10:29-05:00"
   },
   {
    "county": "wood",
@@ -123,7 +123,79 @@
    "sale_date": "2026-12-10",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
-   "as_of": "2026-11-02T06:06-05:00"
+   "as_of": "2026-11-04T10:29-05:00"
+  },
+  {
+   "county": "wood",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "26-LF-0023",
+   "parcel_id": null,
+   "address": "305 W Florence&309 Florence Northwood",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": 11455.45,
+   "deposit": null,
+   "plaintiff": null,
+   "defendant": null,
+   "attorney": null,
+   "sale_date": "2026-12-17",
+   "sale_type": "Tax foreclosure (in person)",
+   "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
+   "as_of": "2026-11-04T10:29-05:00"
+  },
+  {
+   "county": "wood",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "26-LF-0033",
+   "parcel_id": null,
+   "address": "1234 North Main Street",
+   "city": "Bowling Green",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": 205697.96,
+   "deposit": null,
+   "plaintiff": null,
+   "defendant": null,
+   "attorney": null,
+   "sale_date": "2026-12-17",
+   "sale_type": "Tax foreclosure (in person)",
+   "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
+   "as_of": "2026-11-04T10:29-05:00"
+  },
+  {
+   "county": "wood",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "26-LF-0037",
+   "parcel_id": null,
+   "address": "13285 Main Street",
+   "city": "Weston",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": 4951.31,
+   "deposit": null,
+   "plaintiff": null,
+   "defendant": null,
+   "attorney": null,
+   "sale_date": "2026-12-17",
+   "sale_type": "Tax foreclosure (in person)",
+   "source_url": "https://woodcountysheriff.com/DocumentCenter/View/153/Active-Listings-PDF",
+   "as_of": "2026-11-04T10:29-05:00"
   }
  ]
 }

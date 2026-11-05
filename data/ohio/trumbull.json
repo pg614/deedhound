@@ -1,34 +1,10 @@
 {
  "state": "ohio",
  "county": "trumbull",
- "as_of": "2026-11-02T06:04-05:00",
+ "as_of": "2026-11-04T10:27-05:00",
  "source": "https://www.co.trumbull.oh.us/Sheriff/November%205,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
- "count": 12,
+ "count": 10,
  "items": [
-  {
-   "county": "trumbull",
-   "state": "ohio",
-   "status_history": [],
-   "times_postponed": null,
-   "upset_amount": null,
-   "auction_id": null,
-   "status": "SCHEDULED",
-   "case_number": "23 CV 1820",
-   "parcel_id": "39-118650",
-   "address": "1676 Mahoning Ave",
-   "city": "Warren",
-   "zip": "44405",
-   "appraised_value": null,
-   "opening_bid": 13200.0,
-   "deposit": 3000.0,
-   "plaintiff": "AGOSTINO RAGOZZINO, TREASURER",
-   "defendant": "MIKENZIE LYNEA UTHE",
-   "attorney": null,
-   "sale_date": "2026-11-05",
-   "sale_type": "Tax foreclosure (in person)",
-   "source_url": "https://www.co.trumbull.oh.us/Sheriff/November%205,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
-   "as_of": "2026-11-02T06:04-05:00"
-  },
   {
    "county": "trumbull",
    "state": "ohio",
@@ -51,7 +27,7 @@
    "sale_date": "2026-11-05",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.co.trumbull.oh.us/Sheriff/November%205,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
-   "as_of": "2026-11-02T06:04-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "trumbull",
@@ -75,7 +51,7 @@
    "sale_date": "2026-11-05",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.co.trumbull.oh.us/Sheriff/November%205,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
-   "as_of": "2026-11-02T06:04-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "trumbull",
@@ -99,7 +75,7 @@
    "sale_date": "2026-11-05",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.co.trumbull.oh.us/Sheriff/November%205,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
-   "as_of": "2026-11-02T06:04-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "trumbull",
@@ -123,7 +99,7 @@
    "sale_date": "2026-11-05",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.co.trumbull.oh.us/Sheriff/November%205,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
-   "as_of": "2026-11-02T06:04-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "trumbull",
@@ -147,7 +123,7 @@
    "sale_date": "2026-11-05",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.co.trumbull.oh.us/Sheriff/November%205,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
-   "as_of": "2026-11-02T06:04-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "trumbull",
@@ -171,7 +147,7 @@
    "sale_date": "2026-11-05",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.co.trumbull.oh.us/Sheriff/November%205,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
-   "as_of": "2026-11-02T06:04-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "trumbull",
@@ -195,7 +171,7 @@
    "sale_date": "2026-11-05",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.co.trumbull.oh.us/Sheriff/November%205,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
-   "as_of": "2026-11-02T06:04-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "trumbull",
@@ -219,31 +195,7 @@
    "sale_date": "2026-11-05",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.co.trumbull.oh.us/Sheriff/November%205,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
-   "as_of": "2026-11-02T06:04-05:00"
-  },
-  {
-   "county": "trumbull",
-   "state": "ohio",
-   "status_history": [],
-   "times_postponed": null,
-   "upset_amount": null,
-   "auction_id": null,
-   "status": "SCHEDULED",
-   "case_number": "26 CV 299",
-   "parcel_id": "38-755205",
-   "address": "626 Woodbine Ave.",
-   "city": "Warren",
-   "zip": "44483",
-   "appraised_value": null,
-   "opening_bid": 11900.0,
-   "deposit": 3000.0,
-   "plaintiff": "AGOSTINO RAGOZZINO, TREASURER VS. BYRD INVESTMENT GROUP LLC",
-   "defendant": null,
-   "attorney": null,
-   "sale_date": "2026-11-05",
-   "sale_type": "Tax foreclosure (in person)",
-   "source_url": "https://www.co.trumbull.oh.us/Sheriff/November%205,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
-   "as_of": "2026-11-02T06:04-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "trumbull",
@@ -254,7 +206,7 @@
    "auction_id": null,
    "status": "SCHEDULED",
    "case_number": "26 CV 1174",
-   "parcel_id": "12-372270 RIFF'S SALE THURSDAY, NOVEMBER 18, 2026 at 1:30 P.M. OUNTY ADMIN BUILDING COMMISSIONERS HEARING ROOM AVAILABLE SHERIFF'S SALE LIST NOVEMBER 12, 2026 SHERIFF SALE TAX FORELCLOSURE LIST HURSDAY, NOVEMBER 5, 2026 at 1:30 P.M. NTY ADMIN BUILDING COMMISSIONERS HEARING ROOM",
+   "parcel_id": "12-372270",
    "address": "2643 Homestead Road",
    "city": "Youngstown",
    "zip": "44505",
@@ -262,12 +214,12 @@
    "opening_bid": 12300.0,
    "deposit": 3000.0,
    "plaintiff": "AGOSTINO RAGOZZINO, TREASURER",
-   "defendant": "CAROLYN A. GRIFFITHS NEXT SHE TRUMBULL C NEXT  T TRUMBULL COU",
+   "defendant": "CAROLYN A. GRIFFITHS",
    "attorney": null,
    "sale_date": "2026-11-05",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.co.trumbull.oh.us/Sheriff/November%205,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
-   "as_of": "2026-11-02T06:04-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "trumbull",
@@ -291,7 +243,7 @@
    "sale_date": "2026-11-05",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.co.trumbull.oh.us/Sheriff/November%205,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
-   "as_of": "2026-11-02T06:04-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   }
  ]
 }

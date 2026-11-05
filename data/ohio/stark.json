@@ -1,34 +1,10 @@
 {
  "state": "ohio",
  "county": "stark",
- "as_of": "2026-11-02T06:06-05:00",
- "source": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/2/2026",
- "count": 35,
+ "as_of": "2026-11-04T10:29-05:00",
+ "source": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/9/2026",
+ "count": 42,
  "items": [
-  {
-   "county": "stark",
-   "state": "ohio",
-   "status_history": [],
-   "times_postponed": null,
-   "upset_amount": null,
-   "auction_id": null,
-   "status": "SCHEDULED",
-   "case_number": "2026CV00818",
-   "parcel_id": "01-05315",
-   "address": "2315 PLEASANT PLACE",
-   "city": "Alliance",
-   "zip": "44601",
-   "appraised_value": 75000.0,
-   "opening_bid": 50000.0,
-   "deposit": null,
-   "plaintiff": "US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLEY AS OWNERTRUSTEE FOR CITIGROUP MORTGAGE LOAN TRUST 2023-RP2",
-   "defendant": "RICHARD L. KINNEY AND BONNIE L. KINNEY",
-   "attorney": "ROBERT R. HOOSE",
-   "sale_date": "2026-11-02",
-   "sale_type": "Foreclosure",
-   "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/2/2026",
-   "as_of": "2026-11-02T06:05-05:00"
-  },
   {
    "county": "stark",
    "state": "ohio",
@@ -51,7 +27,7 @@
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/9/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "stark",
@@ -75,7 +51,7 @@
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/9/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "stark",
@@ -99,7 +75,7 @@
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/9/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "stark",
@@ -123,7 +99,7 @@
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/9/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "stark",
@@ -147,7 +123,7 @@
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/9/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "stark",
@@ -171,7 +147,7 @@
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/9/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "stark",
@@ -195,31 +171,7 @@
    "sale_date": "2026-11-09",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/9/2026",
-   "as_of": "2026-11-02T06:05-05:00"
-  },
-  {
-   "county": "stark",
-   "state": "ohio",
-   "status_history": [],
-   "times_postponed": null,
-   "upset_amount": null,
-   "auction_id": null,
-   "status": "SCHEDULED",
-   "case_number": "2026CV00719",
-   "parcel_id": "55-02511",
-   "address": "7629 BUCKNELL CIR NW",
-   "city": "North Canton",
-   "zip": "44720",
-   "appraised_value": 465000.0,
-   "opening_bid": 310000.0,
-   "deposit": null,
-   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
-   "defendant": "MANUEL D FERNANDEZ",
-   "attorney": "MARK R. LEMBRIGHT",
-   "sale_date": "2026-11-09",
-   "sale_type": "Foreclosure",
-   "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/9/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "stark",
@@ -243,7 +195,7 @@
    "sale_date": "2026-11-16",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/16/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:27-05:00"
   },
   {
    "county": "stark",
@@ -267,7 +219,7 @@
    "sale_date": "2026-11-16",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/16/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -291,7 +243,7 @@
    "sale_date": "2026-11-16",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/16/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -315,7 +267,7 @@
    "sale_date": "2026-11-16",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/16/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -339,7 +291,7 @@
    "sale_date": "2026-11-16",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/16/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -363,7 +315,7 @@
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/23/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -387,7 +339,7 @@
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/23/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -411,7 +363,7 @@
    "sale_date": "2026-11-23",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/23/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -435,7 +387,7 @@
    "sale_date": "2026-11-30",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/30/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -459,7 +411,7 @@
    "sale_date": "2026-11-30",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/30/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -483,7 +435,7 @@
    "sale_date": "2026-11-30",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/30/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -507,7 +459,7 @@
    "sale_date": "2026-11-30",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/30/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -531,7 +483,7 @@
    "sale_date": "2026-11-30",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/30/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -555,7 +507,7 @@
    "sale_date": "2026-11-30",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/30/2026",
-   "as_of": "2026-11-02T06:05-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -579,31 +531,7 @@
    "sale_date": "2026-11-30",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/30/2026",
-   "as_of": "2026-11-02T06:06-05:00"
-  },
-  {
-   "county": "stark",
-   "state": "ohio",
-   "status_history": [],
-   "times_postponed": null,
-   "upset_amount": null,
-   "auction_id": null,
-   "status": "SCHEDULED",
-   "case_number": "2026CV00719",
-   "parcel_id": "55-02511",
-   "address": "7629 BUCKNELL CIR NW",
-   "city": "North Canton",
-   "zip": "44720",
-   "appraised_value": 465000.0,
-   "opening_bid": 310000.0,
-   "deposit": null,
-   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
-   "defendant": "MANUEL D FERNANDEZ",
-   "attorney": "MARK R. LEMBRIGHT",
-   "sale_date": "2026-11-30",
-   "sale_type": "Foreclosure",
-   "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=11/30/2026",
-   "as_of": "2026-11-02T06:06-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -627,7 +555,7 @@
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=12/7/2026",
-   "as_of": "2026-11-02T06:06-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -651,7 +579,7 @@
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=12/7/2026",
-   "as_of": "2026-11-02T06:06-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -675,7 +603,7 @@
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=12/7/2026",
-   "as_of": "2026-11-02T06:06-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -699,7 +627,7 @@
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=12/7/2026",
-   "as_of": "2026-11-02T06:06-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -723,7 +651,31 @@
    "sale_date": "2026-12-07",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=12/7/2026",
-   "as_of": "2026-11-02T06:06-05:00"
+   "as_of": "2026-11-04T10:28-05:00"
+  },
+  {
+   "county": "stark",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "2025CV02747",
+   "parcel_id": "95-00010",
+   "address": "235",
+   "city": "Cherry Street E. Canal Fulton",
+   "zip": "44614",
+   "appraised_value": 126000.0,
+   "opening_bid": 84000.0,
+   "deposit": null,
+   "plaintiff": "ROCKET MORTGAGE , LLC FKA QUICKEN LOANS , LLC",
+   "defendant": "MAKAYLA HOUSTON",
+   "attorney": "ELLEN L.  FORNASH",
+   "sale_date": "2026-12-14",
+   "sale_type": "Foreclosure",
+   "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=12/14/2026",
+   "as_of": "2026-11-04T10:28-05:00"
   },
   {
    "county": "stark",
@@ -747,7 +699,55 @@
    "sale_date": "2026-12-14",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=12/14/2026",
-   "as_of": "2026-11-02T06:06-05:00"
+   "as_of": "2026-11-04T10:29-05:00"
+  },
+  {
+   "county": "stark",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "2026CV01369",
+   "parcel_id": "43-02927",
+   "address": "221 ROXBURY AVENUE N.W.",
+   "city": "Massillon",
+   "zip": "44646",
+   "appraised_value": 132000.0,
+   "opening_bid": 88000.0,
+   "deposit": null,
+   "plaintiff": "CANTON SCHOOL EMPLOYEES FEDERAL CREDIT UNION",
+   "defendant": "STACY LYNN FRANTZ, AS POSSIBLE HEIR TO THE ESTATE OF JUSTIN M SMITLEY",
+   "attorney": "ANN M. JOHNSON",
+   "sale_date": "2026-12-14",
+   "sale_type": "Foreclosure",
+   "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=12/14/2026",
+   "as_of": "2026-11-04T10:29-05:00"
+  },
+  {
+   "county": "stark",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "2026CV00709",
+   "parcel_id": "06-01139",
+   "address": "31 OHIO AVENUE N.E.",
+   "city": "Massillon",
+   "zip": "44646",
+   "appraised_value": 114000.0,
+   "opening_bid": 76000.0,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING LLC",
+   "defendant": "MELINDA PARKS",
+   "attorney": "MARK R. LEMBRIGHT",
+   "sale_date": "2026-12-14",
+   "sale_type": "Foreclosure",
+   "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=12/14/2026",
+   "as_of": "2026-11-04T10:29-05:00"
   },
   {
    "county": "stark",
@@ -771,7 +771,7 @@
    "sale_date": "2026-12-14",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=12/14/2026",
-   "as_of": "2026-11-02T06:06-05:00"
+   "as_of": "2026-11-04T10:29-05:00"
   },
   {
    "county": "stark",
@@ -795,7 +795,31 @@
    "sale_date": "2026-12-14",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=12/14/2026",
-   "as_of": "2026-11-02T06:06-05:00"
+   "as_of": "2026-11-04T10:29-05:00"
+  },
+  {
+   "county": "stark",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "2025CV02515",
+   "parcel_id": "02-42433",
+   "address": "440 37TH STREET N.W.",
+   "city": "Canton",
+   "zip": "44709",
+   "appraised_value": 75000.0,
+   "opening_bid": 50000.0,
+   "deposit": null,
+   "plaintiff": "CROSSCOUNTY MORTGAGE LLC",
+   "defendant": "UNKNOWN SPOUSE IF ANY OF THOMAS A DEMARCO",
+   "attorney": "MARK R. LEMBRIGHT",
+   "sale_date": "2026-12-14",
+   "sale_type": "Foreclosure",
+   "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=12/14/2026",
+   "as_of": "2026-11-04T10:29-05:00"
   },
   {
    "county": "stark",
@@ -819,7 +843,7 @@
    "sale_date": "2026-12-21",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=12/21/2026",
-   "as_of": "2026-11-02T06:06-05:00"
+   "as_of": "2026-11-04T10:29-05:00"
   },
   {
    "county": "stark",
@@ -843,7 +867,151 @@
    "sale_date": "2026-12-28",
    "sale_type": "Foreclosure",
    "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=12/28/2026",
-   "as_of": "2026-11-02T06:06-05:00"
+   "as_of": "2026-11-04T10:29-05:00"
+  },
+  {
+   "county": "stark",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "2025CV02747",
+   "parcel_id": "95-00010",
+   "address": "235",
+   "city": "Cherry Street E. Canal Fulton",
+   "zip": "44614",
+   "appraised_value": 126000.0,
+   "opening_bid": 84000.0,
+   "deposit": null,
+   "plaintiff": "ROCKET MORTGAGE , LLC FKA QUICKEN LOANS , LLC",
+   "defendant": "MAKAYLA HOUSTON",
+   "attorney": "ELLEN L.  FORNASH",
+   "sale_date": "2027-01-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=1/4/2027",
+   "as_of": "2026-11-04T10:29-05:00"
+  },
+  {
+   "county": "stark",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "2026CV00709",
+   "parcel_id": "06-01139",
+   "address": "31 OHIO AVENUE N.E.",
+   "city": "Massillon",
+   "zip": "44646",
+   "appraised_value": 114000.0,
+   "opening_bid": 76000.0,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING LLC",
+   "defendant": "MELINDA PARKS",
+   "attorney": "MARK R. LEMBRIGHT",
+   "sale_date": "2027-01-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=1/4/2027",
+   "as_of": "2026-11-04T10:29-05:00"
+  },
+  {
+   "county": "stark",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "2026CV01369",
+   "parcel_id": "43-02927",
+   "address": "221 ROXBURY AVENUE N.W.",
+   "city": "Massillon",
+   "zip": "44646",
+   "appraised_value": 132000.0,
+   "opening_bid": 88000.0,
+   "deposit": null,
+   "plaintiff": "CANTON SCHOOL EMPLOYEES FEDERAL CREDIT UNION",
+   "defendant": "STACY LYNN FRANTZ, AS POSSIBLE HEIR TO THE ESTATE OF JUSTIN M SMITLEY",
+   "attorney": "ANN M. JOHNSON",
+   "sale_date": "2027-01-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=1/4/2027",
+   "as_of": "2026-11-04T10:29-05:00"
+  },
+  {
+   "county": "stark",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "2025CV02515",
+   "parcel_id": "02-42433",
+   "address": "440 37TH STREET N.W.",
+   "city": "Canton",
+   "zip": "44709",
+   "appraised_value": 75000.0,
+   "opening_bid": 50000.0,
+   "deposit": null,
+   "plaintiff": "CROSSCOUNTY MORTGAGE LLC",
+   "defendant": "UNKNOWN SPOUSE IF ANY OF THOMAS A DEMARCO",
+   "attorney": "MARK R. LEMBRIGHT",
+   "sale_date": "2027-01-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=1/4/2027",
+   "as_of": "2026-11-04T10:29-05:00"
+  },
+  {
+   "county": "stark",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "2026CV00719",
+   "parcel_id": "55-02511",
+   "address": "7629 BUCKNELL CIR NW",
+   "city": "North Canton",
+   "zip": "44720",
+   "appraised_value": 465000.0,
+   "opening_bid": 310000.0,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "MANUEL D FERNANDEZ",
+   "attorney": "MARK R. LEMBRIGHT",
+   "sale_date": "2027-01-11",
+   "sale_type": "Foreclosure",
+   "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=1/11/2027",
+   "as_of": "2026-11-04T10:29-05:00"
+  },
+  {
+   "county": "stark",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "2026CV00719",
+   "parcel_id": "55-02511",
+   "address": "7629 BUCKNELL CIR NW",
+   "city": "North Canton",
+   "zip": "44720",
+   "appraised_value": 465000.0,
+   "opening_bid": 310000.0,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "MANUEL D FERNANDEZ",
+   "attorney": "MARK R. LEMBRIGHT",
+   "sale_date": "2027-02-01",
+   "sale_type": "Foreclosure",
+   "source_url": "https://sheriffsales.starkcountyohio.gov/ForeclosureSaleDetails.aspx?SALE_DATE=2/1/2027",
+   "as_of": "2026-11-04T10:29-05:00"
   }
  ]
 }

@@ -1,9 +1,9 @@
 {
  "state": "ohio",
  "county": "clermont",
- "as_of": "2026-11-02T06:04-05:00",
+ "as_of": "2026-11-04T10:27-05:00",
  "source": "https://clermontsheriff.org/media/2026/11/11-17-2026%E2%80%93%20Foreclosure%20Sales%20%E2%80%93%20Held%20Online-.pdf",
- "count": 5,
+ "count": 4,
  "items": [
   {
    "county": "clermont",
@@ -27,7 +27,7 @@
    "sale_date": "2026-11-17",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://clermontsheriff.org/media/2026/11/11-17-2026%E2%80%93%20Foreclosure%20Sales%20%E2%80%93%20Held%20Online-.pdf",
-   "as_of": "2026-11-02T06:04-05:00",
+   "as_of": "2026-11-04T10:27-05:00",
    "next_sale_date": "2026-12-01"
   },
   {
@@ -52,33 +52,8 @@
    "sale_date": "2026-11-17",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://clermontsheriff.org/media/2026/11/11-17-2026%E2%80%93%20Foreclosure%20Sales%20%E2%80%93%20Held%20Online-.pdf",
-   "as_of": "2026-11-02T06:04-05:00",
+   "as_of": "2026-11-04T10:27-05:00",
    "next_sale_date": "2026-12-01"
-  },
-  {
-   "county": "clermont",
-   "state": "ohio",
-   "status_history": [],
-   "times_postponed": null,
-   "upset_amount": null,
-   "auction_id": null,
-   "status": "Cancelled",
-   "case_number": "2026-CVE-0352",
-   "parcel_id": "413102B338",
-   "address": "969 London Court",
-   "city": "Cincinnati",
-   "zip": "45245",
-   "appraised_value": 450000.0,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "PLANET HOME LENDING, LLC",
-   "defendant": "MICHAEL W. STEINKER, ET AL.",
-   "attorney": "AMY FERGUSON",
-   "sale_date": "2026-11-03",
-   "sale_type": "Foreclosure (online)",
-   "source_url": "https://clermontsheriff.org/media/2026/11/SheriffSales/11-03-2026%E2%80%93%20Foreclosure%20Sales%20%E2%80%93%20Held%20Online-.pdf",
-   "as_of": "2026-11-02T06:04-05:00",
-   "next_sale_date": "2026-11-17"
   },
   {
    "county": "clermont",
@@ -102,7 +77,7 @@
    "sale_date": "2026-12-22",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://clermontsheriff.org/media/2026/12/12-22-2026%E2%80%93%20Foreclosure%20Sales%20%E2%80%93%20Held%20Online-.pdf",
-   "as_of": "2026-11-02T06:04-05:00",
+   "as_of": "2026-11-04T10:27-05:00",
    "next_sale_date": "2027-01-05"
   },
   {
@@ -127,7 +102,7 @@
    "sale_date": "2026-12-22",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://clermontsheriff.org/media/2026/12/12-22-2026%E2%80%93%20Foreclosure%20Sales%20%E2%80%93%20Held%20Online-.pdf",
-   "as_of": "2026-11-02T06:04-05:00",
+   "as_of": "2026-11-04T10:27-05:00",
    "next_sale_date": "2027-01-05"
   }
  ]

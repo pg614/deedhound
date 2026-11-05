@@ -1,9 +1,9 @@
 {
  "state": "new-jersey",
  "county": "gloucester",
- "as_of": "2026-11-02T07:40-05:00",
- "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905670",
- "count": 148,
+ "as_of": "2026-11-04T14:12-05:00",
+ "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921782",
+ "count": 151,
  "items": [
   {
    "county": "gloucester",
@@ -44,7 +44,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905670",
+   "auction_id": "2227921782",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-006802-24",
    "parcel_id": "BLOCK: 9701 LOT: 39",
@@ -59,8 +59,8 @@
    "attorney": "Hladik, Onorato & Federman, LLP",
    "sale_date": "2026-11-16",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905670",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921782",
+   "as_of": "2026-11-04T14:06-05:00",
    "sheriff_number": "F-24001601"
   },
   {
@@ -98,7 +98,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905683",
+   "auction_id": "2227921795",
    "status": "SCHEDULED",
    "case_number": "F-013680-17",
    "parcel_id": "LOT: 25 BLOCK: 9209",
@@ -113,8 +113,8 @@
    "attorney": "WALDMAN AND KAPLAN, P.A.",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905683",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921795",
+   "as_of": "2026-11-04T14:06-05:00",
    "sheriff_number": "F-25000367"
   },
   {
@@ -144,7 +144,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905797",
+   "auction_id": "2227921909",
    "status": "SCHEDULED",
    "case_number": "F-004564-25",
    "parcel_id": "LOT: 46 BLOCK: 2002",
@@ -159,8 +159,8 @@
    "attorney": "PINCUS & TARAB, ATTORNEYS AT LAW",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905797",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921909",
+   "as_of": "2026-11-04T14:06-05:00",
    "sheriff_number": "F-25001534"
   },
   {
@@ -182,7 +182,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905824",
+   "auction_id": "2227921936",
    "status": "SCHEDULED",
    "case_number": "F-08880-23",
    "parcel_id": "BLOCK: 21.02 LOT: 1",
@@ -197,8 +197,8 @@
    "attorney": "HILL WALLACK LLP",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905824",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921936",
+   "as_of": "2026-11-04T14:06-05:00",
    "sheriff_number": "F-26000197"
   },
   {
@@ -224,7 +224,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2223905857",
+   "auction_id": "2227921969",
    "status": "SCHEDULED",
    "case_number": "F-008597-25",
    "parcel_id": "TAX LOT NO. 6, BLOCK 407.02",
@@ -239,8 +239,8 @@
    "attorney": "KML Law Group, P.C.",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905857",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921969",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26000375"
   },
   {
@@ -270,7 +270,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2223905916",
+   "auction_id": "2227922028",
    "status": "PLAINTIFF ADJOURNED TO",
    "case_number": "F-011890-25",
    "parcel_id": "LOT 1, C1034; BLOCK 61",
@@ -285,8 +285,8 @@
    "attorney": "MCGOVERN LEGAL SERVICES, LLC",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905916",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922028",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26000938"
   },
   {
@@ -312,7 +312,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2223905920",
+   "auction_id": "2227922032",
    "status": "DEFENDANT ADJOURNED TO",
    "case_number": "F-008296-25",
    "parcel_id": "LOT 70, BLOCK 216",
@@ -327,8 +327,8 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905920",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922032",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26000945"
   },
   {
@@ -350,7 +350,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905934",
+   "auction_id": "2227922046",
    "status": "DEFENDANT ADJOURNED TO",
    "case_number": "F-009758-23",
    "parcel_id": "BLOCK: 587 LOT: 21",
@@ -365,8 +365,8 @@
    "attorney": "GROSS POLOWY LLC",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905934",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922046",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26001030"
   },
   {
@@ -388,7 +388,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905938",
+   "auction_id": "2227922050",
    "status": "PLAINTIFF ADJOURNED TO",
    "case_number": "F-012988-25",
    "parcel_id": "LOT 16, BLOCK 194.27",
@@ -403,8 +403,8 @@
    "attorney": "GREENSPOON MARDER, LLP",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905938",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922050",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26001065"
   },
   {
@@ -422,7 +422,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2223905954",
+   "auction_id": "2227922066",
    "status": "DEFENDANT ADJOURNED TO",
    "case_number": "F-012365-24",
    "parcel_id": "BLOCK 82.88, LOT 6",
@@ -437,8 +437,8 @@
    "attorney": "GROSS POLOWY LLC",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905954",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922066",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26001153"
   },
   {
@@ -456,7 +456,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2223905965",
+   "auction_id": "2227922077",
    "status": "SHERIFF ADJOURNED TO",
    "case_number": "F-000793-26",
    "parcel_id": "LOT 1, BLOCK 174.01",
@@ -471,8 +471,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905965",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922077",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26001226"
   },
   {
@@ -486,7 +486,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905978",
+   "auction_id": "2227922090",
    "status": "SCHEDULED",
    "case_number": "F-008528-24",
    "parcel_id": "LOT: 401 BLOCK: 599.01",
@@ -501,39 +501,9 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905978",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922090",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26001282"
-  },
-  {
-   "county": "gloucester",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2223905979",
-   "status": "SCHEDULED",
-   "case_number": "F-001644-26",
-   "parcel_id": "LOT: 1C1026, BLOCK 61",
-   "address": "1026 TRISTRAM CIRCLE",
-   "city": "Mantua",
-   "zip": "08051",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "THE VILLAGES AT BERKLEY CONDOMINIUM ASSOCIATION, INC",
-   "defendant": "LARAE CARTER",
-   "attorney": "MCGOVERN LEGAL SERVICES, LLC",
-   "sale_date": "2026-11-18",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905979",
-   "as_of": "2026-11-02T07:34-05:00",
-   "sheriff_number": "F-26001287"
   },
   {
    "county": "gloucester",
@@ -550,7 +520,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905980",
+   "auction_id": "2227922092",
    "status": "SCHEDULED",
    "case_number": "F-003833-26",
    "parcel_id": "LOT: 21 BLOCK: 313",
@@ -565,8 +535,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905980",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922092",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26001297"
   },
   {
@@ -580,37 +550,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905981",
-   "status": "SCHEDULED",
-   "case_number": "F-001671-26",
-   "parcel_id": "LOT 13.02 BLOCK 3802",
-   "address": "817 FRIES MILL ROAD",
-   "city": "Franklinville",
-   "zip": "08322",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Wells Fargo Bank, N.A.",
-   "defendant": "TINA CAPORELLI; et al",
-   "attorney": "RAS CITRON, LLC",
-   "sale_date": "2026-11-18",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905981",
-   "as_of": "2026-11-02T07:34-05:00",
-   "sheriff_number": "F-26001298"
-  },
-  {
-   "county": "gloucester",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2223905982",
+   "auction_id": "2227922094",
    "status": "SCHEDULED",
    "case_number": "SWC-F-004421-24",
    "parcel_id": "BLOCK: 29 LOTS: 24, 28, 29",
@@ -625,8 +565,8 @@
    "attorney": "COLE SCHOTZ P.C.",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905982",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922094",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26001299"
   },
   {
@@ -640,7 +580,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905983",
+   "auction_id": "2227922095",
    "status": "SCHEDULED",
    "case_number": "F-000859-25",
    "parcel_id": "LOT: 2 BLOCK: 70",
@@ -655,8 +595,8 @@
    "attorney": "RAS CITRON, LLC",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905983",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922095",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26001318"
   },
   {
@@ -670,7 +610,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905984",
+   "auction_id": "2227922096",
    "status": "SCHEDULED",
    "case_number": "F-003312-26",
    "parcel_id": "LOT 10 FKA 4.E, BLOCK 51",
@@ -685,8 +625,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905984",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922096",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26001321"
   },
   {
@@ -700,7 +640,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905985",
+   "auction_id": "2227922097",
    "status": "SCHEDULED",
    "case_number": "F-012369-25",
    "parcel_id": "LOT: 3, BLOCK 308",
@@ -715,8 +655,8 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905985",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922097",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26001324"
   },
   {
@@ -730,7 +670,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905986",
+   "auction_id": "2227922098",
    "status": "SCHEDULED",
    "case_number": "F-009361-24",
    "parcel_id": "TAX LOT 8.01, BLOCK 3303",
@@ -745,39 +685,9 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905986",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922098",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26001326"
-  },
-  {
-   "county": "gloucester",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2223905987",
-   "status": "SCHEDULED",
-   "case_number": "F-006084-25",
-   "parcel_id": "TAX LOT 6, BLOCK 203",
-   "address": "113 PEARL STREET",
-   "city": "Newfield",
-   "zip": "08344",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
-   "defendant": "AREND W. RUSHLOW, et al",
-   "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
-   "sale_date": "2026-11-18",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905987",
-   "as_of": "2026-11-02T07:34-05:00",
-   "sheriff_number": "F-26001328"
   },
   {
    "county": "gloucester",
@@ -814,7 +724,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2223905672",
+   "auction_id": "2227921784",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-007761-24",
    "parcel_id": "BLOCK: 2201 LOT: 1",
@@ -829,8 +739,8 @@
    "attorney": "RAS CITRON, LLC",
    "sale_date": "2026-12-02",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905672",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921784",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-24001666"
   },
   {
@@ -848,7 +758,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905684",
+   "auction_id": "2227921796",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-007027-24",
    "parcel_id": "BLOCK: 7901 LOT: 21",
@@ -863,8 +773,8 @@
    "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
    "sale_date": "2026-12-02",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905684",
-   "as_of": "2026-11-02T07:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921796",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-25000423"
   },
   {
@@ -902,7 +812,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2223905673",
+   "auction_id": "2227921785",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-008036-24",
    "parcel_id": "BLOCK: 241 LOT: 63",
@@ -917,8 +827,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2026-12-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905673",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921785",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-24001674"
   },
   {
@@ -968,7 +878,7 @@
    ],
    "times_postponed": 9,
    "upset_amount": null,
-   "auction_id": "2223905758",
+   "auction_id": "2227921870",
    "status": "COURT ADJOURNED TO",
    "case_number": "F-003893-25",
    "parcel_id": "LOT 2, BLOCK 57",
@@ -983,8 +893,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905758",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921870",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-25001255"
   },
   {
@@ -1022,7 +932,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": null,
-   "auction_id": "2223905845",
+   "auction_id": "2227921957",
    "status": "PLAINTIFF ADJOURNED TO",
    "case_number": "F-008103-25",
    "parcel_id": "TAX LOT: 33 TAX BLOCK: 115",
@@ -1037,8 +947,8 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905845",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921957",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26000290"
   },
   {
@@ -1076,7 +986,7 @@
    ],
    "times_postponed": 6,
    "upset_amount": null,
-   "auction_id": "2223905854",
+   "auction_id": "2227921966",
    "status": "COURT ADJOURNED TO",
    "case_number": "F-006892-25",
    "parcel_id": "LOT: 12 BLOCK: 10101",
@@ -1091,8 +1001,8 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905854",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921966",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26000353"
   },
   {
@@ -1126,7 +1036,7 @@
    ],
    "times_postponed": 5,
    "upset_amount": null,
-   "auction_id": "2223905895",
+   "auction_id": "2227922007",
    "status": "COURT ADJOURNED TO",
    "case_number": "F-006725-25",
    "parcel_id": "LOT 4.02 C1036, BLOCK 53",
@@ -1141,8 +1051,8 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905895",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922007",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26000759"
   },
   {
@@ -1172,7 +1082,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": null,
-   "auction_id": "2223905907",
+   "auction_id": "2227922019",
    "status": "PLAINTIFF ADJOURNED TO",
    "case_number": "F-007682-25",
    "parcel_id": "LOT: 32 BLOCK: 198.01",
@@ -1187,8 +1097,8 @@
    "attorney": "Stern & Eisenberg, PC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905907",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922019",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26000878"
   },
   {
@@ -1218,7 +1128,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": null,
-   "auction_id": "2223905909",
+   "auction_id": "2227922021",
    "status": "DEFENDANT ADJOURNED TO",
    "case_number": "F-010085-25",
    "parcel_id": "LOT 17, BLOCK 39",
@@ -1233,8 +1143,8 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905909",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922021",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26000897"
   },
   {
@@ -1260,7 +1170,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2223905927",
+   "auction_id": "2227922039",
    "status": "DEFENDANT ADJOURNED TO",
    "case_number": "F-001093-24",
    "parcel_id": "LOT: 5 BLOCK: 634",
@@ -1275,8 +1185,8 @@
    "attorney": "FEIN SUCH KAHN & SHEPARD",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905927",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922039",
+   "as_of": "2026-11-04T14:07-05:00",
    "sheriff_number": "F-26000968"
   },
   {
@@ -1302,7 +1212,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2223905930",
+   "auction_id": "2227922042",
    "status": "PLAINTIFF ADJOURNED TO",
    "case_number": "F-001912-26",
    "parcel_id": "TAX LOT 41, BLOCK 116.12",
@@ -1317,8 +1227,8 @@
    "attorney": "RAS CITRON, LLC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905930",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922042",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26000972"
   },
   {
@@ -1340,7 +1250,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905944",
+   "auction_id": "2227922056",
    "status": "DEFENDANT ADJOURNED TO",
    "case_number": "F-010398-25",
    "parcel_id": "LOT: 7 BLOCK: 408.09",
@@ -1355,8 +1265,8 @@
    "attorney": "KML Law Group, P.C.",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905944",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922056",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001109"
   },
   {
@@ -1378,7 +1288,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905949",
+   "auction_id": "2227922061",
    "status": "DEFENDANT ADJOURNED TO",
    "case_number": "F-003046-26",
    "parcel_id": "LOT: 17, BLOCK 130.03",
@@ -1393,8 +1303,8 @@
    "attorney": "HILL WALLACK LLP",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905949",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922061",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001137"
   },
   {
@@ -1416,7 +1326,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905953",
+   "auction_id": "2227922065",
    "status": "DEFENDANT ADJOURNED TO",
    "case_number": "F-001607-26",
    "parcel_id": "BLOCK 206.11,  LOT 3",
@@ -1431,8 +1341,8 @@
    "attorney": "GROSS POLOWY LLC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905953",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922065",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001152"
   },
   {
@@ -1454,7 +1364,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905956",
+   "auction_id": "2227922068",
    "status": "DEFENDANT ADJOURNED TO",
    "case_number": "F-004438-24",
    "parcel_id": "LOT 11, BLOCK 411.21",
@@ -1469,8 +1379,8 @@
    "attorney": "KNUCKLES & MANFRO, LLP",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905956",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922068",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001165"
   },
   {
@@ -1492,7 +1402,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905961",
+   "auction_id": "2227922073",
    "status": "DEFENDANT ADJOURNED TO",
    "case_number": "F-000283-26",
    "parcel_id": "TAX LOT 12, BLOCK 291",
@@ -1507,8 +1417,8 @@
    "attorney": "RAS CITRON, LLC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905961",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922073",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001197"
   },
   {
@@ -1530,7 +1440,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905963",
+   "auction_id": "2227922075",
    "status": "DEFENDANT ADJOURNED TO",
    "case_number": "F-000239-24",
    "parcel_id": "BLOCK #9.0206, LOT #23",
@@ -1545,8 +1455,8 @@
    "attorney": "DUANE MORRIS, LLP",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905963",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922075",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001210"
   },
   {
@@ -1564,7 +1474,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2223905966",
+   "auction_id": "2227922078",
    "status": "DEFENDANT ADJOURNED TO",
    "case_number": "F-010771-25",
    "parcel_id": "LOT 15; BLOCK: 4101",
@@ -1579,8 +1489,8 @@
    "attorney": "HILL WALLACK LLP",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905966",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922078",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001230"
   },
   {
@@ -1602,7 +1512,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905968",
+   "auction_id": "2227922080",
    "status": "DEFENDANT ADJOURNED TO",
    "case_number": "F-013580-25",
    "parcel_id": "LOT: 1 BLOCK: 1508",
@@ -1617,8 +1527,8 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905968",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922080",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001245"
   },
   {
@@ -1636,7 +1546,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2223905973",
+   "auction_id": "2227922085",
    "status": "PLAINTIFF ADJOURNED TO",
    "case_number": "F-013146-25",
    "parcel_id": "TAX LOT 20, BLOCK 20",
@@ -1651,8 +1561,8 @@
    "attorney": "Dembo, Brown & Burns, LLP",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905973",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922085",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001247"
   },
   {
@@ -1670,7 +1580,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2223905977",
+   "auction_id": "2227922089",
    "status": "PLAINTIFF ADJOURNED TO",
    "case_number": "F-001732-26",
    "parcel_id": "LOT: 6 BLOCK: 152",
@@ -1685,9 +1595,77 @@
    "attorney": "HILL WALLACK LLP",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905977",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922089",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001280"
+  },
+  {
+   "county": "gloucester",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2027-01-06"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": null,
+   "auction_id": "2227922091",
+   "status": "DEFENDANT ADJOURNED TO",
+   "case_number": "F-001644-26",
+   "parcel_id": "LOT: 1C1026, BLOCK 61",
+   "address": "1026 TRISTRAM CIRCLE",
+   "city": "Mantua",
+   "zip": "08051",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "THE VILLAGES AT BERKLEY CONDOMINIUM ASSOCIATION, INC",
+   "defendant": "LARAE CARTER",
+   "attorney": "MCGOVERN LEGAL SERVICES, LLC",
+   "sale_date": "2027-01-06",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922091",
+   "as_of": "2026-11-04T14:08-05:00",
+   "sheriff_number": "F-26001287"
+  },
+  {
+   "county": "gloucester",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2027-01-06"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": null,
+   "auction_id": "2227922093",
+   "status": "PLAINTIFF ADJOURNED TO",
+   "case_number": "F-001671-26",
+   "parcel_id": "LOT 13.02 BLOCK 3802",
+   "address": "817 FRIES MILL ROAD",
+   "city": "Franklinville",
+   "zip": "08322",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Wells Fargo Bank, N.A.",
+   "defendant": "TINA CAPORELLI; et al",
+   "attorney": "RAS CITRON, LLC",
+   "sale_date": "2027-01-06",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922093",
+   "as_of": "2026-11-04T14:08-05:00",
+   "sheriff_number": "F-26001298"
   },
   {
    "county": "gloucester",
@@ -1700,7 +1678,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905989",
+   "auction_id": "2227922101",
    "status": "SCHEDULED",
    "case_number": "F-005553-26",
    "parcel_id": "LOT 2.16, BLOCK 350",
@@ -1715,8 +1693,8 @@
    "attorney": "KML Law Group, P.C.",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905989",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922101",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001331"
   },
   {
@@ -1730,7 +1708,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905990",
+   "auction_id": "2227922102",
    "status": "SCHEDULED",
    "case_number": "F-004935-26",
    "parcel_id": "LOT 4, BLOCK 85",
@@ -1745,8 +1723,8 @@
    "attorney": "KML Law Group, P.C.",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905990",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922102",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001334"
   },
   {
@@ -1760,7 +1738,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905991",
+   "auction_id": "2227922103",
    "status": "SCHEDULED",
    "case_number": "F-013973-25",
    "parcel_id": "LOT 11, BLOCK 114",
@@ -1775,8 +1753,8 @@
    "attorney": "Stern & Eisenberg, PC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905991",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922103",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001336"
   },
   {
@@ -1790,7 +1768,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905992",
+   "auction_id": "2227922104",
    "status": "SCHEDULED",
    "case_number": "F-004178-26",
    "parcel_id": "LOT #35, BLOCK #13601",
@@ -1805,8 +1783,8 @@
    "attorney": "Stern & Eisenberg, PC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905992",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922104",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001338"
   },
   {
@@ -1820,7 +1798,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905993",
+   "auction_id": "2227922105",
    "status": "SCHEDULED",
    "case_number": "F-001010-24",
    "parcel_id": "LOT 6, BLOCK 1301",
@@ -1835,8 +1813,8 @@
    "attorney": "Parker McCay  P.A.",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905993",
-   "as_of": "2026-11-02T07:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922105",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001349"
   },
   {
@@ -1850,7 +1828,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905994",
+   "auction_id": "2227922106",
    "status": "SCHEDULED",
    "case_number": "F-004461-26",
    "parcel_id": "LOT: 14 BLOCK: 4401",
@@ -1865,8 +1843,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905994",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922106",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001359"
   },
   {
@@ -1880,7 +1858,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905995",
+   "auction_id": "2227922107",
    "status": "SCHEDULED",
    "case_number": "F-001805-26",
    "parcel_id": "LOT 2, BLOCK 260",
@@ -1895,8 +1873,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905995",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922107",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001360"
   },
   {
@@ -1910,7 +1888,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905996",
+   "auction_id": "2227922108",
    "status": "SCHEDULED",
    "case_number": "F-005175-26",
    "parcel_id": "LOT: 25 BLOCK: 397.04",
@@ -1925,8 +1903,8 @@
    "attorney": "POWERS KIRN, LLC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905996",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922108",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001362"
   },
   {
@@ -1940,7 +1918,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905997",
+   "auction_id": "2227922109",
    "status": "SCHEDULED",
    "case_number": "F-013879-25",
    "parcel_id": "LOT 109, BLOCK 1402.01",
@@ -1955,8 +1933,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905997",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922109",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001364"
   },
   {
@@ -1970,7 +1948,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905998",
+   "auction_id": "2227922110",
    "status": "SCHEDULED",
    "case_number": "F-012447-24",
    "parcel_id": "LOT: 1 BLOCK: 19.10",
@@ -1985,8 +1963,8 @@
    "attorney": "BARLEY SNYDER ATTORNEYS AT LAW",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905998",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922110",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001365"
   },
   {
@@ -2000,7 +1978,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905999",
+   "auction_id": "2227922111",
    "status": "SCHEDULED",
    "case_number": "F-013456-25",
    "parcel_id": "LOT 6, BLOCK 195",
@@ -2015,8 +1993,8 @@
    "attorney": "Stern & Eisenberg, PC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905999",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922111",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001371"
   },
   {
@@ -2030,7 +2008,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906000",
+   "auction_id": "2227922112",
    "status": "SCHEDULED",
    "case_number": "F-003749-26",
    "parcel_id": "TAX LOT 19, BLOCK 220",
@@ -2045,8 +2023,8 @@
    "attorney": "MARTONE & UHLMANN",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906000",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922112",
+   "as_of": "2026-11-04T14:08-05:00",
    "sheriff_number": "F-26001374"
   },
   {
@@ -2060,7 +2038,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906001",
+   "auction_id": "2227922113",
    "status": "SCHEDULED",
    "case_number": "F-004541-25",
    "parcel_id": "LOT 13 FKA 1 BLOCK 2002 FKA 47",
@@ -2075,8 +2053,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906001",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922113",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001375"
   },
   {
@@ -2102,7 +2080,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905677",
+   "auction_id": "2227921789",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-010875-22",
    "parcel_id": "LOT: 12 BLOCK: 1405",
@@ -2117,8 +2095,8 @@
    "attorney": "RAS CITRON, LLC",
    "sale_date": "2027-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905677",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921789",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-25000137"
   },
   {
@@ -2152,7 +2130,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2223905742",
+   "auction_id": "2227921854",
    "status": "SCHEDULED",
    "case_number": "F-012904-24",
    "parcel_id": "BLOCK: 151.03 LOT: 6",
@@ -2167,8 +2145,8 @@
    "attorney": "GROSS POLOWY LLC",
    "sale_date": "2027-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905742",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921854",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-25001166"
   },
   {
@@ -2202,7 +2180,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2223905748",
+   "auction_id": "2227921860",
    "status": "SCHEDULED",
    "case_number": "F-012498-25",
    "parcel_id": "LOT(S): 6 & 2 BLOCK: 572",
@@ -2217,8 +2195,8 @@
    "attorney": "FEIN SUCH KAHN & SHEPARD",
    "sale_date": "2027-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905748",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921860",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-25001199"
   },
   {
@@ -2256,7 +2234,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": null,
-   "auction_id": "2223905765",
+   "auction_id": "2227921877",
    "status": "SCHEDULED",
    "case_number": "F-006881-25",
    "parcel_id": "LOT: 3 BLOCK: 101",
@@ -2271,8 +2249,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2027-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905765",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921877",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-25001304"
   },
   {
@@ -2294,7 +2272,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905846",
+   "auction_id": "2227921958",
    "status": "SCHEDULED",
    "case_number": "F-009609-25",
    "parcel_id": "LOT: 25 BLOCK: 114",
@@ -2309,8 +2287,8 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2027-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905846",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921958",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26000291"
   },
   {
@@ -2324,7 +2302,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906002",
+   "auction_id": "2227922114",
    "status": "SCHEDULED",
    "case_number": "F-001088-26",
    "parcel_id": "LOT 4, BLOCK 168",
@@ -2339,8 +2317,8 @@
    "attorney": "RAS CITRON, LLC",
    "sale_date": "2027-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906002",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922114",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001381"
   },
   {
@@ -2354,7 +2332,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906003",
+   "auction_id": "2227922115",
    "status": "SCHEDULED",
    "case_number": "F-000177-26",
    "parcel_id": "LOT 4.02, BLOCK 80",
@@ -2369,8 +2347,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2027-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906003",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922115",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001382"
   },
   {
@@ -2384,7 +2362,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906004",
+   "auction_id": "2227922116",
    "status": "SCHEDULED",
    "case_number": "F-001025-26",
    "parcel_id": "BLOCK 14801, LOT 7",
@@ -2399,8 +2377,8 @@
    "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
    "sale_date": "2027-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906004",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922116",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001390"
   },
   {
@@ -2414,7 +2392,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906005",
+   "auction_id": "2227922117",
    "status": "SCHEDULED",
    "case_number": "F-004491-26",
    "parcel_id": "LOT: 1 FKA 20.YA AND 1.01 BLOCK: 4801 FKA 164 AND 4801",
@@ -2429,8 +2407,8 @@
    "attorney": "Hladik, Onorato & Federman, LLP",
    "sale_date": "2027-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906005",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922117",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001391"
   },
   {
@@ -2444,7 +2422,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906006",
+   "auction_id": "2227922118",
    "status": "SCHEDULED",
    "case_number": "F-004960-26",
    "parcel_id": "LOT 11, BLOCK 8701",
@@ -2459,8 +2437,8 @@
    "attorney": "Parker McCay  P.A.",
    "sale_date": "2027-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906006",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922118",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001392"
   },
   {
@@ -2474,7 +2452,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906007",
+   "auction_id": "2227922119",
    "status": "SCHEDULED",
    "case_number": "F-005766-24",
    "parcel_id": "LOT 4, BLOCK 29.08",
@@ -2489,8 +2467,8 @@
    "attorney": "Romano Garubo & Argentieri, LLC",
    "sale_date": "2027-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906007",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922119",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001407"
   },
   {
@@ -2504,7 +2482,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906008",
+   "auction_id": "2227922120",
    "status": "SCHEDULED",
    "case_number": "F-001989-22",
    "parcel_id": "LOT 5, BLOCK 1403",
@@ -2519,8 +2497,8 @@
    "attorney": "FRENKEL LAMBERT WEISMAN & GORDON, LLP",
    "sale_date": "2027-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906008",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922120",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001409"
   },
   {
@@ -2534,7 +2512,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906009",
+   "auction_id": "2227922121",
    "status": "SCHEDULED",
    "case_number": "F-002899-26",
    "parcel_id": "BLOCK 199 LOT 61",
@@ -2549,8 +2527,8 @@
    "attorney": "GROSS POLOWY LLC",
    "sale_date": "2027-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906009",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922121",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001415"
   },
   {
@@ -2564,7 +2542,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906010",
+   "auction_id": "2227922122",
    "status": "SCHEDULED",
    "case_number": "F-005411-26",
    "parcel_id": "TAX LOT 9, BLOCK 398",
@@ -2579,8 +2557,8 @@
    "attorney": "KML Law Group, P.C.",
    "sale_date": "2027-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906010",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922122",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001417"
   },
   {
@@ -2594,7 +2572,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906011",
+   "auction_id": "2227922123",
    "status": "SCHEDULED",
    "case_number": "F-012306-25",
    "parcel_id": "LOT: 2.03 ADTL LOTS: L2.04 BLOCK: 87.01",
@@ -2609,8 +2587,8 @@
    "attorney": "PELLEGRINO & FELDSTEIN, LLC",
    "sale_date": "2027-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906011",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922123",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001427"
   },
   {
@@ -2624,7 +2602,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906012",
+   "auction_id": "2227922124",
    "status": "SCHEDULED",
    "case_number": "F-009103-24",
    "parcel_id": "LOT: 27 BLOCK: 2805 FKA 2803",
@@ -2639,8 +2617,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2027-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906012",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922124",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001429"
   },
   {
@@ -2654,7 +2632,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906013",
+   "auction_id": "2227922125",
    "status": "SCHEDULED",
    "case_number": "F-004950-26",
    "parcel_id": "LOT: 7 BLOCK: 17",
@@ -2669,8 +2647,8 @@
    "attorney": "POWERS KIRN, LLC",
    "sale_date": "2027-01-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906013",
-   "as_of": "2026-11-02T07:36-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922125",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001447"
   },
   {
@@ -2708,7 +2686,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": null,
-   "auction_id": "2223905859",
+   "auction_id": "2227921971",
    "status": "SCHEDULED",
    "case_number": "F-009007-24",
    "parcel_id": "LOT: 56 BLOCK: 346",
@@ -2723,8 +2701,8 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2027-02-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905859",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921971",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26000415"
   },
   {
@@ -2750,7 +2728,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2223905924",
+   "auction_id": "2227922036",
    "status": "COURT ADJOURNED TO",
    "case_number": "F-000638-25",
    "parcel_id": "LOT: 10 BLOCK: 701",
@@ -2765,8 +2743,8 @@
    "attorney": "KML Law Group, P.C.",
    "sale_date": "2027-02-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905924",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922036",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26000957"
   },
   {
@@ -2788,7 +2766,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905976",
+   "auction_id": "2227922088",
    "status": "DEFENDANT ADJOURNED TO",
    "case_number": "F-001907-26",
    "parcel_id": "LOT 29, BLOCK 28",
@@ -2803,8 +2781,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2027-02-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905976",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922088",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001273"
   },
   {
@@ -2826,7 +2804,45 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905988",
+   "auction_id": "2227922099",
+   "status": "DEFENDANT ADJOURNED TO",
+   "case_number": "F-006084-25",
+   "parcel_id": "TAX LOT 6, BLOCK 203",
+   "address": "113 PEARL STREET",
+   "city": "Newfield",
+   "zip": "08344",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
+   "defendant": "AREND W. RUSHLOW, et al",
+   "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
+   "sale_date": "2027-02-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922099",
+   "as_of": "2026-11-04T14:09-05:00",
+   "sheriff_number": "F-26001328"
+  },
+  {
+   "county": "gloucester",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-18"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2027-01-06"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2027-02-03"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": null,
+   "auction_id": "2227922100",
    "status": "DEFENDANT ADJOURNED TO",
    "case_number": "F-000539-26",
    "parcel_id": "BLOCK 156, LOT 9",
@@ -2841,8 +2857,8 @@
    "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
    "sale_date": "2027-02-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905988",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922100",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001330"
   },
   {
@@ -2856,7 +2872,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906014",
+   "auction_id": "2227922126",
    "status": "SCHEDULED",
    "case_number": "F-004007-26",
    "parcel_id": "BLOCK 195.03, LOT 43",
@@ -2871,8 +2887,8 @@
    "attorney": "STERN LAVINTHAL & FRANKENBERG, LLC",
    "sale_date": "2027-02-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906014",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922126",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001460"
   },
   {
@@ -2886,7 +2902,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906015",
+   "auction_id": "2227922127",
    "status": "SCHEDULED",
    "case_number": "F-010522-24",
    "parcel_id": "LOT: 57.01 BLOCK: 3601",
@@ -2901,8 +2917,8 @@
    "attorney": "RAS CITRON, LLC",
    "sale_date": "2027-02-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906015",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922127",
+   "as_of": "2026-11-04T14:09-05:00",
    "sheriff_number": "F-26001471"
   },
   {
@@ -2916,7 +2932,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906016",
+   "auction_id": "2227922128",
    "status": "SCHEDULED",
    "case_number": "F-013719-25",
    "parcel_id": "BLOCK 59.01 LOT 3",
@@ -2931,8 +2947,8 @@
    "attorney": "GROSS POLOWY LLC",
    "sale_date": "2027-02-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906016",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922128",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001487"
   },
   {
@@ -2946,7 +2962,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906017",
+   "auction_id": "2227922129",
    "status": "SCHEDULED",
    "case_number": "F-004076-26",
    "parcel_id": "LOT 1.01 BLOCK 18",
@@ -2961,8 +2977,8 @@
    "attorney": "PELLEGRINO & FELDSTEIN, LLC",
    "sale_date": "2027-02-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906017",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922129",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001489"
   },
   {
@@ -2976,7 +2992,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906018",
+   "auction_id": "2227922130",
    "status": "SCHEDULED",
    "case_number": "F-013200-25",
    "parcel_id": "LOT: 33 BLOCK: 206.05",
@@ -2991,8 +3007,8 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2027-02-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906018",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922130",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001491"
   },
   {
@@ -3006,7 +3022,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906019",
+   "auction_id": "2227922131",
    "status": "SCHEDULED",
    "case_number": "F-006179-25",
    "parcel_id": "LOT 84 BLOCK 1.12",
@@ -3021,8 +3037,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2027-02-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906019",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922131",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001493"
   },
   {
@@ -3036,7 +3052,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906020",
+   "auction_id": "2227922132",
    "status": "SCHEDULED",
    "case_number": "F-001693-25",
    "parcel_id": "LOT: 12 BLOCK: 3.01",
@@ -3051,8 +3067,8 @@
    "attorney": "KML Law Group, P.C.",
    "sale_date": "2027-02-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906020",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922132",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001494"
   },
   {
@@ -3066,7 +3082,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906021",
+   "auction_id": "2227922133",
    "status": "SCHEDULED",
    "case_number": "F-004954-24",
    "parcel_id": "LOT: 7 BLOCK: 901 F/K/A LOT: 7 BLOCK: 24.C",
@@ -3081,8 +3097,8 @@
    "attorney": "Logs Legal Group, LLP",
    "sale_date": "2027-02-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906021",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922133",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001496"
   },
   {
@@ -3096,7 +3112,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906022",
+   "auction_id": "2227922134",
    "status": "SCHEDULED",
    "case_number": "F-003115-26",
    "parcel_id": "LOT: 3.01 BLOCK: 64",
@@ -3111,8 +3127,8 @@
    "attorney": "POWERS KIRN, LLC",
    "sale_date": "2027-02-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906022",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922134",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001499"
   },
   {
@@ -3126,7 +3142,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906023",
+   "auction_id": "2227922135",
    "status": "SCHEDULED",
    "case_number": "F-010223-25",
    "parcel_id": "LOT: 4 BLOCK: 82.80",
@@ -3141,8 +3157,8 @@
    "attorney": "POWERS KIRN, LLC",
    "sale_date": "2027-02-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906023",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922135",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001501"
   },
   {
@@ -3156,7 +3172,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906024",
+   "auction_id": "2227922136",
    "status": "SCHEDULED",
    "case_number": "F-012806-24",
    "parcel_id": "LOT 6, BLOCK 120.0202",
@@ -3171,8 +3187,8 @@
    "attorney": "RAS CITRON, LLC",
    "sale_date": "2027-02-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906024",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922136",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001502"
   },
   {
@@ -3198,7 +3214,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905678",
+   "auction_id": "2227921790",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-006757-24",
    "parcel_id": "LOT: 4 FKA 2 BLOCK: 1501 FKA 41.G",
@@ -3213,8 +3229,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2027-02-04",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905678",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921790",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-25000214"
   },
   {
@@ -3236,7 +3252,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905896",
+   "auction_id": "2227922008",
    "status": "SCHEDULED",
    "case_number": "F-012667-24",
    "parcel_id": "TAX LOT: 9, BLOCK 121.02",
@@ -3251,8 +3267,8 @@
    "attorney": "Hladik, Onorato & Federman, LLP",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905896",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922008",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26000774"
   },
   {
@@ -3266,7 +3282,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906026",
+   "auction_id": "2227922138",
    "status": "SCHEDULED",
    "case_number": "F-012575-25",
    "parcel_id": "LOT: 50 BLOCK: 14401.03",
@@ -3281,8 +3297,8 @@
    "attorney": "HILL WALLACK LLP",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906026",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922138",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001517"
   },
   {
@@ -3296,7 +3312,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906027",
+   "auction_id": "2227922139",
    "status": "SCHEDULED",
    "case_number": "F-009325-16",
    "parcel_id": "LOT 47, BLOCK 5.11",
@@ -3311,8 +3327,8 @@
    "attorney": "FRIEDMAN VARTOLO LLP",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906027",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922139",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001518"
   },
   {
@@ -3326,7 +3342,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906028",
+   "auction_id": "2227922140",
    "status": "SCHEDULED",
    "case_number": "F-013514-25",
    "parcel_id": "LOT 1.16, BLOCK 31.01",
@@ -3341,8 +3357,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906028",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922140",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001526"
   },
   {
@@ -3356,7 +3372,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906029",
+   "auction_id": "2227922141",
    "status": "SCHEDULED",
    "case_number": "F-001623-26",
    "parcel_id": "LOT 14, BLOCK 1401",
@@ -3371,8 +3387,8 @@
    "attorney": "RAS CITRON, LLC",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906029",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922141",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001535"
   },
   {
@@ -3386,7 +3402,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906030",
+   "auction_id": "2227922142",
    "status": "SCHEDULED",
    "case_number": "F-006693-25",
    "parcel_id": "LOT: 7 BLOCK: 100",
@@ -3401,8 +3417,8 @@
    "attorney": "HILL WALLACK LLP",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906030",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922142",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001538"
   },
   {
@@ -3416,7 +3432,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906031",
+   "auction_id": "2227922143",
    "status": "SCHEDULED",
    "case_number": "F-005280-26",
    "parcel_id": "BLOCK 54.12 LOT 5",
@@ -3431,8 +3447,8 @@
    "attorney": "POWERS KIRN, LLC",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906031",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922143",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001554"
   },
   {
@@ -3446,7 +3462,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906032",
+   "auction_id": "2227922144",
    "status": "SCHEDULED",
    "case_number": "F-012102-25",
    "parcel_id": "LOT: 3 BLOCK: 119",
@@ -3461,8 +3477,8 @@
    "attorney": "Gary C. Zeitz, LLC",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906032",
-   "as_of": "2026-11-02T07:37-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922144",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001556"
   },
   {
@@ -3476,7 +3492,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906033",
+   "auction_id": "2227922145",
    "status": "SCHEDULED",
    "case_number": "F-012385-25",
    "parcel_id": "LOT 1 BLOCK 2001 fka 33.T",
@@ -3491,8 +3507,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906033",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922145",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001557"
   },
   {
@@ -3506,7 +3522,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906034",
+   "auction_id": "2227922146",
    "status": "SCHEDULED",
    "case_number": "F-006711-26",
    "parcel_id": "BLOCK: 111.03 LOT: 15 & 15.01",
@@ -3521,8 +3537,8 @@
    "attorney": "RAS CITRON, LLC",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906034",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922146",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001560"
   },
   {
@@ -3536,7 +3552,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906035",
+   "auction_id": "2227922147",
    "status": "SCHEDULED",
    "case_number": "F-009862-25",
    "parcel_id": "BLOCK 8812 LOT 125 & 126",
@@ -3551,8 +3567,8 @@
    "attorney": "POWERS KIRN, LLC",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906035",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922147",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001563"
   },
   {
@@ -3566,7 +3582,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906036",
+   "auction_id": "2227922148",
    "status": "SCHEDULED",
    "case_number": "F-005079-25",
    "parcel_id": "LOT 5, BLOCK 116.02",
@@ -3581,8 +3597,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906036",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922148",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001571"
   },
   {
@@ -3596,7 +3612,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906037",
+   "auction_id": "2227922149",
    "status": "SCHEDULED",
    "case_number": "BUR-L-000170-23; DJ-036190-26",
    "parcel_id": "BLOCK: 89 LOTS: 10 AND 10.01",
@@ -3611,8 +3627,8 @@
    "attorney": "RAGAN & RAGAN, P.C.",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906037",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922149",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001572"
   },
   {
@@ -3626,7 +3642,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906038",
+   "auction_id": "2227922150",
    "status": "SCHEDULED",
    "case_number": "F-001081-24",
    "parcel_id": "LOT 1 BLOCK 2402",
@@ -3641,8 +3657,8 @@
    "attorney": "RAS CITRON, LLC",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906038",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922150",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001584"
   },
   {
@@ -3656,7 +3672,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906039",
+   "auction_id": "2227922151",
    "status": "SCHEDULED",
    "case_number": "F-003751-26",
    "parcel_id": "LOT 5 & 13 BLOCK 236",
@@ -3671,8 +3687,8 @@
    "attorney": "KML Law Group, P.C.",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906039",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922151",
+   "as_of": "2026-11-04T14:10-05:00",
    "sheriff_number": "F-26001591"
   },
   {
@@ -3686,7 +3702,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906040",
+   "auction_id": "2227922152",
    "status": "SCHEDULED",
    "case_number": "F-006378-26",
    "parcel_id": "LOT 4, BLOCK 3706",
@@ -3701,8 +3717,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906040",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922152",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-26001595"
   },
   {
@@ -3716,7 +3732,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223906041",
+   "auction_id": "2227922153",
    "status": "SCHEDULED",
    "case_number": "F-010987-24",
    "parcel_id": "LOT 3 ADDL 12 BLOCK 16",
@@ -3731,9 +3747,55 @@
    "attorney": "HILL WALLACK LLP",
    "sale_date": "2027-02-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223906041",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922153",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-26001597"
+  },
+  {
+   "county": "gloucester",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2024-08-28"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2024-09-25"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2024-10-23"
+    },
+    {
+     "status": "Bankruptcy Hold",
+     "date": "2026-11-02"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2027-03-03"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": null,
+   "auction_id": "2227921765",
+   "status": "SCHEDULED",
+   "case_number": "F-006711-23",
+   "parcel_id": "BLOCK: 116.38 LOT: 3",
+   "address": "13 MELONY LANE",
+   "city": "Turnersville",
+   "zip": "08012",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "1900 CAPITAL TRUST II, BY U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS CERTIFICATE TRUSTEE",
+   "defendant": "KING ESTATES LLC",
+   "attorney": "LEOPOLD & ASSOCIATES PLLC",
+   "sale_date": "2027-03-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921765",
+   "as_of": "2026-11-04T14:11-05:00",
+   "sheriff_number": "F-24000855"
   },
   {
    "county": "gloucester",
@@ -3753,13 +3815,17 @@
     },
     {
      "status": "Bankruptcy Hold",
-     "date": "2027-02-18"
+     "date": "2026-11-04"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2027-03-03"
     }
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905680",
-   "status": "BANKRUPTCY HOLD",
+   "auction_id": "2227921792",
+   "status": "SCHEDULED",
    "case_number": "F-000288-19",
    "parcel_id": "LOT: 72 BLOCK: 411.12",
    "address": "5 WARE DRIVE",
@@ -3771,11 +3837,109 @@
    "plaintiff": "WILMINGTON TRUST, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE FOR MFRA TRUST 2014-2",
    "defendant": "ALEXANDER TAYLOR; MICHELLE TAYLOR; THERESA G. SMITH; UNION CO BD SOCIAL SERVS; THRIFT INVESTMENT CORPORATION; CHRIST HOSPITAL N/K/A HUDSON HOSPITAL OPCO, LLC; FAA EASTERN REGION FEDERAL CREDIT UNIONN/K/A ASPIRE FEDERAL CREDIT UNION; TOYOTA MOTOR CREDIT CORP; STATE OF NEW JERSEY; STEWARD FINANCIAL SERVICES",
    "attorney": "FRIEDMAN VARTOLO LLP",
-   "sale_date": "2027-02-18",
+   "sale_date": "2027-03-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905680",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921792",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-25000305"
+  },
+  {
+   "county": "gloucester",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-04-29"
+    },
+    {
+     "status": "Bankruptcy Hold",
+     "date": "2026-10-22"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2027-03-03"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": null,
+   "auction_id": "2227921955",
+   "status": "SCHEDULED",
+   "case_number": "F-007075-25",
+   "parcel_id": "LOT: 1 BLOCK: 84",
+   "address": "272 WEST WASHINGTON STREET",
+   "city": "Paulsboro",
+   "zip": "08066",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
+   "defendant": "JANELLE BUSSEY AKA JANEL BUSSEY, ET AL.",
+   "attorney": "Parker McCay  P.A.",
+   "sale_date": "2027-03-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921955",
+   "as_of": "2026-11-04T14:11-05:00",
+   "sheriff_number": "F-26000287"
+  },
+  {
+   "county": "gloucester",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-03-03"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": null,
+   "auction_id": "2227922154",
+   "status": "SCHEDULED",
+   "case_number": "F-010170-25",
+   "parcel_id": "BLOCK 37.0201, LOT 20",
+   "address": "269 SPRING BEAUTY DRIVE",
+   "city": "Williamstown",
+   "zip": "08094",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "LAKEVIEW LOAN SERVICING, LLC",
+   "defendant": "GRACE H. LEE, et al",
+   "attorney": "STERN LAVINTHAL & FRANKENBERG, LLC",
+   "sale_date": "2027-03-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922154",
+   "as_of": "2026-11-04T14:11-05:00",
+   "sheriff_number": "F-26001605"
+  },
+  {
+   "county": "gloucester",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-03-03"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": null,
+   "auction_id": "2227922155",
+   "status": "SCHEDULED",
+   "case_number": "F-010373-25",
+   "parcel_id": "LOT 15, BLOCK 51.02",
+   "address": "760 DUNCAN AVENUE",
+   "city": "Gibbstown",
+   "zip": "08027",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF GREENE STREET FUNDING TRUST II",
+   "defendant": "760 DUNCAN AVE LLC, TIMOTHY D'ASCENZO",
+   "attorney": "Hladik, Onorato & Federman, LLP",
+   "sale_date": "2027-03-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922155",
+   "as_of": "2026-11-04T14:11-05:00",
+   "sheriff_number": "F-26001611"
   },
   {
    "county": "gloucester",
@@ -3800,7 +3964,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905681",
+   "auction_id": "2227921793",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-006623-24",
    "parcel_id": "LOT: 23 BLOCK: 1101",
@@ -3815,8 +3979,8 @@
    "attorney": "GROSS POLOWY LLC",
    "sale_date": "2027-03-13",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905681",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921793",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-25000308"
   },
   {
@@ -3838,7 +4002,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2223905825",
+   "auction_id": "2227921937",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-008844-24",
    "parcel_id": "LOT: 11 BLOCK: 201.01",
@@ -3853,8 +4017,8 @@
    "attorney": "PADGETT LAW GROUP",
    "sale_date": "2027-04-30",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905825",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921937",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-26000198"
   },
   {
@@ -3880,7 +4044,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905694",
+   "auction_id": "2227921806",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-002659-24",
    "parcel_id": "BLOCK 37, LOT 4, QUAL C055",
@@ -3895,8 +4059,8 @@
    "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
    "sale_date": "2027-05-22",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905694",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921806",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-25000728"
   },
   {
@@ -3914,7 +4078,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905692",
+   "auction_id": "2227921804",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-02675-22",
    "parcel_id": "LOT: 2 BLOCK: 3302",
@@ -3929,8 +4093,8 @@
    "attorney": "RAS CITRON, LLC",
    "sale_date": "2027-05-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905692",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921804",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-25000720"
   },
   {
@@ -3956,7 +4120,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905711",
+   "auction_id": "2227921823",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-000135-24",
    "parcel_id": "LOT: 61 BLOCK: 141.0301",
@@ -3971,8 +4135,8 @@
    "attorney": "Stern & Eisenberg, PC",
    "sale_date": "2027-06-10",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905711",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921823",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-25000910"
   },
   {
@@ -3998,7 +4162,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905706",
+   "auction_id": "2227921818",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-007575-23",
    "parcel_id": "TAX LOT#18  BLOCK#13.0201",
@@ -4013,8 +4177,8 @@
    "attorney": "Parker McCay  P.A.",
    "sale_date": "2027-07-02",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905706",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921818",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-25000875"
   },
   {
@@ -4044,7 +4208,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2223905710",
+   "auction_id": "2227921822",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-005023-24",
    "parcel_id": "LOT: 9; BLOCK: 37.0201",
@@ -4059,8 +4223,8 @@
    "attorney": "FRENKEL LAMBERT WEISMAN & GORDON, LLP",
    "sale_date": "2027-07-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905710",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921822",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-25000904"
   },
   {
@@ -4078,7 +4242,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905716",
+   "auction_id": "2227921828",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-004735-24",
    "parcel_id": "LOT: 8.825 BLOCK: 376",
@@ -4093,8 +4257,8 @@
    "attorney": "MCCALLA RAYMER LEIBERT PIERCE, LLC",
    "sale_date": "2027-07-14",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905716",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921828",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-25000941"
   },
   {
@@ -4116,7 +4280,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2223905731",
+   "auction_id": "2227921843",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-008084-19",
    "parcel_id": "LOT: 3 BLOCK: 2410",
@@ -4131,8 +4295,8 @@
    "attorney": "FRIEDMAN VARTOLO LLP",
    "sale_date": "2027-07-21",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905731",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921843",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-25001045"
   },
   {
@@ -4174,7 +4338,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905741",
+   "auction_id": "2227921853",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-011608-24",
    "parcel_id": "LOT: 4 BLOCK: 903",
@@ -4189,8 +4353,8 @@
    "attorney": "FRIEDMAN VARTOLO LLP",
    "sale_date": "2027-07-24",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905741",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921853",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-25001164"
   },
   {
@@ -4208,7 +4372,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905729",
+   "auction_id": "2227921841",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-002457-24",
    "parcel_id": "LOT: 6 BLOCK: 14601",
@@ -4223,8 +4387,8 @@
    "attorney": "Parker McCay  P.A.",
    "sale_date": "2027-08-14",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905729",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921841",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-25001042"
   },
   {
@@ -4258,7 +4422,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": null,
-   "auction_id": "2223905745",
+   "auction_id": "2227921857",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-004946-25",
    "parcel_id": "BLOCK: 68 LOT: 19",
@@ -4273,8 +4437,8 @@
    "attorney": "STERN LAVINTHAL & FRANKENBERG, LLC",
    "sale_date": "2027-09-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905745",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921857",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-25001188"
   },
   {
@@ -4300,7 +4464,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905837",
+   "auction_id": "2227921949",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-002762-24",
    "parcel_id": "LOT: 10 BLOCK: 48",
@@ -4315,8 +4479,8 @@
    "attorney": "POWERS KIRN, LLC",
    "sale_date": "2027-10-14",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905837",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921949",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-26000255"
   },
   {
@@ -4338,7 +4502,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2223905791",
+   "auction_id": "2227921903",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-002850-25",
    "parcel_id": "LOT: 3 N/K/A LOT 3.01 BLOCK: 150",
@@ -4353,8 +4517,8 @@
    "attorney": "MCCABE, WEISBERG & CONWAY, LLC",
    "sale_date": "2027-10-15",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905791",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921903",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-25001470"
   },
   {
@@ -4372,7 +4536,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905766",
+   "auction_id": "2227921878",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-005564-22",
    "parcel_id": "BLOCK: 157 LOT: 7",
@@ -4387,8 +4551,8 @@
    "attorney": "POWERS KIRN, LLC",
    "sale_date": "2027-10-21",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905766",
-   "as_of": "2026-11-02T07:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921878",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-25001310"
   },
   {
@@ -4414,7 +4578,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905772",
+   "auction_id": "2227921884",
    "status": "HOLD IN ABEYANCE",
    "case_number": "F-001983-24",
    "parcel_id": "LOT: 17 BLOCK: 15403",
@@ -4429,8 +4593,8 @@
    "attorney": "Stern & Eisenberg, PC",
    "sale_date": "2027-10-30",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905772",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921884",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-25001330"
   },
   {
@@ -4456,7 +4620,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905814",
+   "auction_id": "2227921926",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-009795-23",
    "parcel_id": "TAX LOT #5 BLOCK #48",
@@ -4471,8 +4635,8 @@
    "attorney": "Parker McCay  P.A.",
    "sale_date": "2027-12-26",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905814",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921926",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-26000095"
   },
   {
@@ -4506,7 +4670,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905649",
+   "auction_id": "2227921760",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-001513-23",
    "parcel_id": "BLOCK: 82.51 LOT: 3",
@@ -4521,8 +4685,8 @@
    "attorney": "PLUESE, BECKER, SALTZMAN & THOMAS, LLC",
    "sale_date": "2028-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905649",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921760",
+   "as_of": "2026-11-04T14:11-05:00",
    "sheriff_number": "F-24000382"
   },
   {
@@ -4556,7 +4720,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905648",
+   "auction_id": "2227921759",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-023514-18",
    "parcel_id": "BLOCK: 127 LOT: 40",
@@ -4571,8 +4735,8 @@
    "attorney": "KML Law Group, P.C.",
    "sale_date": "2028-01-28",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905648",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921759",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-24000351"
   },
   {
@@ -4590,7 +4754,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905828",
+   "auction_id": "2227921940",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-012966-24",
    "parcel_id": "LOT: 3.03 BLOCK: 147",
@@ -4605,8 +4769,8 @@
    "attorney": "FRIEDMAN VARTOLO LLP",
    "sale_date": "2028-02-04",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905828",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921940",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26000219"
   },
   {
@@ -4624,7 +4788,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905847",
+   "auction_id": "2227921959",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-000331-25",
    "parcel_id": "LOT: 18 BLOCK: 476",
@@ -4639,8 +4803,8 @@
    "attorney": "RAS CITRON, LLC",
    "sale_date": "2028-02-05",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905847",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921959",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26000303"
   },
   {
@@ -4662,7 +4826,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2223905830",
+   "auction_id": "2227921942",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-000086-24",
    "parcel_id": "BLOCK: 352.05 LOT: 23",
@@ -4677,8 +4841,8 @@
    "attorney": "ALBETELLI LAW",
    "sale_date": "2028-02-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905830",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921942",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26000221"
   },
   {
@@ -4712,7 +4876,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": null,
-   "auction_id": "2223905844",
+   "auction_id": "2227921956",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-012332-25",
    "parcel_id": "LOT: 12 BLOCK: 5801 (F/K/A LOT: 12; QFARM; BLOCK: 5801)",
@@ -4727,43 +4891,9 @@
    "attorney": "Parker McCay  P.A.",
    "sale_date": "2028-02-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905844",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921956",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26000288"
-  },
-  {
-   "county": "gloucester",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-04-29"
-    },
-    {
-     "status": "Bankruptcy Hold",
-     "date": "2028-02-24"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2223905843",
-   "status": "BANKRUPTCY HOLD",
-   "case_number": "F-007075-25",
-   "parcel_id": "LOT: 1 BLOCK: 84",
-   "address": "272 WEST WASHINGTON STREET",
-   "city": "Paulsboro",
-   "zip": "08066",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST",
-   "defendant": "JANELLE BUSSEY AKA JANEL BUSSEY, ET AL.",
-   "attorney": "Parker McCay  P.A.",
-   "sale_date": "2028-02-24",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905843",
-   "as_of": "2026-11-02T07:39-05:00",
-   "sheriff_number": "F-26000287"
   },
   {
    "county": "gloucester",
@@ -4784,7 +4914,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2223905923",
+   "auction_id": "2227922035",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-007856-24",
    "parcel_id": "TAX LOT 4.01, BLOCK 301",
@@ -4799,8 +4929,8 @@
    "attorney": "KML Law Group, P.C.",
    "sale_date": "2028-03-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905923",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922035",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26000952"
   },
   {
@@ -4818,7 +4948,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905904",
+   "auction_id": "2227922016",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-011867-25",
    "parcel_id": "TAX LOT 9, BLOCK 206",
@@ -4833,8 +4963,8 @@
    "attorney": "Stern & Eisenberg, PC",
    "sale_date": "2028-03-23",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905904",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922016",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26000816"
   },
   {
@@ -4864,7 +4994,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": null,
-   "auction_id": "2223905863",
+   "auction_id": "2227921975",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-003033-25",
    "parcel_id": "LOT: 66 BLOCK: 1801",
@@ -4879,8 +5009,8 @@
    "attorney": "Hladik, Onorato & Federman, LLP",
    "sale_date": "2028-04-01",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905863",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921975",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26000456"
   },
   {
@@ -4898,7 +5028,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905905",
+   "auction_id": "2227922017",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-014164-25",
    "parcel_id": "LOT 5.04, BLOCK 14",
@@ -4913,8 +5043,8 @@
    "attorney": "RAS CITRON, LLC",
    "sale_date": "2028-05-14",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905905",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922017",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26000819"
   },
   {
@@ -4940,7 +5070,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905908",
+   "auction_id": "2227922020",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-010121-25",
    "parcel_id": "LOT: 10 BLOCK: 356.11",
@@ -4955,8 +5085,8 @@
    "attorney": "FRENKEL LAMBERT WEISMAN & GORDON, LLP",
    "sale_date": "2028-05-21",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905908",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922020",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26000888"
   },
   {
@@ -4978,7 +5108,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2223905915",
+   "auction_id": "2227922027",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-003944-25",
    "parcel_id": "LOT: 9 BLOCK: 160",
@@ -4993,8 +5123,8 @@
    "attorney": "Hladik, Onorato & Federman, LLP",
    "sale_date": "2028-06-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905915",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922027",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26000937"
   },
   {
@@ -5020,7 +5150,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905922",
+   "auction_id": "2227922034",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-010070-25",
    "parcel_id": "LOT:18, BLOCK:144 (LOT:16.01, BLOCK:144)",
@@ -5035,8 +5165,8 @@
    "attorney": "STARK & STARK",
    "sale_date": "2028-06-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905922",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922034",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26000951"
   },
   {
@@ -5054,7 +5184,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905939",
+   "auction_id": "2227922051",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-004585-24",
    "parcel_id": "LOT:16; BLOCK:44",
@@ -5069,8 +5199,8 @@
    "attorney": "HILL WALLACK LLP",
    "sale_date": "2028-06-24",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905939",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922051",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26001067"
   },
   {
@@ -5092,7 +5222,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2223905951",
+   "auction_id": "2227922063",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-000922-26",
    "parcel_id": "LOT: 6, BLOCK 2503",
@@ -5107,8 +5237,8 @@
    "attorney": "Hladik, Onorato & Federman, LLP",
    "sale_date": "2028-07-20",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905951",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922063",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26001143"
   },
   {
@@ -5126,7 +5256,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905950",
+   "auction_id": "2227922062",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-009854-25",
    "parcel_id": "LOT 19, BLOCK 5.10",
@@ -5141,8 +5271,8 @@
    "attorney": "RAS CITRON, LLC",
    "sale_date": "2028-07-22",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905950",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922062",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26001142"
   },
   {
@@ -5160,7 +5290,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905964",
+   "auction_id": "2227922076",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-010064-22",
    "parcel_id": "TAX LOT 17, BLOCK 1401",
@@ -5175,8 +5305,8 @@
    "attorney": "RAS CITRON, LLC",
    "sale_date": "2028-08-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905964",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922076",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26001224"
   },
   {
@@ -5206,7 +5336,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2223905656",
+   "auction_id": "2227921768",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-001807-24",
    "parcel_id": "BLOCK: 117 LOT: 21",
@@ -5221,8 +5351,8 @@
    "attorney": "Stern & Eisenberg, PC",
    "sale_date": "2028-08-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905656",
-   "as_of": "2026-11-02T07:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921768",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-24001017"
   },
   {
@@ -5240,109 +5370,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905969",
-   "status": "BANKRUPTCY HOLD",
-   "case_number": "F-013146-25",
-   "parcel_id": "TAX LOT 3QFARM, BLOCK 21",
-   "address": "181 ASBURY STATION ROAD",
-   "city": "Woolwich",
-   "zip": "08085",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB",
-   "defendant": "EUGENIO POSTORIVO, JR; KING'S VIEW ESTATES, LLC; MCKENNA & ASSOCIATES, LLC; STATE OF NEW JERSEY AND UNITED STATES OF AMERICA",
-   "attorney": "Dembo, Brown & Burns, LLP",
-   "sale_date": "2028-08-12",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905969",
-   "as_of": "2026-11-02T07:39-05:00",
-   "sheriff_number": "F-26001246"
-  },
-  {
-   "county": "gloucester",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-10-28"
-    },
-    {
-     "status": "Bankruptcy Hold",
-     "date": "2028-08-12"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2223905970",
-   "status": "BANKRUPTCY HOLD",
-   "case_number": "F-013146-25",
-   "parcel_id": "TAX LOT 2, BLOCK 21",
-   "address": "6 MILL ROAD",
-   "city": "Woolwich",
-   "zip": "08085",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB",
-   "defendant": "EUGENIO POSTORIVO, JR; KING'S VIEW ESTATES, LLC; MCKENNA & ASSOCIATES, LLC; STATE OF NEW JERSEY AND UNITED STATES OF AMERICA",
-   "attorney": "Dembo, Brown & Burns, LLP",
-   "sale_date": "2028-08-12",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905970",
-   "as_of": "2026-11-02T07:39-05:00",
-   "sheriff_number": "F-26001246"
-  },
-  {
-   "county": "gloucester",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-10-28"
-    },
-    {
-     "status": "Bankruptcy Hold",
-     "date": "2028-08-12"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2223905971",
-   "status": "BANKRUPTCY HOLD",
-   "case_number": "F-013146-25",
-   "parcel_id": "TAX LOT 4QFARM, BLOCK 21",
-   "address": "139 ASBURY STATION ROAD",
-   "city": "Woolwich",
-   "zip": "08085",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB",
-   "defendant": "EUGENIO POSTORIVO, JR; KING'S VIEW ESTATES, LLC; MCKENNA & ASSOCIATES, LLC; STATE OF NEW JERSEY AND UNITED STATES OF AMERICA",
-   "attorney": "Dembo, Brown & Burns, LLP",
-   "sale_date": "2028-08-12",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905971",
-   "as_of": "2026-11-02T07:39-05:00",
-   "sheriff_number": "F-26001246"
-  },
-  {
-   "county": "gloucester",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-10-28"
-    },
-    {
-     "status": "Bankruptcy Hold",
-     "date": "2028-08-12"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2223905972",
+   "auction_id": "2227922084",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-013146-25",
    "parcel_id": "TAX LOT(S) 1 AND 1QFARM, BLOCK 21",
@@ -5357,8 +5385,110 @@
    "attorney": "Dembo, Brown & Burns, LLP",
    "sale_date": "2028-08-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905972",
-   "as_of": "2026-11-02T07:40-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922084",
+   "as_of": "2026-11-04T14:12-05:00",
+   "sheriff_number": "F-26001246"
+  },
+  {
+   "county": "gloucester",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-28"
+    },
+    {
+     "status": "Bankruptcy Hold",
+     "date": "2028-08-12"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": null,
+   "auction_id": "2227922082",
+   "status": "BANKRUPTCY HOLD",
+   "case_number": "F-013146-25",
+   "parcel_id": "TAX LOT 2, BLOCK 21",
+   "address": "6 MILL ROAD",
+   "city": "Woolwich",
+   "zip": "08085",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB",
+   "defendant": "EUGENIO POSTORIVO, JR; KING'S VIEW ESTATES, LLC; MCKENNA & ASSOCIATES, LLC; STATE OF NEW JERSEY AND UNITED STATES OF AMERICA",
+   "attorney": "Dembo, Brown & Burns, LLP",
+   "sale_date": "2028-08-12",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922082",
+   "as_of": "2026-11-04T14:12-05:00",
+   "sheriff_number": "F-26001246"
+  },
+  {
+   "county": "gloucester",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-28"
+    },
+    {
+     "status": "Bankruptcy Hold",
+     "date": "2028-08-12"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": null,
+   "auction_id": "2227922081",
+   "status": "BANKRUPTCY HOLD",
+   "case_number": "F-013146-25",
+   "parcel_id": "TAX LOT 3QFARM, BLOCK 21",
+   "address": "181 ASBURY STATION ROAD",
+   "city": "Woolwich",
+   "zip": "08085",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB",
+   "defendant": "EUGENIO POSTORIVO, JR; KING'S VIEW ESTATES, LLC; MCKENNA & ASSOCIATES, LLC; STATE OF NEW JERSEY AND UNITED STATES OF AMERICA",
+   "attorney": "Dembo, Brown & Burns, LLP",
+   "sale_date": "2028-08-12",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922081",
+   "as_of": "2026-11-04T14:12-05:00",
+   "sheriff_number": "F-26001246"
+  },
+  {
+   "county": "gloucester",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-10-28"
+    },
+    {
+     "status": "Bankruptcy Hold",
+     "date": "2028-08-12"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": null,
+   "auction_id": "2227922083",
+   "status": "BANKRUPTCY HOLD",
+   "case_number": "F-013146-25",
+   "parcel_id": "TAX LOT 4QFARM, BLOCK 21",
+   "address": "139 ASBURY STATION ROAD",
+   "city": "Woolwich",
+   "zip": "08085",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY, FSB",
+   "defendant": "EUGENIO POSTORIVO, JR; KING'S VIEW ESTATES, LLC; MCKENNA & ASSOCIATES, LLC; STATE OF NEW JERSEY AND UNITED STATES OF AMERICA",
+   "attorney": "Dembo, Brown & Burns, LLP",
+   "sale_date": "2028-08-12",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922083",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26001246"
   },
   {
@@ -5376,7 +5506,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2223905975",
+   "auction_id": "2227922087",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-010030-18",
    "parcel_id": "LOT: 21.01 BLOCK: 152",
@@ -5391,8 +5521,8 @@
    "attorney": "Stern & Eisenberg, PC",
    "sale_date": "2028-08-13",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905975",
-   "as_of": "2026-11-02T07:40-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227922087",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26001267"
   },
   {
@@ -5418,7 +5548,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": null,
-   "auction_id": "2223905873",
+   "auction_id": "2227921985",
    "status": "BANKRUPTCY HOLD",
    "case_number": "F-121212-26",
    "parcel_id": "LOT: 12 BLOCK: 12",
@@ -5433,8 +5563,8 @@
    "attorney": "KML Law Group, P.C.",
    "sale_date": "2034-07-13",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2223905873",
-   "as_of": "2026-11-02T07:40-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227921985",
+   "as_of": "2026-11-04T14:12-05:00",
    "sheriff_number": "F-26000614"
   }
  ]
