@@ -1,7 +1,7 @@
 {
  "state": "ohio",
  "county": "van-wert",
- "as_of": "2026-11-04T10:26-05:00",
+ "as_of": "2026-11-08T06:04-05:00",
  "source": "https://www.vanwertcountyohio.gov/government/sheriff/divisions/sheriff_sales.php",
  "count": 3,
  "items": [
@@ -27,7 +27,7 @@
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.vanwertcountyohio.gov/government/sheriff/divisions/sheriff_sales.php",
-   "as_of": "2026-11-04T10:26-05:00"
+   "as_of": "2026-11-08T06:04-05:00"
   },
   {
    "county": "van-wert",
@@ -51,7 +51,7 @@
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.vanwertcountyohio.gov/government/sheriff/divisions/sheriff_sales.php",
-   "as_of": "2026-11-04T10:26-05:00"
+   "as_of": "2026-11-08T06:04-05:00"
   },
   {
    "county": "van-wert",
@@ -75,7 +75,7 @@
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.vanwertcountyohio.gov/government/sheriff/divisions/sheriff_sales.php",
-   "as_of": "2026-11-04T10:26-05:00"
+   "as_of": "2026-11-08T06:04-05:00"
   }
  ]
 }

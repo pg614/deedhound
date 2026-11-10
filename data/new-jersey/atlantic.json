@@ -1,9 +1,9 @@
 {
  "state": "new-jersey",
  "county": "atlantic",
- "as_of": "2026-11-04T10:56-05:00",
- "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227680886",
- "count": 64,
+ "as_of": "2026-11-08T08:24-05:00",
+ "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289379",
+ "count": 98,
  "items": [
   {
    "county": "atlantic",
@@ -16,7 +16,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 33877.43,
-   "auction_id": "2227680886",
+   "auction_id": "2234289379",
    "status": "SCHEDULED",
    "case_number": "F-008440-25",
    "parcel_id": null,
@@ -31,8 +31,8 @@
    "attorney": "Albertelli Law",
    "sale_date": "2026-12-10",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227680886",
-   "as_of": "2026-11-04T10:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289379",
+   "as_of": "2026-11-08T06:13-05:00",
    "sheriff_number": "F-26001200"
   },
   {
@@ -50,7 +50,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 329222.05,
-   "auction_id": "2227680934",
+   "auction_id": "2234289481",
    "status": "SCHEDULED",
    "case_number": "F-014207-25",
    "parcel_id": null,
@@ -65,8 +65,8 @@
    "attorney": "Brock & Scott, PLLC",
    "sale_date": "2026-12-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227680934",
-   "as_of": "2026-11-04T10:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289481",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26001180"
   },
   {
@@ -80,7 +80,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 151655.2,
-   "auction_id": "2227680935",
+   "auction_id": "2234289483",
    "status": "SCHEDULED",
    "case_number": "F-005441-26",
    "parcel_id": null,
@@ -95,8 +95,8 @@
    "attorney": "Brock & Scott, PLLC",
    "sale_date": "2026-12-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227680935",
-   "as_of": "2026-11-04T10:34-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289483",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26001267"
   },
   {
@@ -126,7 +126,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": 174905.43,
-   "auction_id": "2227680929",
+   "auction_id": "2234289470",
    "status": "SCHEDULED",
    "case_number": "F-008867-25",
    "parcel_id": null,
@@ -141,8 +141,8 @@
    "attorney": "Brock & Scott, PLLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227680929",
-   "as_of": "2026-11-04T10:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289470",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26000720"
   },
   {
@@ -168,7 +168,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 405984.19,
-   "auction_id": "2227680931",
+   "auction_id": "2234289474",
    "status": "SCHEDULED",
    "case_number": "F-000099-26",
    "parcel_id": null,
@@ -183,39 +183,9 @@
    "attorney": "Brock & Scott, PLLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227680931",
-   "as_of": "2026-11-04T10:35-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289474",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26000879"
-  },
-  {
-   "county": "atlantic",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-11-05"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": 206330.4,
-   "auction_id": "2227680933",
-   "status": "SCHEDULED",
-   "case_number": "F-011017-25",
-   "parcel_id": null,
-   "address": "3101 Boardwalk",
-   "city": "",
-   "zip": null,
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "U.S. Bank National Association, as Trustee, as successor in interest to U.S. Bank National Association, as Trustee  for Residential  Asset Securities Corporation, Home Equity Mortgage Asset-backed Pass-Through Certificates, Series 2006-EMX6",
-   "defendant": "Mark Trischler, deceased, his heirs, devisees and personal representatives and his, their, or any of their successors in Right, Title, and Interest; Alexa Jula Trischler; Grant William Kreider; Bradford Roy Kreider; State of New Jersey; United States of America",
-   "attorney": "Brock & Scott, PLLC",
-   "sale_date": "2026-11-05",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227680933",
-   "as_of": "2026-11-04T10:35-05:00",
-   "sheriff_number": "F-26001118"
   },
   {
    "county": "atlantic",
@@ -228,7 +198,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 7466.54,
-   "auction_id": "2227680937",
+   "auction_id": "2234289487",
    "status": "SCHEDULED",
    "case_number": "F-006404-25",
    "parcel_id": null,
@@ -243,250 +213,8 @@
    "attorney": "Bronster LLP",
    "sale_date": "2026-12-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227680937",
-   "as_of": "2026-11-04T10:35-05:00",
-   "sheriff_number": "F-26001281"
-  },
-  {
-   "county": "atlantic",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-12-10"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": 33877.43,
-   "auction_id": "2227686590",
-   "status": "SCHEDULED",
-   "case_number": "F-008440-25",
-   "parcel_id": null,
-   "address": "1520 Hamburg Avenue",
-   "city": "Egg Harbor City",
-   "zip": "08215",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "TH MSR Holdings LLC",
-   "defendant": "Anton I. Markowitz; Mrs. Anton I. Markowitz, his wife; Kristy L. Markowitz",
-   "attorney": "Albertelli Law",
-   "sale_date": "2026-12-10",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686590",
-   "as_of": "2026-11-04T10:37-05:00",
-   "sheriff_number": "F-26001200"
-  },
-  {
-   "county": "atlantic",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Defendant Adjourned to",
-     "date": "2026-12-17"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-11-19"
-    }
-   ],
-   "times_postponed": 1,
-   "upset_amount": 329222.05,
-   "auction_id": "2227686638",
-   "status": "SCHEDULED",
-   "case_number": "F-014207-25",
-   "parcel_id": null,
-   "address": "127 Crystal Lake Drive",
-   "city": "Egg Harbor Township",
-   "zip": "08234",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Freedom Mortgage Corporation",
-   "defendant": "Eladio Valentin; Elba Valentin; Crystal Lake Homeowners' Association, Inc.; Egg Harbor Care and Rehabilitation Center LLC D/B/A Excel Care at Egg Harbor; State of New Jersey",
-   "attorney": "Brock & Scott, PLLC",
-   "sale_date": "2026-12-17",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686638",
-   "as_of": "2026-11-04T10:37-05:00",
-   "sheriff_number": "F-26001180"
-  },
-  {
-   "county": "atlantic",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-12-17"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": 151655.2,
-   "auction_id": "2227686639",
-   "status": "SCHEDULED",
-   "case_number": "F-005441-26",
-   "parcel_id": null,
-   "address": "5910 SIXTH Street",
-   "city": "Mays Landing",
-   "zip": "08330",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Freedom Morgage Corporation",
-   "defendant": "John H Beck; Jeanene Beck; Joanne R Vaccaro; Paul Vaccaro; Wilmington Trust Company FSB; State of New Jersey; United States of America",
-   "attorney": "Brock & Scott, PLLC",
-   "sale_date": "2026-12-17",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686639",
-   "as_of": "2026-11-04T10:37-05:00",
-   "sheriff_number": "F-26001267"
-  },
-  {
-   "county": "atlantic",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Plaintiff Adjourned to",
-     "date": "2026-12-03"
-    },
-    {
-     "status": "Court Adjourned to",
-     "date": "2026-11-05"
-    },
-    {
-     "status": "Defendant Adjourned to",
-     "date": "2026-09-24"
-    },
-    {
-     "status": "Defendant Adjourned to",
-     "date": "2026-08-27"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-07-30"
-    }
-   ],
-   "times_postponed": 4,
-   "upset_amount": 174905.43,
-   "auction_id": "2227686633",
-   "status": "SCHEDULED",
-   "case_number": "F-008867-25",
-   "parcel_id": null,
-   "address": "325 Larchmont Drive",
-   "city": "Pleasantville",
-   "zip": "08232",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Freedom Mortgage Corporation",
-   "defendant": "Lucyann Colon; United States of America",
-   "attorney": "Brock & Scott, PLLC",
-   "sale_date": "2026-12-03",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686633",
-   "as_of": "2026-11-04T10:37-05:00",
-   "sheriff_number": "F-26000720"
-  },
-  {
-   "county": "atlantic",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Plaintiff Adjourned to",
-     "date": "2026-12-03"
-    },
-    {
-     "status": "Plaintiff Adjourned to",
-     "date": "2026-11-05"
-    },
-    {
-     "status": "Defendant Adjourned to",
-     "date": "2026-10-08"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-09-10"
-    }
-   ],
-   "times_postponed": 3,
-   "upset_amount": 405984.19,
-   "auction_id": "2227686635",
-   "status": "SCHEDULED",
-   "case_number": "F-000099-26",
-   "parcel_id": null,
-   "address": "130 Giulia Lane",
-   "city": "Galloway Township",
-   "zip": "08205",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Freedom Mortgage Corporation",
-   "defendant": "Jermaine M. Baskerville; Deborah Baskerville; Atlantic City Electric; Cavalry SPV I, LLC, Assignee of CitiBank, N.A.; MIdland Credit Management, Inc., Assignee of the Bank of Missouri; State of New Jersey; United States of America",
-   "attorney": "Brock & Scott, PLLC",
-   "sale_date": "2026-12-03",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686635",
-   "as_of": "2026-11-04T10:38-05:00",
-   "sheriff_number": "F-26000879"
-  },
-  {
-   "county": "atlantic",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-11-05"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": 206330.4,
-   "auction_id": "2227686637",
-   "status": "SCHEDULED",
-   "case_number": "F-011017-25",
-   "parcel_id": null,
-   "address": "3101 Boardwalk",
-   "city": "",
-   "zip": null,
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "U.S. Bank National Association, as Trustee, as successor in interest to U.S. Bank National Association, as Trustee  for Residential  Asset Securities Corporation, Home Equity Mortgage Asset-backed Pass-Through Certificates, Series 2006-EMX6",
-   "defendant": "Mark Trischler, deceased, his heirs, devisees and personal representatives and his, their, or any of their successors in Right, Title, and Interest; Alexa Jula Trischler; Grant William Kreider; Bradford Roy Kreider; State of New Jersey; United States of America",
-   "attorney": "Brock & Scott, PLLC",
-   "sale_date": "2026-11-05",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686637",
-   "as_of": "2026-11-04T10:38-05:00",
-   "sheriff_number": "F-26001118"
-  },
-  {
-   "county": "atlantic",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-12-17"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": 7466.54,
-   "auction_id": "2227686641",
-   "status": "SCHEDULED",
-   "case_number": "F-006404-25",
-   "parcel_id": null,
-   "address": "2834 Atlantic Avenue",
-   "city": "",
-   "zip": null,
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Stone Wool 22, LLC",
-   "defendant": "Equity Trust Company Custodian FBO Sara Gindi, IRA",
-   "attorney": "Bronster LLP",
-   "sale_date": "2026-12-17",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686641",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289487",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26001281"
   },
   {
@@ -532,7 +260,7 @@
    ],
    "times_postponed": 8,
    "upset_amount": 2652894.77,
-   "auction_id": "2227686642",
+   "auction_id": "2234289489",
    "status": "SCHEDULED",
    "case_number": "F-005481-24",
    "parcel_id": null,
@@ -547,8 +275,8 @@
    "attorney": "Chapman and Cutler LLP",
    "sale_date": "2027-02-04",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686642",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289489",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-25000962"
   },
   {
@@ -570,7 +298,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 179804.32,
-   "auction_id": "2227686648",
+   "auction_id": "2234289501",
    "status": "SCHEDULED",
    "case_number": "F-3309-26",
    "parcel_id": null,
@@ -585,9 +313,69 @@
    "attorney": "Dembo, Brown & Burns, LLP",
    "sale_date": "2026-12-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686648",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289501",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26001041"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-19"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 9848.27,
+   "auction_id": "2234289835",
+   "status": "SCHEDULED",
+   "case_number": "F-966-26",
+   "parcel_id": null,
+   "address": "630 Fairway Lane",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Fairway Villas At Seaview Condominium Association, Inc.",
+   "defendant": "Michelle Volksen; Landmark Tower Condo Assn",
+   "attorney": "Fein, Such, Kahn & Shepard P.C.",
+   "sale_date": "2026-11-19",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289835",
+   "as_of": "2026-11-08T06:14-05:00",
+   "sheriff_number": "F-26001169"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-19"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4505.1,
+   "auction_id": "2234289837",
+   "status": "SCHEDULED",
+   "case_number": "F-3977-26",
+   "parcel_id": null,
+   "address": "622 Fairway Lane",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Fairway Villas At Seaview Condominium Association, Inc.",
+   "defendant": "James Mark Beach; Lisa Kane Beach",
+   "attorney": "Fein, Such, Kahn & Shepard P.C.",
+   "sale_date": "2026-11-19",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289837",
+   "as_of": "2026-11-08T06:14-05:00",
+   "sheriff_number": "F-26001172"
   },
   {
    "county": "atlantic",
@@ -624,7 +412,7 @@
    ],
    "times_postponed": 6,
    "upset_amount": 110225.11,
-   "auction_id": "2227686763",
+   "auction_id": "2234289746",
    "status": "SCHEDULED",
    "case_number": "F-7338-23",
    "parcel_id": null,
@@ -639,8 +427,8 @@
    "attorney": "Fein, Such, Kahn & Shepard P.C.",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686763",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289746",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26000293"
   },
   {
@@ -654,7 +442,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 4613.13,
-   "auction_id": "2227686812",
+   "auction_id": "2234289850",
    "status": "SCHEDULED",
    "case_number": "F-10259-25",
    "parcel_id": null,
@@ -669,69 +457,9 @@
    "attorney": "Fein, Such, Kahn & Shepard P.C.",
    "sale_date": "2027-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686812",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289850",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26001306"
-  },
-  {
-   "county": "atlantic",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-11-19"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": 9848.27,
-   "auction_id": "2227686805",
-   "status": "SCHEDULED",
-   "case_number": "F-966-26",
-   "parcel_id": null,
-   "address": "630 Fairway Lane",
-   "city": "",
-   "zip": null,
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Fairway Villas At Seaview Condominium Association, Inc.",
-   "defendant": "Michelle Volksen; Landmark Tower Condo Assn",
-   "attorney": "Fein, Such, Kahn & Shepard P.C.",
-   "sale_date": "2026-11-19",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686805",
-   "as_of": "2026-11-04T10:38-05:00",
-   "sheriff_number": "F-26001169"
-  },
-  {
-   "county": "atlantic",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-11-19"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": 4505.1,
-   "auction_id": "2227686806",
-   "status": "SCHEDULED",
-   "case_number": "F-3977-26",
-   "parcel_id": null,
-   "address": "622 Fairway Lane",
-   "city": "",
-   "zip": null,
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Fairway Villas At Seaview Condominium Association, Inc.",
-   "defendant": "James Mark Beach; Lisa Kane Beach",
-   "attorney": "Fein, Such, Kahn & Shepard P.C.",
-   "sale_date": "2026-11-19",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686806",
-   "as_of": "2026-11-04T10:38-05:00",
-   "sheriff_number": "F-26001172"
   },
   {
    "county": "atlantic",
@@ -744,7 +472,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 4505.1,
-   "auction_id": "2227686807",
+   "auction_id": "2234289839",
    "status": "SCHEDULED",
    "case_number": "F-2018-26",
    "parcel_id": null,
@@ -759,8 +487,8 @@
    "attorney": "Fein, Such, Kahn & Shepard P.C.",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686807",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289839",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26001183"
   },
   {
@@ -774,7 +502,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 7470.95,
-   "auction_id": "2227686808",
+   "auction_id": "2234289842",
    "status": "SCHEDULED",
    "case_number": "F-3291-26",
    "parcel_id": null,
@@ -789,8 +517,8 @@
    "attorney": "Fein, Such, Kahn & Shepard P.C.",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686808",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289842",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26001184"
   },
   {
@@ -804,7 +532,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 4613.13,
-   "auction_id": "2227686809",
+   "auction_id": "2234289844",
    "status": "SCHEDULED",
    "case_number": "F-3446-26",
    "parcel_id": null,
@@ -819,8 +547,8 @@
    "attorney": "Fein, Such, Kahn & Shepard P.C.",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686809",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289844",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26001186"
   },
   {
@@ -834,7 +562,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 4505.1,
-   "auction_id": "2227686810",
+   "auction_id": "2234289846",
    "status": "SCHEDULED",
    "case_number": "F-2002-26",
    "parcel_id": null,
@@ -849,8 +577,8 @@
    "attorney": "Fein, Such, Kahn & Shepard P.C.",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686810",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289846",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26001190"
   },
   {
@@ -864,7 +592,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 4535.35,
-   "auction_id": "2227686811",
+   "auction_id": "2234289848",
    "status": "SCHEDULED",
    "case_number": "F-10133-25",
    "parcel_id": null,
@@ -879,8 +607,8 @@
    "attorney": "Fein, Such, Kahn & Shepard P.C.",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686811",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289848",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26001192"
   },
   {
@@ -893,8 +621,38 @@
     }
    ],
    "times_postponed": 0,
+   "upset_amount": 78314.02,
+   "auction_id": "2234289887",
+   "status": "SCHEDULED",
+   "case_number": "F-003428-26",
+   "parcel_id": null,
+   "address": "2261-2263 Richards Avenue",
+   "city": "Mullica Township",
+   "zip": "08037",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the Benefit of the Freddie Mac Seasoned Loans Structured Transaction Trust, Series 2020-1",
+   "defendant": "Ernest R Wells Jr, A/K/A Ernest R Wells; et al",
+   "attorney": "Freidman Vartolo",
+   "sale_date": "2027-01-14",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289887",
+   "as_of": "2026-11-08T06:14-05:00",
+   "sheriff_number": "F-26001318"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-14"
+    }
+   ],
+   "times_postponed": 0,
    "upset_amount": 229067.32,
-   "auction_id": "2227686828",
+   "auction_id": "2234289890",
    "status": "SCHEDULED",
    "case_number": "F-001413-23 Alias",
    "parcel_id": null,
@@ -909,8 +667,8 @@
    "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
    "sale_date": "2027-01-14",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686828",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289890",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-23001306"
   },
   {
@@ -924,7 +682,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 394785.84,
-   "auction_id": "2227686883",
+   "auction_id": "2234290061",
    "status": "SCHEDULED",
    "case_number": "F-008988-25",
    "parcel_id": null,
@@ -939,9 +697,39 @@
    "attorney": "Friedman Vartolo LLP",
    "sale_date": "2027-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686883",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234290061",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26001288"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-14"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 154213.36,
+   "auction_id": "2234290087",
+   "status": "SCHEDULED",
+   "case_number": "F-009852-25",
+   "parcel_id": null,
+   "address": "99 Sycamore Avenue",
+   "city": "Egg Harbor Township",
+   "zip": "08234",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. Bank National Association, not in its individual capacity but solely as trustee for the RMAC Trust, Series 2016-HC-CTT",
+   "defendant": "Josette Murcia; et al",
+   "attorney": "Friedman Vartolo, LLP",
+   "sale_date": "2027-01-14",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234290087",
+   "as_of": "2026-11-08T06:14-05:00",
+   "sheriff_number": "F-26001320"
   },
   {
    "county": "atlantic",
@@ -962,7 +750,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 1183017.59,
-   "auction_id": "2227686890",
+   "auction_id": "2234290084",
    "status": "SCHEDULED",
    "case_number": "F-000881-26",
    "parcel_id": null,
@@ -977,8 +765,8 @@
    "attorney": "Friedman Vartolo, LLP",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686890",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234290084",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26000921"
   },
   {
@@ -992,7 +780,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 54902.77,
-   "auction_id": "2227686901",
+   "auction_id": "2234290124",
    "status": "SCHEDULED",
    "case_number": "F-1704-21",
    "parcel_id": null,
@@ -1007,8 +795,8 @@
    "attorney": "Gary C. Zeitz, L.L.C.",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686901",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234290124",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26001129"
   },
   {
@@ -1022,7 +810,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 661154.78,
-   "auction_id": "2227686912",
+   "auction_id": "2234290159",
    "status": "SCHEDULED",
    "case_number": "SWC-F-008627-24 Alias",
    "parcel_id": null,
@@ -1037,39 +825,9 @@
    "attorney": "Greenspoon Marder, LLP",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686912",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234290159",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-25000854"
-  },
-  {
-   "county": "atlantic",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-11-05"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": 334978.32,
-   "auction_id": "2227686942",
-   "status": "SCHEDULED",
-   "case_number": "F-003056-25",
-   "parcel_id": null,
-   "address": "677 Zion Road",
-   "city": "Egg Harbor Township",
-   "zip": "08234",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Freedom Mortgage Corporation",
-   "defendant": "Alexis Knox",
-   "attorney": "Gross Polowy, LLC",
-   "sale_date": "2026-11-05",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686942",
-   "as_of": "2026-11-04T10:38-05:00",
-   "sheriff_number": "F-26001101"
   },
   {
    "county": "atlantic",
@@ -1082,7 +840,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 173883.06,
-   "auction_id": "2227686944",
+   "auction_id": "2234290202",
    "status": "SCHEDULED",
    "case_number": "F-003984-25",
    "parcel_id": null,
@@ -1097,8 +855,8 @@
    "attorney": "Gross Polowy, LLC",
    "sale_date": "2026-12-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686944",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234290202",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26001264"
   },
   {
@@ -1112,7 +870,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 171665.72,
-   "auction_id": "2227686995",
+   "auction_id": "2234290243",
    "status": "SCHEDULED",
    "case_number": "F-002326-25",
    "parcel_id": null,
@@ -1127,8 +885,8 @@
    "attorney": "Hill Wallack LLP",
    "sale_date": "2026-12-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686995",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234290243",
+   "as_of": "2026-11-08T06:14-05:00",
    "sheriff_number": "F-26001275"
   },
   {
@@ -1178,7 +936,7 @@
    ],
    "times_postponed": 7,
    "upset_amount": 207330.23,
-   "auction_id": "2227686981",
+   "auction_id": "2234290236",
    "status": "SCHEDULED",
    "case_number": "F-000135-25",
    "parcel_id": null,
@@ -1193,8 +951,8 @@
    "attorney": "Hill Wallack LLP",
    "sale_date": "2026-12-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227686981",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234290236",
+   "as_of": "2026-11-08T06:15-05:00",
    "sheriff_number": "F-25000728"
   },
   {
@@ -1202,13 +960,17 @@
    "state": "new-jersey",
    "status_history": [
     {
+     "status": "Defendant Adjourned to",
+     "date": "2027-01-14"
+    },
+    {
      "status": "Scheduled",
      "date": "2026-12-17"
     }
    ],
-   "times_postponed": 0,
+   "times_postponed": 1,
    "upset_amount": 276743.62,
-   "auction_id": "2227687015",
+   "auction_id": "2234290254",
    "status": "SCHEDULED",
    "case_number": "F-009266-25",
    "parcel_id": null,
@@ -1221,10 +983,10 @@
    "plaintiff": "U.S. Bank Trust, National Association Not In Its Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
    "defendant": "Louis Germanio; Rita Germanio; Pamela Calimer, CRNFA; State of New Jersey",
    "attorney": "Hladik, Onorato & Federman, LLP",
-   "sale_date": "2026-12-17",
+   "sale_date": "2027-01-14",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687015",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234290254",
+   "as_of": "2026-11-08T06:15-05:00",
    "sheriff_number": "F-26001268"
   },
   {
@@ -1238,7 +1000,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 8850000.0,
-   "auction_id": "2227687017",
+   "auction_id": "2234290255",
    "status": "SCHEDULED",
    "case_number": "SWC-F-009769-24",
    "parcel_id": null,
@@ -1253,9 +1015,1083 @@
    "attorney": "Holland & Knight, LLP",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687017",
-   "as_of": "2026-11-04T10:38-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234290255",
+   "as_of": "2026-11-08T06:15-05:00",
    "sheriff_number": "F-25000911"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-14"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 236610.57,
+   "auction_id": "2234290260",
+   "status": "SCHEDULED",
+   "case_number": "F-6701-26",
+   "parcel_id": null,
+   "address": "600 pacific Avenue",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "REM Real Estate Corp",
+   "defendant": "Margaret Burroughs, LVNV Funding, LLC; State of New Jersey; University of Penn New Bolton Center; Midland Funding, LLC; GE Money Bank",
+   "attorney": "Honig & Greenberg, L.L.C.",
+   "sale_date": "2027-01-14",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234290260",
+   "as_of": "2026-11-08T06:15-05:00",
+   "sheriff_number": "F-26001335"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 33877.43,
+   "auction_id": "2234367000",
+   "status": "SCHEDULED",
+   "case_number": "F-008440-25",
+   "parcel_id": null,
+   "address": "1520 Hamburg Avenue",
+   "city": "Egg Harbor City",
+   "zip": "08215",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "TH MSR Holdings LLC",
+   "defendant": "Anton I. Markowitz; Mrs. Anton I. Markowitz, his wife; Kristy L. Markowitz",
+   "attorney": "Albertelli Law",
+   "sale_date": "2026-12-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367000",
+   "as_of": "2026-11-08T07:17-05:00",
+   "sheriff_number": "F-26001200"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-12-17"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-19"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 329222.05,
+   "auction_id": "2234367048",
+   "status": "SCHEDULED",
+   "case_number": "F-014207-25",
+   "parcel_id": null,
+   "address": "127 Crystal Lake Drive",
+   "city": "Egg Harbor Township",
+   "zip": "08234",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Freedom Mortgage Corporation",
+   "defendant": "Eladio Valentin; Elba Valentin; Crystal Lake Homeowners' Association, Inc.; Egg Harbor Care and Rehabilitation Center LLC D/B/A Excel Care at Egg Harbor; State of New Jersey",
+   "attorney": "Brock & Scott, PLLC",
+   "sale_date": "2026-12-17",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367048",
+   "as_of": "2026-11-08T07:17-05:00",
+   "sheriff_number": "F-26001180"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-17"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 151655.2,
+   "auction_id": "2234367049",
+   "status": "SCHEDULED",
+   "case_number": "F-005441-26",
+   "parcel_id": null,
+   "address": "5910 SIXTH Street",
+   "city": "Mays Landing",
+   "zip": "08330",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Freedom Morgage Corporation",
+   "defendant": "John H Beck; Jeanene Beck; Joanne R Vaccaro; Paul Vaccaro; Wilmington Trust Company FSB; State of New Jersey; United States of America",
+   "attorney": "Brock & Scott, PLLC",
+   "sale_date": "2026-12-17",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367049",
+   "as_of": "2026-11-08T07:17-05:00",
+   "sheriff_number": "F-26001267"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-12-03"
+    },
+    {
+     "status": "Court Adjourned to",
+     "date": "2026-11-05"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-09-24"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-08-27"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-07-30"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 174905.43,
+   "auction_id": "2234367043",
+   "status": "SCHEDULED",
+   "case_number": "F-008867-25",
+   "parcel_id": null,
+   "address": "325 Larchmont Drive",
+   "city": "Pleasantville",
+   "zip": "08232",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Freedom Mortgage Corporation",
+   "defendant": "Lucyann Colon; United States of America",
+   "attorney": "Brock & Scott, PLLC",
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367043",
+   "as_of": "2026-11-08T07:17-05:00",
+   "sheriff_number": "F-26000720"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-12-03"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-11-05"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-10-08"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-09-10"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 405984.19,
+   "auction_id": "2234367045",
+   "status": "SCHEDULED",
+   "case_number": "F-000099-26",
+   "parcel_id": null,
+   "address": "130 Giulia Lane",
+   "city": "Galloway Township",
+   "zip": "08205",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Freedom Mortgage Corporation",
+   "defendant": "Jermaine M. Baskerville; Deborah Baskerville; Atlantic City Electric; Cavalry SPV I, LLC, Assignee of CitiBank, N.A.; MIdland Credit Management, Inc., Assignee of the Bank of Missouri; State of New Jersey; United States of America",
+   "attorney": "Brock & Scott, PLLC",
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367045",
+   "as_of": "2026-11-08T07:17-05:00",
+   "sheriff_number": "F-26000879"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-17"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 7466.54,
+   "auction_id": "2234367051",
+   "status": "SCHEDULED",
+   "case_number": "F-006404-25",
+   "parcel_id": null,
+   "address": "2834 Atlantic Avenue",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Stone Wool 22, LLC",
+   "defendant": "Equity Trust Company Custodian FBO Sara Gindi, IRA",
+   "attorney": "Bronster LLP",
+   "sale_date": "2026-12-17",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367051",
+   "as_of": "2026-11-08T07:17-05:00",
+   "sheriff_number": "F-26001281"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Consensual/Mutual Adjournment",
+     "date": "2027-02-04"
+    },
+    {
+     "status": "Court Adjourned to",
+     "date": "2026-11-05"
+    },
+    {
+     "status": "Court Adjourned to",
+     "date": "2026-07-09"
+    },
+    {
+     "status": "Consensual/Mutual Adjournment",
+     "date": "2026-04-02"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-03-05"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-02-05"
+    },
+    {
+     "status": "Defendant's Attorney Adjourned to",
+     "date": "2026-01-08"
+    },
+    {
+     "status": "Defendant's Attorney Adjourned to",
+     "date": "2025-12-04"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2025-10-30"
+    }
+   ],
+   "times_postponed": 8,
+   "upset_amount": 2652894.77,
+   "auction_id": "2234367052",
+   "status": "SCHEDULED",
+   "case_number": "F-005481-24",
+   "parcel_id": null,
+   "address": "5806 Boardwalk",
+   "city": "Ventnor City",
+   "zip": "08406",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Bank of America, N.A.",
+   "defendant": "5806 Boardwalk LLC; Steven E. Fishman; LCP Ventures 7 LLC; The State of New Jersey; The United States of America",
+   "attorney": "Chapman and Cutler LLP",
+   "sale_date": "2027-02-04",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367052",
+   "as_of": "2026-11-08T07:17-05:00",
+   "sheriff_number": "F-25000962"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Defendant's Attorney Adjourned to",
+     "date": "2026-12-17"
+    },
+    {
+     "status": "Defendant's Attorney Adjourned to",
+     "date": "2026-11-19"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-10-22"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 179804.32,
+   "auction_id": "2234367058",
+   "status": "SCHEDULED",
+   "case_number": "F-3309-26",
+   "parcel_id": null,
+   "address": "416 North Kentucky Avenue",
+   "city": "Atlantic City",
+   "zip": "08401",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Eugene Wien",
+   "defendant": "Taliaferro Construction Services Inc.; Alvin F Taliaferro; State of New Jersey",
+   "attorney": "Dembo, Brown & Burns, LLP",
+   "sale_date": "2026-12-17",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367058",
+   "as_of": "2026-11-08T07:17-05:00",
+   "sheriff_number": "F-26001041"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-19"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 9848.27,
+   "auction_id": "2234367215",
+   "status": "SCHEDULED",
+   "case_number": "F-966-26",
+   "parcel_id": null,
+   "address": "630 Fairway Lane",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Fairway Villas At Seaview Condominium Association, Inc.",
+   "defendant": "Michelle Volksen; Landmark Tower Condo Assn",
+   "attorney": "Fein, Such, Kahn & Shepard P.C.",
+   "sale_date": "2026-11-19",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367215",
+   "as_of": "2026-11-08T07:17-05:00",
+   "sheriff_number": "F-26001169"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-19"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4505.1,
+   "auction_id": "2234367216",
+   "status": "SCHEDULED",
+   "case_number": "F-3977-26",
+   "parcel_id": null,
+   "address": "622 Fairway Lane",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Fairway Villas At Seaview Condominium Association, Inc.",
+   "defendant": "James Mark Beach; Lisa Kane Beach",
+   "attorney": "Fein, Such, Kahn & Shepard P.C.",
+   "sale_date": "2026-11-19",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367216",
+   "as_of": "2026-11-08T07:17-05:00",
+   "sheriff_number": "F-26001172"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Court Adjourned to",
+     "date": "2026-12-03"
+    },
+    {
+     "status": "Court Adjourned to",
+     "date": "2026-10-01"
+    },
+    {
+     "status": "Court Adjourned to",
+     "date": "2026-09-24"
+    },
+    {
+     "status": "Court Adjourned to",
+     "date": "2026-07-30"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-07-02"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-06-04"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-05-07"
+    }
+   ],
+   "times_postponed": 6,
+   "upset_amount": 110225.11,
+   "auction_id": "2234367173",
+   "status": "SCHEDULED",
+   "case_number": "F-7338-23",
+   "parcel_id": null,
+   "address": "100 Mill Road",
+   "city": "Absecon",
+   "zip": "08201",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. Bank Trust National Association, Not in its Individual Capacity but Solely As Owner Trustee for RCAF Acquisition Trust",
+   "defendant": "Tammy Morris; Paul Morris, Jr.; Paul E. Morris Sr., his/her heirs, devisees and personal representatives, and his, her, their or any of their successors in right, title and interest; Cross Country Bank n/k/a Applied Bank; New Century Financial Services Ind; State of New Jersey; United States of America; Mr./Mrs. Morris, spouse of Tammy Morris; Mr./Mrs. Morris, spouse of Paul Morris, Jr. n/k/a Janelle Morris;",
+   "attorney": "Fein, Such, Kahn & Shepard P.C.",
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367173",
+   "as_of": "2026-11-08T07:17-05:00",
+   "sheriff_number": "F-26000293"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-07"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4613.13,
+   "auction_id": "2234367222",
+   "status": "SCHEDULED",
+   "case_number": "F-10259-25",
+   "parcel_id": null,
+   "address": "612 Fairway Lane",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Fairway Villas At Seaview Condominium Association, Inc.",
+   "defendant": "Christopher T Wright, his/her heirs, devisees and personal representatives and his, her, their or any of their successors in right, title and interest, Joanne Quigley Wright, Michael Wright, State of New Jersey, Unites States of America",
+   "attorney": "Fein, Such, Kahn & Shepard P.C.",
+   "sale_date": "2027-01-07",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367222",
+   "as_of": "2026-11-08T07:17-05:00",
+   "sheriff_number": "F-26001306"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-03"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4505.1,
+   "auction_id": "2234367217",
+   "status": "SCHEDULED",
+   "case_number": "F-2018-26",
+   "parcel_id": null,
+   "address": "641 Fairway Lane",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Fairway Villas at Seaview Condominium Association, Inc.",
+   "defendant": "Curtis P Johnson; Ramona F Johnson",
+   "attorney": "Fein, Such, Kahn & Shepard P.C.",
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367217",
+   "as_of": "2026-11-08T07:17-05:00",
+   "sheriff_number": "F-26001183"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-03"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 7470.95,
+   "auction_id": "2234367218",
+   "status": "SCHEDULED",
+   "case_number": "F-3291-26",
+   "parcel_id": null,
+   "address": "555 Fairway Lane",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Fairway Villas At Seaview Condominium Association, Inc.",
+   "defendant": "Roberto Tajani; Pierina D'Ambrosio",
+   "attorney": "Fein, Such, Kahn & Shepard P.C.",
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367218",
+   "as_of": "2026-11-08T07:17-05:00",
+   "sheriff_number": "F-26001184"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-03"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4613.13,
+   "auction_id": "2234367219",
+   "status": "SCHEDULED",
+   "case_number": "F-3446-26",
+   "parcel_id": null,
+   "address": "501 Fairway Lane",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Fairway Villas at Seaview Condominium Association, Inc.",
+   "defendant": "Veronica Lopez Del Campo; Francisca Fuentes Lopez; Veronica Fuentes Lopez; Bernardita Fuentes Lopez; Humberto Fuentes; Humberto Fuentes Lopez; Juan Pablo Fuentes Lopez",
+   "attorney": "Fein, Such, Kahn & Shepard P.C.",
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367219",
+   "as_of": "2026-11-08T07:17-05:00",
+   "sheriff_number": "F-26001186"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-03"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4505.1,
+   "auction_id": "2234367220",
+   "status": "SCHEDULED",
+   "case_number": "F-2002-26",
+   "parcel_id": null,
+   "address": "588 Fairway Lane",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Fairway Villas At Seaview Condominium Association, Inc.",
+   "defendant": "Brian Boyle, Individually and as Personal Representative of the Estate of Lee M. Piper; Maureeen Duthie; JOhn Boyle; Tim Boyle; State of New Jersey; United States of America",
+   "attorney": "Fein, Such, Kahn & Shepard P.C.",
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367220",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-26001190"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-03"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 4535.35,
+   "auction_id": "2234367221",
+   "status": "SCHEDULED",
+   "case_number": "F-10133-25",
+   "parcel_id": null,
+   "address": "533 Fairway Lane",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Fairway Villas At Seaview Condominium Association, Inc.",
+   "defendant": "Barbara Van Norstrand",
+   "attorney": "Fein, Such, Kahn & Shepard P.C.",
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367221",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-26001192"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-14"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 78314.02,
+   "auction_id": "2234367237",
+   "status": "SCHEDULED",
+   "case_number": "F-003428-26",
+   "parcel_id": null,
+   "address": "2261-2263 Richards Avenue",
+   "city": "Mullica Township",
+   "zip": "08037",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Federal Home Loan Mortgage Corporation, as Trustee for the Benefit of the Freddie Mac Seasoned Loans Structured Transaction Trust, Series 2020-1",
+   "defendant": "Ernest R Wells Jr, A/K/A Ernest R Wells; et al",
+   "attorney": "Freidman Vartolo",
+   "sale_date": "2027-01-14",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367237",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-26001318"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-14"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 229067.32,
+   "auction_id": "2234367238",
+   "status": "SCHEDULED",
+   "case_number": "F-001413-23 Alias",
+   "parcel_id": null,
+   "address": "1689 McCall Avenue",
+   "city": "Mays Landing",
+   "zip": "08330",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Lakeview Loan Servicing, LLC",
+   "defendant": "Michelle Carrigan; Mr. Carrigan, Husband of Michelle Carrigan",
+   "attorney": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+   "sale_date": "2027-01-14",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367238",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-23001306"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-07"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 394785.84,
+   "auction_id": "2234367294",
+   "status": "SCHEDULED",
+   "case_number": "F-008988-25",
+   "parcel_id": null,
+   "address": "502 Lazy Lane",
+   "city": "Absecon",
+   "zip": "08201",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "US Bank Trust National Association, not in its individual capacity but solely as owner trustee for VRMTG Asset Trust",
+   "defendant": "Craig L Cochran; et al",
+   "attorney": "Friedman Vartolo LLP",
+   "sale_date": "2027-01-07",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367294",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-26001288"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-14"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 154213.36,
+   "auction_id": "2234367302",
+   "status": "SCHEDULED",
+   "case_number": "F-009852-25",
+   "parcel_id": null,
+   "address": "99 Sycamore Avenue",
+   "city": "Egg Harbor Township",
+   "zip": "08234",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. Bank National Association, not in its individual capacity but solely as trustee for the RMAC Trust, Series 2016-HC-CTT",
+   "defendant": "Josette Murcia; et al",
+   "attorney": "Friedman Vartolo, LLP",
+   "sale_date": "2027-01-14",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367302",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-26001320"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-11-19"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-10-22"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-09-24"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 1183017.59,
+   "auction_id": "2234367301",
+   "status": "SCHEDULED",
+   "case_number": "F-000881-26",
+   "parcel_id": null,
+   "address": "905 East Brigantine Avenue",
+   "city": "Brigantine",
+   "zip": "08203",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Wilmington Savings Fund Society, FSB not in its individual capacity but solely as Owner of Trustee of OBX 2024-NQM6 Trust",
+   "defendant": "Eli's Haus 905, LLC; Susan R. Krahforst",
+   "attorney": "Friedman Vartolo, LLP",
+   "sale_date": "2026-11-19",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367301",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-26000921"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-12"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 54902.77,
+   "auction_id": "2234367313",
+   "status": "SCHEDULED",
+   "case_number": "F-1704-21",
+   "parcel_id": null,
+   "address": "335 Heathercroft",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PC7REO, LLC",
+   "defendant": "Barbara Cole, her heirs, devisees and personal representatives and their or any of their successors in right, title and interest; Avis Cole Williams, Individually and as Administratrix ot the Estate of Barbara Cole; Linda Woodson, aka Linda Woddson, Heir to Barbara Cole.; Heather Croft Condominium Association Inc; Deutsche bank National Trust Company, as Trustee for Home Loan Mortgage Loan Trust 2005-1; State of New Jersey; Call Control; Johnsons Electric, aka Samual Johnsons Electric, Inc.; A Harold Kokes; Greenridge Funeral Homes Inc.; Advance Kirby; Discover Bank, by its servicing agent Discover Financial Services Inc dba Discover Card",
+   "attorney": "Gary C. Zeitz, L.L.C.",
+   "sale_date": "2026-11-12",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367313",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-26001129"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-12"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 661154.78,
+   "auction_id": "2234367324",
+   "status": "SCHEDULED",
+   "case_number": "SWC-F-008627-24 Alias",
+   "parcel_id": null,
+   "address": "24 North Vassar Square",
+   "city": "Ventnor City",
+   "zip": "08406",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Wilmington Trust Company, As Trustee to Structured Asset Securities Mortgage Pass-Through Certificates, Series 2005-2XS",
+   "defendant": "Mohammed Salam; Farhana Salam; Meherun Salam and State of New Jersey",
+   "attorney": "Greenspoon Marder, LLP",
+   "sale_date": "2026-11-12",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367324",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-25000854"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-17"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 173883.06,
+   "auction_id": "2234367343",
+   "status": "SCHEDULED",
+   "case_number": "F-003984-25",
+   "parcel_id": null,
+   "address": "3209 Dolphin Avenue",
+   "city": "Northfield",
+   "zip": "08225",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PHH Mortgage Corporation",
+   "defendant": "Joseph R Doron, his or her heirs, Devisees, and Personal Representatives and his, hers, their, or any of their, successors in right, title and interest; James Doron; Gary Doron; State of New Jersey; United States of America; Four Seasons Condominium  Association, Inc.",
+   "attorney": "Gross Polowy, LLC",
+   "sale_date": "2026-12-17",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367343",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-26001264"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-17"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 171665.72,
+   "auction_id": "2234367370",
+   "status": "SCHEDULED",
+   "case_number": "F-002326-25",
+   "parcel_id": null,
+   "address": "21 Sugarberry Road",
+   "city": "Egg Harbor Township",
+   "zip": "08234",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Wilmington Savings Fund Society FSB a Owner Trustee of the Residential Credit Opportunities Trust IX-B",
+   "defendant": "Jasvir Kaur, Mr or Mrs Kaur, husband or wife of Jasvir Kaur, the spouse, domestic partner or civil union partner of Jasvir Kaur; New Jersey Housing and Mortage Finance Agency; State of New Jersey; Meridian Bank",
+   "attorney": "Hill Wallack LLP",
+   "sale_date": "2026-12-17",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367370",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-26001275"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Court Adjourned to",
+     "date": "2026-12-17"
+    },
+    {
+     "status": "Court Adjourned to",
+     "date": "2026-11-12"
+    },
+    {
+     "status": "Rescheduled Post Bankruptcy to",
+     "date": "2026-10-01"
+    },
+    {
+     "status": "Indefinite Bankruptcy",
+     "date": "2026-05-21"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-05-21"
+    },
+    {
+     "status": "Rescheduled Post Bankruptcy to",
+     "date": "2026-04-23"
+    },
+    {
+     "status": "Indefinite Bankruptcy",
+     "date": "2025-10-23"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2025-10-23"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2025-09-25"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2025-08-28"
+    }
+   ],
+   "times_postponed": 7,
+   "upset_amount": 207330.23,
+   "auction_id": "2234367363",
+   "status": "SCHEDULED",
+   "case_number": "F-000135-25",
+   "parcel_id": null,
+   "address": "6042 Hickory Street",
+   "city": "Mays Landing",
+   "zip": "08330",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Carrington Mortgage Services, LLC",
+   "defendant": "April L. Winchester; Philip T. Schenker, Jr; United States of America; New Jersey Housing and Mortgage Finance Agency; Midland Credit Management Inc",
+   "attorney": "Hill Wallack LLP",
+   "sale_date": "2026-12-17",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367363",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-25000728"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2027-01-14"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-12-17"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 276743.62,
+   "auction_id": "2234367381",
+   "status": "SCHEDULED",
+   "case_number": "F-009266-25",
+   "parcel_id": null,
+   "address": "1419 15th Avenue",
+   "city": "Dorothy",
+   "zip": "08317",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "U.S. Bank Trust, National Association Not In Its Capacity But Solely As Owner Trustee For RCF 2 Acquisition Trust",
+   "defendant": "Louis Germanio; Rita Germanio; Pamela Calimer, CRNFA; State of New Jersey",
+   "attorney": "Hladik, Onorato & Federman, LLP",
+   "sale_date": "2027-01-14",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367381",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-26001268"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-19"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 8850000.0,
+   "auction_id": "2234367382",
+   "status": "SCHEDULED",
+   "case_number": "SWC-F-009769-24",
+   "parcel_id": null,
+   "address": "392 White Horse Pike",
+   "city": "Hammonton",
+   "zip": "08037",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Wilmington Trust National Association, as Trustee, on Behalf of the Registered Holders of BMO 2022-C2 Mortgage Trust, Commercial Mortgage Pass-Through Certificates, Series 2022-C2, and the Uncertificated VRR Interest Owner, acting by and through Rialto Capital Advisors, LLC, as special servicer pursuant to that certain Pooling and Servicing Agreement, dated as of July 1, 2022",
+   "defendant": "NTG 897 12th Street L.L.C.; NTG 392 White Horse L.L.C.; NGT 6727 Delilah L.L.C.; State of New Jersey",
+   "attorney": "Holland & Knight, LLP",
+   "sale_date": "2026-11-19",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367382",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-25000911"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-14"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 236610.57,
+   "auction_id": "2234367387",
+   "status": "SCHEDULED",
+   "case_number": "F-6701-26",
+   "parcel_id": null,
+   "address": "600 pacific Avenue",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "REM Real Estate Corp",
+   "defendant": "Margaret Burroughs, LVNV Funding, LLC; State of New Jersey; University of Penn New Bolton Center; Midland Funding, LLC; GE Money Bank",
+   "attorney": "Honig & Greenberg, L.L.C.",
+   "sale_date": "2027-01-14",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367387",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-26001335"
   },
   {
    "county": "atlantic",
@@ -1268,7 +2104,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 40325.08,
-   "auction_id": "2227687025",
+   "auction_id": "2234367386",
    "status": "SCHEDULED",
    "case_number": "F-11655-23",
    "parcel_id": null,
@@ -1283,8 +2119,8 @@
    "attorney": "Honig & Greenberg, L.L.C.",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687025",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367386",
+   "as_of": "2026-11-08T07:18-05:00",
    "sheriff_number": "F-26001133"
   },
   {
@@ -1314,7 +2150,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 244587.1,
-   "auction_id": "2227687182",
+   "auction_id": "2234367533",
    "status": "SCHEDULED",
    "case_number": "F-001971-18 PLURIES",
    "parcel_id": null,
@@ -1329,9 +2165,39 @@
    "attorney": "KML Law Group, P.C.",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687182",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367533",
+   "as_of": "2026-11-08T07:18-05:00",
    "sheriff_number": "F-18001921"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-14"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 266384.68,
+   "auction_id": "2234367582",
+   "status": "SCHEDULED",
+   "case_number": "F-013915-25",
+   "parcel_id": null,
+   "address": "17 Fieldbrook Drive",
+   "city": "Egg Harbor Township",
+   "zip": "08234",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MidFirst Bank",
+   "defendant": "Christopher R Devera; et al",
+   "attorney": "KML Law Group, P.C.",
+   "sale_date": "2027-01-14",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367582",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-26001321"
   },
   {
    "county": "atlantic",
@@ -1344,7 +2210,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 94266.52,
-   "auction_id": "2227687194",
+   "auction_id": "2234367545",
    "status": "SCHEDULED",
    "case_number": "F-014125-23 ALIAS",
    "parcel_id": null,
@@ -1359,8 +2225,8 @@
    "attorney": "KML Law Group, P.C.",
    "sale_date": "2026-12-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687194",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367545",
+   "as_of": "2026-11-08T07:18-05:00",
    "sheriff_number": "F-24000836"
   },
   {
@@ -1374,7 +2240,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 160537.54,
-   "auction_id": "2227687204",
+   "auction_id": "2234367555",
    "status": "SCHEDULED",
    "case_number": "F-004120-24 ALIAS",
    "parcel_id": null,
@@ -1389,51 +2255,9 @@
    "attorney": "KML Law Group, P.C.",
    "sale_date": "2026-12-10",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687204",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367555",
+   "as_of": "2026-11-08T07:18-05:00",
    "sheriff_number": "F-24001357"
-  },
-  {
-   "county": "atlantic",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Court Adjourned to",
-     "date": "2026-11-05"
-    },
-    {
-     "status": "Defendant Adjourned to",
-     "date": "2026-09-24"
-    },
-    {
-     "status": "Defendant Adjourned to",
-     "date": "2026-08-27"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-07-30"
-    }
-   ],
-   "times_postponed": 3,
-   "upset_amount": 173180.61,
-   "auction_id": "2227687235",
-   "status": "SCHEDULED",
-   "case_number": "F-005708-25",
-   "parcel_id": null,
-   "address": "522 Drexel Avenue",
-   "city": "Atlantic City",
-   "zip": "08401",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "U.S. Bank Trust National Association, Not In Its Individual Capacity But Solely As Trustee For Chester Road Funding Trust II",
-   "defendant": "Solution-Maxx Real Estate, LLC; Cheryl J. Wetzel, As Executrix of the Estate of Fred Wetzel a/k/a Frederick B. Wetzel",
-   "attorney": "LaRocca Hornik Rosen & Greenberg LLP",
-   "sale_date": "2026-11-05",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687235",
-   "as_of": "2026-11-04T10:39-05:00",
-   "sheriff_number": "F-26000692"
   },
   {
    "county": "atlantic",
@@ -1442,12 +2266,16 @@
     {
      "status": "Scheduled",
      "date": "2026-12-10"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-01-07"
     }
    ],
-   "times_postponed": 0,
+   "times_postponed": 1,
    "upset_amount": 31627.66,
-   "auction_id": "2227687255",
-   "status": "SCHEDULED",
+   "auction_id": "2234367607",
+   "status": "DEFENDANT ADJOURNED TO",
    "case_number": "2215-24",
    "parcel_id": null,
    "address": "2230 Kuehnle Avenue",
@@ -1461,9 +2289,39 @@
    "attorney": "LOGS Legal Group LLP",
    "sale_date": "2026-12-10",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687255",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367607",
+   "as_of": "2026-11-08T07:18-05:00",
    "sheriff_number": "F-26001244"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-14"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 131539.01,
+   "auction_id": "2234367608",
+   "status": "SCHEDULED",
+   "case_number": "F005914-26",
+   "parcel_id": null,
+   "address": "107 Putting Green Avenue",
+   "city": "Northfield",
+   "zip": "08225",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Wells Fargo Bank, N.A.",
+   "defendant": "Kristen Maria Sinclair",
+   "attorney": "LOGS Legal Group LLP",
+   "sale_date": "2027-01-14",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367608",
+   "as_of": "2026-11-08T07:18-05:00",
+   "sheriff_number": "F-26001324"
   },
   {
    "county": "atlantic",
@@ -1492,7 +2350,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 182896.76,
-   "auction_id": "2227687261",
+   "auction_id": "2234367614",
    "status": "SCHEDULED",
    "case_number": "F-005386-25",
    "parcel_id": null,
@@ -1507,8 +2365,8 @@
    "attorney": "Martone & Uhlmann, A Professional Corporation",
    "sale_date": "2026-12-10",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687261",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367614",
+   "as_of": "2026-11-08T07:18-05:00",
    "sheriff_number": "F-26000354"
   },
   {
@@ -1530,7 +2388,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 104115.2,
-   "auction_id": "2227687259",
+   "auction_id": "2234367612",
    "status": "SCHEDULED",
    "case_number": "F-006611-25 ALIAS",
    "parcel_id": null,
@@ -1545,47 +2403,9 @@
    "attorney": "Martone & Uhlmann, A Professional Corporation",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687259",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367612",
+   "as_of": "2026-11-08T07:18-05:00",
    "sheriff_number": "F-26000007"
-  },
-  {
-   "county": "atlantic",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Defendant Adjourned to",
-     "date": "2027-01-07"
-    },
-    {
-     "status": "Defendant Adjourned to",
-     "date": "2026-12-10"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-11-12"
-    }
-   ],
-   "times_postponed": 2,
-   "upset_amount": 82905.54,
-   "auction_id": "2227687279",
-   "status": "SCHEDULED",
-   "case_number": "F-003873-26",
-   "parcel_id": null,
-   "address": "5330 White Horse Pike",
-   "city": "Egg Harbor City",
-   "zip": "08215",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Legacy Mortgage Asset Trust 2021-GS3",
-   "defendant": "Deanna DeMarco, a/k/a Deanna L. Demarco; Brian A. DeMarco, Sr. a/k/a Brian A. Demarco; First Horizon Home Loan Corporation; Garoppo Stone & Garden Center; Midland Funding, LLC; State of New Jersey; New Century Financial Services Inc",
-   "attorney": "McCabe, Weisberg & Conway, P.C.",
-   "sale_date": "2027-01-07",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687279",
-   "as_of": "2026-11-04T10:39-05:00",
-   "sheriff_number": "F-26001147"
   },
   {
    "county": "atlantic",
@@ -1614,7 +2434,7 @@
    ],
    "times_postponed": 4,
    "upset_amount": 83463.54,
-   "auction_id": "2227687278",
+   "auction_id": "2234367631",
    "status": "SCHEDULED",
    "case_number": "F-012239-25",
    "parcel_id": null,
@@ -1629,9 +2449,107 @@
    "attorney": "McCabe, Weisberg & Conway, P.C.",
    "sale_date": "2026-12-10",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687278",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367631",
+   "as_of": "2026-11-08T07:18-05:00",
    "sheriff_number": "F-26000719"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-14"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 67116.65,
+   "auction_id": "2234367633",
+   "status": "SCHEDULED",
+   "case_number": "F-008884-25",
+   "parcel_id": null,
+   "address": "302 Sherwood Drive",
+   "city": "Williamstown",
+   "zip": "08094",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Truist Bank",
+   "defendant": "Anthony J Mitros Jr., et al",
+   "attorney": "McCabe, Weisberg & Conway, P.C.",
+   "sale_date": "2027-01-14",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367633",
+   "as_of": "2026-11-08T07:19-05:00",
+   "sheriff_number": "F-26001319"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2027-01-07"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-12-10"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-11-12"
+    }
+   ],
+   "times_postponed": 2,
+   "upset_amount": 82905.54,
+   "auction_id": "2234367632",
+   "status": "SCHEDULED",
+   "case_number": "F-003873-26",
+   "parcel_id": null,
+   "address": "5330 White Horse Pike",
+   "city": "Egg Harbor City",
+   "zip": "08215",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Legacy Mortgage Asset Trust 2021-GS3",
+   "defendant": "Deanna DeMarco, a/k/a Deanna L. Demarco; Brian A. DeMarco, Sr. a/k/a Brian A. Demarco; First Horizon Home Loan Corporation; Garoppo Stone & Garden Center; Midland Funding, LLC; State of New Jersey; New Century Financial Services Inc",
+   "attorney": "McCabe, Weisberg & Conway, P.C.",
+   "sale_date": "2027-01-07",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367632",
+   "as_of": "2026-11-08T07:19-05:00",
+   "sheriff_number": "F-26001147"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-03"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 345203.36,
+   "auction_id": "2234367675",
+   "status": "SCHEDULED",
+   "case_number": "F-024213-17 ALIAS",
+   "parcel_id": null,
+   "address": "16 Rue Chagall",
+   "city": "Hamilton Township",
+   "zip": "08330",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "M & T Bank",
+   "defendant": "Jean Louis; Marie J. Victor; Rubbyna Louis; United States of America; State of New Jersey; Carolos O. Medina; State Farm Insurance Company, as subrogee for Josephine Nunn; Gabes Towing Company; Hackensack University Medical Center",
+   "attorney": "McCalla Raymer Leibert Pierce, LLC",
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367675",
+   "as_of": "2026-11-08T07:19-05:00",
+   "sheriff_number": "F-26000748"
   },
   {
    "county": "atlantic",
@@ -1656,7 +2574,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 211736.33,
-   "auction_id": "2227687322",
+   "auction_id": "2234367676",
    "status": "SCHEDULED",
    "case_number": "F-011792-25",
    "parcel_id": null,
@@ -1671,8 +2589,8 @@
    "attorney": "McCalla Raymer Leibert Pierce, LLC",
    "sale_date": "2026-12-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687322",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367676",
+   "as_of": "2026-11-08T07:19-05:00",
    "sheriff_number": "F-26000922"
   },
   {
@@ -1690,7 +2608,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 173258.91,
-   "auction_id": "2227687323",
+   "auction_id": "2234367677",
    "status": "SCHEDULED",
    "case_number": "F-002591-26",
    "parcel_id": null,
@@ -1705,8 +2623,8 @@
    "attorney": "McCalla Raymer Leibert Pierce, LLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687323",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367677",
+   "as_of": "2026-11-08T07:19-05:00",
    "sheriff_number": "F-26001086"
   },
   {
@@ -1724,7 +2642,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 140769.86,
-   "auction_id": "2227687324",
+   "auction_id": "2234367678",
    "status": "SCHEDULED",
    "case_number": "F-011714-25",
    "parcel_id": null,
@@ -1739,39 +2657,9 @@
    "attorney": "McCalla Raymer Leibert Pierce, LLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687324",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367678",
+   "as_of": "2026-11-08T07:19-05:00",
    "sheriff_number": "F-26001098"
-  },
-  {
-   "county": "atlantic",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-12-03"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": 345203.36,
-   "auction_id": "2227687321",
-   "status": "SCHEDULED",
-   "case_number": "F-024213-17 ALIAS",
-   "parcel_id": null,
-   "address": "16 Rue Chagall",
-   "city": "Hamilton Township",
-   "zip": "08330",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "M & T Bank",
-   "defendant": "Jean Louis; Marie J. Victor; Rubbyna Louis; United States of America; State of New Jersey; Carolos O. Medina; State Farm Insurance Company, as subrogee for Josephine Nunn; Gabes Towing Company; Hackensack University Medical Center",
-   "attorney": "McCalla Raymer Leibert Pierce, LLC",
-   "sale_date": "2026-12-03",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687321",
-   "as_of": "2026-11-04T10:39-05:00",
-   "sheriff_number": "F-26000748"
   },
   {
    "county": "atlantic",
@@ -1792,7 +2680,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 191215.55,
-   "auction_id": "2227687361",
+   "auction_id": "2234367715",
    "status": "SCHEDULED",
    "case_number": "F-000531-26",
    "parcel_id": null,
@@ -1807,97 +2695,9 @@
    "attorney": "Pincus Law Group, PLLC",
    "sale_date": "2027-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687361",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367715",
+   "as_of": "2026-11-08T07:19-05:00",
    "sheriff_number": "F-26001137"
-  },
-  {
-   "county": "atlantic",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-11-19"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": 268223.91,
-   "auction_id": "2227687398",
-   "status": "SCHEDULED",
-   "case_number": "F-003146-26",
-   "parcel_id": null,
-   "address": "2028 Horace J Bryant Jr Drive",
-   "city": "Atlantic City",
-   "zip": "08401",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "Village Capital & Investment LLC",
-   "defendant": "Willie Ceasar, his heirs, devisees and personal representatives and his, her, their or any of their successors in right, title and interest; Lashandra Tamika Cross, heir; Daris Julius Ceasar Macon, hrie; Malik Macon, Heir; Atlantic County Improvement Authority; State of New Jersey; United States of America",
-   "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
-   "sale_date": "2026-11-19",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687398",
-   "as_of": "2026-11-04T10:39-05:00",
-   "sheriff_number": "F-26001166"
-  },
-  {
-   "county": "atlantic",
-   "state": "new-jersey",
-   "status_history": [
-    {
-     "status": "Court Adjourned to",
-     "date": "2026-12-03"
-    },
-    {
-     "status": "Defendant Adjourned to",
-     "date": "2026-10-22"
-    },
-    {
-     "status": "Court Adjourned to",
-     "date": "2026-09-24"
-    },
-    {
-     "status": "Court Adjourned to",
-     "date": "2026-08-06"
-    },
-    {
-     "status": "Plaintiff Adjourned to",
-     "date": "2026-06-25"
-    },
-    {
-     "status": "Defendant Adjourned to",
-     "date": "2026-05-28"
-    },
-    {
-     "status": "Plaintiff Adjourned to",
-     "date": "2026-04-30"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-04-02"
-    }
-   ],
-   "times_postponed": 7,
-   "upset_amount": 198806.47,
-   "auction_id": "2227687392",
-   "status": "SCHEDULED",
-   "case_number": "F-001070-25",
-   "parcel_id": null,
-   "address": "304 Kings Lane",
-   "city": "Williamstown (Buena Vista)",
-   "zip": "08094",
-   "appraised_value": null,
-   "opening_bid": null,
-   "deposit": null,
-   "plaintiff": "New Jersey Housing and Mortgage Finance Agency",
-   "defendant": "Jennifer L. Flynn; Grant R. Flynn; Collings Lakes Civic Association, Inc.; Rancocas Anesthesiology, P.A.; Genesis Laboratory Management LLC: United States of America",
-   "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
-   "sale_date": "2026-12-03",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687392",
-   "as_of": "2026-11-04T10:39-05:00",
-   "sheriff_number": "F-26000138"
   },
   {
    "county": "atlantic",
@@ -1922,7 +2722,7 @@
    ],
    "times_postponed": 3,
    "upset_amount": 196484.99,
-   "auction_id": "2227687395",
+   "auction_id": "2234367749",
    "status": "SCHEDULED",
    "case_number": "F-007495-25",
    "parcel_id": null,
@@ -1937,9 +2737,47 @@
    "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687395",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367749",
+   "as_of": "2026-11-08T07:19-05:00",
    "sheriff_number": "F-26000808"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Cancelled/Settled",
+     "date": "2026-11-12"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-11-12"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-10-15"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 232226.43,
+   "auction_id": "2234367751",
+   "status": "SCHEDULED",
+   "case_number": "F-011066-25",
+   "parcel_id": null,
+   "address": "142 London Avenue",
+   "city": "Egg Harbor City",
+   "zip": "08215",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "New Jersey Housing and Mortgage Finance Agency",
+   "defendant": "George J. Koelle IV; Ritamarie Koelle; Peter Bunker, Tenant/Occupant; Corey Bunker, Tenant/Occupant; Bobbie Lee Koelle, Tenant/Occupant; Billie Jo Garrison, Tenant/Occupant; South Jersey Gas; Collection and Recoveries, Inc., Assignee",
+   "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+   "sale_date": "2026-11-12",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367751",
+   "as_of": "2026-11-08T07:19-05:00",
+   "sheriff_number": "F-26001025"
   },
   {
    "county": "atlantic",
@@ -2008,7 +2846,7 @@
    ],
    "times_postponed": 15,
    "upset_amount": 104963.92,
-   "auction_id": "2227687365",
+   "auction_id": "2234367719",
    "status": "COURT ADJOURNED TO",
    "case_number": "F-018199-19 ALIAS",
    "parcel_id": null,
@@ -2023,8 +2861,8 @@
    "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687365",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367719",
+   "as_of": "2026-11-08T07:19-05:00",
    "sheriff_number": "F-23000326"
   },
   {
@@ -2046,7 +2884,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 126692.22,
-   "auction_id": "2227687385",
+   "auction_id": "2234367739",
    "status": "SCHEDULED",
    "case_number": "F-000610-25",
    "parcel_id": null,
@@ -2061,8 +2899,8 @@
    "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
    "sale_date": "2026-12-10",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687385",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367739",
+   "as_of": "2026-11-08T07:19-05:00",
    "sheriff_number": "F-25000882"
   },
   {
@@ -2070,38 +2908,88 @@
    "state": "new-jersey",
    "status_history": [
     {
-     "status": "Cancelled/Settled",
-     "date": "2026-11-12"
+     "status": "Court Adjourned to",
+     "date": "2026-12-03"
     },
     {
      "status": "Defendant Adjourned to",
-     "date": "2026-11-12"
+     "date": "2026-10-22"
+    },
+    {
+     "status": "Court Adjourned to",
+     "date": "2026-09-24"
+    },
+    {
+     "status": "Court Adjourned to",
+     "date": "2026-08-06"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-06-25"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-05-28"
+    },
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-04-30"
     },
     {
      "status": "Scheduled",
-     "date": "2026-10-15"
+     "date": "2026-04-02"
     }
    ],
-   "times_postponed": 1,
-   "upset_amount": 232226.43,
-   "auction_id": "2227687397",
+   "times_postponed": 7,
+   "upset_amount": 198806.47,
+   "auction_id": "2234367746",
    "status": "SCHEDULED",
-   "case_number": "F-011066-25",
+   "case_number": "F-001070-25",
    "parcel_id": null,
-   "address": "142 London Avenue",
-   "city": "Egg Harbor City",
-   "zip": "08215",
+   "address": "304 Kings Lane",
+   "city": "Williamstown (Buena Vista)",
+   "zip": "08094",
    "appraised_value": null,
    "opening_bid": null,
    "deposit": null,
    "plaintiff": "New Jersey Housing and Mortgage Finance Agency",
-   "defendant": "George J. Koelle IV; Ritamarie Koelle; Peter Bunker, Tenant/Occupant; Corey Bunker, Tenant/Occupant; Bobbie Lee Koelle, Tenant/Occupant; Billie Jo Garrison, Tenant/Occupant; South Jersey Gas; Collection and Recoveries, Inc., Assignee",
+   "defendant": "Jennifer L. Flynn; Grant R. Flynn; Collings Lakes Civic Association, Inc.; Rancocas Anesthesiology, P.A.; Genesis Laboratory Management LLC: United States of America",
    "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
-   "sale_date": "2026-11-12",
+   "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687397",
-   "as_of": "2026-11-04T10:39-05:00",
-   "sheriff_number": "F-26001025"
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367746",
+   "as_of": "2026-11-08T07:19-05:00",
+   "sheriff_number": "F-26000138"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-11-19"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 268223.91,
+   "auction_id": "2234367752",
+   "status": "SCHEDULED",
+   "case_number": "F-003146-26",
+   "parcel_id": null,
+   "address": "2028 Horace J Bryant Jr Drive",
+   "city": "Atlantic City",
+   "zip": "08401",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Village Capital & Investment LLC",
+   "defendant": "Willie Ceasar, his heirs, devisees and personal representatives and his, her, their or any of their successors in right, title and interest; Lashandra Tamika Cross, heir; Daris Julius Ceasar Macon, hrie; Malik Macon, Heir; Atlantic County Improvement Authority; State of New Jersey; United States of America",
+   "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
+   "sale_date": "2026-11-19",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367752",
+   "as_of": "2026-11-08T07:19-05:00",
+   "sheriff_number": "F-26001166"
   },
   {
    "county": "atlantic",
@@ -2114,7 +3002,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 230633.45,
-   "auction_id": "2227687399",
+   "auction_id": "2234367753",
    "status": "SCHEDULED",
    "case_number": "F-013327-25",
    "parcel_id": null,
@@ -2129,8 +3017,8 @@
    "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
    "sale_date": "2026-11-19",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687399",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367753",
+   "as_of": "2026-11-08T07:19-05:00",
    "sheriff_number": "F-26001181"
   },
   {
@@ -2138,13 +3026,17 @@
    "state": "new-jersey",
    "status_history": [
     {
+     "status": "Defendant Adjourned to",
+     "date": "2026-12-17"
+    },
+    {
      "status": "Scheduled",
      "date": "2026-11-19"
     }
    ],
-   "times_postponed": 0,
+   "times_postponed": 1,
    "upset_amount": 336177.58,
-   "auction_id": "2227687400",
+   "auction_id": "2234367754",
    "status": "SCHEDULED",
    "case_number": "F-001983-26",
    "parcel_id": null,
@@ -2157,10 +3049,10 @@
    "plaintiff": "New Jersey Housing and Mortgage Finance Agency",
    "defendant": "Donna Smith; Guy M. Smith; City of Millville; Cavalry SPV I, LLC, Assignee; United States of America",
    "attorney": "Pluese, Becker & Saltzman & Thomas, LLC",
-   "sale_date": "2026-11-19",
+   "sale_date": "2026-12-17",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687400",
-   "as_of": "2026-11-04T10:39-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367754",
+   "as_of": "2026-11-08T07:19-05:00",
    "sheriff_number": "F-26001182"
   },
   {
@@ -2182,7 +3074,7 @@
    ],
    "times_postponed": 2,
    "upset_amount": 447138.42,
-   "auction_id": "2227687402",
+   "auction_id": "2234367756",
    "status": "SCHEDULED",
    "case_number": "SWC-F-000573-25",
    "parcel_id": null,
@@ -2197,8 +3089,8 @@
    "attorney": "POLSINELLI",
    "sale_date": "2027-01-07",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687402",
-   "as_of": "2026-11-04T10:40-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367756",
+   "as_of": "2026-11-08T07:19-05:00",
    "sheriff_number": "F-26001117"
   },
   {
@@ -2216,7 +3108,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 448712.08,
-   "auction_id": "2227687501",
+   "auction_id": "2234367855",
    "status": "SCHEDULED",
    "case_number": "F-003875-26",
    "parcel_id": null,
@@ -2231,8 +3123,8 @@
    "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687501",
-   "as_of": "2026-11-04T10:40-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367855",
+   "as_of": "2026-11-08T07:19-05:00",
    "sheriff_number": "F-26001127"
   },
   {
@@ -2246,7 +3138,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": 158388.9,
-   "auction_id": "2227687502",
+   "auction_id": "2234367856",
    "status": "SCHEDULED",
    "case_number": "F-002260-26",
    "parcel_id": null,
@@ -2261,8 +3153,8 @@
    "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
    "sale_date": "2026-11-12",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687502",
-   "as_of": "2026-11-04T10:40-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367856",
+   "as_of": "2026-11-08T07:19-05:00",
    "sheriff_number": "F-26001128"
   },
   {
@@ -2280,7 +3172,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": 133387.46,
-   "auction_id": "2227687500",
+   "auction_id": "2234367854",
    "status": "SCHEDULED",
    "case_number": "F-005315-26",
    "parcel_id": null,
@@ -2295,14 +3187,56 @@
    "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
    "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687500",
-   "as_of": "2026-11-04T10:40-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367854",
+   "as_of": "2026-11-08T07:19-05:00",
    "sheriff_number": "F-26001079"
   },
   {
    "county": "atlantic",
    "state": "new-jersey",
    "status_history": [
+    {
+     "status": "Rescheduled Post Bankruptcy to",
+     "date": "2027-01-14"
+    },
+    {
+     "status": "Indefinite Bankruptcy",
+     "date": "2025-08-28"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2025-08-28"
+    }
+   ],
+   "times_postponed": 1,
+   "upset_amount": 351921.04,
+   "auction_id": "2234367824",
+   "status": "SCHEDULED",
+   "case_number": "F-011128-24",
+   "parcel_id": null,
+   "address": "30 West Donegal Lane",
+   "city": "",
+   "zip": null,
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "MCLP Assest Company, Inc",
+   "defendant": "Mary Foster A/K/A Mary M. Foster; William Foster A/K/A William H. Foster A/K/A Billy Foster A/K/A Bill Foster; Mrs. Foster, Spouse of William Foster A/K/A William H. Foster A/K/A Billy Foster A/K/A Bill Foster; Public Service Electric and Gas Company; Hackensack University Medical; NETS Trailer Leasing of NJ LLC; Women First; Discover Bank; Midland Funding LLC; State of New Jersey; United States of America",
+   "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+   "sale_date": "2027-01-14",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367824",
+   "as_of": "2026-11-08T07:19-05:00",
+   "sheriff_number": "F-25000719"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Plaintiff Adjourned to",
+     "date": "2026-12-03"
+    },
     {
      "status": "Rescheduled Post Bankruptcy to",
      "date": "2026-11-05"
@@ -2328,9 +3262,9 @@
      "date": "2025-10-02"
     }
    ],
-   "times_postponed": 4,
+   "times_postponed": 5,
    "upset_amount": 30478.02,
-   "auction_id": "2227687477",
+   "auction_id": "2234367831",
    "status": "SCHEDULED",
    "case_number": "F-001881-25",
    "parcel_id": null,
@@ -2343,11 +3277,249 @@
    "plaintiff": "Federal Home Loan Mortgage Corporation As Trustee for Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2022-1",
    "defendant": "Linda M. Forvour",
    "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
-   "sale_date": "2026-11-05",
+   "sale_date": "2026-12-03",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2227687477",
-   "as_of": "2026-11-04T10:40-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367831",
+   "as_of": "2026-11-08T07:19-05:00",
    "sheriff_number": "F-25000864"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Court Adjourned to",
+     "date": "2026-12-10"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-09-24"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-08-27"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-07-30"
+    }
+   ],
+   "times_postponed": 3,
+   "upset_amount": 216986.59,
+   "auction_id": "2234367851",
+   "status": "SCHEDULED",
+   "case_number": "F-000781-26",
+   "parcel_id": null,
+   "address": "1405 North Ohio Avenue",
+   "city": "Atlantic City",
+   "zip": "08401",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "OBX 2024-NQM2 Trust",
+   "defendant": "Karina Tanyka Harmon; Manpellie Sirleaf Harmon",
+   "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+   "sale_date": "2026-12-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367851",
+   "as_of": "2026-11-08T07:19-05:00",
+   "sheriff_number": "F-26000721"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Court Adjourned to",
+     "date": "2026-12-17"
+    },
+    {
+     "status": "Court Adjourned to",
+     "date": "2026-11-05"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-09-24"
+    },
+    {
+     "status": "Defendant Adjourned to",
+     "date": "2026-08-27"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2026-07-30"
+    }
+   ],
+   "times_postponed": 4,
+   "upset_amount": 116050.59,
+   "auction_id": "2234367852",
+   "status": "SCHEDULED",
+   "case_number": "F-009102-25",
+   "parcel_id": null,
+   "address": "302 Rhodes Avenue",
+   "city": "Egg Harbor Township",
+   "zip": "08234",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "PHH Mortgage Corporation",
+   "defendant": "Douglas D. Bolden, a/k/a Douglas Bolden, His/Her Heirs, Devisees and Personal Respresenatives and His, Hers, Their or any of their Successors in Right, Title and Interest; Danette Stepehns; Sheena Shanks, a/k/a Sheena D. Shanks; Michael Bolden; Douglas Bolden, Jr.; Jessica Hawkes; Dupres Bolden; Vernee Mckenzie; Desean Bolden; Mr. Shanks, Spouse of Sheena Shanks, a/k/a Sheena D. Shanks; Mrs Bolden, Spouse of Michael Bolden; Mr Hawkes, Spouse of Jessica Hawkes; Mr. McKenzie, Spouse of Vernee McKenzie; State of New Jersey; United States of America",
+   "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+   "sale_date": "2026-12-17",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367852",
+   "as_of": "2026-11-08T07:19-05:00",
+   "sheriff_number": "F-26000722"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-03"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 232163.69,
+   "auction_id": "2234367787",
+   "status": "SCHEDULED",
+   "case_number": "F-011838-23 ALIAS",
+   "parcel_id": null,
+   "address": "2600 4th Avenue",
+   "city": "Hammonton",
+   "zip": "08037",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Nexus Nova LLC",
+   "defendant": "Richard Michael Hutchinson; Caitlyn Maureen Evans",
+   "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367787",
+   "as_of": "2026-11-08T07:19-05:00",
+   "sheriff_number": "F-24000213"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-03"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 136613.81,
+   "auction_id": "2234367857",
+   "status": "SCHEDULED",
+   "case_number": "F-013903-25",
+   "parcel_id": null,
+   "address": "16 West Orchard Street",
+   "city": "Hammonton",
+   "zip": "08037",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "NewRez LLC d/b/a Shellpoint Mortgage Servicing",
+   "defendant": "Rodney Cross A/K/A Rodney A. Cross A/K/A Rodney A. Cross, Jr; Mariner Finance, LLC; Homeopco Sub A Trust; United States of America on Behalf of The Secretary of Housing and Urban Development",
+   "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+   "sale_date": "2026-12-03",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367857",
+   "as_of": "2026-11-08T07:20-05:00",
+   "sheriff_number": "F-26001199"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2026-12-10"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 259748.07,
+   "auction_id": "2234367858",
+   "status": "SCHEDULED",
+   "case_number": "F-006550-26",
+   "parcel_id": null,
+   "address": "3 Brandywine Court",
+   "city": "Egg Harbor Township",
+   "zip": "08234",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Onity Mortgage Corporation f/k/a PHH Mortgage Corporation",
+   "defendant": "Samy Biniamin; United States of America on Behalf of the Secretary of Housing and Urban Development: Clusters Homeowners Assocation",
+   "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+   "sale_date": "2026-12-10",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367858",
+   "as_of": "2026-11-08T07:20-05:00",
+   "sheriff_number": "F-26001232"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-07"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 277143.54,
+   "auction_id": "2234367859",
+   "status": "SCHEDULED",
+   "case_number": "F-006030-26",
+   "parcel_id": null,
+   "address": "518 South Leipzig Avenue",
+   "city": "Mays Landing",
+   "zip": "08330",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Bank Of New York Mellon Trust Company, N.A. as owner Trustee for Mortgage Assets Management Series I Trust",
+   "defendant": "Barbara A Guenther A/K/A Barbara A Guenther Eileen, Individually and as Executor of the Estate of Eileen M Guenther A/K/A  Eileen Morelle Guenther; Clarence D Guenther; Mrs. Guenther, spouse of Clarence D Guenther; Michael M Guenther; Leticia Guenther; Eric Chapman;  Mrs Chapman, spouse of Eric Chapman; State of New Jersey; United States of America on behalf of the Secretary of Houseing and Urban Development ; United States of America",
+   "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+   "sale_date": "2027-01-07",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367859",
+   "as_of": "2026-11-08T07:20-05:00",
+   "sheriff_number": "F-26001287"
+  },
+  {
+   "county": "atlantic",
+   "state": "new-jersey",
+   "status_history": [
+    {
+     "status": "Scheduled",
+     "date": "2027-01-07"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": 315971.99,
+   "auction_id": "2234367860",
+   "status": "SCHEDULED",
+   "case_number": "F-001221-26",
+   "parcel_id": null,
+   "address": "1831 Madison Avenue",
+   "city": "Atlantic City",
+   "zip": "08401",
+   "appraised_value": null,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Wilmington Savings Fund Society, FSB, Not in its individual capacity but solely in its capacity as owner trustee for Ocwen loan Acquistion Trust 2023-HB1",
+   "defendant": "Robert Middleton, individually and as administrator of the Estate of Helen B Middleton A/K/A  Helen Louise Middletown A/KA Helen Louise Brown; Deborah D Alexander A/K/A Deborah Middleton; Mr Alexander, Spouse of Deborah D Alexander A/K/A Deborah Middleton; Daniel Middleton A/K/A Daniel E Middleton; Mr Middleton, spouse of Daniel Middleton A/K/A Daniel E Middleton; Midland Funding LLC; New Century Financial Services Inc; Mia Management, LLC; State of New Jersey; United States of America on behalf of the Secretary of Housing and Urban Development; United States of America",
+   "attorney": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+   "sale_date": "2027-01-07",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234367860",
+   "as_of": "2026-11-08T07:20-05:00",
+   "sheriff_number": "F-26001291"
   }
  ]
 }
