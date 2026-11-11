@@ -1,9 +1,9 @@
 {
  "state": "ohio",
  "county": "logan",
- "as_of": "2026-11-08T06:04-05:00",
- "source": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
- "count": 8,
+ "as_of": "2026-11-11T06:01-05:00",
+ "source": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_11-9-26-2.pdf",
+ "count": 12,
  "items": [
   {
    "county": "logan",
@@ -26,8 +26,8 @@
    "attorney": null,
    "sale_date": "2026-11-18",
    "sale_type": "Tax foreclosure (in person)",
-   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
-   "as_of": "2026-11-08T06:04-05:00"
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_11-9-26-2.pdf",
+   "as_of": "2026-11-11T06:01-05:00"
   },
   {
    "county": "logan",
@@ -50,8 +50,8 @@
    "attorney": null,
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure (online)",
-   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
-   "as_of": "2026-11-08T06:04-05:00"
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_11-9-26-2.pdf",
+   "as_of": "2026-11-11T06:01-05:00"
   },
   {
    "county": "logan",
@@ -74,8 +74,8 @@
    "attorney": null,
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure (online)",
-   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
-   "as_of": "2026-11-08T06:04-05:00"
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_11-9-26-2.pdf",
+   "as_of": "2026-11-11T06:01-05:00"
   },
   {
    "county": "logan",
@@ -98,8 +98,8 @@
    "attorney": null,
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure (online)",
-   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
-   "as_of": "2026-11-08T06:04-05:00"
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_11-9-26-2.pdf",
+   "as_of": "2026-11-11T06:01-05:00"
   },
   {
    "county": "logan",
@@ -122,8 +122,8 @@
    "attorney": null,
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure (online)",
-   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
-   "as_of": "2026-11-08T06:04-05:00"
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_11-9-26-2.pdf",
+   "as_of": "2026-11-11T06:01-05:00"
   },
   {
    "county": "logan",
@@ -132,7 +132,7 @@
    "times_postponed": null,
    "upset_amount": null,
    "auction_id": null,
-   "status": "SCHEDULED",
+   "status": "CANCELED",
    "case_number": "CV25-03-0098",
    "parcel_id": "43-005-14-17-031-000",
    "address": "11331 Big Bear Path",
@@ -146,8 +146,8 @@
    "attorney": null,
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure (online)",
-   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
-   "as_of": "2026-11-08T06:04-05:00"
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_11-9-26-2.pdf",
+   "as_of": "2026-11-11T06:01-05:00"
   },
   {
    "county": "logan",
@@ -170,8 +170,56 @@
    "attorney": null,
    "sale_date": "2026-11-18",
    "sale_type": "Tax foreclosure (in person)",
-   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
-   "as_of": "2026-11-08T06:04-05:00"
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_11-9-26-2.pdf",
+   "as_of": "2026-11-11T06:01-05:00"
+  },
+  {
+   "county": "logan",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "CV25-12-0554",
+   "parcel_id": "43-005-14-16-011-000",
+   "address": "11330 Big Bear Path",
+   "city": "Lakeview",
+   "zip": null,
+   "appraised_value": 140000.0,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Crosscountry Mortgage LLC",
+   "defendant": "Kristy Bulluck, et al",
+   "attorney": null,
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure (online)",
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_11-9-26-2.pdf",
+   "as_of": "2026-11-11T06:01-05:00"
+  },
+  {
+   "county": "logan",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "CV26-04-0131",
+   "parcel_id": "38-006-11-05-004-000",
+   "address": "11494 Parker Dr",
+   "city": "Belle Center",
+   "zip": null,
+   "appraised_value": 150000.0,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Carrington Mortgage Service",
+   "defendant": "Vicki L Cooper, et al",
+   "attorney": null,
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure (online)",
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_11-9-26-2.pdf",
+   "as_of": "2026-11-11T06:01-05:00"
   },
   {
    "county": "logan",
@@ -194,8 +242,56 @@
    "attorney": null,
    "sale_date": "2026-12-16",
    "sale_type": "Foreclosure (online)",
-   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
-   "as_of": "2026-11-08T06:04-05:00"
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_11-9-26-2.pdf",
+   "as_of": "2026-11-11T06:01-05:00"
+  },
+  {
+   "county": "logan",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "CV25-08-0354",
+   "parcel_id": "12-110-00-00-027-001",
+   "address": "7854 CR 10",
+   "city": "Zanesfield",
+   "zip": null,
+   "appraised_value": 200000.0,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "ServBank NA",
+   "defendant": "Tammi J Creamer, et al",
+   "attorney": null,
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure (online)",
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_11-9-26-2.pdf",
+   "as_of": "2026-11-11T06:01-05:00"
+  },
+  {
+   "county": "logan",
+   "state": "ohio",
+   "status_history": [],
+   "times_postponed": null,
+   "upset_amount": null,
+   "auction_id": null,
+   "status": "SCHEDULED",
+   "case_number": "CV26-02-0052",
+   "parcel_id": "47-017-14-14-002-000",
+   "address": "391 N Oak St",
+   "city": "Lakeview",
+   "zip": null,
+   "appraised_value": 85000.0,
+   "opening_bid": null,
+   "deposit": null,
+   "plaintiff": "Primelending A Plainscapital Company",
+   "defendant": "Natalie Lowry, et al",
+   "attorney": null,
+   "sale_date": "2026-12-16",
+   "sale_type": "Foreclosure (online)",
+   "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_11-9-26-2.pdf",
+   "as_of": "2026-11-11T06:01-05:00"
   }
  ]
 }

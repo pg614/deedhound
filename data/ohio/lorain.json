@@ -1,9 +1,9 @@
 {
  "state": "ohio",
  "county": "lorain",
- "as_of": "2026-11-08T06:13-05:00",
- "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284050",
- "count": 70,
+ "as_of": "2026-11-11T06:06-05:00",
+ "source": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493416",
+ "count": 41,
  "items": [
   {
    "county": "lorain",
@@ -16,7 +16,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284050",
+   "auction_id": "2239493416",
    "status": "SCHEDULED",
    "case_number": "22TX007901",
    "parcel_id": "03-00-103-106-009",
@@ -31,8 +31,8 @@
    "attorney": "GABRIEL L ESPINOZA",
    "sale_date": "2026-11-18",
    "sale_type": "Tax foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284050",
-   "as_of": "2026-11-08T06:07-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493416",
+   "as_of": "2026-11-11T06:04-05:00",
    "sheriff_number": "23001056"
   },
   {
@@ -46,7 +46,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284055",
+   "auction_id": "2239493421",
    "status": "SCHEDULED",
    "case_number": "22TX008010",
    "parcel_id": "02-00-093-104-001",
@@ -61,8 +61,8 @@
    "attorney": "GABRIEL L ESPINOZA",
    "sale_date": "2026-11-18",
    "sale_type": "Tax foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284055",
-   "as_of": "2026-11-08T06:07-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493421",
+   "as_of": "2026-11-11T06:04-05:00",
    "sheriff_number": "23003542"
   },
   {
@@ -84,7 +84,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2234284073",
+   "auction_id": "2239493439",
    "status": "RESCHEDULED",
    "case_number": "23CV209514",
    "parcel_id": "05-00-058-000-247",
@@ -99,8 +99,8 @@
    "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID CRANE & PARTNERS PLLC",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284073",
-   "as_of": "2026-11-08T06:07-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493439",
+   "as_of": "2026-11-11T06:04-05:00",
    "sheriff_number": "24004745"
   },
   {
@@ -118,7 +118,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284100",
+   "auction_id": "2239493466",
    "status": "SCHEDULED",
    "case_number": "24CV212716",
    "parcel_id": "15-00-099-103-055",
@@ -133,8 +133,8 @@
    "attorney": "EQUES LAW",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284100",
-   "as_of": "2026-11-08T06:07-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493466",
+   "as_of": "2026-11-11T06:04-05:00",
    "sheriff_number": "25001907"
   },
   {
@@ -152,7 +152,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284178",
+   "auction_id": "2239493544",
    "status": "SCHEDULED",
    "case_number": "25CV218755",
    "parcel_id": "02-02-004-112-042",
@@ -167,8 +167,8 @@
    "attorney": "CLUNK, HOOSE Co., LPA",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284178",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493544",
+   "as_of": "2026-11-11T06:04-05:00",
    "sheriff_number": "26000065"
   },
   {
@@ -190,7 +190,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2234284194",
+   "auction_id": "2239493560",
    "status": "RESCHEDULED",
    "case_number": "23CV209178",
    "parcel_id": "04-00-018-157-011",
@@ -205,8 +205,8 @@
    "attorney": "REIMER LAW CO.",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284194",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493560",
+   "as_of": "2026-11-11T06:04-05:00",
    "sheriff_number": "26000408"
   },
   {
@@ -224,7 +224,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284201",
+   "auction_id": "2239493567",
    "status": "SCHEDULED",
    "case_number": "25CV215074",
    "parcel_id": "03-00-036-111-004",
@@ -239,8 +239,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284201",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493567",
+   "as_of": "2026-11-11T06:04-05:00",
    "sheriff_number": "26000671"
   },
   {
@@ -258,7 +258,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284250",
+   "auction_id": "2239493616",
    "status": "SCHEDULED",
    "case_number": "26CV000916",
    "parcel_id": "10-00-005-102-099",
@@ -273,8 +273,8 @@
    "attorney": "CLUNK, HOOSE Co., LPA",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284250",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493616",
+   "as_of": "2026-11-11T06:04-05:00",
    "sheriff_number": "26001391"
   },
   {
@@ -292,7 +292,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284335",
+   "auction_id": "2239493703",
    "status": "SCHEDULED",
    "case_number": "26CV000553",
    "parcel_id": "03-00-039-117-019",
@@ -307,8 +307,8 @@
    "attorney": "SANDHU LAW GROUP",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284335",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493703",
+   "as_of": "2026-11-11T06:04-05:00",
    "sheriff_number": "26003248"
   },
   {
@@ -326,7 +326,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284336",
+   "auction_id": "2239493704",
    "status": "SCHEDULED",
    "case_number": "25CV218822",
    "parcel_id": "01-00-041-000-033",
@@ -341,8 +341,8 @@
    "attorney": "SANDHU LAW GROUP",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284336",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493704",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003249"
   },
   {
@@ -356,7 +356,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284337",
+   "auction_id": "2239493705",
    "status": "SCHEDULED",
    "case_number": "25TX008400",
    "parcel_id": "02-02-025-115-016",
@@ -371,8 +371,8 @@
    "attorney": "GABRIEL L ESPINOZA",
    "sale_date": "2026-11-18",
    "sale_type": "Tax foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284337",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493705",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003250"
   },
   {
@@ -386,7 +386,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284338",
+   "auction_id": "2239493706",
    "status": "SCHEDULED",
    "case_number": "25TX008494",
    "parcel_id": "02-02-004-106-012",
@@ -401,8 +401,8 @@
    "attorney": "GABRIEL L ESPINOZA",
    "sale_date": "2026-11-18",
    "sale_type": "Tax foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284338",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493706",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003252"
   },
   {
@@ -420,7 +420,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284339",
+   "auction_id": "2239493707",
    "status": "SCHEDULED",
    "case_number": "26CV000180",
    "parcel_id": "07-00-047-000-139",
@@ -435,8 +435,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284339",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493707",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003257"
   },
   {
@@ -454,7 +454,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284340",
+   "auction_id": "2239493708",
    "status": "SCHEDULED",
    "case_number": "25CV218132",
    "parcel_id": "03-00-095-111-012",
@@ -469,8 +469,8 @@
    "attorney": "LOGS LEGAL GROUP LLP",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284340",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493708",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003258"
   },
   {
@@ -488,7 +488,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284341",
+   "auction_id": "2239493709",
    "status": "SCHEDULED",
    "case_number": "25CV218754",
    "parcel_id": "07-00-012-101-049",
@@ -503,8 +503,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284341",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493709",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003260"
   },
   {
@@ -518,7 +518,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284342",
+   "auction_id": "2239493710",
    "status": "SCHEDULED",
    "case_number": "25TX008506",
    "parcel_id": "03-00-066-105-012",
@@ -533,8 +533,8 @@
    "attorney": "GABRIEL L ESPINOZA",
    "sale_date": "2026-11-18",
    "sale_type": "Tax foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284342",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493710",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003261"
   },
   {
@@ -552,7 +552,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284343",
+   "auction_id": "2239493711",
    "status": "SCHEDULED",
    "case_number": "25CV219292",
    "parcel_id": "02-02-008-105-042",
@@ -567,8 +567,8 @@
    "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID CRANE & PARTNERS PLLC",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284343",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493711",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003272"
   },
   {
@@ -586,7 +586,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284344",
+   "auction_id": "2239493712",
    "status": "SCHEDULED",
    "case_number": "26CV001071",
    "parcel_id": "02-02-006-108-023",
@@ -601,8 +601,8 @@
    "attorney": "CLUNK, HOOSE Co., LPA",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284344",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493712",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003317"
   },
   {
@@ -620,7 +620,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284345",
+   "auction_id": "2239493713",
    "status": "SCHEDULED",
    "case_number": "25CV217402",
    "parcel_id": "07-00-026-111-039, 07-00-026-111-040",
@@ -635,8 +635,8 @@
    "attorney": "WELTMAN WEINBERG & REIS CO LPA",
    "sale_date": "2026-11-18",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284345",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493713",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003318"
   },
   {
@@ -654,7 +654,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284112",
+   "auction_id": "2239493479",
    "status": "SCHEDULED",
    "case_number": "25CV217892",
    "parcel_id": "03-00-043-114-062",
@@ -669,8 +669,8 @@
    "attorney": "COOKE DEMERS, LLC",
    "sale_date": "2026-12-02",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284112",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493479",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "25003308"
   },
   {
@@ -688,7 +688,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284276",
+   "auction_id": "2239493644",
    "status": "SCHEDULED",
    "case_number": "25CV218548",
    "parcel_id": "05-00-041-109-008",
@@ -703,8 +703,8 @@
    "attorney": "THE MANLEY LAW FIRM LLC",
    "sale_date": "2026-12-02",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284276",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493644",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26002139"
   },
   {
@@ -722,7 +722,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284346",
+   "auction_id": "2239493714",
    "status": "SCHEDULED",
    "case_number": "25CV218572",
    "parcel_id": "05-00-037-101-001",
@@ -737,8 +737,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2026-12-02",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284346",
-   "as_of": "2026-11-08T06:08-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493714",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003431"
   },
   {
@@ -756,7 +756,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284347",
+   "auction_id": "2239493715",
    "status": "SCHEDULED",
    "case_number": "26CV001303",
    "parcel_id": "04-00-010-119-088",
@@ -771,8 +771,8 @@
    "attorney": "CARLISLE LAW",
    "sale_date": "2026-12-02",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284347",
-   "as_of": "2026-11-08T06:09-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493715",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003432"
   },
   {
@@ -790,7 +790,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284348",
+   "auction_id": "2239493716",
    "status": "SCHEDULED",
    "case_number": "26CV000692",
    "parcel_id": "03-00-103-117-028",
@@ -805,8 +805,8 @@
    "attorney": "CARLISLE LAW",
    "sale_date": "2026-12-02",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284348",
-   "as_of": "2026-11-08T06:09-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493716",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003433"
   },
   {
@@ -824,7 +824,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284349",
+   "auction_id": "2239493717",
    "status": "SCHEDULED",
    "case_number": "26CV000919",
    "parcel_id": "02-02-029-108-001",
@@ -839,8 +839,8 @@
    "attorney": "PADGETT LAW GROUP",
    "sale_date": "2026-12-02",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284349",
-   "as_of": "2026-11-08T06:09-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493717",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003438"
   },
   {
@@ -862,7 +862,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2234284327",
+   "auction_id": "2239493695",
    "status": "RESCHEDULED",
    "case_number": "25CV218098",
    "parcel_id": "02-02-013-108-018",
@@ -877,8 +877,8 @@
    "attorney": "REISENFELD & ASSOCIATES LPA LLC",
    "sale_date": "2026-12-09",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284327",
-   "as_of": "2026-11-08T06:09-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493695",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003037"
   },
   {
@@ -900,7 +900,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2234284310",
+   "auction_id": "2239493678",
    "status": "RESCHEDULED",
    "case_number": "26CV000598",
    "parcel_id": "06-24-026-107-029",
@@ -915,8 +915,8 @@
    "attorney": "LENDER LEGAL PLLC",
    "sale_date": "2026-12-16",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284310",
-   "as_of": "2026-11-08T06:09-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493678",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26002782"
   },
   {
@@ -938,7 +938,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2234284334",
+   "auction_id": "2239493702",
    "status": "RESCHEDULED",
    "case_number": "25CV217984",
    "parcel_id": "02-01-003-205-003",
@@ -953,8 +953,8 @@
    "attorney": "REISENFELD & ASSOCIATES LPA LLC",
    "sale_date": "2027-01-06",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284334",
-   "as_of": "2026-11-08T06:09-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493702",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003247"
   },
   {
@@ -972,7 +972,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284179",
+   "auction_id": "2239493545",
    "status": "SCHEDULED",
    "case_number": "25CV218431",
    "parcel_id": "02-02-026-109-010",
@@ -987,8 +987,8 @@
    "attorney": "CLUNK, HOOSE Co., LPA",
    "sale_date": "2027-01-13",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284179",
-   "as_of": "2026-11-08T06:09-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493545",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26000103"
   },
   {
@@ -996,46 +996,8 @@
    "state": "ohio",
    "status_history": [
     {
-     "status": "Appraised",
-     "date": "2026-09-25"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-11-04"
-    },
-    {
-     "status": "Rescheduled",
-     "date": "2027-01-13"
-    }
-   ],
-   "times_postponed": 1,
-   "upset_amount": null,
-   "auction_id": "2234284332",
-   "status": "RESCHEDULED",
-   "case_number": "25CV218893",
-   "parcel_id": "05-00-043-104-014",
-   "address": "177 EDGEWOOD DRIVE",
-   "city": "Amherst",
-   "zip": "44001",
-   "appraised_value": 240000.0,
-   "opening_bid": 160000.0,
-   "deposit": null,
-   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
-   "defendant": "MARK C HUNADY, ET AL",
-   "attorney": "BROCK & SCOTT PLLC",
-   "sale_date": "2027-01-13",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284332",
-   "as_of": "2026-11-08T06:09-05:00",
-   "sheriff_number": "26003066"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-12-04"
+     "status": "Previously Appraised",
+     "date": "2026-05-05"
     },
     {
      "status": "Scheduled",
@@ -1044,1044 +1006,58 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234284350",
+   "auction_id": "2239493618",
    "status": "SCHEDULED",
-   "case_number": "26CV001025",
-   "parcel_id": "09-00-078-000-014",
-   "address": "12607 OBERLIN ROAD",
-   "city": "Oberlin",
-   "zip": "44074",
-   "appraised_value": 0.0,
-   "opening_bid": 0.0,
-   "deposit": null,
-   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB AS OWNERTRUSTEEOF CFS15 GRANTOR TRUST",
-   "defendant": "RAYMOND GORDON, ER AL.",
-   "attorney": "LENDER LEGAL PLLC",
-   "sale_date": "2027-01-13",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284350",
-   "as_of": "2026-11-08T06:09-05:00",
-   "sheriff_number": "26003639"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-12-04"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2027-01-13"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234284351",
-   "status": "SCHEDULED",
-   "case_number": "26CV001713",
-   "parcel_id": "03-00-106-113-003",
-   "address": "1760 HIGH COURT",
-   "city": "Lorain",
-   "zip": "44055",
-   "appraised_value": 0.0,
-   "opening_bid": 0.0,
-   "deposit": null,
-   "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR AMERIQUEST MORTGAGE SECURITIES INC., QUEST TRUST 2006-X2, ASSET BACKED CERTIFICATES, SERIES 2006-X2",
-   "defendant": "WILLIAM A LOWE, ET AL.",
-   "attorney": "LOGS LEGAL GROUP LLP",
-   "sale_date": "2027-01-13",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234284351",
-   "as_of": "2026-11-08T06:09-05:00",
-   "sheriff_number": "26003640"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234288902",
-   "status": "SCHEDULED",
-   "case_number": "22TX007901",
-   "parcel_id": "03-00-103-106-009",
-   "address": "903 EAST 36TH STREET",
-   "city": "Lorain",
-   "zip": "44055",
-   "appraised_value": 0.0,
-   "opening_bid": 0.0,
-   "deposit": null,
-   "plaintiff": "LORAIN COUNTY TREASURER",
-   "defendant": "ADOPT-A-HERO, LLC, ET AL",
-   "attorney": "GABRIEL L ESPINOZA",
-   "sale_date": "2026-11-18",
-   "sale_type": "Tax foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234288902",
-   "as_of": "2026-11-08T06:11-05:00",
-   "sheriff_number": "23001056"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234288907",
-   "status": "SCHEDULED",
-   "case_number": "22TX008010",
-   "parcel_id": "02-00-093-104-001",
-   "address": "501 EAST 21ST STREET",
-   "city": "Lorain",
-   "zip": "44052",
-   "appraised_value": 0.0,
-   "opening_bid": 0.0,
-   "deposit": null,
-   "plaintiff": "LORAIN COUNTY TREASURER",
-   "defendant": "T.K.O. TRANSPORT LLC AN OHIO LIMITED LIABILITY COMPANY",
-   "attorney": "GABRIEL L ESPINOZA",
-   "sale_date": "2026-11-18",
-   "sale_type": "Tax foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234288907",
-   "as_of": "2026-11-08T06:11-05:00",
-   "sheriff_number": "23003542"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Previously Appraised",
-     "date": "2026-02-06"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-09-16"
-    },
-    {
-     "status": "Rescheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 1,
-   "upset_amount": null,
-   "auction_id": "2234288925",
-   "status": "RESCHEDULED",
-   "case_number": "23CV209514",
-   "parcel_id": "05-00-058-000-247",
-   "address": "746 TRAILS END DRIVE",
-   "city": "Amherst",
-   "zip": "44001",
-   "appraised_value": 300000.0,
-   "opening_bid": 200000.0,
-   "deposit": null,
-   "plaintiff": "U S BANK NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST",
-   "defendant": "JENNIFER MARKSBURY, ET AL",
-   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID CRANE & PARTNERS PLLC",
-   "sale_date": "2026-11-18",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234288925",
-   "as_of": "2026-11-08T06:11-05:00",
-   "sheriff_number": "24004745"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Previously Appraised",
-     "date": "2026-02-20"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234288952",
-   "status": "SCHEDULED",
-   "case_number": "24CV212716",
-   "parcel_id": "15-00-099-103-055",
-   "address": "27 ANGLERS LANE",
-   "city": "Lagrange",
-   "zip": "44050",
-   "appraised_value": 30000.0,
-   "opening_bid": 20000.0,
-   "deposit": null,
-   "plaintiff": "PHEASANT RUN ASSOCIATION INC",
-   "defendant": "DIANNA L HARTLEY",
-   "attorney": "EQUES LAW",
-   "sale_date": "2026-11-18",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234288952",
-   "as_of": "2026-11-08T06:11-05:00",
-   "sheriff_number": "25001907"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-10-09"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289030",
-   "status": "SCHEDULED",
-   "case_number": "25CV218755",
-   "parcel_id": "02-02-004-112-042",
-   "address": "1725-1727 SOUTH URBAN CIRCLE",
-   "city": "Lorain",
-   "zip": "44053",
-   "appraised_value": 150000.0,
-   "opening_bid": 100000.0,
-   "deposit": null,
-   "plaintiff": "CV3 ALPHA TRUST, A DELAWARE STATUTORY TRUST",
-   "defendant": "PREMIER DEVELOPMENT GROUP INC., ET AL.",
-   "attorney": "CLUNK, HOOSE Co., LPA",
-   "sale_date": "2026-11-18",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289030",
-   "as_of": "2026-11-08T06:11-05:00",
-   "sheriff_number": "26000065"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Previously Appraised",
-     "date": "2026-02-20"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-09-16"
-    },
-    {
-     "status": "Rescheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 1,
-   "upset_amount": null,
-   "auction_id": "2234289046",
-   "status": "RESCHEDULED",
-   "case_number": "23CV209178",
-   "parcel_id": "04-00-018-157-011",
-   "address": "32709 BELLE ROAD",
-   "city": "Avon Lake",
-   "zip": "44012",
-   "appraised_value": 252000.0,
-   "opening_bid": 168000.0,
-   "deposit": null,
-   "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
-   "defendant": "NANCEE ROSE MARIE HALKIADAKIS ET AL",
-   "attorney": "REIMER LAW CO.",
-   "sale_date": "2026-11-18",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289046",
-   "as_of": "2026-11-08T06:11-05:00",
-   "sheriff_number": "26000408"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Previously Appraised",
-     "date": "2026-03-06"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289053",
-   "status": "SCHEDULED",
-   "case_number": "25CV215074",
-   "parcel_id": "03-00-036-111-004",
-   "address": "4870 BEACHWOOD DRIVE",
-   "city": "Sheffield Lake",
-   "zip": "44054",
-   "appraised_value": 165000.0,
-   "opening_bid": 110000.0,
-   "deposit": null,
-   "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC F/K/A QUICKEN LOANS INC.",
-   "defendant": "LISA M JACKSON, ET AL.",
-   "attorney": "BROCK & SCOTT PLLC",
-   "sale_date": "2026-11-18",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289053",
-   "as_of": "2026-11-08T06:11-05:00",
-   "sheriff_number": "26000671"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-10-09"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289110",
-   "status": "SCHEDULED",
-   "case_number": "26CV000916",
-   "parcel_id": "10-00-005-102-099",
-   "address": "614 CAROL LANE",
+   "case_number": "25CV217401",
+   "parcel_id": "06-25-022-106-021",
+   "address": "327 BON AIR AVENUE",
    "city": "Elyria",
    "zip": "44035",
-   "appraised_value": 186000.0,
-   "opening_bid": 124000.0,
+   "appraised_value": 126000.0,
+   "opening_bid": 84000.0,
    "deposit": null,
-   "plaintiff": "NEWREZ LLC",
-   "defendant": "PATRICIA A WEAVER, ET AL,",
+   "plaintiff": "U.S. BANK TRUST COMPANY NATIONAL ASSOCIATION AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION AS TRUSTEE, SUCCESSOR IN INTEREST TO WACHOVIA BANK NATIONAL ASSOCIATION AS TRUSTEE FOR AEGIS ASSET BACKED SECURITIES TRUST MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2005-4",
+   "defendant": "CECIL CLAY YOUNG JR",
    "attorney": "CLUNK, HOOSE Co., LPA",
-   "sale_date": "2026-11-18",
+   "sale_date": "2027-01-13",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289110",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26001391"
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493618",
+   "as_of": "2026-11-11T06:05-05:00",
+   "sheriff_number": "26001527"
   },
   {
    "county": "lorain",
    "state": "ohio",
    "status_history": [
     {
-     "status": "Appraised",
-     "date": "2026-10-09"
+     "status": "Previously Appraised",
+     "date": "2026-06-26"
     },
     {
      "status": "Scheduled",
-     "date": "2026-11-18"
+     "date": "2027-01-13"
     }
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234289195",
+   "auction_id": "2239493633",
    "status": "SCHEDULED",
-   "case_number": "26CV000553",
-   "parcel_id": "03-00-039-117-019",
-   "address": "779 KENILWORTH AVENUE",
-   "city": "Sheffield Lake",
-   "zip": "44054",
-   "appraised_value": 141000.0,
-   "opening_bid": 94000.0,
-   "deposit": null,
-   "plaintiff": "NEWREZ LLC",
-   "defendant": "PAULA LEGGETT, ET AL.",
-   "attorney": "SANDHU LAW GROUP",
-   "sale_date": "2026-11-18",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289195",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003248"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-10-09"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289196",
-   "status": "SCHEDULED",
-   "case_number": "25CV218822",
-   "parcel_id": "01-00-041-000-033",
-   "address": "7705 HERITAGE WAY",
-   "city": "Amherst",
-   "zip": "44001",
-   "appraised_value": 630000.0,
-   "opening_bid": 420000.0,
-   "deposit": null,
-   "plaintiff": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
-   "defendant": "RYAN VARNDELL AKA RYAN W. VARNDELL, ET AL.",
-   "attorney": "SANDHU LAW GROUP",
-   "sale_date": "2026-11-18",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289196",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003249"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289197",
-   "status": "SCHEDULED",
-   "case_number": "25TX008400",
-   "parcel_id": "02-02-025-115-016",
-   "address": "1955 POLE AVENUE",
-   "city": "Lorain",
-   "zip": "44052",
-   "appraised_value": 0.0,
-   "opening_bid": 0.0,
-   "deposit": null,
-   "plaintiff": "LORAIN COUNTY TREASURER",
-   "defendant": "JOYCE E EARLY ET AL",
-   "attorney": "GABRIEL L ESPINOZA",
-   "sale_date": "2026-11-18",
-   "sale_type": "Tax foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289197",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003250"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289198",
-   "status": "SCHEDULED",
-   "case_number": "25TX008494",
-   "parcel_id": "02-02-004-106-012",
-   "address": "VACANT LOT APPROXIMATELY 59.82 FT X 139 FT IN BETWEEN 5702 WILLIAMSBURG DRIVE AND 5710 WILLIAMSBURG DRIVE",
-   "city": "Lorain",
-   "zip": "44053",
-   "appraised_value": 0.0,
-   "opening_bid": 0.0,
-   "deposit": null,
-   "plaintiff": "LORAIN COUNTY TREASURER",
-   "defendant": "LISA M SZILL ET AL",
-   "attorney": "GABRIEL L ESPINOZA",
-   "sale_date": "2026-11-18",
-   "sale_type": "Tax foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289198",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003252"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-10-09"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289199",
-   "status": "SCHEDULED",
-   "case_number": "26CV000180",
-   "parcel_id": "07-00-047-000-139",
-   "address": "8017 CORA COURT",
-   "city": "North Ridgeville",
-   "zip": "44039",
-   "appraised_value": 441000.0,
-   "opening_bid": 294000.0,
-   "deposit": null,
-   "plaintiff": "FREEDOM MORTGAGE CORPORATION",
-   "defendant": "LAWRENCE A DENT, JR,ET AL",
-   "attorney": "BROCK & SCOTT PLLC",
-   "sale_date": "2026-11-18",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289199",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003257"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-10-09"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289200",
-   "status": "SCHEDULED",
-   "case_number": "25CV218132",
-   "parcel_id": "03-00-095-111-012",
-   "address": "1946 EAST 31ST STREET",
-   "city": "Lorain",
-   "zip": "44055",
-   "appraised_value": 60000.0,
-   "opening_bid": 40000.0,
-   "deposit": null,
-   "plaintiff": "DEUTSCHE BANK NATIONAL TRUST COMPANY,AS TRUSTEE FOR AMERIQUEST MORTGAGE SECURITIES INC.,ASSET-BACKED PAS-THROUGH CERTIFICATES,SERIES 2005-R6",
-   "defendant": "KELLY DUNNIGAN, ET AL",
-   "attorney": "LOGS LEGAL GROUP LLP",
-   "sale_date": "2026-11-18",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289200",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003258"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-10-09"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289201",
-   "status": "SCHEDULED",
-   "case_number": "25CV218754",
-   "parcel_id": "07-00-012-101-049",
-   "address": "9269 KATHERINE STREET",
-   "city": "North Ridgeville",
-   "zip": "44039",
-   "appraised_value": 390000.0,
-   "opening_bid": 260000.0,
-   "deposit": null,
-   "plaintiff": "ROCKET MORTGAGE, LLC F/K/A QUICKEN LOANS, LLC  F/K/A QUICKEN LOANS INC",
-   "defendant": "BRIENNE SABO, ET AL",
-   "attorney": "BROCK & SCOTT PLLC",
-   "sale_date": "2026-11-18",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289201",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003260"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289202",
-   "status": "SCHEDULED",
-   "case_number": "25TX008506",
-   "parcel_id": "03-00-066-105-012",
-   "address": "VACANT LOT APPROXIMATELY 50 FT X 124 FT LOCATED DIRECTLY EAST OF 4558 DAY STREET",
-   "city": "Sheffield Lake",
-   "zip": "44054",
-   "appraised_value": 0.0,
-   "opening_bid": 0.0,
-   "deposit": null,
-   "plaintiff": "LORAIN COUNTY TREASURER",
-   "defendant": "PATRICIA J ANDERSON ET AL",
-   "attorney": "GABRIEL L ESPINOZA",
-   "sale_date": "2026-11-18",
-   "sale_type": "Tax foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289202",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003261"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-10-09"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289203",
-   "status": "SCHEDULED",
-   "case_number": "25CV219292",
-   "parcel_id": "02-02-008-105-042",
-   "address": "4248 MIAMI AVENUE",
-   "city": "Lorain",
-   "zip": "44053",
-   "appraised_value": 174000.0,
-   "opening_bid": 116000.0,
-   "deposit": null,
-   "plaintiff": "AMERIHOME MORTGAGE COMPANY LLC",
-   "defendant": "RICHARD ALEN YEO, ET AL.",
-   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID CRANE & PARTNERS PLLC",
-   "sale_date": "2026-11-18",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289203",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003272"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-10-09"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289204",
-   "status": "SCHEDULED",
-   "case_number": "26CV001071",
-   "parcel_id": "02-02-006-108-023",
-   "address": "1218 WEST 44TH STREET",
-   "city": "Lorain",
-   "zip": "44053",
+   "case_number": "25CV214966",
+   "parcel_id": "10-00-009-124-005, 10-00-009-124-020",
+   "address": "11161 SUMMERSET DRIVE",
+   "city": "Elyria",
+   "zip": "44035",
    "appraised_value": 99000.0,
    "opening_bid": 66000.0,
    "deposit": null,
-   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB,NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE OF NLT 2025-INV1 TRUST",
-   "defendant": "LOCAL CITY HOUSING, LLC, ET AL.",
-   "attorney": "CLUNK, HOOSE Co., LPA",
-   "sale_date": "2026-11-18",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289204",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003317"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-10-09"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289205",
-   "status": "SCHEDULED",
-   "case_number": "25CV217402",
-   "parcel_id": "07-00-026-111-039, 07-00-026-111-040",
-   "address": "8920 AVON BELDEN ROAD",
-   "city": "North Ridgeville",
-   "zip": "44039",
-   "appraised_value": 180000.0,
-   "opening_bid": 120000.0,
-   "deposit": null,
-   "plaintiff": "COMMSTAR COMMUNITY CREDIT UNION F/K/A COMMUNITY STAR CREDIT UNION",
-   "defendant": "RUBY L MICHAEL, ET AL.",
-   "attorney": "WELTMAN WEINBERG & REIS CO LPA",
-   "sale_date": "2026-11-18",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289205",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003318"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-10-23"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-12-02"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234288964",
-   "status": "SCHEDULED",
-   "case_number": "25CV217892",
-   "parcel_id": "03-00-043-114-062",
-   "address": "922 EAST DRIVE",
-   "city": "Sheffield Lake",
-   "zip": "44054",
-   "appraised_value": 123000.0,
-   "opening_bid": 82000.0,
-   "deposit": null,
-   "plaintiff": "NEWREZ LLC",
-   "defendant": "MATTHEW SPELICH, ET AL",
-   "attorney": "COOKE DEMERS, LLC",
-   "sale_date": "2026-12-02",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234288964",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "25003308"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Previously Appraised",
-     "date": "2026-07-10"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-12-02"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289136",
-   "status": "SCHEDULED",
-   "case_number": "25CV218548",
-   "parcel_id": "05-00-041-109-008",
-   "address": "488 ROCK CREEK RUN",
-   "city": "Amherst",
-   "zip": "44001",
-   "appraised_value": 216000.0,
-   "opening_bid": 144000.0,
-   "deposit": null,
-   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLEY AS OWNER TRUSTEE OF CSMC 2018-SP2 TRUST",
-   "defendant": "JOHN DOE(S), NAME(S) UNKNOWN, THE UNKNOWN HEIRS, DEVISEES, LEGATEES, BENEFICIARIES OF GWENDOLYN CARD-LEWIS AND THEIR UNKNOWN SPOUSES AND CREDITORS; AND, THE UNKNOWN SPOUSE OF GWENDOLYN CARD-LEWIS, ET AL.",
-   "attorney": "THE MANLEY LAW FIRM LLC",
-   "sale_date": "2026-12-02",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289136",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26002139"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-10-23"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-12-02"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289206",
-   "status": "SCHEDULED",
-   "case_number": "25CV218572",
-   "parcel_id": "05-00-037-101-001",
-   "address": "648 PARK AVENUE",
-   "city": "Amherst",
-   "zip": "44001",
-   "appraised_value": 246000.0,
-   "opening_bid": 164000.0,
-   "deposit": null,
-   "plaintiff": "ROCKET MORTGAGE, LLC",
-   "defendant": "JESSE WEST,ET AL.",
-   "attorney": "BROCK & SCOTT PLLC",
-   "sale_date": "2026-12-02",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289206",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003431"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-10-23"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-12-02"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289207",
-   "status": "SCHEDULED",
-   "case_number": "26CV001303",
-   "parcel_id": "04-00-010-119-088",
-   "address": "2229 WISTERIA WAY",
-   "city": "Avon",
-   "zip": "44011",
-   "appraised_value": 366000.0,
-   "opening_bid": 244000.0,
-   "deposit": null,
-   "plaintiff": "THE HUNTINGTON NATIONAL BANK",
-   "defendant": "JOHN E ENGLEHAUPT, ET AL",
-   "attorney": "CARLISLE LAW",
-   "sale_date": "2026-12-02",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289207",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003432"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-10-23"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-12-02"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289208",
-   "status": "SCHEDULED",
-   "case_number": "26CV000692",
-   "parcel_id": "03-00-103-117-028",
-   "address": "4028 BROADWAY",
-   "city": "Lorain",
-   "zip": "44052",
-   "appraised_value": 105000.0,
-   "opening_bid": 70000.0,
-   "deposit": null,
-   "plaintiff": "THIRD FEDERAL SAVINGS AND LOAN ASSOCIATION OF CLEVELAND AKA THIRD FEDERAL SAVINGS & LOAN ASSOCIATION OF CLEVELAND",
-   "defendant": "ARTHUR P STONE",
-   "attorney": "CARLISLE LAW",
-   "sale_date": "2026-12-02",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289208",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003433"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-10-23"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-12-02"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289209",
-   "status": "SCHEDULED",
-   "case_number": "26CV000919",
-   "parcel_id": "02-02-029-108-001",
-   "address": "1111 HILLSDALE AVENUE",
-   "city": "Lorain",
-   "zip": "44052",
-   "appraised_value": 168000.0,
-   "opening_bid": 112000.0,
-   "deposit": null,
-   "plaintiff": "NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING",
-   "defendant": "MICHAEL A YUHASZ AKA MICHAEL YUHASZ,ET AL.",
-   "attorney": "PADGETT LAW GROUP",
-   "sale_date": "2026-12-02",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289209",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003438"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-09-25"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-11-04"
-    },
-    {
-     "status": "Rescheduled",
-     "date": "2026-12-09"
-    }
-   ],
-   "times_postponed": 1,
-   "upset_amount": null,
-   "auction_id": "2234289187",
-   "status": "RESCHEDULED",
-   "case_number": "25CV218098",
-   "parcel_id": "02-02-013-108-018",
-   "address": "2708 WEST 40TH STREET",
-   "city": "Lorain",
-   "zip": "44053",
-   "appraised_value": 174000.0,
-   "opening_bid": 116000.0,
-   "deposit": null,
-   "plaintiff": "PENNYMAC LOAN SERVICES LLC",
-   "defendant": "KENNY P LEETCH, ET AL.",
-   "attorney": "REISENFELD & ASSOCIATES LPA LLC",
-   "sale_date": "2026-12-09",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289187",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003037"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-09-04"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-10-14"
-    },
-    {
-     "status": "Rescheduled",
-     "date": "2026-12-16"
-    }
-   ],
-   "times_postponed": 1,
-   "upset_amount": null,
-   "auction_id": "2234289170",
-   "status": "RESCHEDULED",
-   "case_number": "26CV000598",
-   "parcel_id": "06-24-026-107-029",
-   "address": "815 OAKWOOD DRIVE",
-   "city": "Elyria",
-   "zip": "44035",
-   "appraised_value": 144000.0,
-   "opening_bid": 96000.0,
-   "deposit": null,
-   "plaintiff": "BANK UNITED N.A.",
-   "defendant": "CLIFFORD E HEMLINGER",
-   "attorney": "LENDER LEGAL PLLC",
-   "sale_date": "2026-12-16",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289170",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26002782"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-10-09"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2026-11-18"
-    },
-    {
-     "status": "Rescheduled",
-     "date": "2027-01-06"
-    }
-   ],
-   "times_postponed": 1,
-   "upset_amount": null,
-   "auction_id": "2234289194",
-   "status": "RESCHEDULED",
-   "case_number": "25CV217984",
-   "parcel_id": "02-01-003-205-003",
-   "address": "719 WEST 30TH STREET",
-   "city": "Lorain",
-   "zip": "44052",
-   "appraised_value": 96000.0,
-   "opening_bid": 64000.0,
-   "deposit": null,
-   "plaintiff": "U.S. BANK NATIONAL ASSOCIATION",
-   "defendant": "UNKNOWN SPOUSE, IF ANY, OF CLARA QUIJANO, ET AL.",
-   "attorney": "REISENFELD & ASSOCIATES LPA LLC",
-   "sale_date": "2027-01-06",
-   "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289194",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26003247"
-  },
-  {
-   "county": "lorain",
-   "state": "ohio",
-   "status_history": [
-    {
-     "status": "Appraised",
-     "date": "2026-12-04"
-    },
-    {
-     "status": "Scheduled",
-     "date": "2027-01-13"
-    }
-   ],
-   "times_postponed": 0,
-   "upset_amount": null,
-   "auction_id": "2234289031",
-   "status": "SCHEDULED",
-   "case_number": "25CV218431",
-   "parcel_id": "02-02-026-109-010",
-   "address": "1315 WEST 6TH STREET",
-   "city": "Lorain",
-   "zip": "44052",
-   "appraised_value": 0.0,
-   "opening_bid": 0.0,
-   "deposit": null,
-   "plaintiff": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TO U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR RESIDENTIAL ASSET SECURITIES CORPORATION, HOME EQUITY MORTGAGE ASSET-BACKED PASS-THROUGH CERTIFICATES, SERIES 2006-KS9",
-   "defendant": "SHELBY L HARPER, ET AL.",
-   "attorney": "CLUNK, HOOSE Co., LPA",
+   "plaintiff": "WELLS FARGO BANK, NA",
+   "defendant": "JOSEPH CAIN ET AL",
+   "attorney": "ROBERTSON, ANSCHUTZ, SCHNEID CRANE & PARTNERS PLLC",
    "sale_date": "2027-01-13",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289031",
-   "as_of": "2026-11-08T06:12-05:00",
-   "sheriff_number": "26000103"
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493633",
+   "as_of": "2026-11-11T06:05-05:00",
+   "sheriff_number": "26001972"
   },
   {
    "county": "lorain",
@@ -2102,7 +1078,7 @@
    ],
    "times_postponed": 1,
    "upset_amount": null,
-   "auction_id": "2234289192",
+   "auction_id": "2239493700",
    "status": "RESCHEDULED",
    "case_number": "25CV218893",
    "parcel_id": "05-00-043-104-014",
@@ -2117,8 +1093,8 @@
    "attorney": "BROCK & SCOTT PLLC",
    "sale_date": "2027-01-13",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289192",
-   "as_of": "2026-11-08T06:12-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493700",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003066"
   },
   {
@@ -2136,7 +1112,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234289210",
+   "auction_id": "2239493718",
    "status": "SCHEDULED",
    "case_number": "26CV001025",
    "parcel_id": "09-00-078-000-014",
@@ -2151,8 +1127,8 @@
    "attorney": "LENDER LEGAL PLLC",
    "sale_date": "2027-01-13",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289210",
-   "as_of": "2026-11-08T06:12-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493718",
+   "as_of": "2026-11-11T06:05-05:00",
    "sheriff_number": "26003639"
   },
   {
@@ -2170,7 +1146,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234289211",
+   "auction_id": "2239493719",
    "status": "SCHEDULED",
    "case_number": "26CV001713",
    "parcel_id": "03-00-106-113-003",
@@ -2185,8 +1161,8 @@
    "attorney": "LOGS LEGAL GROUP LLP",
    "sale_date": "2027-01-13",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289211",
-   "as_of": "2026-11-08T06:12-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493719",
+   "as_of": "2026-11-11T06:06-05:00",
    "sheriff_number": "26003640"
   },
   {
@@ -2204,7 +1180,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234289212",
+   "auction_id": "2239493720",
    "status": "SCHEDULED",
    "case_number": "25CV215167",
    "parcel_id": "06-25-060-000-004",
@@ -2219,8 +1195,8 @@
    "attorney": "CARLISLE LAW",
    "sale_date": "2027-01-13",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289212",
-   "as_of": "2026-11-08T06:13-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493720",
+   "as_of": "2026-11-11T06:06-05:00",
    "sheriff_number": "26003641"
   },
   {
@@ -2238,7 +1214,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234289213",
+   "auction_id": "2239493721",
    "status": "SCHEDULED",
    "case_number": "26CV000703",
    "parcel_id": "02-02-026-116-007",
@@ -2253,8 +1229,8 @@
    "attorney": "THE MANLEY LAW FIRM LLC",
    "sale_date": "2027-01-13",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289213",
-   "as_of": "2026-11-08T06:13-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493721",
+   "as_of": "2026-11-11T06:06-05:00",
    "sheriff_number": "26003676"
   },
   {
@@ -2272,7 +1248,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234289214",
+   "auction_id": "2239493722",
    "status": "SCHEDULED",
    "case_number": "25CV218936",
    "parcel_id": "03-00-081-114-018",
@@ -2287,8 +1263,8 @@
    "attorney": "CRAWFORD LAW LLC",
    "sale_date": "2027-01-13",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289214",
-   "as_of": "2026-11-08T06:13-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493722",
+   "as_of": "2026-11-11T06:06-05:00",
    "sheriff_number": "26003681"
   },
   {
@@ -2306,7 +1282,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234289215",
+   "auction_id": "2239493723",
    "status": "SCHEDULED",
    "case_number": "26CV000338",
    "parcel_id": "03-00-006-000-145",
@@ -2321,8 +1297,8 @@
    "attorney": "SCHNEIDERMAN & SHERMAN, P.C.",
    "sale_date": "2027-01-13",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289215",
-   "as_of": "2026-11-08T06:13-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493723",
+   "as_of": "2026-11-11T06:06-05:00",
    "sheriff_number": "26003682"
   },
   {
@@ -2340,7 +1316,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234289216",
+   "auction_id": "2239493724",
    "status": "SCHEDULED",
    "case_number": "26CV218824",
    "parcel_id": "02-01-003-217-004",
@@ -2355,8 +1331,8 @@
    "attorney": "LOGS LEGAL GROUP LLP",
    "sale_date": "2027-01-13",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289216",
-   "as_of": "2026-11-08T06:13-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493724",
+   "as_of": "2026-11-11T06:06-05:00",
    "sheriff_number": "26003698"
   },
   {
@@ -2374,7 +1350,7 @@
    ],
    "times_postponed": 0,
    "upset_amount": null,
-   "auction_id": "2234289217",
+   "auction_id": "2239493725",
    "status": "SCHEDULED",
    "case_number": "26CV000415",
    "parcel_id": "02-01-006-189-016",
@@ -2389,9 +1365,43 @@
    "attorney": "PADGETT LAW GROUP",
    "sale_date": "2027-01-13",
    "sale_type": "Foreclosure",
-   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2234289217",
-   "as_of": "2026-11-08T06:13-05:00",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493725",
+   "as_of": "2026-11-11T06:06-05:00",
    "sheriff_number": "26003700"
+  },
+  {
+   "county": "lorain",
+   "state": "ohio",
+   "status_history": [
+    {
+     "status": "Appraised",
+     "date": "2026-12-04"
+    },
+    {
+     "status": "Scheduled",
+     "date": "2027-01-13"
+    }
+   ],
+   "times_postponed": 0,
+   "upset_amount": null,
+   "auction_id": "2239493726",
+   "status": "SCHEDULED",
+   "case_number": "26CV001211",
+   "parcel_id": "20-03-003-000-017",
+   "address": "50751 STEWART RD",
+   "city": "New London",
+   "zip": "44851",
+   "appraised_value": 0.0,
+   "opening_bid": 0.0,
+   "deposit": null,
+   "plaintiff": "WILMINGTON SAVINGS FUND SOCIETY FSB AS OWNER TRUSTEE OF CFS15 GRANTOR TRUST",
+   "defendant": "BEVERLY FOOTE ET AL",
+   "attorney": "LENDER LEGAL PLLC",
+   "sale_date": "2027-01-13",
+   "sale_type": "Foreclosure",
+   "source_url": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2239493726",
+   "as_of": "2026-11-11T06:06-05:00",
+   "sheriff_number": "26003724"
   }
  ]
 }

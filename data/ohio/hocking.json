@@ -1,7 +1,7 @@
 {
  "state": "ohio",
  "county": "hocking",
- "as_of": "2026-11-08T06:03-05:00",
+ "as_of": "2026-11-11T06:00-05:00",
  "source": "https://www.hockingsheriff.org/sheriffsales/",
  "count": 3,
  "items": [
@@ -27,7 +27,7 @@
    "sale_date": "2026-11-20",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.hockingsheriff.org/sheriffsales/",
-   "as_of": "2026-11-08T06:03-05:00",
+   "as_of": "2026-11-11T06:00-05:00",
    "next_sale_date": null
   },
   {
@@ -52,7 +52,7 @@
    "sale_date": "2026-12-04",
    "sale_type": "Foreclosure (online)",
    "source_url": "https://www.hockingsheriff.org/sheriffsales/",
-   "as_of": "2026-11-08T06:03-05:00",
+   "as_of": "2026-11-11T06:00-05:00",
    "next_sale_date": "2026-12-18"
   },
   {
@@ -77,7 +77,7 @@
    "sale_date": "2026-12-04",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.hockingsheriff.org/sheriffsales/",
-   "as_of": "2026-11-08T06:03-05:00",
+   "as_of": "2026-11-11T06:00-05:00",
    "next_sale_date": "2026-12-18"
   }
  ]
