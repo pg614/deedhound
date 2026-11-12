@@ -1,7 +1,7 @@
 {
  "state": "ohio",
  "county": "trumbull",
- "as_of": "2026-11-11T06:01-05:00",
+ "as_of": "2026-11-12T06:04-05:00",
  "source": "https://www.co.trumbull.oh.us/Sheriff/November%2019,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
  "count": 4,
  "items": [
@@ -27,7 +27,7 @@
    "sale_date": "2026-11-19",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.co.trumbull.oh.us/Sheriff/November%2019,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
-   "as_of": "2026-11-11T06:01-05:00"
+   "as_of": "2026-11-12T06:04-05:00"
   },
   {
    "county": "trumbull",
@@ -51,7 +51,7 @@
    "sale_date": "2026-11-19",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.co.trumbull.oh.us/Sheriff/November%2019,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
-   "as_of": "2026-11-11T06:01-05:00"
+   "as_of": "2026-11-12T06:04-05:00"
   },
   {
    "county": "trumbull",
@@ -75,7 +75,7 @@
    "sale_date": "2026-11-19",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.co.trumbull.oh.us/Sheriff/November%2019,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
-   "as_of": "2026-11-11T06:01-05:00"
+   "as_of": "2026-11-12T06:04-05:00"
   },
   {
    "county": "trumbull",
@@ -99,7 +99,7 @@
    "sale_date": "2026-11-19",
    "sale_type": "Tax foreclosure (in person)",
    "source_url": "https://www.co.trumbull.oh.us/Sheriff/November%2019,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
-   "as_of": "2026-11-11T06:01-05:00"
+   "as_of": "2026-11-12T06:04-05:00"
   }
  ]
 }
